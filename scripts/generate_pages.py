@@ -1,0 +1,447 @@
+#!/usr/bin/env python3
+"""Generate README article table and GitHub Pages interactive digest."""
+
+from __future__ import annotations
+
+import json
+import logging
+import re
+import shutil
+from pathlib import Path
+from typing import Any
+
+import yaml
+
+ROOT = Path(__file__).resolve().parent.parent
+CONFIG_PATH = ROOT / "config" / "interests.yaml"
+ARTICLES_PATH = ROOT / "data" / "articles.json"
+README_PATH = ROOT / "README.md"
+DOCS_DIR = ROOT / "docs"
+DOCS_ARTICLES_PATH = DOCS_DIR / "articles.json"
+DOCS_HTML_PATH = DOCS_DIR / "index.html"
+
+TABLE_START = "<!-- ARTICLES_TABLE_START -->"
+TABLE_END = "<!-- ARTICLES_TABLE_END -->"
+UPDATED_START = "<!-- LAST_UPDATED_START -->"
+UPDATED_END = "<!-- LAST_UPDATED_END -->"
+
+logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
+log = logging.getLogger("generate_pages")
+
+
+def load_config() -> dict[str, Any]:
+    with CONFIG_PATH.open(encoding="utf-8") as f:
+        return yaml.safe_load(f) or {}
+
+
+def load_articles() -> dict[str, Any]:
+    with ARTICLES_PATH.open(encoding="utf-8") as f:
+        return json.load(f)
+
+
+def md_escape(text: str) -> str:
+    return text.replace("|", "\\|").replace("\n", " ").strip()
+
+
+def truncate(text: str, n: int = 120) -> str:
+    text = text.strip()
+    if len(text) <= n:
+        return text
+    return text[: n - 1].rstrip() + "…"
+
+
+def build_table_markdown(articles: list[dict[str, Any]], limit: int) -> str:
+    lines = [
+        "| Title | Topic | Source | Published | Read |",
+        "|-------|-------|--------|-----------|------|",
+    ]
+    if not articles:
+        lines.append(
+            "| *No articles yet — run `python scripts/update.py`* | | | | |"
+        )
+        return "\n".join(lines)
+
+    for article in articles[:limit]:
+        title = md_escape(article.get("title") or "Untitled")
+        topic = md_escape(article.get("topic") or "—")
+        source = md_escape(article.get("source") or "—")
+        published = md_escape(article.get("publishedAt") or "—")
+        url = article.get("url") or "#"
+        lines.append(
+            f"| {title} | {topic} | {source} | {published} | [Read]({url}) |"
+        )
+    return "\n".join(lines)
+
+
+def replace_marked_region(text: str, start: str, end: str, body: str) -> str:
+    pattern = re.compile(
+        re.escape(start) + r".*?" + re.escape(end),
+        flags=re.DOTALL,
+    )
+    replacement = f"{start}\n{body}\n{end}"
+    if not pattern.search(text):
+        raise ValueError(f"Missing markers {start} / {end} in README.md")
+    return pattern.sub(replacement, text, count=1)
+
+
+def update_readme(data: dict[str, Any], readme_limit: int) -> None:
+    articles = data.get("articles") or []
+    last_updated = data.get("lastUpdated") or "never"
+    interests = data.get("interests") or []
+    topics_label = ", ".join(interests[:4])
+    if len(interests) > 4:
+        topics_label += f" +{len(interests) - 4} more"
+
+    table = build_table_markdown(articles, readme_limit)
+    updated_line = (
+        f"**Last updated:** {last_updated} · "
+        f"**{len(articles)} articles** · "
+        f"**Topics:** {topics_label or '—'} · "
+        f"**[View interactive digest](./docs/index.html)**"
+    )
+
+    content = README_PATH.read_text(encoding="utf-8")
+    content = replace_marked_region(content, UPDATED_START, UPDATED_END, updated_line)
+    content = replace_marked_region(content, TABLE_START, TABLE_END, table)
+    README_PATH.write_text(content, encoding="utf-8")
+    log.info("Updated README.md (%d rows shown)", min(len(articles), readme_limit))
+
+
+INTERACTIVE_HTML = r"""<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Reading Digest — Interesting Articles</title>
+  <style>
+    :root {
+      --bg: #0c0f14;
+      --panel: #151b26;
+      --border: #2a3444;
+      --text: #e8edf5;
+      --muted: #8b97ab;
+      --accent: #7c6cff;
+      --accent-hover: #9d91ff;
+      --row-hover: #1c2433;
+      --input-bg: #0f141c;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.55;
+      min-height: 100vh;
+    }
+    header {
+      padding: 2rem 1.5rem 1.25rem;
+      border-bottom: 1px solid var(--border);
+      background: linear-gradient(180deg, #121826 0%, var(--bg) 100%);
+    }
+    h1 { margin: 0 0 0.35rem; font-size: 1.65rem; font-weight: 700; letter-spacing: -0.02em; }
+    .subtitle { color: var(--muted); margin: 0; font-size: 0.95rem; }
+    .meta { color: var(--muted); font-size: 0.88rem; margin-top: 0.75rem; }
+    .meta a { color: var(--accent-hover); text-decoration: none; }
+    .meta a:hover { text-decoration: underline; }
+    .controls {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+      padding: 1rem 1.5rem;
+      background: var(--panel);
+      border-bottom: 1px solid var(--border);
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+    .controls input[type="search"],
+    .controls select {
+      background: var(--input-bg);
+      color: var(--text);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 0.6rem 0.8rem;
+      font-size: 0.95rem;
+      min-width: 180px;
+    }
+    .controls input[type="search"] { flex: 1; min-width: 220px; }
+    .count {
+      margin-left: auto;
+      color: var(--muted);
+      font-size: 0.9rem;
+      align-self: center;
+    }
+    .cards { padding: 1rem 1.25rem 2.5rem; display: grid; gap: 0.85rem; }
+    .card {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 1rem 1.1rem;
+      transition: border-color 0.15s, transform 0.15s;
+    }
+    .card:hover {
+      border-color: #3d4d66;
+      transform: translateY(-1px);
+    }
+    .card h2 {
+      margin: 0 0 0.45rem;
+      font-size: 1.05rem;
+      line-height: 1.35;
+    }
+    .card h2 a {
+      color: var(--text);
+      text-decoration: none;
+    }
+    .card h2 a:hover { color: var(--accent-hover); }
+    .card .summary {
+      color: var(--muted);
+      font-size: 0.92rem;
+      margin: 0 0 0.65rem;
+    }
+    .meta-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.45rem;
+      align-items: center;
+      font-size: 0.82rem;
+    }
+    .pill {
+      display: inline-block;
+      background: #1f2a3d;
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      padding: 0.15rem 0.6rem;
+      color: var(--muted);
+    }
+    .pill.topic { color: #c4b8ff; border-color: #3d3566; background: #1a1730; }
+    .pill.score { color: #f5c97a; border-color: #5c4a2a; background: #221c12; }
+    .read-link {
+      margin-left: auto;
+      color: var(--accent-hover);
+      font-weight: 600;
+      text-decoration: none;
+      white-space: nowrap;
+    }
+    .read-link:hover { text-decoration: underline; }
+    .empty {
+      text-align: center;
+      color: var(--muted);
+      padding: 3rem 1rem;
+    }
+    .sort-bar {
+      display: flex;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+      padding: 0 1.25rem 0.5rem;
+    }
+    .sort-bar button {
+      background: var(--input-bg);
+      color: var(--muted);
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      padding: 0.35rem 0.75rem;
+      font-size: 0.82rem;
+      cursor: pointer;
+    }
+    .sort-bar button.active {
+      color: var(--text);
+      border-color: var(--accent);
+      background: #1a1730;
+    }
+    @media (max-width: 700px) {
+      .count { margin-left: 0; width: 100%; }
+      .read-link { margin-left: 0; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Interesting Reads</h1>
+    <p class="subtitle">A Refind-style digest of articles worth your time.</p>
+    <p class="meta" id="headerMeta">Loading…</p>
+  </header>
+
+  <div class="controls">
+    <input type="search" id="search" placeholder="Search titles and summaries…" />
+    <select id="topicFilter" aria-label="Filter by topic">
+      <option value="">All topics</option>
+    </select>
+    <select id="sourceFilter" aria-label="Filter by source">
+      <option value="">All sources</option>
+    </select>
+    <span class="count" id="countLabel"></span>
+  </div>
+
+  <div class="sort-bar" id="sortBar">
+    <button data-key="score" class="active">Top scored</button>
+    <button data-key="publishedAt">Newest</button>
+    <button data-key="title">Title</button>
+    <button data-key="source">Source</button>
+  </div>
+
+  <div class="cards" id="cards"></div>
+  <div class="empty" id="empty" hidden>No articles match your filters.</div>
+
+  <script>
+    let articles = [];
+    let sortKey = "score";
+    let sortDir = -1;
+
+    const cards = document.getElementById("cards");
+    const empty = document.getElementById("empty");
+    const search = document.getElementById("search");
+    const topicFilter = document.getElementById("topicFilter");
+    const sourceFilter = document.getElementById("sourceFilter");
+    const countLabel = document.getElementById("countLabel");
+    const headerMeta = document.getElementById("headerMeta");
+    const sortBar = document.getElementById("sortBar");
+
+    function escapeHtml(s) {
+      return String(s ?? "")
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;");
+    }
+
+    function filtered() {
+      const q = search.value.trim().toLowerCase();
+      const topic = topicFilter.value;
+      const source = sourceFilter.value;
+      return articles.filter((a) => {
+        if (topic && a.topic !== topic) return false;
+        if (source && a.source !== source) return false;
+        if (!q) return true;
+        const hay = [a.title, a.summary, a.topic, a.source].join(" ").toLowerCase();
+        return hay.includes(q);
+      });
+    }
+
+    function sorted(list) {
+      const key = sortKey;
+      const dir = sortDir;
+      return [...list].sort((a, b) => {
+        if (key === "score") {
+          const av = Number(a.score) || 0;
+          const bv = Number(b.score) || 0;
+          if (av !== bv) return (av - bv) * dir;
+          key = "publishedAt";
+        }
+        const av = (a[key] ?? "").toString().toLowerCase();
+        const bv = (b[key] ?? "").toString().toLowerCase();
+        if (av < bv) return -1 * dir;
+        if (av > bv) return 1 * dir;
+        return 0;
+      });
+    }
+
+    function render() {
+      const rows = sorted(filtered());
+      countLabel.textContent = `${rows.length} of ${articles.length} articles`;
+
+      sortBar.querySelectorAll("button").forEach((btn) => {
+        btn.classList.toggle("active", btn.dataset.key === sortKey);
+      });
+
+      if (!rows.length) {
+        cards.innerHTML = "";
+        empty.hidden = false;
+        return;
+      }
+      empty.hidden = true;
+      cards.innerHTML = rows.map((a) => `
+        <article class="card">
+          <h2><a href="${escapeHtml(a.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(a.title)}</a></h2>
+          ${a.summary ? `<p class="summary">${escapeHtml(a.summary)}</p>` : ""}
+          <div class="meta-row">
+            <span class="pill topic">${escapeHtml(a.topic || "—")}</span>
+            <span class="pill">${escapeHtml(a.source || "—")}</span>
+            ${a.publishedAt ? `<span class="pill">${escapeHtml(a.publishedAt)}</span>` : ""}
+            ${a.score ? `<span class="pill score">★ ${escapeHtml(a.score)}</span>` : ""}
+            <a class="read-link" href="${escapeHtml(a.url)}" target="_blank" rel="noopener noreferrer">Read ↗</a>
+          </div>
+        </article>
+      `).join("");
+    }
+
+    function populateSelect(select, values) {
+      for (const v of values) {
+        const opt = document.createElement("option");
+        opt.value = v;
+        opt.textContent = v;
+        select.appendChild(opt);
+      }
+    }
+
+    search.addEventListener("input", render);
+    topicFilter.addEventListener("change", render);
+    sourceFilter.addEventListener("change", render);
+
+    sortBar.querySelectorAll("button").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        const key = btn.dataset.key;
+        if (sortKey === key) sortDir *= -1;
+        else {
+          sortKey = key;
+          sortDir = key === "title" || key === "source" ? 1 : -1;
+        }
+        render();
+      });
+    });
+
+    fetch("./articles.json")
+      .then((r) => {
+        if (!r.ok) throw new Error("Failed to load articles.json");
+        return r.json();
+      })
+      .then((data) => {
+        articles = data.articles || [];
+        const interests = (data.interests || []).join(", ");
+        const updated = data.lastUpdated || "never";
+        headerMeta.innerHTML =
+          `Topics: <strong>${escapeHtml(interests || "—")}</strong> · ` +
+          `Updated: <strong>${escapeHtml(updated)}</strong> · ` +
+          `<a href="../README.md">Back to README</a>`;
+        populateSelect(topicFilter, [...new Set(articles.map((a) => a.topic).filter(Boolean))].sort());
+        populateSelect(sourceFilter, [...new Set(articles.map((a) => a.source).filter(Boolean))].sort());
+        render();
+      })
+      .catch((err) => {
+        headerMeta.textContent = "Could not load articles.json — run python scripts/update.py";
+        empty.hidden = false;
+        empty.textContent = String(err);
+      });
+  </script>
+</body>
+</html>
+"""
+
+
+def write_docs(data: dict[str, Any]) -> None:
+    DOCS_DIR.mkdir(parents=True, exist_ok=True)
+    shutil.copyfile(ARTICLES_PATH, DOCS_ARTICLES_PATH)
+    DOCS_HTML_PATH.write_text(INTERACTIVE_HTML, encoding="utf-8")
+    log.info("Wrote %s and %s", DOCS_ARTICLES_PATH, DOCS_HTML_PATH)
+
+
+def generate(data: dict[str, Any] | None = None) -> None:
+    config = load_config()
+    readme_limit = int(config.get("readmeLimit") or 30)
+    data = data or load_articles()
+    write_docs(data)
+    if README_PATH.exists():
+        try:
+            update_readme(data, readme_limit)
+        except ValueError as exc:
+            log.warning("%s — skipping README update", exc)
+    else:
+        log.warning("README.md missing — skipping update")
+
+
+def main() -> None:
+    generate()
+
+
+if __name__ == "__main__":
+    main()

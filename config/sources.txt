@@ -1,0 +1,26 @@
+# Quality publications for site-restricted discovery (Refind-style sources)
+# One domain per line; lines starting with # are ignored
+simonwillison.net
+paulgraham.com
+stratechery.com
+karpathy.github.io
+openai.com
+anthropic.com
+blog.google
+engineering.fb.com
+netflixtechblog.com
+martinfowler.com
+jvns.ca
+danluu.com
+kottke.org
+arstechnica.com
+theverge.com
+technologyreview.com
+huggingface.co
+lilianweng.github.io
+gwern.net
+waitbutwhy.com
+fs.blog
+nplusonemag.com
+aeon.co
+longreads.com
