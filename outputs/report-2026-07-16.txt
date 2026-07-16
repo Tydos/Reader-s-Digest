@@ -1,6 +1,7 @@
 DAILY AI NEWS REPORT
 Date: Thursday, July 16, 2026
 Coverage Period: Last 24 hours (July 15–16, 2026)
+Generated: 2026-07-16T19:00 UTC
 
 ================================================================================
 HEADLINE SUMMARY
@@ -13,8 +14,11 @@ HEADLINE SUMMARY
 5. Meta Oversight Board finds AI models favor criticism of democratic leaders
 6. EU orders Google to open Android and search data to rival AI companies
 7. Intel and Google Cloud expand Gemini Enterprise partnership
-8. Hawaii enacts AI safety laws protecting children from chatbots and deepfakes
-9. Major publishers sue Google over Gemini training on copyrighted works
+8. Microsoft coaches sales teams to compete against OpenAI and Anthropic
+9. Japan plans $2.4B robotics AI built on 27,500 Nvidia Rubin chips
+10. Gemini 3.5 Pro reportedly misses third launch deadline amid reliability issues
+11. Hawaii enacts AI safety laws protecting children from chatbots and deepfakes
+12. Major publishers sue Google over Gemini training on copyrighted works
 
 ================================================================================
 DETAILED COVERAGE
@@ -29,7 +33,7 @@ scratch and the largest U.S. open-weights model to date. Key specifications:
   - 975 billion total parameters (MoE architecture), 41 billion active
   - Multimodal: native text, image, and audio inputs; 1 million token context
   - Trained on 45 trillion tokens across text, images, audio, and video
-  - Weights available on Hugging Face (BF16 and NVFP4 quantized variants)
+  - Apache 2.0 license; weights available on Hugging Face (BF16 and NVFP4 variants)
   - API access via Tinker, TogetherAI, Fireworks, Modal, Databricks, and Baseten
   - Day-zero support in transformers, vLLM, SGLang, and llama.cpp
 
@@ -41,9 +45,9 @@ Ultra (38). A smaller variant, Inkling-Small (276B params, 12B active), is in
 preview with weights expected after testing completes.
 
 Sources:
+  - https://thinkingmachines.ai/news/introducing-inkling/
   - https://www.theregister.com/ai-and-ml/2026/07/16/former-openai-cto-does-what-altman-wont-releases-a-frontier-ai-model-thats-actually-open/5272177
-  - https://huggingface.co/blog/thinkingmachines-inkling
-  - https://artificialanalysis.ai/articles/thinking-machines-has-released-inkling-the-new-leading-u-s-open-weights-model
+  - https://venturebeat.com/technology/thinking-machines-open-sources-first-multimodal-language-model-inkling-focused-on-low-cost-and-resistance-to-censorship
 
 OPENAI DETAILS GPT-RED (July 15)
 OpenAI published details on GPT-Red, an internal automated red-teaming model
@@ -67,6 +71,19 @@ Sources:
   - https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/
   - https://siliconangle.com/2026/07/15/openai-details-gpt-red-ai-attacks-models-find-flaws/
 
+GEMINI 3.5 PRO DELAYS CONTINUE (July 16)
+Google DeepMind's rebuilt Gemini 3.5 Pro has reportedly missed its third
+consecutive launch target. Originally expected in June and then July 17, the
+model remains in limited enterprise preview on Vertex AI. Reporting cites
+hallucination rates and inconsistent real-world performance as blockers, with
+the model failing to match GPT-5.6 on key benchmarks. Google has not officially
+confirmed any launch date. Speculation suggests Google may release Gemini 3.6
+Flash as a stopgap while Pro matures, or skip the 3.5 Pro branding entirely.
+
+Sources:
+  - https://www.techtimes.com/articles/320736/20260716/rebuilt-gemini-35-pro-misses-third-deadline-google-eyes-stopgap-release.htm
+  - https://blog.imseankim.com/gemini-3-5-pro-preview-2m-context-deep-think-ga-delay-2026/
+
 --- REGULATION & POLICY ---
 
 GERMANY: AI SEARCH AND CHATBOTS UNDER MEDIA LAW (July 16)
@@ -87,7 +104,7 @@ Sources:
   - https://the-decoder.com/germany-puts-googles-ai-overviews-and-perplexity-under-media-law-in-first-of-its-kind-ruling/
   - https://www.die-medienanstalten.de/presse/pressemitteilungen/zak-bescheide-ki-angebote-google-perplexity/
 
-CHINA: AI COMPANION REGULATIONS TAKE EFFECT (July 15)
+CHINA: AI COMPANION REGULATIONS TAKE EFFECT (July 15–16)
 China's Interim Measures for the Administration of AI Anthropomorphic
 Interactive Services took effect, the first major jurisdiction to regulate
 emotionally interactive AI companions:
@@ -104,6 +121,7 @@ agent and companion features ahead of the deadline. Users reported losing access
 to personalized chat histories, prompting emotional farewells on social media.
 
 Sources:
+  - https://hongkongfp.com/2026/07/16/like-my-lover-chinese-users-bid-farewell-to-ai-companions-as-new-regulations-kick-in/
   - https://www.chinadaily.com.cn/a/202607/16/WS6a58480fa310986e2b465980.html
   - https://www.channelnewsasia.com/east-asia/china-ai-companions-rules-curb-emotional-dependency-6257581
 
@@ -135,7 +153,52 @@ Governor Josh Green signed two bills establishing Hawaii's first AI guardrails:
 Sources:
   - https://www.staradvertiser.com/2026/07/16/hawaii-news/hawaii-enacts-ai-laws-to-protect-children/
 
---- INDUSTRY & RESEARCH ---
+--- INDUSTRY & CORPORATE ---
+
+MICROSOFT COACHES SALES TEAMS AGAINST OPENAI AND ANTHROPIC (July 16)
+At an internal FY27 strategy meeting, Microsoft executives instructed the sales
+force to aggressively position Copilot against OpenAI, Google, and Anthropic —
+the same companies whose models power parts of Microsoft's own products:
+
+  - EVP Jay Parikh: "Everyone else is selling parts — we're selling the full
+    end-to-end system"
+  - EVP Jacob Andreou compared Copilot vs. Claude in Office, citing speed,
+    accuracy, and security integration advantages
+  - CEO Satya Nadella emphasized AI cost management; cited Unilever saving
+    ~$300M by switching to lower-cost Microsoft models
+  - Microsoft has begun replacing OpenAI and Anthropic models in Word and Excel
+    with in-house alternatives
+
+The shift follows April's partnership amendment dropping OpenAI exclusivity,
+freeing both companies to compete directly in enterprise AI.
+
+Sources:
+  - https://thenextweb.com/news/microsoft-sales-playbook-fy27-openai-anthropic
+  - https://www.aichatdaily.com/ai-business/microsoft-coaches-sales-team-pitch-against-openai-anthropic
+  - https://www.outlookbusiness.com/corporate/microsoft-arms-sales-teams-for-ai-fight-against-openai-anthropic
+
+INTEL & GOOGLE CLOUD EXPAND AI PARTNERSHIP (July 16)
+Intel and Google Cloud announced an expanded collaboration deploying Gemini
+Enterprise across Intel's global workforce and semiconductor R&D:
+
+  - Agentic coding assistance and engineering automation via Gemini reasoning
+  - Gemini Enterprise Agent Platform for line-of-business agent development
+  - Google Cloud C4 and N4 instances augmenting on-premises HPC for chip design
+  - Covers engineering, supply chain, and corporate operations
+
+Sources:
+  - https://newsroom.intel.com/artificial-intelligence/intel-google-cloud-announce-collaboration-to-accelerate-intel-ai-enabled-enterprise-transformation
+  - https://siliconangle.com/2026/07/16/intel-says-going-lean-googles-gemini-help-automate-accelerate-silicon-development/
+
+JAPAN: $2.4B ROBOTICS AI ON NVIDIA RUBIN CHIPS (July 16)
+Japan's newly established Noetra agency announced plans to purchase 27,500
+next-generation Nvidia Rubin chips to build a homegrown foundational AI model
+for robotics. The ¥387.3 billion ($2.4B) government-funded initiative includes
+a ~140 MW data center slated to go online in June 2028, with participation from
+Sony, SoftBank, Toyota-backed Preferred Networks, and NEC.
+
+Sources:
+  - https://www.japantimes.co.jp/business/2026/07/16/japan-nvidia-rubin-chips-robots/
 
 META OVERSIGHT BOARD: AI MODELS SHOW SPEECH BIAS (July 16)
 A Meta Oversight Board study tested 10 commercial LLMs from six providers
@@ -153,18 +216,6 @@ requests across 10 jurisdictions:
 Sources:
   - https://www.oversightboard.com/news/an-export-we-dont-want-how-ai-models-may-be-globalizing-restrictions-on-our-speech/
   - https://www.euronews.com/next/2026/07/16/ai-chatbots-more-likely-to-criticise-western-leaders-than-authoritarian-ones-study-finds
-
-INTEL & GOOGLE CLOUD EXPAND AI PARTNERSHIP (July 16)
-Intel and Google Cloud announced an expanded collaboration deploying Gemini
-Enterprise across Intel's global workforce and semiconductor R&D:
-
-  - Agentic coding assistance and engineering automation via Gemini reasoning
-  - Gemini Enterprise Agent Platform for line-of-business agent development
-  - Google Cloud C4 and N4 instances augmenting on-premises HPC for chip design
-  - Covers engineering, supply chain, and corporate operations
-
-Sources:
-  - https://newsroom.intel.com/artificial-intelligence/intel-google-cloud-announce-collaboration-to-accelerate-intel-ai-enabled-enterprise-transformation
 
 PUBLISHERS SUE GOOGLE OVER GEMINI TRAINING (July 15)
 Hachette Book Group, Cengage Learning, Elsevier, and author Scott Turow filed a
@@ -194,10 +245,13 @@ distinct AI frameworks this week — from media law and companion-bot restrictio
 to antitrust interoperability mandates — signaling accelerating global
 regulation without harmonization.
 
-ENTERPRISE AI ADOPTION: Intel's Gemini deployment and Inkling's Tinker platform
-reflect growing emphasis on agentic workflows and domain-adaptable base models
-over single-purpose chatbots.
+ENTERPRISE AI REALIGNMENT: Microsoft pivoting to compete with its own model
+suppliers, Intel deploying Gemini for chip design, and Inkling's Tinker platform
+reflect a shift toward vertically integrated, agentic AI workflows over
+single-purpose chatbots.
+
+HARDWARE ARMS RACE: Japan's Rubin chip order underscores national strategies
+to secure next-generation AI compute for domain-specific models like robotics.
 
 ================================================================================
 END OF REPORT
-Generated: 2026-07-16
