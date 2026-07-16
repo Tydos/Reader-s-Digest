@@ -1,6 +1,4 @@
-# Refind-style reading digest configuration
-
-# Topics to discover interesting articles for
+# Topics to discover articles for
 interests:
   - artificial intelligence
   - software engineering
@@ -9,22 +7,15 @@ interests:
   - developer tools
   - product design
 
-# Time window for web searches: day | week | month
+# Time window for searches: day | week | month
 timeRange: week
 
-# Pull trending stories from Hacker News (Algolia API)
+# Hacker News (Algolia API)
 useHackerNews: true
 hnMinPoints: 30
 maxPerTopic: 12
 
-# Max articles per publication domain per topic (site-restricted search)
+# Site-restricted web search
 maxPerSource: 6
-# How many publication domains to query per topic (keeps runs fast)
 maxSourcesPerTopic: 6
 delaySeconds: 1.0
-
-# Drop articles older than this many days
-retentionDays: 14
-
-# Max rows in README summary table
-readmeLimit: 30

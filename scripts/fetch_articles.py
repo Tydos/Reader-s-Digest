@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
-"""Fetch interesting articles from the web (Refind-style digest)."""
+"""Fetch articles from Hacker News and configured web sources."""
 
 from __future__ import annotations
 
-import hashlib
 import json
 import logging
 import re
@@ -15,7 +14,6 @@ from urllib.parse import urlparse, urlunparse
 
 import requests
 import yaml
-from dateutil import parser as date_parser
 
 try:
     from ddgs import DDGS
@@ -33,7 +31,6 @@ log = logging.getLogger("fetch_articles")
 TIMEMAP = {"day": "d", "week": "w", "month": "m", "d": "d", "w": "w", "m": "m"}
 HN_API = "https://hn.algolia.com/api/v1/search"
 
-# Skip list pages, social, and non-article URLs
 _NOISE_PATH_RE = re.compile(
     r"/(login|signup|subscribe|pricing|about|contact|tag/|tags/|category/|"
     r"categories/|author/|authors/|search|feed|rss|newsletter|podcast|"
@@ -72,17 +69,6 @@ def normalize_url(url: str) -> str:
     return urlunparse((parsed.scheme.lower(), parsed.netloc.lower(), path, "", "", ""))
 
 
-def article_id_for(url: str) -> str:
-    return hashlib.sha1(normalize_url(url).encode("utf-8")).hexdigest()[:16]
-
-
-def domain_from_url(url: str) -> str:
-    host = urlparse(url).netloc.lower()
-    if host.startswith("www."):
-        host = host[4:]
-    return host
-
-
 def looks_like_article(url: str, title: str) -> bool:
     if not url or not title:
         return False
@@ -99,46 +85,23 @@ def looks_like_article(url: str, title: str) -> bool:
     if "aclick" in (parsed.path or ""):
         return False
     parts = [p for p in (parsed.path or "").split("/") if p]
-    # Require article-like depth; allow dated paths (/2026/07/...) or slugs
     if len(parts) < 2 and not parsed.path.endswith(".html"):
         if not re.search(r"/\d{4}/", parsed.path or ""):
             return False
     return True
 
 
-def parse_date(raw: Any) -> str | None:
-    if raw is None:
-        return None
-    try:
-        if isinstance(raw, (int, float)):
-            return datetime.fromtimestamp(raw, tz=timezone.utc).date().isoformat()
-        dt = date_parser.parse(str(raw))
-        return dt.date().isoformat()
-    except (ValueError, TypeError, OverflowError, OSError):
-        return None
+def clean_text(text: str) -> str:
+    text = re.sub(r"<[^>]+>", " ", text or "")
+    text = re.sub(r"\s+", " ", text).strip()
+    return text[:500]
 
 
-def make_article(
-    *,
-    title: str,
-    url: str,
-    topic: str,
-    summary: str,
-    source: str | None,
-    published_at: str | None,
-    fetched_at: str,
-    score: int | None = None,
-) -> dict[str, Any]:
+def make_article(*, title: str, url: str, text: str) -> dict[str, str]:
     return {
-        "id": article_id_for(url),
         "title": title.strip(),
+        "text": clean_text(text),
         "url": url.strip(),
-        "topic": topic,
-        "summary": summary.strip()[:500] if summary else "",
-        "source": source or domain_from_url(url),
-        "publishedAt": published_at,
-        "fetchedAt": fetched_at,
-        "score": score,
     }
 
 
@@ -147,13 +110,12 @@ def fetch_hackernews(
     time_range: str,
     min_points: int,
     max_per_topic: int,
-    fetched_at: str,
-) -> list[dict[str, Any]]:
+) -> list[dict[str, str]]:
     days = {"day": 1, "week": 7, "month": 30, "d": 1, "w": 7, "m": 30}.get(
         time_range, 7
     )
     since = int((datetime.now(timezone.utc) - timedelta(days=days)).timestamp())
-    articles: list[dict[str, Any]] = []
+    articles: list[dict[str, str]] = []
 
     for topic in interests:
         try:
@@ -175,26 +137,16 @@ def fetch_hackernews(
 
         kept = 0
         for hit in hits:
-            url = hit.get("url") or f"https://news.ycombinator.com/item?id={hit.get('objectID')}"
+            url = hit.get("url") or (
+                f"https://news.ycombinator.com/item?id={hit.get('objectID')}"
+            )
             title = hit.get("title") or ""
             if not looks_like_article(url, title):
                 continue
-            published = parse_date(hit.get("created_at_i"))
-            summary = hit.get("story_text") or hit.get("comment_text") or ""
-            if not summary and hit.get("points"):
-                summary = f"{hit['points']} points on Hacker News"
-            articles.append(
-                make_article(
-                    title=title,
-                    url=url,
-                    topic=topic,
-                    summary=summary,
-                    source="news.ycombinator.com",
-                    published_at=published,
-                    fetched_at=fetched_at,
-                    score=hit.get("points"),
-                )
-            )
+            text = hit.get("story_text") or hit.get("comment_text") or ""
+            if not text and hit.get("points"):
+                text = f"{hit['points']} points on Hacker News"
+            articles.append(make_article(title=title, url=url, text=text))
             kept += 1
         log.info("HN %r → %d articles", topic, kept)
 
@@ -207,8 +159,7 @@ def search_topic_on_source(
     source: str,
     time_range: str,
     max_results: int,
-    fetched_at: str,
-) -> list[dict[str, Any]]:
+) -> list[dict[str, str]]:
     query = f'"{topic}" site:{source}'
     timelimit = TIMEMAP.get(time_range, "w")
     try:
@@ -217,25 +168,14 @@ def search_topic_on_source(
         log.warning("Search failed %s on %s: %s", topic, source, exc)
         return []
 
-    articles: list[dict[str, Any]] = []
+    articles: list[dict[str, str]] = []
     for result in results:
         url = result.get("href") or result.get("link") or ""
         title = (result.get("title") or "").strip()
-        body = (result.get("body") or result.get("snippet") or "").strip()
+        text = (result.get("body") or result.get("snippet") or "").strip()
         if not looks_like_article(url, title):
             continue
-        published = parse_date(result.get("date"))
-        articles.append(
-            make_article(
-                title=title,
-                url=url,
-                topic=topic,
-                summary=body,
-                source=source,
-                published_at=published,
-                fetched_at=fetched_at,
-            )
-        )
+        articles.append(make_article(title=title, url=url, text=text))
     return articles
 
 
@@ -246,19 +186,15 @@ def fetch_web_sources(
     max_per_source: int,
     max_sources_per_topic: int,
     delay: float,
-    fetched_at: str,
-) -> list[dict[str, Any]]:
-    articles: list[dict[str, Any]] = []
-    # Rotate sources so daily runs surface different publications over time
-    day_offset = datetime.now(timezone.utc).toordinal() % max(len(sources), 1)
-    rotated = sources[day_offset:] + sources[:day_offset]
+) -> list[dict[str, str]]:
+    articles: list[dict[str, str]] = []
+    topic_sources = sources[:max_sources_per_topic]
 
     with DDGS() as ddgs:
         for topic in interests:
-            topic_sources = rotated[:max_sources_per_topic]
             for i, source in enumerate(topic_sources):
                 batch = search_topic_on_source(
-                    ddgs, topic, source, time_range, max_per_source, fetched_at
+                    ddgs, topic, source, time_range, max_per_source
                 )
                 articles.extend(batch)
                 if batch:
@@ -268,65 +204,16 @@ def fetch_web_sources(
     return articles
 
 
-def load_existing() -> dict[str, Any]:
-    if not ARTICLES_PATH.exists():
-        return {"lastUpdated": None, "interests": [], "articles": []}
-    with ARTICLES_PATH.open(encoding="utf-8") as f:
-        return json.load(f)
-
-
-def prune_articles(
-    articles: list[dict[str, Any]], retention_days: int
-) -> list[dict[str, Any]]:
-    cutoff = datetime.now(timezone.utc) - timedelta(days=retention_days)
-    kept: list[dict[str, Any]] = []
+def dedupe(articles: list[dict[str, str]]) -> list[dict[str, str]]:
+    seen: set[str] = set()
+    unique: list[dict[str, str]] = []
     for article in articles:
-        url = article.get("url") or ""
-        title = article.get("title") or ""
-        if url and not looks_like_article(url, title):
+        key = normalize_url(article["url"])
+        if key in seen:
             continue
-        if title and _NOISE_TITLE_RE.search(title):
-            continue
-        ts = article.get("publishedAt") or article.get("fetchedAt")
-        if not ts:
-            kept.append(article)
-            continue
-        try:
-            dt = date_parser.parse(str(ts))
-            if dt.tzinfo is None:
-                dt = dt.replace(tzinfo=timezone.utc)
-            if dt >= cutoff:
-                kept.append(article)
-        except (ValueError, TypeError, OverflowError):
-            kept.append(article)
-    return kept
-
-
-def merge_articles(
-    existing: list[dict[str, Any]],
-    incoming: list[dict[str, Any]],
-    retention_days: int,
-) -> list[dict[str, Any]]:
-    by_id: dict[str, dict[str, Any]] = {}
-    for article in existing:
-        by_id[article["id"]] = article
-    for article in incoming:
-        prev = by_id.get(article["id"])
-        if prev:
-            article["publishedAt"] = article.get("publishedAt") or prev.get("publishedAt")
-            article["score"] = article.get("score") or prev.get("score")
-        by_id[article["id"]] = article
-
-    merged = prune_articles(list(by_id.values()), retention_days)
-
-    def sort_key(a: dict[str, Any]) -> tuple:
-        score = a.get("score") or 0
-        published = a.get("publishedAt") or ""
-        fetched = a.get("fetchedAt") or ""
-        return (score, published, fetched)
-
-    merged.sort(key=sort_key, reverse=True)
-    return merged
+        seen.add(key)
+        unique.append(article)
+    return unique
 
 
 def fetch_all(config: dict[str, Any] | None = None) -> dict[str, Any]:
@@ -339,14 +226,12 @@ def fetch_all(config: dict[str, Any] | None = None) -> dict[str, Any]:
     max_per_source = int(config.get("maxPerSource") or 6)
     max_sources_per_topic = int(config.get("maxSourcesPerTopic") or 6)
     delay = float(config.get("delaySeconds") or 1.0)
-    retention = int(config.get("retentionDays") or 14)
 
-    fetched_at = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
-    incoming: list[dict[str, Any]] = []
+    incoming: list[dict[str, str]] = []
 
     if use_hn:
         incoming.extend(
-            fetch_hackernews(interests, time_range, hn_min, max_per_topic, fetched_at)
+            fetch_hackernews(interests, time_range, hn_min, max_per_topic)
         )
 
     sources = load_sources()
@@ -359,32 +244,18 @@ def fetch_all(config: dict[str, Any] | None = None) -> dict[str, Any]:
                 max_per_source,
                 max_sources_per_topic,
                 delay,
-                fetched_at,
             )
         )
 
-    existing_data = load_existing()
-    merged = merge_articles(
-        existing_data.get("articles") or [], incoming, retention
-    )
-
-    payload = {
-        "lastUpdated": fetched_at,
-        "interests": interests,
-        "articles": merged,
-    }
+    articles = dedupe(incoming)
+    payload = {"articles": articles}
 
     ARTICLES_PATH.parent.mkdir(parents=True, exist_ok=True)
     with ARTICLES_PATH.open("w", encoding="utf-8") as f:
         json.dump(payload, f, indent=2, ensure_ascii=False)
         f.write("\n")
 
-    log.info(
-        "Wrote %d articles (%d new this run) to %s",
-        len(merged),
-        len(incoming),
-        ARTICLES_PATH,
-    )
+    log.info("Wrote %d articles to %s", len(articles), ARTICLES_PATH)
     return payload
 
 
