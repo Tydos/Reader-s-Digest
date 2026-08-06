@@ -6,69 +6,44 @@
       "url": "https://publicdomainreview.org/essay/ars-notoria/"
     },
     {
-      "title": "AI's top startups are barely publishing their research",
-      "text": "617 points on Hacker News",
-      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research"
-    },
-    {
       "title": "Dataset: Dead mental health startups, 2000-2026, coded on 18 fields",
       "text": "30 points on Hacker News",
       "url": "https://mentalium.me/en/research/mental-health-startup-graveyard-dataset/"
     },
     {
-      "title": "DDoS against Norwegian government IT infrastructure – status",
-      "text": "95 points on Hacker News",
-      "url": "https://status.digdir.no/incidents/d7hvqmf2yr3l"
+      "title": "Jeff Dean leaving Alphabet",
+      "text": "297 points on Hacker News",
+      "url": "https://www.nytimes.com/2026/08/05/technology/google-researchers-ai-startup.html"
     },
     {
-      "title": "Claude: Elevated errors across all models – Resolved",
-      "text": "268 points on Hacker News",
-      "url": "https://status.claude.com/incidents/q2kg8n613kr3"
+      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+      "text": "https:&#x2F;&#x2F;www.axios.com&#x2F;2026&#x2F;08&#x2F;05&#x2F;google-deepmind-demis-hassa... https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;google-shakes-up-ai-leaders... https:&#x2F;&#x2F;www.discoveryloop.com&#x2F; , https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49184960 https:&#x2F;&#x2F;twitter.com&#x2F;JeffDean&#x2F;status&#x2F;2085034604172603724 , https:&#x2F;&#x2F;xcancel.com&#x2F;JeffDean&#x2F;status&#x2F;2085034604172603724",
+      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/"
     },
     {
-      "title": "China begins producing advanced chipmaking deep-ultraviolet lithography machines",
-      "text": "110 points on Hacker News",
-      "url": "https://www.reuters.com/world/china/china-starts-production-home-grown-immersion-duv-chipmaking-tools-source-2026-07-28/"
+      "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+      "text": "5 days ago - Artificial Analysis rank it ahead of MiniMax M3 - a 428B model. It's $0.14/million input and $0.27/million output pricing means this may currently be the best value-per-intelligence model out there. It's looking very good on the Intelligence Index vs.",
+      "url": "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/"
     },
     {
-      "title": "Toot.community is shutting down",
-      "text": "48 points on Hacker News",
-      "url": "https://social.jorijn.com/@jorijn/statuses/01KYN00AP3NCZXCFB96KQB8GN2"
+      "title": "New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging",
+      "text": "1 day ago - I released LLM 0.32 this morning, the most significant new version of LLM since the initial launch of the project. The new version includes support for visible reasoning traces, server-side …",
+      "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/"
     },
     {
-      "title": "Developers are attached to tools because tools encode trust",
-      "text": "246 points on Hacker News",
-      "url": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/"
+      "title": "Open letters about AI development",
+      "text": "4 days ago - Open letters about AI development I wrote this summary of the past few weeks of open letters as a section of my sponsors-only newsletter but I've decided to share it …",
+      "url": "https://simonwillison.net/2026/Aug/2/open-letters/"
     },
     {
-      "title": "It’s OK to call it Artificial Intelligence",
-      "text": "The term “Artificial Intelligence” has been in use by academia since 1956, with the Dartmouth Summer Research Project on Artificial Intelligence—this field of research is nearly 70...",
-      "url": "https://simonwillison.net/2024/Jan/7/call-it-ai/"
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "text": "5 days ago - A few days ago it was Anthropic discovering cryptographic weaknesses with Claude using Mythos Preview, spending $100,000 on tokens and with prompts that included \"again we are not looking for …",
+      "url": "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/"
     },
     {
-      "title": "Imitation Intelligence, my keynote for PyCon US 2024",
-      "text": "When discussing Large Language Models, I think a better term than “Artificial Intelligence” is “Imitation Intelligence”.",
-      "url": "https://simonwillison.net/2024/Jul/14/pycon/"
-    },
-    {
-      "title": "What I should have said about the term Artificial Intelligence",
-      "text": "Here’s a much improved version of what I wanted to say: There are many good arguments for why the term Artificial Intelligence is problematic. I’ve been uncomfortable with it myself.",
-      "url": "https://simonwillison.net/2024/Jan/9/what-i-should-have-said-about-ai/"
-    },
-    {
-      "title": "Simon Willison on ai-misuse",
-      "text": "Ouch: Deloitte will provide a partial refund to the federal government over a $440,000 report that contained several errors, after admitting it used generative artificial intelligence to help produce it. (I was initially confused by the \"Albanese government\" reference in the headline since this is a story about the Australian federal government.",
-      "url": "https://simonwillison.net/tags/ai-misuse/"
-    },
-    {
-      "title": "Archive for 2024 | Simon Willison’s Weblog",
-      "text": "9th: What I should have said about the term Artificial Intelligence. 16th: Publish Python packages to PyPI with a python-lib cookiecutter template and GitHub Actions.",
-      "url": "https://simonwillison.net/2024/"
-    },
-    {
-      "title": "Simon Willison on ai",
-      "text": "Over half a century later, artificial intelligence has become prerequisite to understanding speech. We have neither the chicken nor the egg.",
-      "url": "https://simonwillison.net/tags/ai/?page=71"
+      "title": "Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)",
+      "text": "5 days ago - Tuesday was Stateless MCP day—the rollout of MCP 2.0, or the 2026-07-28 Model Context Protocol specification to use the more formal but less memorable name. This is the most significant …",
+      "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/"
     },
     {
       "title": "Knuth: Computer Programming as an Art",
@@ -86,6 +61,11 @@
       "url": "https://paulgraham.com/worked.html"
     },
     {
+      "title": "Some Heroes",
+      "text": "John McCarthy invented Lisp, the field of (or at least the term) artificial intelligence, and was an early member of both of the top two computer science departments, MIT and Stanford.",
+      "url": "https://paulgraham.com/heroes.html"
+    },
+    {
       "title": "The Arrival of Artificial Intelligence – Stratechery by Ben Thompson",
       "text": "Artificial intelligence is very difficult to define for a few reasons. First, there are two types of artificial intelligence: the artificial intelligence described in that Vanity Fair article is Artificial...",
       "url": "https://stratechery.com/2017/the-arrival-of-artificial-intelligence/"
@@ -96,24 +76,19 @@
       "url": "https://stratechery.com/2026/the-inference-shift/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8_cD0xODk5MSJdfSwiZXhwIjoxNzgxMDg3MTc3LCJpYXQiOjE3Nzg0OTUxNzcsImlzcyI6Imh0dHBzOi8vYXBwLnBhc3Nwb3J0Lm9ubGluZS9vYXV0aCIsInNjb3BlIjoiZmVlZDpyZWFkIGFydGljbGU6cmVhZCBhc3NldDpyZWFkIGNhdGVnb3J5OnJlYWQgZW50aXRsZW1lbnRzIHBvZGNhc3QgcnNzIiwic3ViIjoiNzI5MTc3Y2EtODI3Ni00Yjc1LWIyYjctNjc3NDFiYjBkYmU2IiwidXNlIjoiYWNjZXNzIn0.B3S5AYawS_K4BjHifAtQv25N-01mzM2dh71dMci8rgu9IwFIdpJsLrFujdXL0nuhoWDQfdENzKecfFIAhwQTJLuSXKvdsVou6Cq12y8vilqv96nlS7MLhRhpntbh6YNNpjrkeOCy9Bv35A-B5XRPyjalUqYencX_BkRrt1TYqbyorkApZbspWshSpuKM2ZQ_umJuERf7bltTWO9Bcocq3RQorTwlbe8tjaIHxj-vgYViof4GDWVAY3dHRZ-_6zFoNfijp5JkwIsU8JpfckkRec9fqraiOXlf1pOwjUa10bx40zpbers-1X_sfTlLv0wVBdTfxS4oFuUGQjlnYNUMTA"
     },
     {
+      "title": "Tech Philosophy and AI Opportunity – Stratechery by Ben Thompson",
+      "text": "Apple Inc.’s top executive in charge of artificial intelligence models is leaving for Meta Platforms Inc., another setback in the iPhone maker’s struggling AI efforts.",
+      "url": "https://stratechery.com/2025/tech-philosophy-and-ai-opportunity/"
+    },
+    {
       "title": "Checking In on AI and the Big Five – Stratechery by Ben Thompson",
       "text": "Meta’s struggles to develop cutting-edge artificial-intelligence technology reached a head in April, when critics accused the company of gaming a leaderboard to make a recently released...",
       "url": "https://stratechery.com/2025/checking-in-on-ai-and-the-big-five/"
     },
     {
-      "title": "Who’s Afraid of Chinese Models?",
-      "text": "1 week ago - It’s also worth noting that the market is not yet treating intelligence like a commodity: demand is for Anthropic and OpenAI specifically, and much less for models that aren’t as good (thus SpaceXAI and Meta selling capacity to Anthropic); one way to think about the push for optimizing cost is that that is a function of defining jobs-to-be-done by intelligence level, such that intelligence buyers can create a market where intelligence is commoditized.",
-      "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/"
-    },
-    {
       "title": "Short Story on AI: A Cognitive Discontinuity.",
       "text": "one review read. HIT was an acronym for Human Intelligence Task - a unit of work that required human supervision. With his reviews and certifications the shaping world was wide open.",
       "url": "https://karpathy.github.io/2015/11/14/ai/"
-    },
-    {
-      "title": "Tino Cuellar joins Anthropic as Chief Global Affairs Officer",
-      "text": "1 day ago · Currently, he is the Cameron Schrier Family Professor at Stanford Law School, where he started his teaching career before serving in the judiciary and began organizing classes on artificial intelligence nearly a decade ago. He also serves as Senior Fellow at Stanford’s Institute for Human-Centered Artificial Intelligence.",
-      "url": "https://www.anthropic.com/news/tino-cuellar"
     },
     {
       "title": "AI Fluency: Framework and Foundations \\ Anthropic",
@@ -123,12 +98,12 @@
     {
       "title": "Charting a Path to AI Accountability \\ Anthropic",
       "text": "There is currently no robust and comprehensive process for evaluating today’s advanced artificial intelligence (AI) systems, let alone the more capable systems of the future.",
-      "url": "https://www.anthropic.com/news/charting-a-path-to-ai-accountability?_hsenc=p2ANqtz-83DE-4dQf0sKUSdn3YDqIxYxfqKj9KzaA_ou9KGs37eyCoWwai_w1PjyzWuVXSr-8XoJxN&trk=article-ssr-frontend-pulse_little-text-block"
+      "url": "https://www.anthropic.com/news/charting-a-path-to-ai-accountability?ref=openml.fyi"
     },
     {
-      "title": "Anthropic Academy: Claude AI Solutions for Business \\ Anthropic",
-      "text": "Learn how to use Projects. Stylized hand with interconnected digital nodes representing artificial intelligence networks.",
-      "url": "https://www.anthropic.com/learn/claude-for-work"
+      "title": "Software engineering practices | Simon Willison’s Weblog",
+      "text": "Gergely Orosz started a Twitter conversation asking about recommended “software engineering practices” for development teams.",
+      "url": "https://simonwillison.net/2022/Oct/1/software-engineering-practices/"
     },
     {
       "title": "What’s the difference between a software engineer, developer and...",
@@ -136,14 +111,14 @@
       "url": "https://simonwillison.net/2011/Dec/18/whats-the-difference-between/"
     },
     {
-      "title": "Software Engineering practises for PHP",
-      "text": "Scott Johnson’s presentation on Software Engineering Practices for Large Scale PHP Projects is fantastic—lots of excellent practical advice for professional development with PHP.",
-      "url": "https://simonwillison.net/2002/Oct/29/softwareEngineeringForPHP/"
-    },
-    {
       "title": "Why AI hasn’t replaced software engineers, and won’t",
       "text": "Not a single one checked the AI box. AI speeds up the typing-code-into-a-computer phase, but it turns out software engineering is about a whole lot more than that",
       "url": "https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/"
+    },
+    {
+      "title": "Patrick Newman's Software Engineering Management Checklist",
+      "text": "This tiny document may have the highest density of good engineering management advice I've ever encountered.",
+      "url": "https://simonwillison.net/2023/Oct/22/software-engineering-management-checklist/"
     },
     {
       "title": "Not all AI-assisted programming is vibe coding (but vibe coding rocks)",
@@ -171,9 +146,9 @@
       "url": "https://stratechery.com/2025/apple-retreats/"
     },
     {
-      "title": "Apple’s Organizational Crossroads – Stratechery by Ben Thompson",
-      "text": "Other areas of expertise represented by the members of Apple’s executive team include Software Engineering (Craig Federighi), Hardware Engineering (Dan Riccio), and Hardware...",
-      "url": "https://stratechery.com/2016/apples-organizational-crossroads/"
+      "title": "[FREE] WWDC, Apple Intelligence, Apple Aggregates AI – Stratechery...",
+      "text": "Apple was crystal clear that ChatGPT is in fact plugging into a modular interface that will be available to multiple models; here is how Senior Vice President of Software Engineering Craig...",
+      "url": "https://stratechery.com/2024/wwdc-apple-intelligence-apple-aggregates-ai/"
     },
     {
       "title": "Introducing Codex | OpenAI",
@@ -181,24 +156,24 @@
       "url": "https://openai.com/index/introducing-codex/"
     },
     {
+      "title": "Software Engineer, Infrastructure Security | OpenAI",
+      "text": "Strong software engineering skills in languages such as Python, Go, Rust, or C/C++, with a track record of shipping and operating high-reliability distributed services.",
+      "url": "https://openai.com/careers/software-engineer-infrastructure-security-us-remote/"
+    },
+    {
       "title": "Software Engineer, Compute Infrastructure | OpenAI",
       "text": "Strong software engineering skills and experience building, operating, or improving production infrastructure systems.",
       "url": "https://openai.com/careers/software-engineer-compute-infrastructure-san-francisco/?trk=public_post_comment-text"
     },
     {
-      "title": "Software Engineer, Monetization Data Platform | OpenAI",
-      "text": "Possess a minimum of 5 years of professional software engineering experience with deep experience building and operating production software systems, backend services, or distributed...",
-      "url": "https://openai.com/careers/software-engineer-monetization-data-platform-mountain-view/"
+      "title": "Principal Software Engineer, B2B Engineering | OpenAI",
+      "text": "Bring deep expertise in software engineering fundamentals, distributed systems, and API design. Are proficient in one or more backend languages such as Python, Go, Rust, or TypeScript.",
+      "url": "https://openai.com/careers/principal-software-engineer-b2b-engineering-us-remote/"
     },
     {
-      "title": "Codex Weekly Quota Exhausted on 20x Plan – Any Options?",
-      "text": "I’m a paid subscriber on the 20x plan and use Codex extensively for professional software engineering work, including architecture, implementation, code generation, and...",
-      "url": "https://community.openai.com/t/codex-weekly-quota-exhausted-on-20x-plan-any-options/1387546"
-    },
-    {
-      "title": "AI Doesn't Make Senior Engineers Faster. It Changes What They...",
-      "text": "It’s becoming a thinking assistant. The biggest productivity gain isn’t typing faster. It’s having more time to focus on the parts of software engineering that actually require human judgment.",
-      "url": "https://community.openai.com/t/ai-doesnt-make-senior-engineers-faster-it-changes-what-they-spend-time-on/1388259"
+      "title": "Principal Software Engineer, Infrastructure Security | OpenAI",
+      "text": "Strong software engineering skills with a track record of shipping and operating reliable distributed systems in production. Experience building or operating critical infrastructure, especially...",
+      "url": "https://openai.com/careers/principal-software-engineer-infrastructure-security-us-remote/"
     },
     {
       "title": "Jobs \\ Anthropic",
@@ -216,24 +191,19 @@
       "url": "https://www.anthropic.com/engineering/harness-design-long-running-apps"
     },
     {
+      "title": "Software Engineer, Languages - Jobs \\ Anthropic",
+      "text": "Software Engineering - Infrastructure. New York City, NY; San Francisco, CA.Have 5+ years of production software engineering experience with deep expertise in Python.",
+      "url": "https://www.anthropic.com/careers/jobs/4935567008"
+    },
+    {
       "title": "Software Engineer, Sandboxing (Systems) - Jobs \\ Anthropic",
       "text": "Software Engineering - Infrastructure.You may be a good fit if you: Have experience with Linux kernel development, system programming, or related low-level software engineering.",
       "url": "https://www.anthropic.com/careers/jobs/5025591008"
     },
     {
-      "title": "Senior+ Software Engineer, Research Tools - Jobs \\ Anthropic",
-      "text": "Experience building research tools, scientific software, or experimentation platforms. Background in machine learning, AI research, or working closely with ML researchers.",
-      "url": "https://www.anthropic.com/careers/jobs/4981828008"
-    },
-    {
-      "title": "What are some good examples of travel startups that use...",
-      "text": "Trip Advisor, Yelp, any of the big review sites. Foursquare.",
-      "url": "https://simonwillison.net/2012/Jul/4/what-are-some-good/"
-    },
-    {
-      "title": "What can startups do on big data day one? | Simon Willison’s Weblog",
-      "text": "Log everything, and then forget about it. That way you’ll have data you can analyse later on, but aside from setting up logging and log storage you won’t waste any …",
-      "url": "https://simonwillison.net/2013/Sep/16/what-can-startups-do/"
+      "title": "Simon Willison on startups",
+      "text": "186 posts tagged “startups”. 2013. Which Y Combinator companies focus on finance?Do all incubators / accelerators welcome their startups getting funding? Yes.",
+      "url": "https://simonwillison.net/tags/startups/?page=2"
     },
     {
       "title": "How do startups verify the real names of their users?",
@@ -241,14 +211,19 @@
       "url": "https://simonwillison.net/2011/Dec/27/how-do-startups-verify/"
     },
     {
-      "title": "What are some examples of startups funded simply for the strength...",
-      "text": "A good portion of YC companies fit this definition—it’s common for YC to fund the team and then work with them to help them either fix their initial idea or …",
-      "url": "https://simonwillison.net/2013/Dec/15/what-are-some-examples/"
+      "title": "Benefits and disadvantages of cashflow positive startups joining an...",
+      "text": "I can only answer from the perspective of having been through YC two years ago. Is the majority of the time spent in mentoring/meetings or working on their products?",
+      "url": "https://simonwillison.net/2013/Aug/26/benefits-and-disadvantages-of/"
     },
     {
-      "title": "Are there any YC startups based around open source software?",
-      "text": "There have been a few. Meteor.js is the most obvious example (YCS11, fully open source, raised $11.2 million): Meteor Raises $11.2M Round Led by Andreessen Horowitz.",
-      "url": "https://simonwillison.net/2014/Mar/5/are-there-any-yc/"
+      "title": "Which online platform can you recommend for organizing group trips?",
+      "text": "I’ve review startups that tried to build that, but failed a lot. Anything you can recommend that you used or use continuously? by Simon Willison, posted on 2nd November 2013.",
+      "url": "https://simonwillison.net/2013/Nov/2/which-online-platform-can/"
+    },
+    {
+      "title": "Django for Startup Founders: A better software architecture for SaaS...",
+      "text": "Alex then extends that into his own architectural recommendations for startups building with Django to help waste as little time as possible on problems that aren’t core to the product they are...",
+      "url": "https://simonwillison.net/2021/Jun/24/django-for-startup-founders/"
     },
     {
       "title": "What is the best way for a startup to attract talented back-end and...",
@@ -271,14 +246,19 @@
       "url": "https://paulgraham.com/growth.html"
     },
     {
+      "title": "How to Start a Startup",
+      "text": "And since a startup that succeeds ordinarily makes its founders rich, that implies getting rich is doable too. Hard, but doable. If there is one message I'd like to get across about startups, that's it.",
+      "url": "https://paulgraham.com/start.html"
+    },
+    {
       "title": "Essays",
       "text": "The 18 Mistakes That Kill Startups. A Student's Guide to Startups. How to Present to Investors. Copy What You Like. The Island Test. The Power of the Marginal.",
       "url": "https://paulgraham.com/articles.html"
     },
     {
-      "title": "How to Start a Startup",
-      "text": "And since a startup that succeeds ordinarily makes its founders rich, that implies getting rich is doable too. Hard, but doable. If there is one message I'd like to get across about startups, that's it.",
-      "url": "https://paulgraham.com/start.html"
+      "title": "BuzzFeed Shutters News, Startups and the R&D Tax Credit",
+      "text": "Startups need to take out loans or extend lines of credit at a time of tighter bank lending and higher rates, ask VCs for more money during the worst fundraising environment in over a...",
+      "url": "https://stratechery.com/2023/buzzfeed-shutters-news-startups-and-the-rd-tax-credit/"
     },
     {
       "title": "Venture Capital and the Internet’s Impact – Stratechery by Ben...",
@@ -321,14 +301,9 @@
       "url": "https://www.anthropic.com/careers/jobs/4964935008"
     },
     {
-      "title": "Strategic Account Executive, Startups - Jobs \\ Anthropic",
-      "text": "Strategic Account Executive, Startups. Sales. New York City, NY; San Francisco, CA.",
-      "url": "https://www.anthropic.com/careers/jobs/4979834008"
-    },
-    {
-      "title": "Simon Willison on machinelearning",
-      "text": "Machine Learning on Mobile and at the Edge: 2019 industry year-in-review (via) This is a fantastic detailed overview of advances made in the field of machine learning on the edge...",
-      "url": "https://simonwillison.net/tags/machinelearning/?page=2"
+      "title": "Simon Willison on machine-learning",
+      "text": "Useful overview of the PyTorch machine learning library from Facebook AI Research described as “a Python library enabling GPU-accelerated tensor computation”.",
+      "url": "https://simonwillison.net/tags/machine-learning/?page=2"
     },
     {
       "title": "A visual introduction to machine learning",
@@ -341,19 +316,19 @@
       "url": "https://simonwillison.net/2019/Dec/30/machine-learning-mobile/"
     },
     {
-      "title": "Adversarial Machine Learning: A Taxonomy and Terminology of...",
-      "text": "NIST - the National Institute of Standards and Technology, a US government agency, released a 106 page report on attacks against modern machine learning models, mostly covering LLMs.",
-      "url": "https://simonwillison.net/2024/Jan/6/adversarial-machine-learning/"
-    },
-    {
       "title": "Notes on using LLMs for code",
       "text": "I was recently the guest on TWIML—the This Week in Machine Learning & AI podcast. Our episode is titled Supercharging Developer Productivity with ChatGPT and Claude with Simon...",
       "url": "https://simonwillison.net/2024/Sep/20/using-llms-for-code/"
     },
     {
-      "title": "An introduction to XGBoost regression | Simon Willison’s Weblog",
-      "text": "Here Carl McBride Ellis provides a very approachable and practical introduction to XGBoost, one of the leading techniques for building machine learning models against tabular data.",
-      "url": "https://simonwillison.net/2022/Sep/18/an-introduction-to-xgboost-regression/"
+      "title": "mlx-vlm",
+      "text": "mlx-vlm (via) The MLX ecosystem of libraries for running machine learning models on Apple Silicon continues to expand.",
+      "url": "https://simonwillison.net/2024/Sep/29/mlx-vlm/"
+    },
+    {
+      "title": "Simon Willison on embeddings",
+      "text": "2018. Text Embedding Models Contain Bias. Here’s Why That Matters (via) Excellent discussion from the Google AI team of the enormous challenge of building machine learning models...",
+      "url": "https://simonwillison.net/tags/embeddings/?page=2"
     },
     {
       "title": "Filtering Research",
@@ -366,39 +341,24 @@
       "url": "https://stratechery.com/2015/tensorflow-and-monetizing-intellectual-property/"
     },
     {
+      "title": "AI & Machine Learning – Stratechery by Ben Thompson",
+      "text": "AI & Machine Learning.",
+      "url": "https://stratechery.com/topic/ai-machine-learning/"
+    },
+    {
       "title": "How Google Is Challenging AWS – Stratechery by Ben Thompson",
       "text": "It seems certain that machine learning will be increasingly dominated by cloud services: both are about processing scale and massive amounts of data, and only a select few behemoths...",
       "url": "https://stratechery.com/2016/how-google-cloud-platform-is-challenging-aws/"
     },
     {
+      "title": "The Application of AI – Stratechery by Ben Thompson",
+      "text": "Machine-learning generated content has major implications on the Metaverse, because it brings the marginal cost of production to zero.",
+      "url": "https://stratechery.com/concept/ai/application-ai/"
+    },
+    {
       "title": "DALL-E, the Metaverse, and Zero Marginal Content – Stratechery by...",
       "text": "There is another way to think about DALL-E and GPT and similar machine learning models, and it goes back to my longstanding contention that the Internet is a transformational...",
       "url": "https://stratechery.com/2022/dall-e-the-metaverse-and-zero-marginal-content/"
-    },
-    {
-      "title": "An Interview with Nvidia CEO Jensen Huang about Manufacturing...",
-      "text": "On the one hand, the theme of Huang’s keynote was the idea of AI creating AI via machine learning; he called the idea “intelligence manufacting”",
-      "url": "https://stratechery.com/2022/an-interview-with-nvidia-ceo-jensen-huang-about-manufacturing-intelligence/"
-    },
-    {
-      "title": "Google I/O: Android and Serving the World; Photos, Google Now, and...",
-      "text": "Google’s IO keynote had three parts: the Android part, the machine learning part, and a glimpse into the future. The connections between the three, though, matter far more than any one...",
-      "url": "https://stratechery.com/2015/google-io-android-and-serving-the-world-photos-google-now-and-the-worlds-information-googles-turning-point/"
-    },
-    {
-      "title": "Beginner Machine Learning Artificial Intelligence - Community... | Forum",
-      "text": "How can I learn Python or AI programmingPython learning roadmap for someone with a machine...",
-      "url": "https://community.openai.com/t/beginner-machine-learning-artificial-intelligence/279473"
-    },
-    {
-      "title": "MLE-bench: Evaluating Machine Learning Agents on... | OpenAI",
-      "text": "We introduce MLE-bench, a benchmark for measuring how well AI agents perform at machine learning engineering.",
-      "url": "https://openai.com/index/mle-bench/"
-    },
-    {
-      "title": "Truncated probability value returned by GPT4.1 - #6 by _j ...",
-      "text": "5 days ago · It is an underlying machine learning format that gives a wide range of possible values in a low bit depth. The precision symptom you previously reported on is the effect of using a low bit depth, but the scalar of probabilities is not limited in that low bit depth because of use of logarithms/exponentiation.",
-      "url": "https://community.openai.com/t/truncated-probability-value-returned-by-gpt4-1/1388406/6"
     },
     {
       "title": "Machine Learning Engineer, Safeguards - Jobs \\ Anthropic",
@@ -411,14 +371,14 @@
       "url": "https://www.anthropic.com/careers/jobs/4952051008"
     },
     {
-      "title": "OpenAI DevDay: Let’s build developer tools, not digital God",
-      "text": "A fine-tuned model on the OpenAI platform is likely to be far more sticky. Let’s build developer tools, not digital God.",
-      "url": "https://simonwillison.net/2024/Oct/2/not-digital-god/"
+      "title": "How do professionals build and maintain their websites?",
+      "text": "Tools like Firebug and the Chrome Developer Tools on the other hand are indispensable. If you haven’t learned those yet you should absolutely add them to your repertoire.",
+      "url": "https://simonwillison.net/2013/Jul/29/how-do-professionals-build/"
     },
     {
-      "title": "Using the Chrome DevTools console as a REPL for an Electron app",
-      "text": "I figured out how to use the Chrome DevTools to execute JavaScript interactively inside the Electron main process.",
-      "url": "https://til.simonwillison.net/electron/electron-debugger-console"
+      "title": "What are some techniques, workflows, thought-processes etc. you...",
+      "text": "Learn the Chrome Developer Tools inside out, and live in them—especially the interactive JavaScript console, which can be a huge boon to your productivity.",
+      "url": "https://simonwillison.net/2013/Sep/16/what-are-some-techniques/"
     },
     {
       "title": "How do you know the real size of a web page?",
@@ -426,19 +386,19 @@
       "url": "https://simonwillison.net/2012/Jun/23/how-do-you-know/"
     },
     {
+      "title": "Simon Willison on programming",
+      "text": "Learn the Chrome Developer Tools inside out, and live in them—especially the interactive JavaScript console, which can be a huge boon to your productivity.",
+      "url": "https://simonwillison.net/tags/programming/?page=2"
+    },
+    {
+      "title": "OpenAI DevDay 2024 live blog",
+      "text": "Next: OpenAI DevDay: Let’s build developer tools, not digital God. Previous: Weeknotes: Three podcasts, two trips and a new plugin system.",
+      "url": "https://simonwillison.net/2024/Oct/1/openai-devday-2024-live-blog/"
+    },
+    {
       "title": "Archive for Monday, 16th September 2013 | Simon Willison’s Weblog",
       "text": "Learn the Chrome Developer Tools inside out, and live in them—especially the interactive JavaScript console, which can be a huge boon to your productivity.",
       "url": "https://simonwillison.net/2013/Sep/16/"
-    },
-    {
-      "title": "Archive for October 2024 | Simon Willison’s Weblog",
-      "text": "OpenAI DevDay: Let’s build developer tools, not digital God.Here's a new one from last month: sqlite3-rsync, providing tools for efficiently creating and updating copies of WAL-mode...",
-      "url": "https://simonwillison.net/2024/Oct/"
-    },
-    {
-      "title": "More technical details about Google Chrome Frame",
-      "text": "It’s implemented as a Browser Helper Object, uses IE’s cookies, history and password-remembering, includes the WebKit developer tools and appends “chromeframe” to the regular IE user...",
-      "url": "https://simonwillison.net/2009/Sep/23/jimray/"
     },
     {
       "title": "The Cost of Developers – Stratechery by Ben Thompson",
@@ -456,24 +416,19 @@
       "url": "https://stratechery.com/2014/dependent-digital-whales/"
     },
     {
-      "title": "App Store Arguments – Stratechery by Ben Thompson",
-      "text": "It invented the iPhone, it brought the concept of an App Store to the mass market, and it has iterated on both. And yes, it spends a lot of money on APIs and developer tools.",
-      "url": "https://stratechery.com/2021/app-store-arguments/"
-    },
-    {
       "title": "The Apple v. Epic Decision – Stratechery by Ben Thompson",
       "text": "That was a lot of legalese, but this is the takeaway: IAP is distinct intellectual property from developer tools broadly; it is the entire set of app management tools, not just a payment processor...",
       "url": "https://stratechery.com/2021/the-apple-v-epic-decision/"
     },
     {
+      "title": "App Store Arguments – Stratechery by Ben Thompson",
+      "text": "It invented the iPhone, it brought the concept of an App Store to the mass market, and it has iterated on both. And yes, it spends a lot of money on APIs and developer tools.",
+      "url": "https://stratechery.com/2021/app-store-arguments/"
+    },
+    {
       "title": "Why Microsoft’s Reorganization Is a Bad Idea – Stratechery by Ben...",
       "text": "...with a run-rate of more than one billion dollars a year: Windows, Office, Xbox, SQL Server, System Center, Unified Communications, SharePoint, Developer Tools, Dynamics (ERP & CRM)...",
       "url": "https://stratechery.com/2013/why-microsofts-reorganization-is-a-bad-idea/"
-    },
-    {
-      "title": "Session Transcript Printing/Saving - ChatGPT - OpenAI ...",
-      "text": "6 days ago · I also opened Chrome’s Developer Tools with F12 to check for browser-related errors, but none were reported. Because I do not know exactly how Chrome generates the PDF from the page, I am unable to determine the root cause.",
-      "url": "https://community.openai.com/t/session-transcript-printing-saving/1388466"
     },
     {
       "title": "Chatgpt find discussion date - ChatGPT - OpenAI Developer Community",
@@ -489,6 +444,11 @@
       "title": "Add OAuth session management for OpenAI developer tools and...",
       "text": "Security Feature Request: Enterprise-Grade OAuth Session & Token Management for Codex and OpenAI Developer Tools. Summary. OpenAI has built an excellent OAuth authentication...",
       "url": "https://community.openai.com/t/add-oauth-session-management-for-openai-developer-tools-and-codex-cli-oauth-sessions/1385920"
+    },
+    {
+      "title": "ChatGPT 4o session freezes or does not load properly all the time",
+      "text": "Access the Style Settings: Once the div is selected, look for the “Styles” pane in the Developer Tools. This pane usually appears on the right side of the Developer Tools window [or below].",
+      "url": "https://community.openai.com/t/chatgpt-4o-session-freezes-or-does-not-load-properly-all-the-time/814303"
     },
     {
       "title": "Developer Campaign Marketer - Claude Code - Jobs \\ Anthropic",
@@ -516,14 +476,14 @@
       "url": "https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation"
     },
     {
-      "title": "Product design at GitHub | Simon Willison’s Weblog",
-      "text": "Product design at GitHub. At GitHub, every employee is a product designer. Posted 2nd April 2011 at 7:51 am.",
-      "url": "https://simonwillison.net/2011/Apr/2/product/"
-    },
-    {
       "title": "Simon Willison on design",
       "text": "Gunpei Yokoi’s product design philosophy at Nintendo (“Withered” is also sometimes translated as “Weathered”).",
       "url": "https://simonwillison.net/tags/design/"
+    },
+    {
+      "title": "Product design at GitHub | Simon Willison’s Weblog",
+      "text": "Product design at GitHub. At GitHub, every employee is a product designer. Posted 2nd April 2011 at 7:51 am.",
+      "url": "https://simonwillison.net/2011/Apr/2/product/"
     },
     {
       "title": "RISD BFA Industrial Design: AI Software Design Studio",
@@ -531,14 +491,14 @@
       "url": "https://simonwillison.net/2024/Oct/9/risd-bfa-industrial-design-ai-software-design-studio/"
     },
     {
+      "title": "Weeknotes: Design thinking for journalists, genome-to-sqlite...",
+      "text": "I’ve used aspects of design thinking in building software products, but I’d never really thought about how it could be applied outside of digital product design. It’s been really...",
+      "url": "https://simonwillison.net/2019/Sep/20/weeknotes-design-thinking-genome-sqlite/"
+    },
+    {
       "title": "Lateral Thinking with Withered Technology",
       "text": "Gunpei Yokoi’s product design philosophy at Nintendo (“Withered” is also sometimes translated as “Weathered”).",
       "url": "https://simonwillison.net/2024/Mar/14/lateral-thinking-with-weathered-technology/"
-    },
-    {
-      "title": "The Pooled-Risk Company Management Company",
-      "text": "The answer probably depends on the type of company you're starting. I can imagine some where trying to make sales would be a good heuristic for product design, and others where it would...",
-      "url": "https://paulgraham.com/prcmc.html"
     },
     {
       "title": "How to Do What You Love",
@@ -568,7 +528,7 @@
     {
       "title": "An Interview with Adobe Chief Strategy Officer Scott Belsky",
       "text": "Scott Belsky is the Chief Strategy Office and Executive Vice President of Design & Emerging Products at Adobe; prior to that he was Adobe’s first Chief Product Officer.",
-      "url": "https://stratechery.com/2023/an-interview-with-adobe-chief-strategy-officer-scott-belsky/"
+      "url": "https://stratechery.com/2023/an-interview-with-adobe-chief-strategy-officer-scott-belsky/?trk=article-ssr-frontend-pulse_little-text-block"
     },
     {
       "title": "ChatGPT for product - Resource | OpenAI Academy",
@@ -594,6 +554,11 @@
       "title": "Product Designer, Claude Developer Platform - Jobs \\ Anthropic",
       "text": "Design plays a critical role in building transformative AI systems that feel reliable, interpretable, and trustworthy. Designers give shape to our vision for tremendous human progress through AI.",
       "url": "https://www.anthropic.com/careers/jobs/5055448008"
+    },
+    {
+      "title": "Product Designer, Claude Experiences - Jobs \\ Anthropic",
+      "text": "Product Designer, Claude Experiences. Engineering & Design - Product.About the role. As a designer at Anthropic, you’ll work alongside product managers, engineers, and AI...",
+      "url": "https://www.anthropic.com/careers/jobs/4929512008"
     }
   ]
 }
