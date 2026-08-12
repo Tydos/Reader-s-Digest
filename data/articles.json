@@ -12,18 +12,13 @@
     },
     {
       "title": "Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
-      "text": "52 points on Hacker News",
+      "text": "53 points on Hacker News",
       "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html"
     },
     {
       "title": "Germany Sets New Six-Month Startup Record",
-      "text": "37 points on Hacker News",
+      "text": "45 points on Hacker News",
       "url": "https://www.gtai.de/en/meta/press/germany-sets-new-six-month-start-up-record-2012048"
-    },
-    {
-      "title": "Dataset: Dead mental health startups, 2000-2026, coded on 18 fields",
-      "text": "31 points on Hacker News",
-      "url": "https://mentalium.me/en/research/mental-health-startup-graveyard-dataset/"
     },
     {
       "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
@@ -37,7 +32,7 @@
     },
     {
       "title": "ChatGPT starts blocking direct requests to copy an author's style",
-      "text": "108 points on Hacker News",
+      "text": "109 points on Hacker News",
       "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/"
     },
     {
@@ -46,34 +41,74 @@
       "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/"
     },
     {
-      "title": "Artificial intelligence - Wikipedia",
-      "text": "1.1Reasoning and problem-solving. 1.2Knowledge representation. 1.3Planning and decision-making. 1.4Learning. 1.5Natural language processing. 1.6Perception. 1.7Social intelligence. 1.8General intelligence.",
-      "url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+      "title": "An AI model from Meta also hacked another company during testing",
+      "text": "1 week ago - Stop me if you've heard this one before: An AI model from the parent company of Facebook and Instagram hacked into another company’s systems during cybersecurity testing, a spokesperson confirmed …",
+      "url": "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/"
     },
     {
-      "title": "Artificial intelligence (AI) | Definition, Examples, Types ...",
-      "text": "2 days ago · artificial intelligence (AI), the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with intelligent beings.",
-      "url": "https://www.britannica.com/technology/artificial-intelligence"
+      "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+      "text": "4 days ago - OpenAI gave a last-minute presentation at the Black Hat security on Wednesday about “the Hugging Face Incident” (previously on this blog). The video was published yesterday. It’s short and information …",
+      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/"
     },
     {
-      "title": "What Is Artificial Intelligence? Definition, Uses, and Types",
-      "text": "Mar 14, 2026 · Artificial intelligence (AI) refers to computer systems capable of performing complex tasks that historically only humans could do, such as reasoning, making decisions, or solving problems.",
-      "url": "https://www.coursera.org/articles/what-is-artificial-intelligence"
+      "title": "Archive for Thursday, 6th August 2026",
+      "text": "1 week ago - An AI model from Meta also hacked another company during testing. Stop me if you've heard this one before: · An AI model from the parent company of Facebook and Instagram hacked into another company’s systems during cybersecurity testing, a spokesperson confirmed on Wednesday",
+      "url": "https://simonwillison.net/2026/Aug/6/"
     },
     {
-      "title": "What is artificial intelligence (AI)? - IBM",
-      "text": "Aug 9, 2024 · Artificial intelligence (AI) is technology that enables computers and machines to simulate human learning, comprehension, problem solving, decision-making, creativity and autonomy.",
-      "url": "https://www.ibm.com/think/topics/artificial-intelligence"
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "text": "10 hours ago - A vanity domain name (stolen-thoughts.com) for a neat paper: Anthropic, OpenAI, and Google return encrypted chain-of-thought blocks to clients that can be replayed across sessions, users, and models. We take …",
+      "url": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/"
     },
     {
-      "title": "What is Artificial Intelligence (AI) - GeeksforGeeks",
-      "text": "May 18, 2026 · Artificial Intelligence (AI) is a technology that enables machines and computers to perform tasks that typically require human intelligence. It allows systems to learn from data, recognise patterns, and make decisions to solve complex problems.",
-      "url": "https://www.geeksforgeeks.org/artificial-intelligence/what-is-artificial-intelligence-ai/"
+      "title": "Archive for Wednesday, 5th August 2026",
+      "text": "1 week ago - Back in 2022 I tweeted screenshots of a game concept generated by GPT-3 and some concept “art” created using DALL-E. Today, on the fourth anniversary of that tweet, I decided to see if Claude Fable 5 (running in Claude Code for web) could build the entire game from the content of that tweet.",
+      "url": "https://feeds.simonwillison.net/2026/Aug/5/"
+    },
+    {
+      "title": "Simon Willison on Technical Blogging",
+      "text": "6 days ago - I was interviewed by Cynthia Dunlop for her \"Write that blog!\" series back in January, but I just realized I never linked to the interview from my own blog! It …",
+      "url": "https://simonwillison.net/2026/Aug/6/simon-willison-on-technical-blogging/"
     },
     {
       "title": "Knuth: Computer Programming as an Art",
       "text": "The field of \"automatic programming\" is one of the major areas of artificial intelligence research today. Its proponents would love to be able to give a lecture entitled \"Computer...",
       "url": "https://paulgraham.com/knuth.html"
+    },
+    {
+      "title": "Books",
+      "text": "Partial Evaluation and Program Generation (Free). Patterns of Software. Paradigms of Artificial Intelligence Programming. Structure and Interpretation of Computer Programs (Free).",
+      "url": "https://paulgraham.com/booklinks.html"
+    },
+    {
+      "title": "What I Worked On",
+      "text": "I of course chose \"Artificial Intelligence.\" When I got the actual physical diploma, I was dismayed to find that the quotes had been included, which made them read as scare-quotes.",
+      "url": "https://paulgraham.com/worked.html"
+    },
+    {
+      "title": "Some Heroes",
+      "text": "John McCarthy invented Lisp, the field of (or at least the term) artificial intelligence, and was an early member of both of the top two computer science departments, MIT and Stanford.",
+      "url": "https://paulgraham.com/heroes.html"
+    },
+    {
+      "title": "The Arrival of Artificial Intelligence – Stratechery by Ben Thompson",
+      "text": "Artificial intelligence is very difficult to define for a few reasons. First, there are two types of artificial intelligence: the artificial intelligence described in that Vanity Fair article is Artificial...",
+      "url": "https://stratechery.com/2017/the-arrival-of-artificial-intelligence/"
+    },
+    {
+      "title": "The Inference Shift – Stratechery by Ben Thompson",
+      "text": "Cerebras Systems is set to raise the size and price of its initial public offering as soon as Monday, as demand for the artificial intelligence chipmaker’s shares continues to climb...",
+      "url": "https://stratechery.com/2026/the-inference-shift/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8_cD0xODk5MSJdfSwiZXhwIjoxNzgxMDg1NjMxLCJpYXQiOjE3Nzg0OTM2MzEsImlzcyI6Imh0dHBzOi8vYXBwLnBhc3Nwb3J0Lm9ubGluZS9vYXV0aCIsInNjb3BlIjoiZmVlZDpyZWFkIGFydGljbGU6cmVhZCBhc3NldDpyZWFkIGNhdGVnb3J5OnJlYWQgZW50aXRsZW1lbnRzIHBvZGNhc3QgcnNzIiwic3ViIjoiOTJiNjJhNDMtZGM4MS00YjgzLTg1MWMtMmFlZGFjYjliN2YxIiwidXNlIjoiYWNjZXNzIn0.YdfI0Xh0-gisIYLcYYmzp183yj9E6XoIyanw8gbb8UZyUGbYwudKyLVI0iPHfgQIxO0bhuVi3CkrvOhgapBt6awk630e9eDIipoTydT8D2gIVWfQ4uMfTuda7ZAwNJdYYHTdR2aBFdXb0nLevnswfUsfw0VUV9_EQQeWILs7z0_XFuhK0pAz3DKdLFHLy3dWsa2MWWFOoz0zAZBNszGMKYLdYdSAo_2_BXPYyhEuDyb2kIN7Sles9C1PLu05Xmuz7ISf58RoqvaK8ZNVIxWlIPtaWfeCa_5hXLZ9PvtdXOQOGMJBY51mBdD8JVndVnYJ4lo3ytyW72DvN-0X2ZKVEg"
+    },
+    {
+      "title": "Tech Philosophy and AI Opportunity – Stratechery by Ben Thompson",
+      "text": "Apple Inc.’s top executive in charge of artificial intelligence models is leaving for Meta Platforms Inc., another setback in the iPhone maker’s struggling AI efforts.",
+      "url": "https://stratechery.com/2025/tech-philosophy-and-ai-opportunity/"
+    },
+    {
+      "title": "Short Story on AI: A Cognitive Discontinuity.",
+      "text": "HIT was an acronym for Human Intelligence Task - a unit of work that required human supervision.Navigating and analyzing artificial brains was Merus’ favorite pastime.",
+      "url": "https://karpathy.github.io/2015/11/14/ai/"
     },
     {
       "title": "AI Fluency: Framework and Foundations \\ Anthropic",
@@ -86,39 +121,29 @@
       "url": "https://www.anthropic.com/news/charting-a-path-to-ai-accountability?ref=openml.fyi"
     },
     {
-      "title": "Software engineering - Wikipedia",
-      "text": "Software engineering is a branch of both computer science and engineering focused on designing, developing, testing, and maintaining software applications. [1] . It involves applying engineering principles and computer programming expertise to develop software systems that meet user needs. [2][3][4][5]",
-      "url": "https://en.wikipedia.org/wiki/Software_engineering"
+      "title": "Simon Willison on software-engineering",
+      "text": "Outstanding essay on software engineering friction and development team productivity by C J Silverio: it explains the concept of “friction” (and gives great definitions of “process”...",
+      "url": "https://simonwillison.net/tags/software-engineering/"
     },
     {
-      "title": "Software Engineering Tutorial - GeeksforGeeks",
-      "text": "Jul 1, 2026 · Software Engineering is the systematic process of designing, developing, testing, and maintaining software to create reliable, efficient, and high-quality applications. It applies engineering principles, methods, and tools to develop software in a systematic manner.",
-      "url": "https://www.geeksforgeeks.org/software-engineering/software-engineering/"
+      "title": "Software engineering practices | Simon Willison’s Weblog",
+      "text": "Gergely Orosz started a Twitter conversation asking about recommended “software engineering practices” for development teams.",
+      "url": "https://simonwillison.net/2022/Oct/1/software-engineering-practices/"
     },
     {
-      "title": "What Does a Software Engineer Do? | Coursera",
-      "text": "Jun 2, 2026 · What Does a Software Engineer Do? Software engineers design and create computer systems and applications to solve real-world problems. If you're ready to start preparing for a software engineer role right away, consider enrolling in IBM's Applied Software Engineering Fundamentals Specialization.",
-      "url": "https://www.coursera.org/articles/software-engineer"
+      "title": "Simon Willison on softwareengineering",
+      "text": "Outstanding essay on software engineering friction and development team productivity by C J Silverio: it explains the concept of “friction” (and gives great definitions of “process”...",
+      "url": "https://simonwillison.net/tags/softwareengineering/"
     },
     {
-      "title": "Introduction to Software Engineering - GeeksforGeeks",
-      "text": "Apr 17, 2026 · Software Engineering improves efficiency, quality, and budget management, helping deliver software on time, within budget, and meeting all requirements. It continuously adopts new tools and methodologies to handle complexity and evolving technologies.",
-      "url": "https://www.geeksforgeeks.org/software-engineering/software-engineering-introduction-to-software-engineering/"
+      "title": "Hackers and Painters",
+      "text": "Sometimes what the hackers do is called \"software engineering,\" but this term is just as misleading. Good software designers are no more engineers than architects are.",
+      "url": "https://paulgraham.com/hp.html"
     },
     {
-      "title": "What is Software Engineering? - Michigan Technological University",
-      "text": "Software engineering is the branch of computer science that deals with the design, development, testing, and maintenance of software applications. Software engineers apply engineering principles and knowledge of programming languages to build software solutions for end users.",
-      "url": "https://www.mtu.edu/cs/undergraduate/software/what/"
-    },
-    {
-      "title": "What is software engineering? - GitHub",
-      "text": "Software engineering is the job of designing, developing, testing, and maintaining software applications and systems. It involves applying engineering principles to the software development lifecycle and the use of various tools and techniques to create high-quality software products.",
-      "url": "https://github.com/resources/articles/what-is-software-engineering"
-    },
-    {
-      "title": "Earnings and Learnings – Stratechery by Ben Thompson",
-      "text": "4 days ago - The best Stratechery content from the week of August 3, 2026, including earnings exposure, OpenAI’s answer to Apple, and all about LeBron in Philly.",
-      "url": "https://stratechery.com/2026/earnings-and-learnings/"
+      "title": "Being Popular",
+      "text": "A good programming language should have features that make the kind of people who use the phrase \"software engineering\" shake their heads disapprovingly.",
+      "url": "https://paulgraham.com/popular.html"
     },
     {
       "title": "Integrated Apple and App Store Risk – Stratechery by Ben Thompson",
@@ -131,8 +156,33 @@
       "url": "https://stratechery.com/2025/apple-retreats/"
     },
     {
+      "title": "Introducing Codex | OpenAI",
+      "text": "A cloud-based software engineering agent that can work on many tasks in parallel, powered by codex-1. Available to ChatGPT Pro, Business, and Enterprise users today, and Plus...",
+      "url": "https://openai.com/index/introducing-codex/"
+    },
+    {
+      "title": "Software Engineer, GPT Infrastructure | OpenAI",
+      "text": "Strong software engineering experience building distributed systems, infrastructure platforms, production services, developer platforms, or orchestration systems. Proficiency in one or...",
+      "url": "https://openai.com/careers/software-engineer-gpt-infrastructure-san-francisco/"
+    },
+    {
+      "title": "Harness engineering: leveraging Codex in an agent-first world | OpenAI",
+      "text": "Over the past five months, our team has been running an experiment: building and shipping an internal beta of a software product with 0 lines of manually-written code.",
+      "url": "https://openai.com/index/harness-engineering/"
+    },
+    {
+      "title": "Software Engineer, Silicon Design Methodology | OpenAI",
+      "text": "You have strong software engineering skills in C++, Python, Rust, or similar systems-oriented languages. You have experience building engineering infrastructure, developer tools...",
+      "url": "https://openai.com/careers/software-engineer-silicon-design-methodology-san-francisco/"
+    },
+    {
+      "title": "Codex Weekly Quota Exhausted on 20x Plan – Any Options?",
+      "text": "I’m a paid subscriber on the 20x plan and use Codex extensively for professional software engineering work, including architecture, implementation, code generation, and...",
+      "url": "https://community.openai.com/t/codex-weekly-quota-exhausted-on-20x-plan-any-options/1387546"
+    },
+    {
       "title": "Jobs \\ Anthropic",
-      "text": "Software Engineering - Infrastructure. 32 Open Roles.Software Engineer, Cloud Inference Launch Engineering. San Francisco, CA. Apply.",
+      "text": "Software Engineering - Infrastructure. 33 Open Roles.Staff Software Engineer, AI Reliability Engineering. London, UK. Apply.",
       "url": "https://www.anthropic.com/careers/jobs"
     },
     {
@@ -161,14 +211,39 @@
       "url": "https://www.anthropic.com/careers/jobs/4935567008"
     },
     {
-      "title": "100 Top Startups Companies in United States · August 2026",
-      "text": "6 days ago · Detailed info and reviews on 100 top Startups companies and startups in United States in 2026. Get the latest updates on their products, jobs, funding, investors, founders and more.",
-      "url": "https://www.f6s.com/companies/startups/united-states/co"
+      "title": "Alt text - simonwillison.net",
+      "text": "2 days ago · Simon Willison’s Weblog Alt text Alt text for all of my images Owned by simonw, visibility: Public",
+      "url": "https://simonwillison.net/dashboard/alt-text/"
     },
     {
-      "title": "Startups - TechCrunch",
-      "text": "Read more about tech startup news that breaks down funding, growth, and long-term trajectory of companies across every stage and industry.",
-      "url": "https://techcrunch.com/category/startups/"
+      "title": "A quote from John Gruber",
+      "text": "4 days ago · Me, I try to get into the mindset of playing live music, not recording a studio album. Except when I’m writing a piece where I really want it to be …",
+      "url": "https://simonwillison.net/2026/Aug/8/john-gruber/"
+    },
+    {
+      "title": "Comment: Now we have a timeline of the OpenAI accidental ...",
+      "text": "4 days ago · Comment My comment on Now we have a timeline of the OpenAI accidental attack against Hugging Face — Hacker News I think one of the most interesting details here might be tucked away in that first bulletin point: May 7: OpenAI starts a new training run for an experimental, unreleased model. (Do they mean an evaluation run? They say training run in the video, and later mention a “reward ...",
+      "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/"
+    },
+    {
+      "title": "What Startups Are Really Like",
+      "text": "The ones on startups get tested by about 70 people every 6 months. So I sent all the founders an email asking what surprised them about starting a startup.",
+      "url": "https://paulgraham.com/really.html"
+    },
+    {
+      "title": "Startups in 13 Sentences",
+      "text": "Most startups fail before they make something people want, and the most common form of failure is running out of money. So being cheap is (almost) interchangeable with iterating rapidly.",
+      "url": "https://paulgraham.com/13sentences.html"
+    },
+    {
+      "title": "Startup = Growth",
+      "text": "Startups are so hard that you can't be pointed off to the side and hope to succeed. You have to know that growth is what you're after.",
+      "url": "https://paulgraham.com/growth.html"
+    },
+    {
+      "title": "How to Start a Startup",
+      "text": "And since a startup that succeeds ordinarily makes its founders rich, that implies getting rich is doable too. Hard, but doable. If there is one message I'd like to get across about startups, that's it.",
+      "url": "https://paulgraham.com/start.html"
     },
     {
       "title": "BuzzFeed Shutters News, Startups and the R&D Tax Credit",
@@ -181,24 +256,54 @@
       "url": "https://stratechery.com/2015/venture-capital-and-the-internets-impact/"
     },
     {
-      "title": "AI Startups: How Do You Handle Billing for your AI product?",
-      "text": "We’ve seen AI startups: Overpaying for compute-heavy workloads. Struggling with OpenAI API pricing & limits.AI Startups: Pricing, Price-Tracking & Customer Value question for AI Agents.",
-      "url": "https://community.openai.com/t/ai-startups-how-do-you-handle-billing-for-your-ai-product/1126711"
+      "title": "The Problem with Payments – Stratechery by Ben Thompson",
+      "text": "enticing startups and established companies alike with the promise of priceless data and incredible volumes. Many who dive in, though, like Google with Wallet, find it’s incredibly tough going.",
+      "url": "https://stratechery.com/2014/problem-payments/"
     },
     {
-      "title": "Warp’s big bet on building open source with GPT-5.5 | OpenAI",
-      "text": "OpenAI <3 startups. Join the community Start building.",
-      "url": "https://openai.com/index/warp/"
+      "title": "An Interview with OpenAI CEO Sam Altman and AWS CEO Matt...",
+      "text": "To that end, in this interview, we discuss how AWS created the entire cloud category, and the impact it had on startups, and how AI is both similar and different to that previous paradigm shift.",
+      "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/"
     },
     {
-      "title": "API grant from Microsoft for Startups - Community - OpenAI Developer...",
-      "text": "I don’t know what else do to beside asking for this here. Many weeks ago we’ve been able to get a grant from Microsoft to get promotional credits to test OpenAI API for our startup.",
-      "url": "https://community.openai.com/t/api-grant-from-microsoft-for-startups/732443"
+      "title": "A Survival Guide to a PhD",
+      "text": "You’ll struggle with the realization that months of your work were spent on a paper with a few citations while your friends do exciting startups with TechCrunch articles or push products to...",
+      "url": "https://karpathy.github.io/2016/09/07/phd/"
     },
     {
-      "title": "Building a GPT 3 based productivity startup | Interview with Flowrite...",
-      "text": "Twitter thread | Startups built on GPT-3Case study of Viable, data analysis use case of GPT-3",
-      "url": "https://community.openai.com/t/building-a-gpt-3-based-productivity-startup-interview-with-flowrite-ceo-aaro-isosaari/2714"
+      "title": "The Unreasonable Effectiveness of Recurrent Neural Networks",
+      "text": "looks like we’ve reached an infinite loop about startups. Shakespeare. It looks like we can learn to spell English words.",
+      "url": "https://karpathy.github.io/2015/05/21/rnn-effectiveness/"
+    },
+    {
+      "title": "Model ML completes finance work more efficiently with GPT‑5.6 Sol",
+      "text": "2 days ago · Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
+      "url": "https://openai.com/index/model-ml/"
+    },
+    {
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory - OpenAI",
+      "text": "5 days ago · Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+      "url": "https://openai.com/index/hsp-gruppe/"
+    },
+    {
+      "title": "Feature requests - OpenAI Developer Community",
+      "text": "1 day ago · ChatGPT Has Outgrown the Flat Chat List: A Vision for the Future of Long-Term Projects. feature-request , folders , project-folder , sidebar-management",
+      "url": "https://community.openai.com/c/chatgpt/feature-requests/24"
+    },
+    {
+      "title": "ChatGPT Enterprise & Edu - Release Notes - OpenAI Help Center",
+      "text": "2 days ago · ChatGPT Enterprise, ChatGPT for Healthcare, and ChatGPT Edu admins can now turn off in-app updates for the ChatGPT desktop app on supported macOS and Windows builds. This lets organizations review new releases before users receive them and deploy approved versions through their existing device management process. The app's built-in updater remains enabled by default. Organizations that turn it ...",
+      "url": "https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes"
+    },
+    {
+      "title": "Account Executive, Startups - Jobs \\ Anthropic",
+      "text": "As a Startup Account Executive at Anthropic, you’ll drive adoption of safe, frontier AI by securing strategic deals with some of the fastest growing startups in the world.",
+      "url": "https://www.anthropic.com/careers/jobs/4964935008"
+    },
+    {
+      "title": "Strategic Account Executive, Startups - Jobs \\ Anthropic",
+      "text": "Strategic Account Executive, Startups. Sales. New York City, NY; San Francisco, CA.",
+      "url": "https://www.anthropic.com/careers/jobs/4979834008"
     },
     {
       "title": "Simon Willison on machine-learning",
@@ -206,19 +311,19 @@
       "url": "https://simonwillison.net/tags/machine-learning/"
     },
     {
+      "title": "Simon Willison on machinelearning",
+      "text": "Machine Learning on Mobile and at the Edge: 2019 industry year-in-review (via) This is a fantastic detailed overview of advances made in the field of machine learning on the edge...",
+      "url": "https://simonwillison.net/tags/machinelearning/?page=2"
+    },
+    {
+      "title": "A visual introduction to machine learning",
+      "text": "Beautiful interactive essay explaining how a decision tree machine learning module is constructed, and using that to illustrate the concept of overfitting. This is one of the best explanations...",
+      "url": "https://simonwillison.net/2020/Jan/10/visual-introduction-machine-learning/"
+    },
+    {
       "title": "Machine Learning on Mobile and at the Edge: 2019 industry...",
       "text": "This is a fantastic detailed overview of advances made in the field of machine learning on the edge (primarily on mobile devices) over 2019.",
       "url": "https://simonwillison.net/2019/Dec/30/machine-learning-mobile/"
-    },
-    {
-      "title": "Notes on using LLMs for code",
-      "text": "I was recently the guest on TWIML—the This Week in Machine Learning & AI podcast. Our episode is titled Supercharging Developer Productivity with ChatGPT and Claude with Simon...",
-      "url": "https://simonwillison.net/2024/Sep/20/using-llms-for-code/"
-    },
-    {
-      "title": "Simon Willison: How I use LLMs and ChatGPT",
-      "text": "I was recently the guest on TWIML—the This Week in Machine Learning & AI podcast. Our episode is titled Supercharging Developer Productivity with ChatGPT and Claude with Simon...",
-      "url": "https://simonwillison.net/series/using-llms/"
     },
     {
       "title": "An introduction to XGBoost regression | Simon Willison’s Weblog",
@@ -226,44 +331,39 @@
       "url": "https://simonwillison.net/2022/Sep/18/an-introduction-to-xgboost-regression/"
     },
     {
-      "title": "AI Prompt Engineering Is Dead. Long live AI prompt engineering",
-      "text": "Ignoring the clickbait in the title, this article summarizes research around the idea of using machine learning models to optimize prompts—as seen in tools such as Stanford’s DSPy and...",
-      "url": "https://simonwillison.net/2024/Mar/20/prompt-engineering/"
+      "title": "Simon Willison: How I use LLMs and ChatGPT",
+      "text": "I was recently the guest on TWIML—the This Week in Machine Learning & AI podcast. Our episode is titled Supercharging Developer Productivity with ChatGPT and Claude with Simon...",
+      "url": "https://simonwillison.net/series/using-llms/"
     },
     {
-      "title": "Machine learning - Wikipedia",
-      "text": "Machine learning (ML), reorganised and recognised as its own field, started to flourish in the 1990s. The field changed its goal from achieving artificial intelligence to tackling solvable problems of a practical nature.",
-      "url": "https://en.wikipedia.org/wiki/Machine_learning"
+      "title": "Filtering Research",
+      "text": "ifile: An Application of Machine Learning to E-mail Filtering. An Empirical Study of the Naive Bayes Classifier.Bibliography on Machine Learning for Spam Detection.",
+      "url": "https://paulgraham.com/bayeslinks.html"
     },
     {
-      "title": "Machine Learning Tutorial - GeeksforGeeks",
-      "text": "Jun 5, 2026 · Machine learning is a branch of Artificial Intelligence that focuses on developing models and algorithms that let computers learn from data without being explicitly programmed for every task. In simple words, ML teaches systems to think and understand like humans by learning from the data.",
-      "url": "https://www.geeksforgeeks.org/machine-learning/machine-learning/"
+      "title": "TensorFlow and Monetizing Intellectual Property – Stratechery by Ben...",
+      "text": "Machine learning, though, is about a whole lot more than a software system: specifically, it’s about a whole lot of data, and an infrastructure that can process that data.",
+      "url": "https://stratechery.com/2015/tensorflow-and-monetizing-intellectual-property/"
     },
     {
-      "title": "What is machine learning? - IBM",
-      "text": "Machine learning is the subset of AI focused on algorithms that analyze and “learn” the patterns of training data in order to make accurate inferences about new data.",
-      "url": "https://www.ibm.com/think/topics/machine-learning"
+      "title": "How Google Is Challenging AWS – Stratechery by Ben Thompson",
+      "text": "It seems certain that machine learning will be increasingly dominated by cloud services: both are about processing scale and massive amounts of data, and only a select few behemoths...",
+      "url": "https://stratechery.com/2016/how-google-cloud-platform-is-challenging-aws/"
     },
     {
-      "title": "Introduction to Machine Learning - GeeksforGeeks",
-      "text": "May 29, 2026 · Machine Learning is a technique that allows computers to learn from data and make decisions without explicit programming. It works by identifying patterns in data and using them to make predictions.",
-      "url": "https://www.geeksforgeeks.org/machine-learning/introduction-machine-learning/"
+      "title": "CurtGPT: The Simple/Safe/Non-Crazy AI Agent for ALL! - Community...",
+      "text": "# Goal configuration MainObjective = \"Become a machine learning expert.\" # overall objective InitialTask = \"Learn about tensors.\" # first task to research #.",
+      "url": "https://community.openai.com/t/curtgpt-the-simple-safe-non-crazy-ai-agent-for-all/173914"
     },
     {
-      "title": "Machine learning, explained - MIT Sloan",
-      "text": "Apr 21, 2021 · What is machine learning? Machine learning is a subfield of artificial intelligence, which is broadly defined as the capability of a machine to imitate intelligent human behavior. Artificial intelligence systems are used to perform complex tasks in a way that is similar to how humans solve problems.",
-      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained"
+      "title": "Ad policies - OpenAI",
+      "text": "2 days ago · OpenAI’s Ad Policies outline standards for ad placement and content in ChatGPT, including brand safety rules, sensitive contexts, and disallowed categories.",
+      "url": "https://openai.com/policies/ad-policies/"
     },
     {
-      "title": "What Is Machine Learning? Definition, Types, and Examples",
-      "text": "Apr 18, 2026 · Machine learning is a subfield of artificial intelligence that uses algorithms trained on data sets to create models capable of performing tasks that would otherwise only be possible for humans, such as categorizing images, analyzing data, or predicting price fluctuations.",
-      "url": "https://www.coursera.org/articles/what-is-machine-learning"
-    },
-    {
-      "title": "Machine Learning Systems Engineer, RL Engineering - Jobs \\ Anthropic",
-      "text": "You may be a good fit if youWant to learn more about machine learning researchCare about the societal impacts of your work",
-      "url": "https://www.anthropic.com/careers/jobs/4952051008"
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "text": "5 days ago · Our latest internal evaluations of Astra, one of our upcoming models, over the past few days indicate significant advancements in agentic coding and cybersecurity. These results, in addition to expert assessments, have led us to conclude last night that we cannot rule out critical cyber capabilities under our Preparedness Framework .",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/"
     },
     {
       "title": "Machine Learning Engineer, Safeguards - Jobs \\ Anthropic",
@@ -271,39 +371,129 @@
       "url": "https://www.anthropic.com/careers/jobs/4949336008"
     },
     {
-      "title": "Superposition, Memorization, and Double Descent \\ Anthropic",
-      "text": "Why should mechanistic interpretability care about overfitting? Despite overfitting being a central problem in machine learning, we have little mechanistic understanding of what exactly is...",
-      "url": "https://www.anthropic.com/news/superposition-memorization-and-double-descent"
+      "title": "Towards Monosemanticity: Decomposing Language Models With...",
+      "text": "...breaking down complex neural networks into parts we can understand, and builds on previous efforts to interpret high-dimensional systems in neuroscience, machine learning, and statistics.",
+      "url": "https://www.anthropic.com/news/towards-monosemanticity-decomposing-language-models-with-dictionary-learning"
     },
     {
-      "title": "Chrome DevTools | Chrome for Developers",
-      "text": "Chrome DevTools is a set of web developer tools built directly into the Google Chrome browser. DevTools lets you edit pages on-the-fly and diagnose problems quickly, which helps you build better websites, faster.",
-      "url": "https://developer.chrome.com/docs/devtools"
+      "title": "Machine Learning Systems Engineer, RL Engineering - Jobs \\ Anthropic",
+      "text": "You may be a good fit if youWant to learn more about machine learning researchCare about the societal impacts of your work",
+      "url": "https://www.anthropic.com/careers/jobs/4952051008"
     },
     {
-      "title": "Open Chrome DevTools | Chrome for Developers",
-      "text": "Dec 14, 2018 · To open the last DevTools panel, click the more_vert button to the right of the address bar and select More Tools > Developer Tools. Alternatively, you can open the last panel with a shortcut.",
-      "url": "https://developer.chrome.com/docs/devtools/open/"
+      "title": "OpenAI DevDay: Let’s build developer tools, not digital God",
+      "text": "A fine-tuned model on the OpenAI platform is likely to be far more sticky. Let’s build developer tools, not digital God.",
+      "url": "https://simonwillison.net/2024/Oct/2/not-digital-god/"
     },
     {
-      "title": "Developer Tools for Windows | Microsoft Developer",
-      "text": "Discover the best developer tools for Windows — Windows Terminal, WSL, PowerToys, WinGet, and more.",
-      "url": "https://developer.microsoft.com/en-us/windows/dev-tools"
+      "title": "Using the Chrome DevTools console as a REPL for an Electron app",
+      "text": "I figured out how to use the Chrome DevTools to execute JavaScript interactively inside the Electron main process.",
+      "url": "https://til.simonwillison.net/electron/electron-debugger-console"
     },
     {
-      "title": "26 Software Development Tools & Platforms [2026 List]",
-      "text": "Jun 26, 2026 · See our list of 26 best software development tools that you can use for coding, project management, collaboration, automation, and more.",
-      "url": "https://spacelift.io/blog/software-development-tools"
+      "title": "What are some techniques, workflows, thought-processes etc. you...",
+      "text": "Learn the Chrome Developer Tools inside out, and live in them—especially the interactive JavaScript console, which can be a huge boon to your productivity.",
+      "url": "https://simonwillison.net/2013/Sep/16/what-are-some-techniques/"
     },
     {
-      "title": "Google Chrome Developer Tools - Google Chrome",
-      "text": "Test cutting-edge web platform APIs and developer tools that are updated weekly.",
-      "url": "https://www.google.com/chrome/dev/"
+      "title": "How do you know the real size of a web page?",
+      "text": "The Google Chrome developer tools can do this, on the Network tab. Take a look at the bottom blue bar (which says “5 requests | 29.49KB transferred”).",
+      "url": "https://simonwillison.net/2012/Jun/23/how-do-you-know/"
     },
     {
-      "title": "Product design - Wikipedia",
-      "text": "The product design process is a set of strategic and tactical activities, from idea generation to commercialization, used to create a product design. In a systematic approach, product designers conceptualize and evaluate ideas, turning them into tangible inventions and products.",
-      "url": "https://en.wikipedia.org/wiki/Product_design"
+      "title": "OpenAI DevDay 2024 live blog",
+      "text": "Next: OpenAI DevDay: Let’s build developer tools, not digital God. Previous: Weeknotes: Three podcasts, two trips and a new plugin system.",
+      "url": "https://simonwillison.net/2024/Oct/1/openai-devday-2024-live-blog/"
+    },
+    {
+      "title": "More technical details about Google Chrome Frame",
+      "text": "It’s implemented as a Browser Helper Object, uses IE’s cookies, history and password-remembering, includes the WebKit developer tools and appends “chromeframe” to the regular IE user...",
+      "url": "https://simonwillison.net/2009/Sep/23/jimray/"
+    },
+    {
+      "title": "The Cost of Developers – Stratechery by Ben Thompson",
+      "text": "In the long run, particularly as Windows continues to fade, the company will be ever more invested in a world with no gatekeepers, where developer tools and clouds win by being better on the...",
+      "url": "https://stratechery.com/2018/the-cost-of-developers/"
+    },
+    {
+      "title": "Rethinking the App Store – Stratechery by Ben Thompson",
+      "text": "That is a reason for a developer to try and consummate the payment on their own. At the same time, the App Store is itself a marketing channel.",
+      "url": "https://stratechery.com/2020/rethinking-the-app-store/"
+    },
+    {
+      "title": "Dependent on Digital Whales – Stratechery by Ben Thompson",
+      "text": "Developer tools are important, languages are important, exposure is important, but if there isn’t money to be made – or if more money can be made elsewhere...",
+      "url": "https://stratechery.com/2014/dependent-digital-whales/"
+    },
+    {
+      "title": "App Store Arguments – Stratechery by Ben Thompson",
+      "text": "It invented the iPhone, it brought the concept of an App Store to the mass market, and it has iterated on both. And yes, it spends a lot of money on APIs and developer tools.",
+      "url": "https://stratechery.com/2021/app-store-arguments/"
+    },
+    {
+      "title": "The Apple v. Epic Decision – Stratechery by Ben Thompson",
+      "text": "That was a lot of legalese, but this is the takeaway: IAP is distinct intellectual property from developer tools broadly; it is the entire set of app management tools, not just a payment processor...",
+      "url": "https://stratechery.com/2021/the-apple-v-epic-decision/"
+    },
+    {
+      "title": "Why Microsoft’s Reorganization Is a Bad Idea – Stratechery by Ben...",
+      "text": "...with a run-rate of more than one billion dollars a year: Windows, Office, Xbox, SQL Server, System Center, Unified Communications, SharePoint, Developer Tools, Dynamics (ERP & CRM)...",
+      "url": "https://stratechery.com/2013/why-microsofts-reorganization-is-a-bad-idea/"
+    },
+    {
+      "title": "Proposal: OpenAI Young Builders - Use cases and examples ...",
+      "text": "3 days ago · - Limited monthly API credits. - Access to selected OpenAI developer tools. - Project-based usage limits. - Strong default spending limits. - Guardian controls where legally required. - Educational resources and development paths. - Automatic transition to a standard developer account when the user reaches adulthood. Example",
+      "url": "https://community.openai.com/t/proposal-openai-young-builders/1389724"
+    },
+    {
+      "title": "ChatGPT - OpenAI Developer Community",
+      "text": "Jan 17, 2023 · Questions, bug reports, feedback, feature requests, use cases, and troubleshooting related to ChatGPT are welcome here.",
+      "url": "https://community.openai.com/c/chatgpt/19"
+    },
+    {
+      "title": "Chatgpt find discussion date - ChatGPT - OpenAI Developer Community",
+      "text": "\" To determine the exact date and time when this chat began, you can use your browser’s developer tools to access the conversation’s metadata. Here’s how you can do it",
+      "url": "https://community.openai.com/t/chatgpt-find-discussion-date/75394"
+    },
+    {
+      "title": "Chatgpt Plus freezing all the time! - Page 2 - Bugs - OpenAI Developer...",
+      "text": "Access Developer ToolsSelect the Div: Click on the tag in the Developer Tools to select it. This will highlight the code responsible for the div in question.",
+      "url": "https://community.openai.com/t/chatgpt-plus-freezing-all-the-time/540304?page=2"
+    },
+    {
+      "title": "Developer Campaign Marketer - Claude Code - Jobs \\ Anthropic",
+      "text": "Familiarity with command line tools, terminal workflows, and developer productivity tools. Experience in high-growth startup environments or launching new developer products from scratch.",
+      "url": "https://www.anthropic.com/careers/jobs/5026189008"
+    },
+    {
+      "title": "Product Marketing Manager, Claude Code - Jobs \\ Anthropic",
+      "text": "Competitive Intelligence: Monitor the developer tools landscape, particularly competing AI coding assistants, to inform our positioning and identify opportunities for differentiation.",
+      "url": "https://www.anthropic.com/careers/jobs/4996752008"
+    },
+    {
+      "title": "Product Designer, Claude Developer Platform - Jobs \\ Anthropic",
+      "text": "As a Designer for Claude Developer Platform at Anthropic, you'll shape how developers experience our API products—from the Console and documentation to Workbench and beyond.",
+      "url": "https://www.anthropic.com/careers/jobs/5055448008"
+    },
+    {
+      "title": "Claude Desktop Extensions: One-click MCP server installation for...",
+      "text": "Users needed developer tools, had to manually edit configuration files, and often got stuck on dependency issues. Today, we're introducing Desktop Extensions—a new packaging...",
+      "url": "https://www.anthropic.com/engineering/desktop-extensions"
+    },
+    {
+      "title": "Headstart Cuts Software Development Time by 100x with Claude AI",
+      "text": "For Headstart, the goal is to remain \"AI-native\" as they grow, using tools like Claude to maintain exponential productivity gains instead of scaling linearly with headcount.",
+      "url": "https://www.anthropic.com/customers/headstart?utm_="
+    },
+    {
+      "title": "Donating the Model Context Protocol and establishing the Agentic AI...",
+      "text": "Across the ecosystem: There are now more than 10,000 active public MCP servers, covering everything from developer tools to Fortune 500 deployments",
+      "url": "https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation"
+    },
+    {
+      "title": "Product design at GitHub | Simon Willison’s Weblog",
+      "text": "Product design at GitHub. At GitHub, every employee is a product designer. Posted 2nd April 2011 at 7:51 am.",
+      "url": "https://simonwillison.net/2011/Apr/2/product/"
     },
     {
       "title": "Simon Willison on design",
@@ -311,24 +501,24 @@
       "url": "https://simonwillison.net/tags/design/"
     },
     {
-      "title": "RISD BFA Industrial Design: AI Software Design Studio",
-      "text": "By course's end, students will have hands-on experience with an end-to-end digital product design process, culminating in a physical or digital product that takes advantage of the unique...",
-      "url": "https://simonwillison.net/2024/Oct/9/risd-bfa-industrial-design-ai-software-design-studio/"
-    },
-    {
       "title": "Weeknotes: Design thinking for journalists, genome-to-sqlite...",
       "text": "I’ve used aspects of design thinking in building software products, but I’d never really thought about how it could be applied outside of digital product design. It’s been really...",
-      "url": "https://simonwillison.net/2019/Sep/20/weeknotes-design-thinking-genome-sqlite/"
+      "url": "https://simonwillison.net/2019/sep/20/weeknotes-design-thinking-genome-sqlite/"
     },
     {
-      "title": "What is product design? Definition, process, tools & more",
-      "text": "Oct 4, 2023 · The goal of product design is to ideate, design, and iterate on products that meet a specific user need, make sense from a business perspective, and compete successfully in their given market.",
-      "url": "https://www.uxdesigninstitute.com/blog/what-is-product-design/"
+      "title": "Lateral Thinking with Withered Technology",
+      "text": "Gunpei Yokoi’s product design philosophy at Nintendo (“Withered” is also sometimes translated as “Weathered”).",
+      "url": "https://simonwillison.net/2024/Mar/14/lateral-thinking-with-weathered-technology/"
     },
     {
-      "title": "What is Product Design: A Comprehensive Guide - Figma",
-      "text": "Product design is the practice of shaping how a product works, feels, and fits into people’s lives, from the earliest concept to the final shipped experience. It sits at the intersection of user needs and business goals.",
-      "url": "https://www.figma.com/resource-library/what-is-product-design/"
+      "title": "Archive for October 2024 | Simon Willison’s Weblog",
+      "text": "RISD BFA Industrial Design: AI Software Design Studio. Fascinating syllabus for a course on digital product design taught at the Rhode Island School of Design by Kelin Carolyn Zhang.",
+      "url": "https://simonwillison.net/2024/Oct/?page=2"
+    },
+    {
+      "title": "Things About Real-World Data Science Not Discussed In MOOCs and...",
+      "text": "...of a data scientist: cleaning up data, building dashboards, shipping models to production, deciding on trade-offs between performance and production and considering the product design and.",
+      "url": "https://simonwillison.net/2018/Dec/11/real-world-data-science/"
     },
     {
       "title": "The Pooled-Risk Company Management Company",
@@ -336,9 +526,14 @@
       "url": "https://paulgraham.com/prcmc.html"
     },
     {
-      "title": "Product design process in 8 steps [with real examples]",
-      "text": "Aug 27, 2025 · We’ll explain how to design a product in 8 steps along with expert advice, community insights, and real-world examples. All the steps are flexible, so you can shape them around your team’s needs and constraints.",
-      "url": "https://www.eleken.co/blog-posts/product-design-process"
+      "title": "How to Do What You Love",
+      "text": "[7] The trick of maximizing the parts of your job that you like can get you from architecture to product design, but not, probably, to music.",
+      "url": "https://paulgraham.com/love.html"
+    },
+    {
+      "title": "How to Do Philosophy",
+      "text": "It turns out to have quite broad applications—for example, in genetic algorithms and even product design. Frankfurt's distinction between lying and bullshitting seems a promising recent...",
+      "url": "https://paulgraham.com/philosophy.html"
     },
     {
       "title": "Surface Studio, Nintendo Switch, and Niche Strategies – Stratechery...",
@@ -346,39 +541,44 @@
       "url": "https://stratechery.com/2016/surface-studio-nintendo-switch-and-the-potential-of-niche/"
     },
     {
+      "title": "Chips and Geopolitics – Stratechery by Ben Thompson",
+      "text": "Intel, by integrating design, manufacture, and software from the 1970s, would go on to define and dominate the processor market for decades.",
+      "url": "https://stratechery.com/2020/chips-and-geopolitics/"
+    },
+    {
       "title": "An Interview with Adobe Chief Strategy Officer Scott Belsky",
       "text": "Scott Belsky is the Chief Strategy Office and Executive Vice President of Design & Emerging Products at Adobe; prior to that he was Adobe’s first Chief Product Officer.",
-      "url": "https://stratechery.com/2023/an-interview-with-adobe-chief-strategy-officer-scott-belsky/"
+      "url": "https://stratechery.com/2023/an-interview-with-adobe-chief-strategy-officer-scott-belsky/?trk=article-ssr-frontend-pulse_little-text-block"
     },
     {
-      "title": "Product Design: The Complete Guide to Creating Digital Products...",
-      "text": "Apr 10, 2026 · Product design is the process of creating a digital product’s interface, interactions, and overall experience — from initial research through prototyping, testing, and iteration. It sits at the intersection of user needs, business goals, and technical feasibility.",
-      "url": "https://www.uxpin.com/studio/blog/product-design-ultimate-guide/"
-    },
-    {
-      "title": "ChatGPT for product - Resource | OpenAI Academy",
-      "text": "This prompt pack provides high-impact product management prompts covering competitive research, strategy, UX design, content creation, and data analysis.",
-      "url": "https://academy.openai.com/public/clubs/work-users-ynjqu/resources/use-cases-product"
-    },
-    {
-      "title": "Product Design · San Francisco · FullTime",
-      "text": "This role sits at the intersection of product design, experimentation, and storytelling. This role is based in our San Francisco HQ. We offer relocation assistance to new employees.",
-      "url": "https://openai.com/careers/product-designer-growth-san-francisco/"
-    },
-    {
-      "title": "Must be Improved sections and features - Codex - OpenAI Developer...",
-      "text": "I recently ran into a serious combination of reliability and product-design problems that made Codex Desktop effectively unusable. Environment: macOS 26.3.1 Apple Silicon MacBook Pro...",
+      "title": "Must be Improved sections and features - Codex - OpenAI ...",
+      "text": "3 days ago · I recently ran into a serious combination of reliability and product-design problems that made Codex Desktop effectively unusable. Environment: macOS 26.3.1 Apple Silicon MacBook Pro ChatGPT Pro Codex CLI 0.147.0 Codex Desktop / ChatGPT Desktop with Codex ~1,200 total Codex chats ~25.6B lifetime tokens",
       "url": "https://community.openai.com/t/must-be-improved-sections-and-features/1389757"
+    },
+    {
+      "title": "ChatGPT Business - Release Notes - OpenAI Help Center",
+      "text": "5 days ago · This first set includes Sales, Data Analytics, Product Design, Creative Production, Investment Banking, and Public Equity Investing. These plugins package role-specific skills, app integrations, starter prompts, and workflow guidance so teams can use Codex for sales prep, analytics and dashboards, prototypes, creative assets, and financial ...",
+      "url": "https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes"
+    },
+    {
+      "title": "Feature Proposal: Contextual Observation . A New Interaction ...",
+      "text": "2 days ago · Hello OpenAI team, I’d like to share a product design proposal called Contextual Observation. The idea addresses a small but important gap in the current conversational AI interaction model: the moment when a user is curious and wants to explore, but does not yet know what question to ask. This is especially relevant during first use. A person may open ChatGPT with curiosity but without ...",
+      "url": "https://community.openai.com/t/feature-proposal-contextual-observation-a-new-interaction-pattern-for-conversational-ai/1389911"
+    },
+    {
+      "title": "Feature Request: Enforce Persistent Brand Rules Across Image ...",
+      "text": "3 days ago · What I hope can be useful for product and model improvement is not the underlying brand intellectual property, but the failure patterns, attempted solutions, workflow limitations, and product-design lessons discovered through this long-term use case.",
+      "url": "https://community.openai.com/t/feature-request-enforce-persistent-brand-rules-across-image-generation-assets-qa-and-delivery/1389735"
+    },
+    {
+      "title": "Clarification / Bug Report – ChatGPT \"Work\" Unavailable in ...",
+      "text": "3 days ago · If yes, is this an intentional and permanent product design, or a current/temporary technical limitation? If it is a temporary limitation, is support for Work + Project-only memory planned? If Project-only memory Projects are actually expected to support Work, should the behaviour described above be treated as a bug?",
+      "url": "https://community.openai.com/t/clarification-bug-report-chatgpt-work-unavailable-in-projects-using-project-only-memory/1389730"
     },
     {
       "title": "Introducing Claude Design by Anthropic Labs \\ Anthropic",
       "text": "And for founders, product managers, and marketers with an idea but not a design background, creating and sharing those ideas can be daunting.",
       "url": "https://www.anthropic.com/news/claude-design-anthropic-labs"
-    },
-    {
-      "title": "Product Designer, Claude Developer Platform - Jobs \\ Anthropic",
-      "text": "Design plays a critical role in building transformative AI systems that feel reliable, interpretable, and trustworthy. Designers give shape to our vision for tremendous human progress through AI.",
-      "url": "https://www.anthropic.com/careers/jobs/5055448008"
     },
     {
       "title": "Product Designer, Claude Experiences - Jobs \\ Anthropic",
