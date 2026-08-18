@@ -2,28 +2,28 @@
   "articles": [
     {
       "title": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
-      "text": "342 points on Hacker News",
+      "text": "343 points on Hacker News",
       "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis"
     },
     {
       "title": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
-      "text": "113 points on Hacker News",
+      "text": "150 points on Hacker News",
       "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll"
     },
     {
       "title": "AI is removing the middle class of software engineering?",
-      "text": "997 points on Hacker News",
+      "text": "1002 points on Hacker News",
       "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html"
     },
     {
       "title": "Software Engineering fundamentals matter more",
-      "text": "304 points on Hacker News",
+      "text": "314 points on Hacker News",
       "url": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/"
     },
     {
-      "title": "Germany Sets New Six-Month Startup Record",
-      "text": "45 points on Hacker News",
-      "url": "https://www.gtai.de/en/meta/press/germany-sets-new-six-month-start-up-record-2012048"
+      "title": "My friends all hate AI; I just joined an AI startup",
+      "text": "44 points on Hacker News",
+      "url": "https://www.fast.ai/posts/2026-08-18-returning-to-AI/"
     },
     {
       "title": "YC startups are abandoning .com",
@@ -37,7 +37,7 @@
     },
     {
       "title": "Stripe will reportedly acquire OpenRouter for $7B+",
-      "text": "328 points on Hacker News",
+      "text": "462 points on Hacker News",
       "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/"
     },
     {
@@ -57,43 +57,138 @@
     },
     {
       "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
-      "text": "10 hours ago - Friday’s big release was Qwen 3.8 27B, an Apache 2 licensed 27B parameter vision-capable LLM from Alibaba’s Qwen research lab. I’ve been looking forward to this one: 27B is an …",
+      "text": "1 day ago - Friday’s big release was Qwen 3.8 27B, an Apache 2 licensed 27B parameter vision-capable LLM from Alibaba’s Qwen research lab. I’ve been looking forward to this one: 27B is an …",
       "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/"
     },
     {
-      "title": "Introducing Muse Glimmer",
-      "text": "1 week ago - Meta are back in the open weights game! Muse Glimmer is a brand new 30B model under a clean Apache 2.0 license (a step up from the janky Llama licenses …",
-      "url": "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/"
+      "title": "A quote from Dario Amodei",
+      "text": "2 days ago - I do agree that the public has a negative view of AI (and that this is a big problem), but I don’t think it is primarily caused by me or …",
+      "url": "https://simonwillison.net/2026/Aug/16/dario-amodei/"
+    },
+    {
+      "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+      "text": "16 hours ago - Excellent piece of reporting from 404 Media. For a while now there have been stories of book dealers receiving orders for large volumes of books from apparently price-insensitive anonymous customers, …",
+      "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/"
     },
     {
       "title": "The CapEx Train Keeps Rolling – Stratechery by Ben Thompson",
-      "text": "3 days ago - The best Stratechery content from the week of August 10, 2026, including the capital constraint, AI writing, and a tale of two cities.",
+      "text": "4 days ago - The best Stratechery content from the week of August 10, 2026, including the capital constraint, AI writing, and a tale of two cities.",
       "url": "https://stratechery.com/2026/the-capex-train-keeps-rolling/"
     },
     {
+      "title": "Stripe Acquiring OpenRouter, Aggregating AI?, Flipping the Business Model – Stratechery by Ben Thompson",
+      "text": "1 day ago - Stripe is reportedly acquiring OpenRouter, an implicit bet on a future market of models and the chance at Aggregation.",
+      "url": "https://stratechery.com/2026/stripe-acquiring-openrouter-aggregating-ai-flipping-the-business-model/"
+    },
+    {
       "title": "Nvidia’s Risky Business",
-      "text": "5 days ago - We’ll see how zero sum compute actually is — there are reports Google’s researchers have been starved for compute — but the overall takeaway is that whether or not Google is competing for the frontier, they are absolutely competing to dominate AI infrastructure. And, in a world where intelligence is a commodity, TPUs in particular are a big deal.",
+      "text": "1 week ago - We’ll see how zero sum compute actually is — there are reports Google’s researchers have been starved for compute — but the overall takeaway is that whether or not Google is competing for the frontier, they are absolutely competing to dominate AI infrastructure. And, in a world where intelligence is a commodity, TPUs in particular are a big deal.",
       "url": "https://stratechery.com/2026/nvidias-risky-business/"
     },
     {
       "title": "Anthropic’s Watermarking, How It (Probably) Works, Worse Than It Seems",
-      "text": "5 days ago - Anthropic is adding watermarking in response to the E.U.’s AI law. It’s a terrible idea, first and foremost for philosophical reasons.",
+      "text": "6 days ago - Anthropic is adding watermarking in response to the E.U.’s AI law. It’s a terrible idea, first and foremost for philosophical reasons.",
       "url": "https://stratechery.com/2026/anthropics-watermarking-how-it-probably-works-worse-than-it-seems/"
     },
     {
+      "title": "New policy ideas for the Intelligence Age - OpenAI",
+      "text": "1 day ago · OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age/"
+    },
+    {
       "title": "Real Time Video/ Product for OpenAI",
-      "text": "OpenAI Presence From Real-Time Voice to Real-Time Visual Intelligence Real-time voice changed the way people interact with artificial intelligence. Before real-time voice, interacting with AI largely meant typing a question, waiting for an answer, and reading text on a screen. Real-time voice changed that relationship. AI could listen while we spoke, respond immediately, understand ...",
+      "text": "1 day ago · OpenAI Presence From Real-Time Voice to Real-Time Visual Intelligence Real-time voice changed the way people interact with artificial intelligence. Before real-time voice, interacting with AI largely meant typing a question, waiting for an answer, and reading text on a screen. Real-time voice changed that relationship. AI could listen while we spoke, respond immediately, understand ...",
       "url": "https://community.openai.com/t/real-time-video-product-for-openai/1390803"
     },
     {
-      "title": "A proposal for safer and more inclusive AI",
-      "text": "Dear OpenAI Team, I am writing not simply as a ChatGPT user, but as someone who believes artificial intelligence has the potential to provide a level of independence, dignity, companionship and practical assistance that conventional technology has never been able to offer many people. I would be very grateful if this message could be forwarded to the appropriate Product, Accessibility, Safety ...",
-      "url": "https://community.openai.com/t/a-proposal-for-safer-and-more-inclusive-ai/1390737"
+      "title": "ChatGPT Work for finance teams [Recording] - Video | OpenAI ...",
+      "text": "5 days ago · Unlock the new opportunities of the AI era by equipping yourself with the knowledge and skills to harness artificial intelligence effectively.",
+      "url": "https://academy.openai.com/home/clubs/work-users-ynjqu/videos/chatgpt-work-for-finance-teams-2026-08-13"
     },
     {
-      "title": "ChatGPT Work for finance teams: Webinar Resource Guide",
-      "text": "Unlock the new opportunities of the AI era by equipping yourself with the knowledge and skills to harness artificial intelligence effectively.",
-      "url": "https://academy.openai.com/public/clubs/work-users-ynjqu/resources/chatgpt-work-for-finance-teams-webinar-resource-guide-2026-08-13"
+      "title": "The builder’s guide to GPT‑5.6 - OpenAI",
+      "text": "5 days ago · Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6/"
+    },
+    {
+      "title": "Patterns and problems in multiagent systems \\ Anthropic",
+      "text": "5 days ago · We ran experiments on swarms of Claude agents and found coordination failures, collusion, and sabotage. Here, we share what they mean for AI safety.",
+      "url": "https://www.anthropic.com/research/multiagent-systems"
+    },
+    {
+      "title": "A quote from Florian Herrengt",
+      "text": "6 days ago · But then users start to report a weird bug. It's the 4th time your team has been trying to fix it. I mean... asking AI to fix it. Unfortunately, it …",
+      "url": "https://simonwillison.net/2026/Aug/12/florian-herrengt/"
+    },
+    {
+      "title": "Simon Willison on ai",
+      "text": "1 day ago · Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index (via) That's the same score as GPT-5.6 Luna (max), and just one point behind GLM-5.2 (max) and DeepSeek V4 Pro 0813 (max) - that GLM is 753B and that DeepSeek is 1.6B parameters, and Luna is size unknown but presumably a whole lot bigger than 27B. Qwen 3.8 27B is a truly astonishing model. # 17th August 2026, 11:58 pm / ai ...",
+      "url": "https://simonwillison.net/tags/ai/"
+    },
+    {
+      "title": "An OpenAI speaker should be an execution layer for Codex—not ...",
+      "text": "3 days ago · I am not from a computer-science or software-engineering background, but Codex has helped me build a very early local agent system for a small office. The system loads relevant rules and context, searches local knowledge, calls tools or workflows, returns results, and preserves inspectable session records.",
+      "url": "https://community.openai.com/t/an-openai-speaker-should-be-an-execution-layer-for-codex-not-just-another-smart-speaker/1390569"
+    },
+    {
+      "title": "Release: llm-gemini 0.33 - simonwillison.net",
+      "text": "4 days ago · It's been a while since the last llm-gemini release. This version of the plugin adds support for today's Gemini 3.7 Flash release, plus gemini-3.6-flash, gemini-3.5-flash-lite and two embedding models gemini-embedding-2 and gemini-embedding-001. The plugin is also upgraded for compatibility with LLM 0.32, which means you can now see reasoning traces and you can also enable server-side tools ...",
+      "url": "https://simonwillison.net/2026/Aug/13/llm-gemini/"
+    },
+    {
+      "title": "Simon Willison on wildlife",
+      "text": "3 days ago · This is Morris. Morris is a local celebrity: the only known Northern Gannet (Morus bassanus) in the entire Pacific Ocean. They showed up in the Farallon Islands off the coast of San Francisco 14 years ago. They have since made Pillar Point harbor their home, where they are quite easy to spot: the only white bird with a yellow head, usually hanging out with the smaller black Brandt’s ...",
+      "url": "https://simonwillison.net/tags/wildlife/"
+    },
+    {
+      "title": "Sighting: Great Horned Owl",
+      "text": "4 days ago · Sighting 8:53 PM — Great Horned Owl, in San Mateo County, CA, US",
+      "url": "https://simonwillison.net/2026/Aug/14/sighting-391033390/"
+    },
+    {
+      "title": "OpenAI Status",
+      "text": "Latest service status for OpenAI",
+      "url": "https://status.openai.com/incidents/01M015X5NF9D6C4MYR6NGR8HAR"
+    },
+    {
+      "title": "ChatGPT Business - Releaseopmerkingen | OpenAI Help Center",
+      "text": "5 days ago · ChatGPT Work is een agent voor langere, complexere taken. Het kan informatie onderzoeken en analyseren, met gekoppelde apps en bestanden werken en voltooide documenten, spreadsheets, presentaties, rapporten en Sites maken. Tijdens het werk kun je de voortgang volgen, vragen beantwoorden, de koers wijzigen en belangrijke acties goedkeuren. Work kan projecten ook in beweging houden met Geplande ...",
+      "url": "https://help.openai.com/nl-nl/articles/11391654-chatgpt-business-release-notes"
+    },
+    {
+      "title": "ChatGPT Enterprise & Edu - Release Notes - OpenAI Help Center",
+      "text": "5 days ago · ChatGPT Enterprise, ChatGPT for Healthcare, and ChatGPT Edu admins can now turn off in-app updates for the ChatGPT desktop app on supported macOS and Windows builds. This lets organizations review new releases before users receive them and deploy approved versions through their existing device management process. The app's built-in updater remains enabled by default. Organizations that turn it ...",
+      "url": "https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes"
+    },
+    {
+      "title": "Proposal: A ChatGPT Builder Plan for Hobbyists, Tinkerers ...",
+      "text": "1 day ago · I am not primarily referring to professional developers, startups, or teams running production systems. I mean hobby builders, tinkerers, learners, and curious users who enjoy creating small tools for themselves.",
+      "url": "https://community.openai.com/t/proposal-a-chatgpt-builder-plan-for-hobbyists-tinkerers-and-personal-ai-projects/1390869"
+    },
+    {
+      "title": "How Claude's text watermarking works \\ Anthropic",
+      "text": "4 days ago · Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act. In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works ...",
+      "url": "https://www.anthropic.com/news/claude-text-watermark"
+    },
+    {
+      "title": "Release Notes - OpenAI",
+      "text": "5 days ago · OpenAI release notes for ChatGPT, API Platform, and Codex. Explore the latest features, updates, and improvements across OpenAI products.",
+      "url": "https://openai.com/products/release-notes/"
+    },
+    {
+      "title": "ChatGPT Enterprise & Edu - Release Notes - OpenAI Help Center",
+      "text": "5 days ago · This first set includes Sales, Data Analytics, Product Design, Creative Production, Investment Banking, and Public Equity Investing. These plugins package role-specific skills, app integrations, starter prompts, and workflow guidance so teams can use Codex for sales prep, analytics and dashboards, prototypes, creative assets, and financial ...",
+      "url": "https://help.openai.com/en/articles/10128477"
+    },
+    {
+      "title": "Marco Salsiccia builds accessible apps with Codex",
+      "text": "4 days ago · A blind accessibility advisor turned years of coding and product-design experience into native apps, including Whack A Braille and WordBopper. In October 2025, Marco Salsiccia had no native apps in the App Store.",
+      "url": "https://academy.openai.com/public/blogs/marco-salsiccia-builds-accessible-apps-with-codex"
+    },
+    {
+      "title": "How I structure multi-Agent teams in Codex: ownership, model ...",
+      "text": "4 days ago · I’m a UI/UX designer who uses Codex across product, design, research, data, content, and development work. As the projects became more complex, I found that the hard part of a multi-Agent workflow was not spawning more Agents. The hard part was designing a persistent team where every Agent has a non-overlapping reason to exist, each role gets an appropriate model configuration, and Skills ...",
+      "url": "https://community.openai.com/t/how-i-structure-multi-agent-teams-in-codex-ownership-model-routing-and-high-value-skills/1390381"
     }
   ]
 }
