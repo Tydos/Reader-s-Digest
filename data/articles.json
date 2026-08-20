@@ -1,54 +1,29 @@
 {
   "articles": [
     {
-      "title": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
-      "text": "343 points on Hacker News",
-      "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis"
-    },
-    {
       "title": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
-      "text": "155 points on Hacker News",
+      "text": "157 points on Hacker News",
       "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll"
     },
     {
       "title": "Why your Amazon order confirmation emails have become so unhelpful",
-      "text": "67 points on Hacker News",
+      "text": "76 points on Hacker News",
       "url": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data"
     },
     {
-      "title": "AI is removing the middle class of software engineering?",
-      "text": "1005 points on Hacker News",
-      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html"
-    },
-    {
       "title": "Software Engineering fundamentals matter more",
-      "text": "317 points on Hacker News",
+      "text": "318 points on Hacker News",
       "url": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/"
     },
     {
       "title": "My friends all hate AI; I just joined an AI startup",
-      "text": "56 points on Hacker News",
+      "text": "57 points on Hacker News",
       "url": "https://www.fast.ai/posts/2026-08-18-returning-to-AI/"
     },
     {
-      "title": "YC startups are abandoning .com",
-      "text": "39 points on Hacker News",
-      "url": "https://www.orangecrumbs.com/stories/yc-domains"
-    },
-    {
-      "title": "Anthropic in Talks to Buy World Model AI Startup Decart for $6B",
-      "text": "35 points on Hacker News",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion"
-    },
-    {
       "title": "Stripe will reportedly acquire OpenRouter for $7B+",
-      "text": "472 points on Hacker News",
+      "text": "481 points on Hacker News",
       "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/"
-    },
-    {
-      "title": "DeepSeek V4 Pro 0813",
-      "text": "https:&#x2F;&#x2F;api-docs.deepseek.com&#x2F; https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;models&#x2F;deepseek-v4-pro https:&#x2F;&#x2F;twitter.com&#x2F;ChrisGPT&#x2F;status&#x2F;2087572834650407024 , https:&#x2F;&#x2F;xcancel.com&#x2F;ChrisGPT&#x2F;status&#x2F;2087572834650407024",
-      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813"
     },
     {
       "title": "DeepSeek API Pricing Update",
@@ -56,9 +31,24 @@
       "url": "https://api-docs.deepseek.com/news/news260813/"
     },
     {
+      "title": "Degraded performance for multiple models",
+      "text": "149 points on Hacker News",
+      "url": "https://status.claude.com/incidents/q7txxvbsftgq"
+    },
+    {
+      "title": "Flock impersonates journalist in order to cancel his hotel reservations",
+      "text": "72 points on Hacker News",
+      "url": "https://xcancel.com/bennjordan/status/2089430236945342508"
+    },
+    {
       "title": "Show HN: Mole – Deep research agent for your terminal",
       "text": "Doing research with agents is fun until they blow way past budget, jumble the sources, and don&#x27;t even give you the best possible answer, just sound confident. And if you want to run some research task on local data - you have no idea where your data ends up after the prompt consumes it. So I built this tool: a deep-research agent with an enforced budget, verified quotes, and a privacy boundary for local data. 1. Never spend more than you budgeted (measured overshoot is 0%). 2. Every claim c",
       "url": "https://github.com/lajosdeme/mole"
+    },
+    {
+      "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
+      "text": "Hi HN, Jonathan &amp; Guy here from OneCLI, an agent harness built for teams, giving every employee a secured, sandboxed personal agent. Here’s what you can do with it: 1. get a sandboxed agent, with all the OneCLI capabilities in place like connect your GitHub account, Gmail, Notion, or Dropbox simply from the chat. 2. deterministic human in the loop approval in the chat itself for things that you need 100% control like sending an email or deleting the Linear ticket. 3. manage team policy in on",
+      "url": "https://github.com/onecli/onecli"
     },
     {
       "title": "Show HN: Openleetcode – Local LeetCode runner where tests live in the repo",
@@ -66,114 +56,104 @@
       "url": "https://github.com/therepanic/openleetcode"
     },
     {
+      "title": "Simon Willison on artificial-analysis",
+      "text": "3 days ago · 9 posts tagged ‘artificial-analysis’. Artificial Analysis is an independent AI benchmarking and analysis company.",
+      "url": "https://simonwillison.net/tags/artificial-analysis/"
+    },
+    {
       "title": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index",
-      "text": "1 day ago - Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index (via) That's the same score as GPT-5.6 Luna (max), and just one point behind GLM-5.2 (max) and DeepSeek V4 Pro 0813 (max) - that GLM is 753B and that DeepSeek is 1.7T parameters, and Luna is size unknown but presumably a whole lot bigger than 27B.",
+      "text": "2 days ago - Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index (via) That's the same score as GPT-5.6 Luna (max), and just one point behind GLM-5.2 (max) and DeepSeek V4 Pro 0813 (max) - that GLM is 753B and that DeepSeek is 1.7T parameters, and Luna is size unknown but presumably a whole lot bigger than 27B.",
       "url": "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/"
     },
     {
       "title": "Simon Willison on ai-backlash",
-      "text": "3 days ago - In my experience, the supermajority of engagement on viral AI Facebook pages is just as artificially-generated as the content they publish. When exploring their comment sections, one will often see hundreds of bot-like comments interspersed with a few ‘real’ people sounding the alarm to no avail.",
+      "text": "4 days ago - In my experience, the supermajority of engagement on viral AI Facebook pages is just as artificially-generated as the content they publish. When exploring their comment sections, one will often see hundreds of bot-like comments interspersed with a few ‘real’ people sounding the alarm to no avail.",
       "url": "https://simonwillison.net/tags/ai-backlash/"
     },
     {
-      "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
-      "text": "2 days ago - Friday’s big release was Qwen 3.8 27B, an Apache 2 licensed 27B parameter vision-capable LLM from Alibaba’s Qwen research lab. I’ve been looking forward to this one: 27B is an …",
+      "title": "Qwen 3.8 27B is excellent, but it defaults to wildly ...",
+      "text": "4 days ago · Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things Friday’s big release was Qwen 3.8 27B, an Apache 2 licensed 27B parameter vision-capable LLM from Alibaba’s Qwen research lab. I’ve been looking forward to this one: 27B is an excellent size for running a model on a reasonably specced laptop, and its predecessor Qwen 3.6 27B was impressive. Qwen’s self-reported ...",
       "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/"
     },
     {
-      "title": "A quote from Dario Amodei",
-      "text": "3 days ago - I do agree that the public has a negative view of AI (and that this is a big problem), but I don’t think it is primarily caused by me or …",
-      "url": "https://simonwillison.net/2026/Aug/16/dario-amodei/"
-    },
-    {
-      "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-      "text": "1 day ago - Excellent piece of reporting from 404 Media. For a while now there have been stories of book dealers receiving orders for large volumes of books from apparently price-insensitive anonymous customers, …",
-      "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/"
-    },
-    {
       "title": "The CapEx Train Keeps Rolling – Stratechery by Ben Thompson",
-      "text": "5 days ago - The best Stratechery content from the week of August 10, 2026, including the capital constraint, AI writing, and a tale of two cities.",
+      "text": "1 week ago - The best Stratechery content from the week of August 10, 2026, including the capital constraint, AI writing, and a tale of two cities.",
       "url": "https://stratechery.com/2026/the-capex-train-keeps-rolling/"
     },
     {
       "title": "Nvidia Backs OpenAI Data Center, Anthropic News, Google Buys Spirit Airlines Data – Stratechery by Ben Thompson",
-      "text": "1 day ago - Nvidia makes another deal, this time with a frontier lab; Anthropic’s revenue continues to amaze; and maybe data finally is oil.",
+      "text": "2 days ago - Nvidia makes another deal, this time with a frontier lab; Anthropic’s revenue continues to amaze; and maybe data finally is oil.",
       "url": "https://stratechery.com/2026/nvidia-backs-openai-data-center-anthropic-news-google-buys-spirit-airlines-data/"
     },
     {
-      "title": "Stripe Acquiring OpenRouter, Aggregating AI?, Flipping the Business Model – Stratechery by Ben Thompson",
-      "text": "2 days ago - Stripe is reportedly acquiring OpenRouter, an implicit bet on a future market of models and the chance at Aggregation.",
+      "title": "Stripe Acquiring OpenRouter, Aggregating AI?, Flipping the ...",
+      "text": "3 days ago · Stripe is reportedly acquiring OpenRouter, an implicit bet on a future market of models and the chance at Aggregation.",
       "url": "https://stratechery.com/2026/stripe-acquiring-openrouter-aggregating-ai-flipping-the-business-model/"
     },
     {
-      "title": "Anthropic’s Watermarking, How It (Probably) Works, Worse Than It Seems",
-      "text": "1 week ago - Anthropic is adding watermarking in response to the E.U.’s AI law. It’s a terrible idea, first and foremost for philosophical reasons.",
-      "url": "https://stratechery.com/2026/anthropics-watermarking-how-it-probably-works-worse-than-it-seems/"
-    },
-    {
       "title": "New policy ideas for the Intelligence Age - OpenAI",
-      "text": "2 days ago · American Enterprise Institute: AEI-Urban Bipartisan Commission on Artificial Intelligence and the Future of the American Workforce. The AEI-Urban bipartisan commission will develop low-, moderate-, and high-disruption scenarios for AI’s effects on employment and skills and connect observable indicators of disruption to policy playbooks.",
+      "text": "3 days ago · American Enterprise Institute: AEI-Urban Bipartisan Commission on Artificial Intelligence and the Future of the American Workforce. The AEI-Urban bipartisan commission will develop low-, moderate-, and high-disruption scenarios for AI’s effects on employment and skills and connect observable indicators of disruption to policy playbooks.",
       "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age/"
     },
     {
       "title": "Real Time Video/ Product for OpenAI",
-      "text": "2 days ago · OpenAI Presence From Real-Time Voice to Real-Time Visual Intelligence Real-time voice changed the way people interact with artificial intelligence. Before real-time voice, interacting with AI largely meant typing a ques…",
+      "text": "3 days ago · OpenAI Presence From Real-Time Voice to Real-Time Visual Intelligence Real-time voice changed the way people interact with artificial intelligence. Before real-time voice, interacting with AI largely meant typing a ques…",
       "url": "https://community.openai.com/t/real-time-video-product-for-openai/1390803"
     },
     {
+      "title": "OpenAI joins PORTS-Pike project",
+      "text": "3 days ago · OpenAI has entered into an agreement to secure approximately 8 gigawatts-IT at the PORTS-Pike Technology Campus in Pike County, Ohio, working with SB Energy, NVIDIA, and the U.S. Department of Energy. We want to develop this project as a partner to Pike County—paying its project-specific energy and infrastructure costs, using water responsibly, creating opportunities for local workers and ...",
+      "url": "https://openai.com/index/openai-joins-ports-pike-project/"
+    },
+    {
       "title": "BBVA puts AI at the core of banking with OpenAI | OpenAI",
-      "text": "1 day ago · Founded in 1857, BBVA is a global financial institution supporting people and businesses across Europe, Mexico, South America, Turkey, and the U.S., serving tens of millions of customers worldwide. After pioneering digital and mobile banking over the last decade, BBVA is now entering a new phase: transforming banking around artificial intelligence.",
+      "text": "2 days ago · “Our alliance with OpenAI accelerates the native integration of artificial intelligence across the bank to create a smarter, more proactive, and completely personalized banking experience, anticipating the needs of every client.”",
       "url": "https://openai.com/index/bbva/?ref=taaft"
     },
     {
       "title": "OpenAI Newsroom | Global Affairs",
-      "text": "1 day ago · Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity.",
+      "text": "2 days ago · Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity.",
       "url": "https://openai.com/news/global-affairs/"
     },
     {
-      "title": "OpenAI 新闻动态 | OpenAI",
-      "text": "1 day ago · 随时了解 AI 技术的快速发展及其为人类带来的诸多益处。",
-      "url": "https://openai.com/zh-Hans-CN/news/"
-    },
-    {
       "title": "Simon Willison on ai",
-      "text": "2 days ago · [...] This project has become so convoluted, with so many layers and services, that no one on your team could possibly start to understand what's going on. — Florian Herrengt, AI is removing the middle class of software engineering # 12th August 2026, 3:08 pm / ai-misuse, cognitive-debt, generative-ai, ai, llms, ai-assisted-programming",
+      "text": "3 days ago · [...] This project has become so convoluted, with so many layers and services, that no one on your team could possibly start to understand what's going on. — Florian Herrengt, AI is removing the middle class of software engineering # 12th August 2026, 3:08 pm / ai-misuse, cognitive-debt, generative-ai, ai, llms, ai-assisted-programming",
       "url": "https://simonwillison.net/tags/ai/"
     },
     {
+      "title": "Simon Willison on generative-ai",
+      "text": "1 day ago · [...] This project has become so convoluted, with so many layers and services, that no one on your team could possibly start to understand what's going on. — Florian Herrengt, AI is removing the middle class of software engineering # 12th August 2026, 3:08 pm / ai-misuse, cognitive-debt, generative-ai, ai, llms, ai-assisted-programming",
+      "url": "https://simonwillison.net/tags/generative-ai/"
+    },
+    {
       "title": "Simon Willison on coding-agents",
-      "text": "3 days ago · This friction synchronizes people. — Armin Ronacher, The Tower Keeps Rising # 14th July 2026, 6:04 pm / ai, software-engineering, llms, coding-agents, ai-assisted-programming, generative-ai, armin-ronacher, agentic-engineering",
+      "text": "4 days ago · This friction synchronizes people. — Armin Ronacher, The Tower Keeps Rising # 14th July 2026, 6:04 pm / ai, software-engineering, llms, coding-agents, ai-assisted-programming, generative-ai, armin-ronacher, agentic-engineering",
       "url": "https://simonwillison.net/tags/coding-agents/"
     },
     {
-      "title": "Simon Willison on llms",
-      "text": "8 hours ago · [...] This project has become so convoluted, with so many layers and services, that no one on your team could possibly start to understand what's going on. — Florian Herrengt, AI is removing the middle class of software engineering # 12th August 2026, 3:08 pm / ai-misuse, cognitive-debt, generative-ai, ai, llms, ai-assisted-programming",
-      "url": "https://simonwillison.net/tags/llms/"
-    },
-    {
       "title": "An OpenAI speaker should be an execution layer for Codex—not ...",
-      "text": "4 days ago · I am not from a computer-science or software-engineering background, but Codex has helped me build a very early local agent system for a small office. The system loads relevant rules and context, searches local knowledge, calls tools or workflows, returns results, and preserves inspectable session records.",
+      "text": "5 days ago · I am not from a computer-science or software-engineering background, but Codex has helped me build a very early local agent system for a small office. The system loads relevant rules and context, searches local knowledge, calls tools or workflows, returns results, and preserves inspectable session records.",
       "url": "https://community.openai.com/t/an-openai-speaker-should-be-an-execution-layer-for-codex-not-just-another-smart-speaker/1390569"
     },
     {
-      "title": "Codex limits spark frustration among subscribers - Page 4 ...",
-      "text": "1 day ago · Terra medium: normal software engineering and implementation. Terra high/xhigh: difficult debugging, non-trivial review, complex logic, integration work, and substantial test reasoning. Sol medium/high: ambiguous cross-cutting implementation, difficult diagnosis, architecture, or decisions requiring substantial judgment.",
-      "url": "https://community.openai.com/t/codex-limits-spark-frustration-among-subscribers/1390408?page=4"
+      "title": "Tools - simonwillison.net",
+      "text": "5 days ago · I built this today (with GPT-5.6-Sol xhigh) to help test Qwen 3.8 27B running in LM Studio on both my M5 MacBook Pro and an NVIDIA DGX Spark. It provides a web UI for exercising an OpenAI-Responses-compatible chat endpoint. I've tried it against LM Studio with the --cors option and OpenRouter, and both work fine. Conversations are persisted in the browser and can be exported as copy-pasted ...",
+      "url": "https://simonwillison.net/elsewhere/tool/"
     },
     {
-      "title": "Sightings - simonwillison.net",
-      "text": "4 days ago · This is Morris. Morris is a local celebrity: the only known Northern Gannet (Morus bassanus) in the entire Pacific Ocean. They showed up in the Farallon Islands off the coast of San Francisco 14 years ago. They have since made Pillar Point harbor their home, where they are quite easy to spot: the only white bird with a yellow head, usually hanging out with the smaller black Brandt’s ...",
-      "url": "https://simonwillison.net/elsewhere/sighting/"
-    },
-    {
-      "title": "Simon Willison on wildlife",
-      "text": "4 days ago · This is Morris. Morris is a local celebrity: the only known Northern Gannet (Morus bassanus) in the entire Pacific Ocean. They showed up in the Farallon Islands off the coast of San Francisco 14 years ago. They have since made Pillar Point harbor their home, where they are quite easy to spot: the only white bird with a yellow head, usually hanging out with the smaller black Brandt’s ...",
-      "url": "https://simonwillison.net/tags/wildlife/"
+      "title": "Simon Willison on cors",
+      "text": "5 days ago · 30 posts tagged ‘cors’. CORS is Cross-origin resource sharing, a mechanism by which websites can make APIs available to JavaScript running on other domains around the web.",
+      "url": "https://simonwillison.net/tags/cors/"
     },
     {
       "title": "Simon Willison: \"The new Qwen 3.8 27B, running …\" - Mastodon",
-      "text": "5 days ago · @ simon sure but people have been doing the Pelican on a bicycle test long enough for each model producer to optimise their newer models to pass it with flying colours. Try a hysterically laughing nun on top of a torpedo heading to Cthulhu the monster.",
+      "text": "6 days ago · @ simon sure but people have been doing the Pelican on a bicycle test long enough for each model producer to optimise their newer models to pass it with flying colours. Try a hysterically laughing nun on top of a torpedo heading to Cthulhu the monster.",
       "url": "https://fedi.simonwillison.net/@simon/117095748533276757"
+    },
+    {
+      "title": "OpenAI – Stratechery by Ben Thompson",
+      "text": "2 days ago · OpenAI’s developer keynote was exciting, both because AI was exciting, and because OpenAI has the potential to be a meaningful consumer tech company.",
+      "url": "https://stratechery.com/company/openai/"
     },
     {
       "title": "Anthropic – Stratechery by Ben Thompson",
@@ -181,64 +161,79 @@
       "url": "https://stratechery.com/company/anthropic/"
     },
     {
-      "title": "OpenAI joins PORTS-Pike project",
-      "text": "2 days ago · OpenAI has entered into an agreement to secure approximately 8 gigawatts-IT at the PORTS-Pike Technology Campus in Pike County, Ohio, working with SB Energy, NVIDIA, and the U.S. Department of Energy. We want to develop this project as a partner to Pike County—paying its project-specific energy and infrastructure costs, using water responsibly, creating opportunities for local workers and ...",
-      "url": "https://openai.com/index/openai-joins-ports-pike-project/"
+      "title": "Nvidia – Stratechery by Ben Thompson",
+      "text": "2 days ago · Nvidia’s GTC was an absolute spectacle; it was also a different kind of keynote than before ChatGPT, which is related to Nvidia’s need to dig a new kind of software moat.",
+      "url": "https://stratechery.com/company/nvidia/"
     },
     {
-      "title": "Schedule a new hackathon in Los Angeles area - Community ...",
-      "text": "5 days ago · I am wondering if there is anyone at OpenAI that I can speak with to discuss the possibility of OpenAI running this hackathon. (We will handle venue and WIFI.) If anyone can refer me to the right person or team. (I know OpenAI for Startups has similar projects, but I can’t seem to connect with anyone.) Happy to share details. Best regards, Dhaval",
-      "url": "https://community.openai.com/t/schedule-a-new-hackathon-in-los-angeles-area/1390356"
+      "title": "ChatGPT Business: General FAQ | OpenAI Help Center",
+      "text": "1 day ago · Overview of ChatGPT Business features, pricing, and policies for organizations.",
+      "url": "https://help.openai.com/en/articles/9160437-how-do-i-add-or-remove-seats-in-a-chatgpt-team-workspace"
     },
     {
       "title": "Proposal: A ChatGPT Builder Plan for Hobbyists, Tinkerers ...",
-      "text": "2 days ago · I am not primarily referring to professional developers, startups, or teams running production systems. I mean hobby builders, tinkerers, learners, and curious users who enjoy creating small tools for themselves.",
+      "text": "3 days ago · I am not primarily referring to professional developers, startups, or teams running production systems. I mean hobby builders, tinkerers, learners, and curious users who enjoy creating small tools for themselves.",
       "url": "https://community.openai.com/t/proposal-a-chatgpt-builder-plan-for-hobbyists-tinkerers-and-personal-ai-projects/1390869"
     },
     {
-      "title": "Elevated errors in ChatGPT conversations for Free users",
-      "text": "6 days ago · All impacted services have now fully recovered.",
-      "url": "https://status.openai.com/incidents/01KZXVAJQ5XFH7PTM43XVPQWGJ"
+      "title": "Replit expands access to software creation with GPT‑5.6 Luna",
+      "text": "1 day ago · Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+      "url": "https://openai.com/index/replit/"
     },
     {
-      "title": "How Claude's text watermarking works \\ Anthropic",
-      "text": "5 days ago · Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act. In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works ...",
-      "url": "https://www.anthropic.com/news/claude-text-watermark"
+      "title": "Topics tagged image-generation",
+      "text": "1 day ago · Topics tagged image-generation",
+      "url": "https://community.openai.com/tag/image-generation/42"
     },
     {
-      "title": "Simon Willison on generative-ai",
-      "text": "2 days ago · Random 1,940 posts tagged “generative-ai” Machine learning systems that can generate new content: text, images, audio, video and more.",
-      "url": "https://simonwillison.net/tags/generative-ai/"
+      "title": "Anthropic’s Transparency Hub",
+      "text": "3 days ago · A look at Anthropic's key processes, programs, and practices for responsible AI development.",
+      "url": "https://www.anthropic.com/transparency/model-report"
     },
     {
       "title": "Simon Willison on pelican-riding-a-bicycle",
-      "text": "3 days ago · My benchmark for LLMs: \"Generate an SVG of a pelican riding a bicycle\". Here's my answer to what happens if AI labs train for pelicans riding bicycles?. \"User might be a kid playing with words\" according to Qwen3-4B-Thinking.",
+      "text": "4 days ago · My benchmark for LLMs: \"Generate an SVG of a pelican riding a bicycle\". Here's my answer to what happens if AI labs train for pelicans riding bicycles?. \"User might be a kid playing with words\" according to Qwen3-4B-Thinking.",
       "url": "https://simonwillison.net/tags/pelican-riding-a-bicycle/"
     },
     {
+      "title": "OpenAI 最新消息 | OpenAI",
+      "text": "2 days ago · 隨時掌握 AI 科技的最新動態，見證它為人類帶來的福祉。",
+      "url": "https://openai.com/zh-Hant/news/"
+    },
+    {
       "title": "How Claude is accelerating protein design and analytical ...",
-      "text": "1 day ago · In recent years, machine-learning models that can design proteins and rank which are most likely to bind have greatly expedited the protein design process. But these models still generally require days (and often weeks) of laborious orchestration by computational experts.",
+      "text": "2 days ago · In recent years, machine-learning models that can design proteins and rank which are most likely to bind have greatly expedited the protein design process. But these models still generally require days (and often weeks) of laborious orchestration by computational experts.",
       "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design"
     },
     {
+      "title": "Topics tagged codex-cli - OpenAI API Community Forum",
+      "text": "1 day ago · Topics tagged codex-cli",
+      "url": "https://community.openai.com/tag/codex-cli/940"
+    },
+    {
       "title": "Blackstar Prime partnership proposal - ChatGPT - OpenAI ...",
-      "text": "1 day ago · I have attached my full visual product design sheet to this message. I would love to hear your feedback on how a next-generation device like the Blackstar Prime can best showcase OpenAI’s mobile capabilities.",
+      "text": "2 days ago · I have attached my full visual product design sheet to this message. I would love to hear your feedback on how a next-generation device like the Blackstar Prime can best showcase OpenAI’s mobile capabilities.",
       "url": "https://community.openai.com/t/blackstar-prime-partnership-proposal/1391076"
     },
     {
+      "title": "Idea for Protecting the Company and the Users - Feature ...",
+      "text": "1 day ago · As these systems become more conversational and personally useful, I think helping people maintain a healthy relationship with them should be an integral part of the product design from the beginning.",
+      "url": "https://community.openai.com/t/idea-for-protecting-the-company-and-the-users/1391368"
+    },
+    {
       "title": "Model Spec (2026/08/18)",
-      "text": "1 day ago · For example, the scope might be built into the product design (such as a coding assistant with understood boundaries around code modification), or it might be dynamically negotiated with the assistant for complex tasks (much like a consulting firm submitting a scope-of-work).",
+      "text": "2 days ago · For example, the scope might be built into the product design (such as a coding assistant with understood boundaries around code modification), or it might be dynamically negotiated with the assistant for complex tasks (much like a consulting firm submitting a scope-of-work).",
       "url": "https://model-spec.openai.com/2026-08-18.html"
     },
     {
-      "title": "Marco Salsiccia builds accessible apps with Codex",
-      "text": "5 days ago · Sight-centric iOS tools had kept Salsiccia from turning years of coding, product-design, and accessibility experience into native apps. Codex gave him an accessible development process he could steer from initial idea to release.",
-      "url": "https://academy.openai.com/public/blogs/marco-salsiccia-builds-accessible-apps-with-codex"
+      "title": "Rethinking AI Agent Architecture: A Mandelbrot Model for Self ...",
+      "text": "8 hours ago · I have recently been pushing the boundaries of how AI conceptualizes software development. Fundamentally, the idea of a solid build, full stack, and stable version, is language used to describe quality software. Good software seems be described as a solid building. But is that because software engineers brought that imagery into software design because it is how we would describes something as ...",
+      "url": "https://community.openai.com/t/rethinking-ai-agent-architecture-a-mandelbrot-model-for-self-organizing-intelligence/1391409"
     },
     {
-      "title": "How I structure multi-Agent teams in Codex: ownership, model ...",
-      "text": "5 days ago · I’m a UI/UX designer who uses Codex across product, design, research, data, content, and development work. As the projects became more complex, I found that the hard part of a multi-Agent workflow was not spawning more Agents.",
-      "url": "https://community.openai.com/t/how-i-structure-multi-agent-teams-in-codex-ownership-model-routing-and-high-value-skills/1390381"
+      "title": "Feature Request: Allow text-only messaging after reaching ...",
+      "text": "1 day ago · Is this behavior an intentional product design decision, or is it an implementation limitation? If text messaging and image/file tools have separate limits, why is the entire conversation paused instead of only disabling the affected feature?",
+      "url": "https://community.openai.com/t/feature-request-allow-text-only-messaging-after-reaching-image-file-limits/1391277"
     }
   ]
 }
