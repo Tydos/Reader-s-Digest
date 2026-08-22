@@ -2,7 +2,7 @@
   "articles": [
     {
       "title": "Artificial Intelligence Policy",
-      "text": "37 points on Hacker News",
+      "text": "42 points on Hacker News",
       "url": "https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/"
     },
     {
@@ -17,7 +17,7 @@
     },
     {
       "title": "Software Engineering fundamentals matter more",
-      "text": "319 points on Hacker News",
+      "text": "321 points on Hacker News",
       "url": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/"
     },
     {
@@ -46,24 +46,19 @@
       "url": "https://www.danielvaughn.dev/posts/huzzah/"
     },
     {
-      "title": "Pacing model development in an era of cyber-critical capabilities",
-      "text": "https:&#x2F;&#x2F;twitter.com&#x2F;sama&#x2F;status&#x2F;2089787807611195475 , https:&#x2F;&#x2F;xcancel.com&#x2F;sama&#x2F;status&#x2F;2089787807611195475",
-      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities/"
-    },
-    {
       "title": "Ox Alpha",
       "text": "https:&#x2F;&#x2F;twitter.com&#x2F;OpenRouter&#x2F;status&#x2F;2090544970923184269 , https:&#x2F;&#x2F;xcancel.com&#x2F;OpenRouter&#x2F;status&#x2F;2090544970923184269",
       "url": "https://openrouter.ai/stealth/ox-alpha"
     },
     {
-      "title": "Degraded performance for multiple models",
-      "text": "150 points on Hacker News",
-      "url": "https://status.claude.com/incidents/q7txxvbsftgq"
+      "title": "Pacing model development in an era of cyber-critical capabilities",
+      "text": "https:&#x2F;&#x2F;twitter.com&#x2F;sama&#x2F;status&#x2F;2089787807611195475 , https:&#x2F;&#x2F;xcancel.com&#x2F;sama&#x2F;status&#x2F;2089787807611195475",
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities/"
     },
     {
-      "title": "Show HN: Mole – Deep research agent for your terminal",
-      "text": "Doing research with agents is fun until they blow way past budget, jumble the sources, and don&#x27;t even give you the best possible answer, just sound confident. And if you want to run some research task on local data - you have no idea where your data ends up after the prompt consumes it. So I built this tool: a deep-research agent with an enforced budget, verified quotes, and a privacy boundary for local data. 1. Never spend more than you budgeted (measured overshoot is 0%). 2. Every claim c",
-      "url": "https://github.com/lajosdeme/mole"
+      "title": "Degraded performance for multiple models",
+      "text": "151 points on Hacker News",
+      "url": "https://status.claude.com/incidents/q7txxvbsftgq"
     },
     {
       "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
@@ -77,38 +72,213 @@
     },
     {
       "title": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index",
-      "text": "3 days ago - Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index (via) That's the same score as GPT-5.6 Luna (max), and just one point behind GLM-5.2 (max) and DeepSeek V4 Pro 0813 (max) - that GLM is 753B and that DeepSeek is 1.7T parameters, and Luna is size unknown but presumably a whole lot bigger than 27B.",
+      "text": "4 days ago - Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index (via) That's the same score as GPT-5.6 Luna (max), and just one point behind GLM-5.2 (max) and DeepSeek V4 Pro 0813 (max) - that GLM is 753B and that DeepSeek is 1.7T parameters, and Luna is size unknown but presumably a whole lot bigger than 27B.",
       "url": "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/"
     },
     {
+      "title": "A quote from Matt Levine",
+      "text": "At this point the lawsuits seem a bit far-fetched: \"You should have warned us months ago that artificial intelligence would hurt your business\" is unfair given how quickly ChatGPT has exploded from nowhere to become a cultural and business phenomenon. But now everyone is on notice! If you are not warning your shareholders now about how AI could hurt your business, and then it does hurt ...",
+      "url": "https://simonwillison.net/2023/May/3/matt-levine/"
+    },
+    {
+      "title": "talk.wasm - Simon Willison",
+      "text": "talk.wasm (via) \"Talk with an Artificial Intelligence in your browser\". Absolutely stunning demo which loads the Whisper speech recognition model (75MB) and a GPT-2 model (240MB) and executes them both in your browser via WebAssembly, then uses the Web Speech API to talk back to you. The result is a full speak-with-an-AI interface running entirely client-side. GPT-2 sadly mostly generates ...",
+      "url": "https://simonwillison.net/2022/Dec/7/talk-wasm/"
+    },
+    {
       "title": "Simon Willison on ai-backlash",
-      "text": "5 days ago - In my experience, the supermajority of engagement on viral AI Facebook pages is just as artificially-generated as the content they publish. When exploring their comment sections, one will often see hundreds of bot-like comments interspersed with a few ‘real’ people sounding the alarm to no avail.",
+      "text": "6 days ago - In my experience, the supermajority of engagement on viral AI Facebook pages is just as artificially-generated as the content they publish. When exploring their comment sections, one will often see hundreds of bot-like comments interspersed with a few ‘real’ people sounding the alarm to no avail.",
       "url": "https://simonwillison.net/tags/ai-backlash/"
     },
     {
       "title": "Simon Willison: \"My conclusions from the end of the post\" - Mastodon",
-      "text": "4 days ago - Attached: 1 image My conclusions from the end of the post",
+      "text": "5 days ago - Attached: 1 image My conclusions from the end of the post",
       "url": "https://fedi.simonwillison.net/@simon/117107705258642031"
     },
     {
-      "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
-      "text": "4 days ago - Friday’s big release was Qwen 3.8 27B, an Apache 2 licensed 27B parameter vision-capable LLM from Alibaba’s Qwen research lab. I’ve been looking forward to this one: 27B is an …",
-      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/"
+      "title": "App Snore – Stratechery by Ben Thompson",
+      "text": "1 day ago - The best Stratechery content from the week of August 17, 2026, including Apple making compromises in the EU, Truth (Social) and reconciliation, and August fun with the Clippers and Lakers.",
+      "url": "https://stratechery.com/2026/app-snore/"
     },
     {
-      "title": "A quote from Dario Amodei",
-      "text": "5 days ago - I do agree that the public has a negative view of AI (and that this is a big problem), but I don’t think it is primarily caused by me or …",
-      "url": "https://simonwillison.net/2026/Aug/16/dario-amodei/"
+      "title": "2026 – Stratechery by Ben Thompson",
+      "text": "5 days ago · Nvidia makes another deal, this time with a frontier lab; Anthropic’s revenue continues to amaze; and maybe data finally is oil.",
+      "url": "https://stratechery.com/2026/"
     },
     {
       "title": "Nvidia Backs OpenAI Data Center, Anthropic News, Google Buys Spirit Airlines Data – Stratechery by Ben Thompson",
-      "text": "3 days ago - Nvidia makes another deal, this time with a frontier lab; Anthropic’s revenue continues to amaze; and maybe data finally is oil.",
+      "text": "4 days ago - Nvidia makes another deal, this time with a frontier lab; Anthropic’s revenue continues to amaze; and maybe data finally is oil.",
       "url": "https://stratechery.com/2026/nvidia-backs-openai-data-center-anthropic-news-google-buys-spirit-airlines-data/"
     },
     {
-      "title": "Stripe Acquiring OpenRouter, Aggregating AI?, Flipping the Business Model – Stratechery by Ben Thompson",
-      "text": "4 days ago - Stripe is reportedly acquiring OpenRouter, an implicit bet on a future market of models and the chance at Aggregation.",
+      "title": "Stripe Acquiring OpenRouter, Aggregating AI?, Flipping the ...",
+      "text": "5 days ago · Stripe is reportedly acquiring OpenRouter, an implicit bet on a future market of models and the chance at Aggregation.",
       "url": "https://stratechery.com/2026/stripe-acquiring-openrouter-aggregating-ai-flipping-the-business-model/"
+    },
+    {
+      "title": "New policy ideas for the Intelligence Age - OpenAI",
+      "text": "5 days ago · OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age/"
+    },
+    {
+      "title": "OpenAI Newsroom | AI Futures",
+      "text": "2 days ago · Perspectives on the intelligence age and the next economy. Company; Research; Product; Safety; Engineering; Security; AI Futures; Global Affairs; AI Adoption; Applied ...",
+      "url": "https://openai.com/news/ai-futures/"
+    },
+    {
+      "title": "OpenAI: Pacing model development in an era of cyber-critical ...",
+      "text": "2 days ago · Corrigibility Is a very active area in 2026, this kind of research fascinate me. I do a lot of reading and writing in this area. Topic Hub. CLTC Corrigibility in Artificial Intelligence Systems - CLTC This project will focus on basic security issues for advanced AI systems. It anticipates a time when AI systems are capable of devising behaviors that circumvent simple security…",
+      "url": "https://community.openai.com/t/openai-pacing-model-development-in-an-era-of-cyber-critical-capabilities/1391511"
+    },
+    {
+      "title": "Get executive buy-in on AI priorities - Resource | OpenAI Academy",
+      "text": "4 days ago · Unlock the new opportunities of the AI era by equipping yourself with the knowledge and skills to harness artificial intelligence effectively.",
+      "url": "https://academy.openai.com/public/clubs/champions-ecqup/resources/get-executive-buy-in-on-ai-priorities-2026-08-18"
+    },
+    {
+      "title": "ChatGPT Edu 102 for K-12 - Webinar Replay - Video | OpenAI ...",
+      "text": "1 day ago · Unlock the new opportunities of the AI era by equipping yourself with the knowledge and skills to harness artificial intelligence effectively.",
+      "url": "https://academy.openai.com/public/clubs/k-12-education-aacga/videos/chatgpt-edu-102-for-k-12-webinar-replay"
+    },
+    {
+      "title": "Real Time Video/ Product for OpenAI",
+      "text": "5 days ago · OpenAI Presence From Real-Time Voice to Real-Time Visual Intelligence Real-time voice changed the way people interact with artificial intelligence. Before real-time voice, interacting with AI largely meant typing a question, waiting for an answer, and reading text on a screen. Real-time voice changed that relationship. AI could listen while we spoke, respond immediately, understand ...",
+      "url": "https://community.openai.com/t/real-time-video-product-for-openai/1390803"
+    },
+    {
+      "title": "A quote from John Carmack",
+      "text": "3 days ago · It is hard for less experienced developers to appreciate how rarely architecting for future requirements / applications turns out net-positive.",
+      "url": "https://simonwillison.net/2026/Mar/11/john-carmack/"
+    },
+    {
+      "title": "Simon Willison on ai",
+      "text": "8 hours ago · Neither of you has any idea whether any of it is true but Claude seems very confident. [...] This project has become so convoluted, with so many layers and services, that no one on your team could possibly start to understand what's going on. — Florian Herrengt, AI is removing the middle class of software engineering",
+      "url": "https://simonwillison.net/tags/ai/"
+    },
+    {
+      "title": "OpenAI Newsroom | Safety",
+      "text": "4 days ago · Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity.",
+      "url": "https://openai.com/news/safety-alignment/"
+    },
+    {
+      "title": "Anthropic’s Transparency Hub",
+      "text": "5 days ago · We conducted evaluations in three areas: biology, to measure a model's ability to help to create, obtain, and deploy biological weapons; autonomy, to assess whether a model can conduct software engineering and AI research tasks that could lead to recursive self-improvement or dramatic acceleration in AI capabilities; and cybersecurity, to test ...",
+      "url": "https://www.anthropic.com/transparency/model-report"
+    },
+    {
+      "title": "How Claude is accelerating protein design and analytical ...",
+      "text": "4 days ago · In this post, we share two results that show how Claude can help life scientists increase the pace of their research. In the first, we tested Claude’s ability to design protein binders from scratch, a key step in creating protein-based drugs that has historically taken a specialist weeks or months per target. In the second example, we evaluated whether Claude can accelerate chemical analysis ...",
+      "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design"
+    },
+    {
+      "title": "ChatGPT plugins - Simon Willison",
+      "text": "3 days ago · ChatGPT plugins. ChatGPT is getting a plugins mechanism, which will allow developers to provide extra capabilities to ChatGPT, like looking up restaurants on OpenTable or fetching data from APIs. This feels like the kind of feature that could obsolete—or launch—a thousand startups. It also makes ChatGPT much more interesting as a general purpose tool, as opposed to something that only ...",
+      "url": "https://simonwillison.net/2023/Mar/23/chatgpt-plugins/"
+    },
+    {
+      "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI ...",
+      "text": "5 days ago · We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility. Excellent piece of reporting from 404 Media. For a while now there have been stories of book dealers receiving orders for large volumes of books from apparently price-insensitive anonymous customers, widely suspected to be companies looking to scan them for AI training (see my previous coverage of Anthropic's book ...",
+      "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/"
+    },
+    {
+      "title": "A quote from Tim Paul - Simon Willison",
+      "text": "3 days ago · I’m no developer, but I got the AI part working in about an hour. What took longer was the other stuff: identifying the problem, designing and building the UI, setting …",
+      "url": "https://simonwillison.net/2024/May/13/tim-paul/"
+    },
+    {
+      "title": "A quote from Dario Amodei",
+      "text": "6 days ago · I do agree that the public has a negative view of AI (and that this is a big problem), but I don’t think it is primarily caused by me or any other AI leader warning about AI’s risks. I think it is fundamentally a crisis of trust. I think that ordinary people don’t trust companies, governments, or the tech industry and always suspect that we are cooking up some new way to screw them over ...",
+      "url": "https://simonwillison.net/2026/Aug/16/dario-amodei/"
+    },
+    {
+      "title": "Airbnb – Stratechery by Ben Thompson",
+      "text": "4 days ago · Airbnb and DoorDash both created new markets where ones did not previously exist; they are startups played on “hard” mode.",
+      "url": "https://stratechery.com/company/airbnb/"
+    },
+    {
+      "title": "OpenAI – Stratechery by Ben Thompson",
+      "text": "4 days ago · OpenAI’s developer keynote was exciting, both because AI was exciting, and because OpenAI has the potential to be a meaningful consumer tech company.",
+      "url": "https://stratechery.com/company/openai/"
+    },
+    {
+      "title": "Daily Update – Stratechery by Ben Thompson",
+      "text": "5 days ago · Apple’s App Store is finally facing the reality of lower fees, and the EU should be satisfied with its work; it’s ok it’s late. Nvidia makes another deal, this time with a frontier lab; Anthropic’s revenue continues to amaze; and maybe data finally is oil. Anthropic is adding watermarking in ...",
+      "url": "https://stratechery.com/category/daily-email,intervews/"
+    },
+    {
+      "title": "OpenAI DevDay is going global",
+      "text": "4 days ago · Starting this October, DevDay Exchange is bringing builders together to swap build notes, share real projects, and meet the teams building OpenAI tools. Bengaluru - October 16 Tokyo - October 20 Seoul - October 22 Berlin - October 26 Paris - October 28 London - November 3 São Paulo - November 6 Mexico City - November 11 We’re ready to see what developers around the 🌎 are pushing to prod ...",
+      "url": "https://community.openai.com/t/openai-devday-is-going-global/1391106"
+    },
+    {
+      "title": "Elevated errors deploying Sites - OpenAI Status",
+      "text": "4 days ago · We have identified an issue causing elevated errors when deploying Sites. We are working to implement a mitigation.",
+      "url": "https://status.openai.com/incidents/01M0B4WSV41BCFZ9VDWKSMQVSP"
+    },
+    {
+      "title": "ChatGPT Business: General FAQ - OpenAI Help Center",
+      "text": "3 days ago · ChatGPT Business: General FAQ Overview of ChatGPT Business features, pricing, and policies for organizations.",
+      "url": "https://help.openai.com/en/articles/8542115-chatgpt-business-faq"
+    },
+    {
+      "title": "Model Spec (2026/08/18)",
+      "text": "4 days ago · The Model Spec specifies desired behavior for the models underlying OpenAI's products (including our APIs).",
+      "url": "https://model-spec.openai.com/2026-08-18.html"
+    },
+    {
+      "title": "Proposal: A ChatGPT Builder Plan for Hobbyists, Tinkerers ...",
+      "text": "5 days ago · I am not primarily referring to professional developers, startups, or teams running production systems. I mean hobby builders, tinkerers, learners, and curious users who enjoy creating small tools for themselves.",
+      "url": "https://community.openai.com/t/proposal-a-chatgpt-builder-plan-for-hobbyists-tinkerers-and-personal-ai-projects/1390869"
+    },
+    {
+      "title": "I counted all of the yurts in Mongolia using machine learning",
+      "text": "3 days ago · Fascinating, detailed account by Monroe Clinton of a geospatial machine learning project. Monroe wanted to count visible yurts in Mongolia using Google Maps satellite view. The resulting project incorporates mercantile …",
+      "url": "https://simonwillison.net/2025/Jun/18/yurts-in-mongolia/"
+    },
+    {
+      "title": "Simon Willison on generative-ai",
+      "text": "8 hours ago · 1,946 posts tagged ‘generative-ai’. Machine learning systems that can generate new content: text, images, audio, video and more.",
+      "url": "https://simonwillison.net/tags/generative-ai/"
+    },
+    {
+      "title": "Introducing AI Futures | OpenAI",
+      "text": "2 days ago · Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+      "url": "https://openai.com/index/introducing-ai-futures/"
+    },
+    {
+      "title": "OpenAI Newsroom | Product",
+      "text": "4 days ago · Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity.",
+      "url": "https://openai.com/news/product-releases/"
+    },
+    {
+      "title": "OpenAI 最新消息 | OpenAI",
+      "text": "3 days ago · AI 科技日新月異，在此隨時掌握最新進展，了解人工智慧為人類帶來的各項益處。",
+      "url": "https://openai.com/zh-Hant/news/"
+    },
+    {
+      "title": "Topics tagged codex-cli - OpenAI API Community Forum",
+      "text": "3 days ago · Topics tagged codex-cli",
+      "url": "https://community.openai.com/tag/codex-cli/940"
+    },
+    {
+      "title": "Blackstar Prime partnership proposal - ChatGPT - OpenAI ...",
+      "text": "4 days ago · I have attached my full visual product design sheet to this message. I would love to hear your feedback on how a next-generation device like the Blackstar Prime can best showcase OpenAI’s mobile capabilities.",
+      "url": "https://community.openai.com/t/blackstar-prime-partnership-proposal/1391076"
+    },
+    {
+      "title": "ChatGPT Enterprise & Edu - Release Notes - OpenAI Help Center",
+      "text": "2 days ago · This first set includes Sales, Data Analytics, Product Design, Creative Production, Investment Banking, and Public Equity Investing. These plugins package role-specific skills, app integrations, starter prompts, and workflow guidance so teams can use Codex for sales prep, analytics and dashboards, prototypes, creative assets, and financial ...",
+      "url": "https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes%2525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525253F.csv"
+    },
+    {
+      "title": "Idea for Protecting the Company and the Users",
+      "text": "3 days ago · As these systems become more conversational and personally useful, I think helping people maintain a healthy relationship with them should be an integral part of the product design from the beginning.",
+      "url": "https://community.openai.com/t/idea-for-protecting-the-company-and-the-users/1391368"
+    },
+    {
+      "title": "Rethinking AI Agent Architecture: A Mandelbrot Model for Self ...",
+      "text": "2 days ago · I have recently been pushing the boundaries of how AI conceptualizes software development. Fundamentally, the idea of a solid build, full stack, and stable version, is language used to describe quality software. Good software seems be described as a solid building. But is that because software engineers brought that imagery into software design because it is how we would describes something as ...",
+      "url": "https://community.openai.com/t/rethinking-ai-agent-architecture-a-mandelbrot-model-for-self-organizing-intelligence/1391409"
     }
   ]
 }
