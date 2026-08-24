@@ -6,11 +6,6 @@
       "url": "https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/"
     },
     {
-      "title": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
-      "text": "157 points on Hacker News",
-      "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll"
-    },
-    {
       "title": "Why your Amazon order confirmation emails have become so unhelpful",
       "text": "78 points on Hacker News",
       "url": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data"
@@ -29,11 +24,6 @@
       "title": "My friends all hate AI; I just joined an AI startup",
       "text": "58 points on Hacker News",
       "url": "https://www.fast.ai/posts/2026-08-18-returning-to-AI/"
-    },
-    {
-      "title": "Stripe will reportedly acquire OpenRouter for $7B+",
-      "text": "485 points on Hacker News",
-      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/"
     },
     {
       "title": "Show HN: Huzzah – a novel approach to coding with AI",
@@ -57,43 +47,243 @@
     },
     {
       "title": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index",
-      "text": "5 days ago - Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index (via) That's the same score as GPT-5.6 Luna (max), and just one point behind GLM-5.2 (max) and DeepSeek V4 Pro 0813 (max) - that GLM is 753B and that DeepSeek is 1.7T parameters, and Luna is size unknown but presumably a whole lot bigger than 27B.",
+      "text": "1 week ago - Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index (via) That's the same score as GPT-5.6 Luna (max), and just one point behind GLM-5.2 (max) and DeepSeek V4 Pro 0813 (max) - that GLM is 753B and that DeepSeek is 1.7T parameters, and Luna is size unknown but presumably a whole lot bigger than 27B.",
       "url": "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/"
     },
     {
-      "title": "Simon Willison on ai-backlash",
-      "text": "1 week ago - In my experience, the supermajority of engagement on viral AI Facebook pages is just as artificially-generated as the content they publish. When exploring their comment sections, one will often see hundreds of bot-like comments interspersed with a few ‘real’ people sounding the alarm to no avail.",
-      "url": "https://simonwillison.net/tags/ai-backlash/"
+      "title": "Research: smolmachines / smolvm as a sandbox for untrusted Python & JavaScript",
+      "text": "4 days ago - Testing smolvm 1.8.3 shows it is well suited for sandboxing untrusted Python and JavaScript data transformations using hardware-isolated VMs rather than shared-kernel containers. Offline local images, no-network execution, CPU/RAM limits, …",
+      "url": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/"
     },
     {
-      "title": "Simon Willison: \"My conclusions from the end of the post\" - Mastodon",
-      "text": "1 week ago - Attached: 1 image My conclusions from the end of the post",
-      "url": "https://fedi.simonwillison.net/@simon/117107705258642031"
+      "title": "A quote from Matt Webb",
+      "text": "3 days ago - After I released version 1.0, I figured I would have to do the rotations myself. So I sat down with ChatGPT and I didn’t get it to write the code, …",
+      "url": "https://simonwillison.net/2026/Aug/21/matt-webb/"
     },
     {
-      "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
-      "text": "1 week ago - Friday’s big release was Qwen 3.8 27B, an Apache 2 licensed 27B parameter vision-capable LLM from Alibaba’s Qwen research lab. I’ve been looking forward to this one: 27B is an …",
-      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/"
+      "title": "Conceptual integrity and counting lines of code",
+      "text": "4 days ago - Last week I recorded an episode of the Talking Postgres podcast with Claire Giordano on the subject of “How AI is changing software development”. We had a really great conversation. …",
+      "url": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/"
     },
     {
-      "title": "A quote from Dario Amodei",
-      "text": "1 week ago - I do agree that the public has a negative view of AI (and that this is a big problem), but I don’t think it is primarily caused by me or …",
-      "url": "https://simonwillison.net/2026/Aug/16/dario-amodei/"
+      "title": "Release: llm 0.33",
+      "text": "2 days ago - Access large language models from the command-line",
+      "url": "https://simonwillison.net/2026/Aug/22/llm/"
     },
     {
       "title": "App Snore – Stratechery by Ben Thompson",
-      "text": "2 days ago - The best Stratechery content from the week of August 17, 2026, including Apple making compromises in the EU, Truth (Social) and reconciliation, and August fun with the Clippers and Lakers.",
+      "text": "3 days ago - The best Stratechery content from the week of August 17, 2026, including Apple making compromises in the EU, Truth (Social) and reconciliation, and August fun with the Clippers and Lakers.",
       "url": "https://stratechery.com/2026/app-snore/"
     },
     {
       "title": "Nvidia Backs OpenAI Data Center, Anthropic News, Google Buys Spirit Airlines Data – Stratechery by Ben Thompson",
-      "text": "5 days ago - Nvidia makes another deal, this time with a frontier lab; Anthropic’s revenue continues to amaze; and maybe data finally is oil.",
+      "text": "1 week ago - Nvidia makes another deal, this time with a frontier lab; Anthropic’s revenue continues to amaze; and maybe data finally is oil.",
       "url": "https://stratechery.com/2026/nvidia-backs-openai-data-center-anthropic-news-google-buys-spirit-airlines-data/"
     },
     {
       "title": "Stripe Acquiring OpenRouter, Aggregating AI?, Flipping the Business Model – Stratechery by Ben Thompson",
       "text": "1 week ago - Stripe is reportedly acquiring OpenRouter, an implicit bet on a future market of models and the chance at Aggregation.",
       "url": "https://stratechery.com/2026/stripe-acquiring-openrouter-aggregating-ai-flipping-the-business-model/"
+    },
+    {
+      "title": "OpenAI Newsroom | AI Futures",
+      "text": "4 days ago · Perspectives on the intelligence age and the next economy. Company Research Product Safety Engineering Security AI Futures Global Affairs AI Adoption Applied AI All",
+      "url": "https://openai.com/news/ai-futures/"
+    },
+    {
+      "title": "Introducing AI Futures - OpenAI",
+      "text": "4 days ago · Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+      "url": "https://openai.com/index/introducing-ai-futures/"
+    },
+    {
+      "title": "OpenAI: Pacing model development in an era of cyber-critical ...",
+      "text": "4 days ago · I do a lot of reading and writing in this area. Topic Hub. CLTC Corrigibility in Artificial Intelligence Systems - CLTC This project will focus on basic security issues for advanced AI systems. It anticipates a time when AI systems are capable of devising behaviors that circumvent simple security…",
+      "url": "https://community.openai.com/t/openai-pacing-model-development-in-an-era-of-cyber-critical-capabilities/1391511"
+    },
+    {
+      "title": "Proposal for New OpenAI Platforms and Capabilities",
+      "text": "8 hours ago · Executive Summary OpenAI could expand the concept of artificial intelligence beyond a conversational interface and develop systems capable of acting, interacting with digital and physical environments, learning through experience, and continuously assisting users. This proposal outlines five potential areas of development: A platform for AI agents capable of playing video games alongside ...",
+      "url": "https://community.openai.com/t/proposal-for-new-openai-platforms-and-capabilities/1392223"
+    },
+    {
+      "title": "ChatGPT Edu 102 for K-12 - Webinar Replay - Video | OpenAI ...",
+      "text": "3 days ago · Unlock the new opportunities of the AI era by equipping yourself with the knowledge and skills to harness artificial intelligence effectively.",
+      "url": "https://academy.openai.com/public/clubs/k-12-education-aacga/videos/chatgpt-edu-102-for-k-12-webinar-replay"
+    },
+    {
+      "title": "Simon Willison on code-review",
+      "text": "2 days ago · 2022 The Perfect Commit For the last few years I’ve been trying to center my work around creating what I consider to be the Perfect Commit. This is a single commit that contains all of the following: [... 2,061 words] 8:41 pm / 29th October 2022 / code-review, definitions, documentation, git, github, software-engineering, testing, github-issues",
+      "url": "https://simonwillison.net/tags/code-review/"
+    },
+    {
+      "title": "Cloud-first: Rapid webapp deployment using containers",
+      "text": "5 days ago · Cloud-first: Rapid webapp deployment using containers (via) The Research Software Engineering group at ICL have written a tutorial on deploying web apps as Docker containers using Azure and they use Datasette as the example application.",
+      "url": "https://simonwillison.net/2018/Mar/28/webapp-deployment-using-containers/"
+    },
+    {
+      "title": "System Requirements For SQLite",
+      "text": "5 days ago · Like everything to do with SQLite this exhibits some incredibly well thought out software engineering. I particularly like “S80000: SQLite shall exhibit ductile failure characteristics“ where ductile is described in opposition to brittle: a ductile system begins showing signs of trouble well in advance of failure.",
+      "url": "https://simonwillison.net/2017/Oct/22/sqlite-requirements/"
+    },
+    {
+      "title": "Simon Willison on llm",
+      "text": "8 hours ago · 625 posts tagged ‘llm’. LLM is my command-line tool for running prompts against Large Language Models.",
+      "url": "https://simonwillison.net/tags/llm/"
+    },
+    {
+      "title": "Codex Desktop command runner completely broken: helper ...",
+      "text": "2 days ago · Codex Desktop command runner completely broken: helper_unknown_error: setup refresh had errors Codex has been unable to launch PowerShell, CMD, Git, or even a trivial local process since yesterday. The failure occurs before any command executes and persists after restarting Windows and updating Codex.",
+      "url": "https://community.openai.com/t/codex-desktop-command-runner-completely-broken-helper-unknown-error-setup-refresh-had-errors/1391898"
+    },
+    {
+      "title": "Noticias de OpenAI",
+      "text": "5 days ago · No te pierdas las últimas novedades sobre los avances vertiginosos en la tecnología de IA y los beneficios que ofrece a la humanidad.",
+      "url": "https://openai.com/es-419/news/"
+    },
+    {
+      "title": "Connection issues on top of 5.6 thinking on high and extra ...",
+      "text": "2 days ago · August 22 Update — GPT-5.6 Sol regression is still ongoing: repeated connection interruptions, missing-file/context hallucinations, shortened Thinking, and failure to execute long workflows I am posting another update because the problems I have been documenting over the last three days are continuing, and I now have an additional reproducible failure: ChatGPT is repeatedly losing the ...",
+      "url": "https://community.openai.com/t/connection-issues-on-top-of-5-6-thinking-on-high-and-extra-high-regression/1391899"
+    },
+    {
+      "title": "A quote from Erik Bernhardsson - simonwillison.net",
+      "text": "5 days ago · Consumer products have had growth hackers for many years optimizing every part of the onboarding funnel. Dev tools should do the same. Getting started shouldn't be an afterthought after you …",
+      "url": "https://simonwillison.net/2024/Sep/27/erik-bernhardsson/"
+    },
+    {
+      "title": "Django for Startup Founders: A better software architecture ...",
+      "text": "5 days ago · Alex then extends that into his own architectural recommendations for startups building with Django to help waste as little time as possible on problems that aren’t core to the product they are building.",
+      "url": "https://simonwillison.net/2021/Jun/24/django-for-startup-founders/"
+    },
+    {
+      "title": "A quote from Tom MacWright",
+      "text": "5 days ago · Simon Willison’s Weblog Building technology in startups is all about having the right level of tech debt. If you have none, you’re probably going too slow and not prioritizing product-market fit and the important business stuff. If you get too much, everything grinds to a halt.",
+      "url": "https://simonwillison.net/2024/Nov/3/tom-macwright/"
+    },
+    {
+      "title": "Lessons from 6 software rewrite stories - Simon Willison",
+      "text": "5 days ago · Lessons from 6 software rewrite stories (via) Herb Caudill takes on the classic idea that rewriting from scratch is “the single worst strategic mistake that any software company can make” and investigates it through the lens of six well-chosen examples: Netscape 6, Basecamp Classic/2/3, Visual Studio/VS Code, Gmail/Inbox, FogBugz/Wasabi/Trello, and finally FreshBooks/BillSpring. Each story ...",
+      "url": "https://simonwillison.net/2019/Feb/19/lessons-6-software-rewrite-stories/"
+    },
+    {
+      "title": "A quote from Brad Lightcap",
+      "text": "5 days ago · Through conversations with startups and developers, it became clear how important it was to be able to support a spectrum of needs, such as custom fine-tuning for specialized tasks, more tunable latency, running on-prem, or deployments requiring full data control.",
+      "url": "https://simonwillison.net/2025/Apr/1/brad-lightcap/"
+    },
+    {
+      "title": "(Almost) Every infrastructure decision I endorse or regret ...",
+      "text": "5 days ago · (Almost) Every infrastructure decision I endorse or regret after 4 years running infrastructure at a startup (via) Absolutely fascinating post by Jack Lindamood talking about services, tools and processes used by his startup and which ones turned out to work well v.s. which ones are now regretted. I’d love to see more companies produce lists like this.",
+      "url": "https://simonwillison.net/2024/Feb/10/almost-every-infrastructure-decision-i-endorse-or-regret/"
+    },
+    {
+      "title": "Books – Stratechery by Ben Thompson",
+      "text": "5 days ago · Spotify’s earnings were solid, although I am more skeptical of its podcast exclusive strategy than ever. Plus, Apple continues to act anti-competitively, this time in e-books.",
+      "url": "https://stratechery.com/topic/publishing/books/"
+    },
+    {
+      "title": "Epic Games – Stratechery by Ben Thompson",
+      "text": "5 days ago · ChatGPT Image 1.5 launched, and while it seems comparable to Gemini’s Nano Banana Pro, the product around it shows OpenAI’s advantages. Then, Apple v. Epic rolls on. The judge in the Epic case released a devastating ruling on Apple’s lack of compliance in terms of allowing links to the win ...",
+      "url": "https://stratechery.com/company/epic-games-2/"
+    },
+    {
+      "title": "India – Stratechery by Ben Thompson",
+      "text": "5 days ago · An interview with Walmart CEO Doug McMillon about his journey at Walmart, and Walmart’s journey in figuring out omnichannel and becoming one of the largest and fastest growing e-commerce businesses in the world.",
+      "url": "https://stratechery.com/topic/countries/india/"
+    },
+    {
+      "title": "Activision – Stratechery by Ben Thompson",
+      "text": "5 days ago · John Riccitiello is out as Unity’s CEO, but the circumstances of his exit may have done the company a favor. Then, Microsoft finally owns Activision, and the outlines of the deal are a win for everyone except the FTC.",
+      "url": "https://stratechery.com/company/activision/"
+    },
+    {
+      "title": "Healthcare – Stratechery by Ben Thompson",
+      "text": "5 days ago · The situation in the U.S., particularly in the Seattle area, is likely worse than it appears; Microsoft and Amazon should take action. Then, the U.S. needs to rely on the private sector, and publishers need to remember why people pay.",
+      "url": "https://stratechery.com/topic/government/healthcare/"
+    },
+    {
+      "title": "OpenAI DevDay is going global",
+      "text": "6 days ago · Starting this October, DevDay Exchange is bringing builders together to swap build notes, share real projects, and meet the teams building OpenAI tools. Bengaluru - October 16 Tokyo - October 20 Seoul - October 22 Berlin - October 26 Paris - October 28 London - November 3 São Paulo - November 6 Mexico City - November 11 We’re ready to see what developers around the 🌎 are pushing to prod ...",
+      "url": "https://community.openai.com/t/openai-devday-is-going-global/1391106"
+    },
+    {
+      "title": "ChatGPT Business - Release Notes - OpenAI Help Center",
+      "text": "4 days ago · ChatGPT Business - Release Notes A changelog of the latest updates for ChatGPT Business plan",
+      "url": "https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes"
+    },
+    {
+      "title": "ChatGPT Enterprise & Edu - Release Notes - OpenAI Help Center",
+      "text": "4 days ago · ChatGPT Enterprise, ChatGPT for Healthcare, and ChatGPT Edu admins can now turn off in-app updates for the ChatGPT desktop app on supported macOS and Windows builds. This lets organizations review new releases before users receive them and deploy approved versions through their existing device management process. The app's built-in updater remains enabled by default. Organizations that turn it ...",
+      "url": "https://help.openai.com/articles/10128477"
+    },
+    {
+      "title": "Chatgpt.com is down - all signups and logins are down as of ...",
+      "text": "5 days ago · All impacted services have now fully recovered.",
+      "url": "https://status.openai.com/incidents/01M0E7K87VJNMGW0QTMHPEQQ39"
+    },
+    {
+      "title": "I counted all of the yurts in Mongolia using machine learning",
+      "text": "5 days ago · I counted all of the yurts in Mongolia using machine learning (via) Fascinating, detailed account by Monroe Clinton of a geospatial machine learning project. Monroe wanted to count visible yurts in Mongolia using Google Maps satellite view.",
+      "url": "https://simonwillison.net/2025/Jun/18/yurts-in-mongolia/"
+    },
+    {
+      "title": "Fairly Trained launches certification for generative AI ...",
+      "text": "5 days ago · I've been using the term \"vegan models\" for a while to describe machine learning models that have been trained in a way that avoids using unlicensed, copyrighted data. Fairly Trained is a new non-profit initiative that aims to encourage such models through a \"certification\" stamp of approval.",
+      "url": "https://simonwillison.net/2024/Jan/25/fairly-trained-launches-certification-for-generative-ai-models-t/"
+    },
+    {
+      "title": "konstantint/SKompiler - Simon Willison",
+      "text": "5 days ago · I’ve been pondering the most light-weight way to package a simple machine learning model as part of a larger application without needing to bundle heavy dependencies, this set of techniques looks ideal!",
+      "url": "https://simonwillison.net/2022/Oct/2/skompiler/"
+    },
+    {
+      "title": "Supercharging Developer Productivity with ChatGPT and Claude ...",
+      "text": "5 days ago · Supercharging Developer Productivity with ChatGPT and Claude with Simon Willison (via) I'm the guest for the latest episode of the TWIML AI podcast - This Week in Machine Learning & AI, hosted by Sam Charrington.",
+      "url": "https://simonwillison.net/2024/Sep/17/supercharging-developer-productivity/"
+    },
+    {
+      "title": "Simon Willison on education",
+      "text": "3 days ago · Most useful Hacker News thread I’ve seen in a while: a torrent of great recommendations for online courses to learn everything from machine learning to astrophysics to songwriting.",
+      "url": "https://simonwillison.net/tags/education/"
+    },
+    {
+      "title": "Text Embedding Models Contain Bias. Here's Why That Matters",
+      "text": "5 days ago · Here's Why That Matters (via) Excellent discussion from the Google AI team of the enormous challenge of building machine learning models without accidentally encoding harmful bias in a way that cannot be easily detected.",
+      "url": "https://simonwillison.net/2018/Apr/17/text-embedding-models-contain-bias/"
+    },
+    {
+      "title": "OpenAI 最新消息 | OpenAI",
+      "text": "5 days ago · AI 科技日新月異，在此隨時掌握最新進展，了解人工智慧為人類帶來的各項益處。",
+      "url": "https://openai.com/zh-Hant/news/"
+    },
+    {
+      "title": "How do you preserve reasoning continuity across long-term ...",
+      "text": "1 day ago · 3Blue1Brown Andrej Karpathy Welch Labs These channels cover broader topics such as neural networks, machine learning, and the mathematics behind modern AI—not only LLMs. Personally, I learn primarily by applying the models to real-world problems and consulting original documentation when questions arise.",
+      "url": "https://community.openai.com/t/how-do-you-preserve-reasoning-continuity-across-long-term-chatgpt-conversations-my-two-layer-handoff-workflow/1392012"
+    },
+    {
+      "title": "Alignment Science Blog",
+      "text": "1 day ago · Introducing the Conceptual Reasoning Index We design benchmarks to measure models' capabilities to reason about questions whose answers are (practically) impossible to verify empirically or mathematically.",
+      "url": "https://alignment.anthropic.com/model-spec-midtraining/2026/teaching-claude-why/2025/anthropic-fellows-program-2026/2024/safety-cases/2026/msm/2025/pretraining-data-filtering/2025/distill-paraphrases/2026/agentic-misalignment-summer-2026/2026/diffuse-ai-control/2024/rogue-eval/2025/bumpers/2026/sleight-bench/2025/summarization-for-monitoring/2024/rogue-eval/2025/sabotage-risk-report/2026/diffuse-ai-control/2024/safety-cases/2025/petri/2026/diffuse-ai-control/2024/how-to-alignment-faking/2025/reward-hacking-ooc/2026/agentic-misalignment-summer-2026/"
+    },
+    {
+      "title": "Topics tagged codex-cli - OpenAI API Community Forum",
+      "text": "5 days ago · Topics tagged codex-cli",
+      "url": "https://community.openai.com/tag/codex-cli/940"
+    },
+    {
+      "title": "Idea for Protecting the Company and the Users",
+      "text": "5 days ago · As these systems become more conversational and personally useful, I think helping people maintain a healthy relationship with them should be an integral part of the product design from the beginning.",
+      "url": "https://community.openai.com/t/idea-for-protecting-the-company-and-the-users/1391368"
+    },
+    {
+      "title": "ChatGPT Enterprise & Edu - Release Notes - OpenAI Help Center",
+      "text": "4 days ago · This first set includes Sales, Data Analytics, Product Design, Creative Production, Investment Banking, and Public Equity Investing. These plugins package role-specific skills, app integrations, starter prompts, and workflow guidance so teams can use Codex for sales prep, analytics and dashboards, prototypes, creative assets, and financial ...",
+      "url": "https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes%25252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252523.webm"
+    },
+    {
+      "title": "Feature Request: Allow text-only messaging after reaching ...",
+      "text": "5 days ago · Is this behavior an intentional product design decision, or is it an implementation limitation? If text messaging and image/file tools have separate limits, why is the entire conversation paused instead of only disabling the affected feature?",
+      "url": "https://community.openai.com/t/feature-request-allow-text-only-messaging-after-reaching-image-file-limits/1391277"
     }
   ]
 }
