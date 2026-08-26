@@ -2,18 +2,13 @@
   "articles": [
     {
       "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-      "text": "89 points on Hacker News",
+      "text": "158 points on Hacker News",
       "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/"
     },
     {
       "title": "Artificial Intelligence Policy",
       "text": "42 points on Hacker News",
       "url": "https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/"
-    },
-    {
-      "title": "Why your Amazon order confirmation emails have become so unhelpful",
-      "text": "78 points on Hacker News",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data"
     },
     {
       "title": "Software Engineering in the Agentic Era",
@@ -41,209 +36,44 @@
       "url": "https://openrouter.ai/stealth/ox-alpha"
     },
     {
-      "title": "Pacing model development in an era of cyber-critical capabilities",
-      "text": "https:&#x2F;&#x2F;twitter.com&#x2F;sama&#x2F;status&#x2F;2089787807611195475 , https:&#x2F;&#x2F;xcancel.com&#x2F;sama&#x2F;status&#x2F;2089787807611195475",
-      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities/"
-    },
-    {
       "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
       "text": "Hi HN, Jonathan &amp; Guy here from OneCLI, an agent harness built for teams, giving every employee a secured, sandboxed personal agent. Here’s what you can do with it: 1. get a sandboxed agent, with all the OneCLI capabilities in place like connect your GitHub account, Gmail, Notion, or Dropbox simply from the chat. 2. deterministic human in the loop approval in the chat itself for things that you need 100% control like sending an email or deleting the Linear ticket. 3. manage team policy in on",
       "url": "https://github.com/onecli/onecli"
     },
     {
       "title": "A quote from Matt Webb",
-      "text": "4 days ago - After I released version 1.0, I figured I would have to do the rotations myself. So I sat down with ChatGPT and I didn’t get it to write the code, …",
+      "text": "5 days ago - After I released version 1.0, I figured I would have to do the rotations myself. So I sat down with ChatGPT and I didn’t get it to write the code, …",
       "url": "https://simonwillison.net/2026/Aug/21/matt-webb/"
     },
     {
       "title": "Conceptual integrity and counting lines of code",
-      "text": "5 days ago - Last week I recorded an episode of the Talking Postgres podcast with Claire Giordano on the subject of “How AI is changing software development”. We had a really great conversation. …",
+      "text": "1 week ago - Last week I recorded an episode of the Talking Postgres podcast with Claire Giordano on the subject of “How AI is changing software development”. We had a really great conversation. …",
       "url": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/"
     },
     {
       "title": "A quote from Drew Breunig",
-      "text": "2 days ago - Prior to Fable, it felt silly to waste too much time improving your coding harness or context strategies. A new model would arrive at the same price (or cheaper!) and …",
+      "text": "3 days ago - Prior to Fable, it felt silly to waste too much time improving your coding harness or context strategies. A new model would arrive at the same price (or cheaper!) and …",
       "url": "https://simonwillison.net/2026/Aug/23/drew-breunig/"
     },
     {
       "title": "Release: llm 0.33",
-      "text": "3 days ago - Access large language models from the command-line",
+      "text": "4 days ago - Access large language models from the command-line",
       "url": "https://simonwillison.net/2026/Aug/22/llm/"
     },
     {
-      "title": "More than just code review",
-      "text": "3 days ago - The key skill required to make productive use of coding agents is being able to confidently instruct them on how to make changes and then confidently verify that those changes …",
-      "url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/"
+      "title": "Release: llm-anthropic 0.27",
+      "text": "2 days ago - LLM access to models by Anthropic, including the Claude series",
+      "url": "https://simonwillison.net/2026/Aug/24/llm-anthropic/"
     },
     {
-      "title": "Artificial intelligence - Wikipedia",
-      "text": "Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making.",
-      "url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+      "title": "Autonomy and Innovation – Stratechery by Ben Thompson",
+      "text": "2 days ago - As you can see from this incident, agents are quite good at finding zero-day attacks in the infrastructure of companies. The question that’s now going to be posed is whether companies are able to invest sufficient model intelligence and effort in finding and remediating their vulnerabilities before someone else that’s a threat actor does it for you.",
+      "url": "https://stratechery.com/2026/autonomy-and-innovation/"
     },
     {
-      "title": "Artificial intelligence (AI) | Definition, Examples, Types ...",
-      "text": "12 hours ago · Artificial intelligence (AI) is the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with intelligent beings. The term is frequently applied to the project of developing systems with the ability to reason, discover meaning, generalize, or learn from past experiences.",
-      "url": "https://www.britannica.com/technology/artificial-intelligence"
-    },
-    {
-      "title": "What is artificial intelligence (AI)? - IBM",
-      "text": "Jun 15, 2026 · Artificial intelligence (AI) is technology that enables computers and machines to simulate human learning, comprehension, problem solving, decision-making, creativity and autonomy.",
-      "url": "https://www.ibm.com/think/topics/artificial-intelligence"
-    },
-    {
-      "title": "Artificial Intelligence (AI): What It Is, How It Works, Types,...",
-      "text": "Jun 30, 2026 · Artificial intelligence enables computers to perform tasks that normally require human intelligence. Machine learning is a branch of AI that allows systems to improve as they analyze more data. AI ...",
-      "url": "https://www.investopedia.com/terms/a/artificial-intelligence-ai.asp"
-    },
-    {
-      "title": "What Is Artificial Intelligence? Definition, Uses, and Types",
-      "text": "Mar 14, 2026 · What is artificial intelligence? Artificial intelligence (AI) is the theory and development of computer systems capable of performing tasks that historically required human intelligence, such as recognizing speech, making decisions, and identifying patterns.",
-      "url": "https://www.coursera.org/articles/what-is-artificial-intelligence"
-    },
-    {
-      "title": "ISO - What is artificial intelligence (AI)?",
-      "text": "Artificial intelligence (AI) is a branch of computer science that creates systems and software capable of tasks once thought to be uniquely human. It enables machines to learn from experience, adapt to new information, and uses data, algorithms and computational power to interpret complex situations and make decisions with minimal human input.",
-      "url": "https://www.iso.org/artificial-intelligence/what-is-ai"
-    },
-    {
-      "title": "Software engineering - Wikipedia",
-      "text": "Software engineering is an engineering discipline that is concerned with all aspects of software production, from the early stages of system specification to maintaining the system after it has gone into use.",
-      "url": "https://en.wikipedia.org/wiki/Software_engineering"
-    },
-    {
-      "title": "Software Engineering Tutorial - GeeksforGeeks",
-      "text": "Aug 13, 2026 · Software Engineering is the systematic process of designing, developing, testing, and maintaining software to create reliable, efficient, and high-quality applications. It applies engineering principles, methods, and tools to develop software in a systematic manner.",
-      "url": "https://www.geeksforgeeks.org/software-engineering/software-engineering/"
-    },
-    {
-      "title": "What Does a Software Engineer Do? - Coursera",
-      "text": "Jun 2, 2026 · A software engineer is a computer science professional who builds and maintains software solutions. Software engineers tend to have an overview of software systems and work to create infrastructure and systems that other developers can use, or that can scale easily as business needs grow.",
-      "url": "https://www.coursera.org/articles/software-engineer"
-    },
-    {
-      "title": "Introduction to Software Engineering - GeeksforGeeks",
-      "text": "Aug 18, 2026 · Software is a program or set of programs containing instructions that provide the desired functionality. Engineering is the process of designing and building something that serves a purpose efficiently and cost-effectively. Uses requirements analysis, design, testing, and maintenance techniques.",
-      "url": "https://www.geeksforgeeks.org/software-engineering/software-engineering-introduction-to-software-engineering/"
-    },
-    {
-      "title": "What is software engineering? - GitHub",
-      "text": "Software engineering is the job of designing, developing, testing, and maintaining software applications and systems. It involves applying engineering principles to the software development lifecycle and the use of various tools and techniques to create high-quality software products.",
-      "url": "https://github.com/resources/articles/what-is-software-engineering"
-    },
-    {
-      "title": "What is Software Engineering? - Michigan Technological University",
-      "text": "Software engineering is the branch of computer science that deals with the design, development, testing, and maintenance of software applications. Software engineers apply engineering principles and knowledge of programming languages to build software solutions for end users.",
-      "url": "https://www.mtu.edu/cs/undergraduate/software/what/"
-    },
-    {
-      "title": "What is Microsoft for Startups? | Microsoft Learn",
-      "text": "May 29, 2026 · Learn how Microsoft for Startups helps founders build fast, scale smart, and sell more with Startup credits, AI capabilities on Azure, dedicated guidance, and go-to-market resources.",
-      "url": "https://learn.microsoft.com/en-us/startups/microsoft-for-startups/overview"
-    },
-    {
-      "title": "Getting Started with Microsoft for Startups | Microsoft Learn",
-      "text": "Aug 5, 2026 · Learn how Microsoft for Startups helps founders build fast, scale smart, and sell more with Startup credits, Azure AI capabilities, technical resources, and startup support.",
-      "url": "https://learn.microsoft.com/en-us/startups/microsoft-for-startups/getting-started-mfs"
-    },
-    {
-      "title": "Microsoft for Startups Portal | Microsoft Learn",
-      "text": "May 29, 2026 · The Microsoft for Startups Portal is the primary tool to manage your Microsoft for Startups membership. Here you can: Update company profile information and team members Find, activate, and manage program benefits including your Azure credits Submit a program support request Request Azure technical guidance (benefit access dependent upon ...",
-      "url": "https://learn.microsoft.com/en-us/startups/microsoft-for-startups/mfs-portal"
-    },
-    {
-      "title": "Startups Hub | Microsoft Learn",
-      "text": "Microsoft Learn Startups Hub From first prototype to global scale, find everything startups need to build, learn, and grow with Microsoft. Explore technical guidance, AI resources, and Microsoft for Startups opportunities designed to help you move toward enterprise readiness.",
-      "url": "https://learn.microsoft.com/en-us/startups/"
-    },
-    {
-      "title": "Overview of the Microsoft for Startups application process",
-      "text": "Jun 18, 2026 · Overview Microsoft for Startups is a program built to help early-stage startups build, launch, and scale on Azure. This guide walks you through how to apply, including: Eligibility criteria for the program What you need before you start your application How to apply with or without an investor referral code What happens after you submit your ...",
-      "url": "https://learn.microsoft.com/en-us/startups/microsoft-for-startups/application"
-    },
-    {
-      "title": "Microsoft for Startups Program Support | Microsoft Learn",
-      "text": "Jun 2, 2026 · Microsoft for Startups Program Support helps founders build, run, and scale their businesses on Azure by resolving program-related issues, guiding benefit activation, and connecting startups to the right Microsoft support teams at the right time. Our goal is to remove friction so you can activate benefits quickly, stay unblocked, and keep building on Azure. MfS Support focuses on program ...",
-      "url": "https://learn.microsoft.com/en-us/startups/microsoft-for-startups/mfs-program-support"
-    },
-    {
-      "title": "Machine learning - Wikipedia",
-      "text": "Machine learning (ML), reorganised and recognised as its own field, started to flourish in the 1990s. The field changed its goal from achieving artificial intelligence to tackling solvable problems of a practical nature.",
-      "url": "https://en.wikipedia.org/wiki/Machine_learning"
-    },
-    {
-      "title": "Machine Learning Tutorial - GeeksforGeeks",
-      "text": "Jun 5, 2026 · Machine learning is a branch of Artificial Intelligence that focuses on developing models and algorithms that let computers learn from data without being explicitly programmed for every task. In simple words, ML teaches systems to think and understand like humans by learning from the data.",
-      "url": "https://www.geeksforgeeks.org/machine-learning/machine-learning/"
-    },
-    {
-      "title": "What is machine learning? - IBM",
-      "text": "Machine learning is the subset of AI focused on algorithms that analyze and “learn” the patterns of training data in order to make accurate inferences about new data.",
-      "url": "https://www.ibm.com/think/topics/machine-learning"
-    },
-    {
-      "title": "Introduction to Machine Learning - GeeksforGeeks",
-      "text": "May 29, 2026 · Machine Learning is a technique that allows computers to learn from data and make decisions without explicit programming. It works by identifying patterns in data and using them to make predictions.",
-      "url": "https://www.geeksforgeeks.org/machine-learning/introduction-machine-learning/"
-    },
-    {
-      "title": "What Is Machine Learning (ML)? Definition and Examples",
-      "text": "Mar 17, 2026 · Get a simple definition of machine learning (ML) from UC Berkeley. Learn how ML works, explore the main types, and see real-world examples and applications.",
-      "url": "https://ischoolonline.berkeley.edu/blog/what-is-machine-learning/"
-    },
-    {
-      "title": "Machine Learning | Google for Developers",
-      "text": "An introduction to the characteristics of machine learning datasets, and how to prepare your data to ensure high-quality results when training and evaluating your model.",
-      "url": "https://developers.google.com/machine-learning/crash-course"
-    },
-    {
-      "title": "Chrome DevTools | Chrome for Developers",
-      "text": "Chrome DevTools is a set of web developer tools built directly into the Google Chrome browser. DevTools lets you edit pages on-the-fly and diagnose problems quickly, which helps you build better websites, faster.",
-      "url": "https://developer.chrome.com/docs/devtools"
-    },
-    {
-      "title": "Open Chrome DevTools | Chrome for Developers",
-      "text": "Dec 14, 2018 · To open the last DevTools panel, click the more_vert button to the right of the address bar and select More Tools > Developer Tools. Alternatively, you can open the last panel with a shortcut.",
-      "url": "https://developer.chrome.com/docs/devtools/open/"
-    },
-    {
-      "title": "Developer Tools for Windows | Microsoft Developer",
-      "text": "Discover the best developer tools for Windows — Windows Terminal, WSL, PowerToys, WinGet, and more.",
-      "url": "https://developer.microsoft.com/en-us/windows/dev-tools"
-    },
-    {
-      "title": "26 Software Development Tools & Platforms [2026 List]",
-      "text": "Jun 26, 2026 · See our list of 26 best software development tools that you can use for coding, project management, collaboration, automation, and more.",
-      "url": "https://spacelift.io/blog/software-development-tools"
-    },
-    {
-      "title": "Google Chrome Developer Tools - Google Chrome",
-      "text": "Test cutting-edge web platform APIs and developer tools that are updated weekly.",
-      "url": "https://www.google.com/chrome/dev/"
-    },
-    {
-      "title": "Product - Wikipedia",
-      "text": "This disambiguation page lists articles associated with the title Product. If an internal link incorrectly led you here, you may wish to change the link to point directly to the intended article.",
-      "url": "https://en.wikipedia.org/wiki/Product"
-    },
-    {
-      "title": "Product (business) - Wikipedia",
-      "text": "Products are created through processes of design, production, and distribution, and they play a central role in commercial exchange, consumer behavior, and organizational strategy.",
-      "url": "https://en.wikipedia.org/wiki/Product_(business)"
-    },
-    {
-      "title": "What is Product? Definition of Product, Product Meaning - The ...",
-      "text": "5 hours ago · A product is something people can see or use, made to satisfy what consumers want or need. It can be a tangible item, a service, an experience, or an idea. Key elements of a product are its characteristics, quality, brand, packaging, and cost.",
-      "url": "https://economictimes.indiatimes.com/definition/product"
-    },
-    {
-      "title": "PRODUCT Definition & Meaning - Merriam-Webster",
-      "text": "4 days ago · The meaning of PRODUCT is the number or expression resulting from the multiplication together of two or more numbers or expressions. How to use product in a sentence.",
-      "url": "https://www.merriam-webster.com/dictionary/product"
-    },
-    {
-      "title": "PRODUCT | English meaning - Cambridge Dictionary",
-      "text": "PRODUCT definition: 1. something that is made to be sold, usually something that is produced by an industrial process…. Learn more.",
-      "url": "https://dictionary.cambridge.org/dictionary/english/product"
+      "title": "Nvidia’s Risky Business",
+      "text": "2 days ago - We’ll see how zero sum compute actually is — there are reports Google’s researchers have been starved for compute — but the overall takeaway is that whether or not Google is competing for the frontier, they are absolutely competing to dominate AI infrastructure. And, in a world where intelligence is a commodity, TPUs in particular are a big deal.",
+      "url": "https://stratechery.com/2026/nvidias-risky-business/"
     }
   ]
 }
