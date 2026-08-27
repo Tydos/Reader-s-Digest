@@ -2,7 +2,7 @@
   "articles": [
     {
       "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-      "text": "158 points on Hacker News",
+      "text": "160 points on Hacker News",
       "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/"
     },
     {
@@ -11,19 +11,19 @@
       "url": "https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/"
     },
     {
+      "title": "Software engineering is about managing complexity",
+      "text": "100 points on Hacker News",
+      "url": "https://hack8s.com/422/once-again-software-engineering-is-about-managing-complexity"
+    },
+    {
       "title": "Software Engineering in the Agentic Era",
       "text": "34 points on Hacker News",
       "url": "https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/"
     },
     {
-      "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
-      "text": "Hi HN, we’re Yousef &amp; Nour, founders of Vendo ( https:&#x2F;&#x2F;vendo.run ). Vendo lets users create new features inside the software they already use. A user describes the dashboard, workflow, or small app they need, and Vendo builds it on top of the product’s existing data, API, and interface. Demo: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=VdpHehY64ls We built Vendo because every SaaS eventually faces the same problem: every customer needs something slightly different. One wants a ",
-      "url": "https://github.com/runvendo/vendo"
-    },
-    {
-      "title": "Show HN: We chased a weather balloon across Montana and never found it",
-      "text": "Since April, I have been working with Sam Flynn ( https:&#x2F;&#x2F;drook.dev ) to make this balloon payload, UpLink. We did a similar launch last year with Hack Club but this was our first independent launch. UpLink was a 491 gram payload testing the insulation properties of 3D printing filaments, while also transmitting 320x240 images over a radio link -- up from the 18x10 images last year! This is a writeup on our engineering process, mistakes made, and learning experiences. It covers: - Cust",
-      "url": "https://radi8.dev/blog/uplink/"
+      "title": "Actinide is first startup to produce high-assay low-enriched uranium (HALEU)",
+      "text": "174 points on Hacker News",
+      "url": "https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu"
     },
     {
       "title": "Show HN: Huzzah – a novel approach to coding with AI",
@@ -36,44 +36,179 @@
       "url": "https://openrouter.ai/stealth/ox-alpha"
     },
     {
-      "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
-      "text": "Hi HN, Jonathan &amp; Guy here from OneCLI, an agent harness built for teams, giving every employee a secured, sandboxed personal agent. Here’s what you can do with it: 1. get a sandboxed agent, with all the OneCLI capabilities in place like connect your GitHub account, Gmail, Notion, or Dropbox simply from the chat. 2. deterministic human in the loop approval in the chat itself for things that you need 100% control like sending an email or deleting the Linear ticket. 3. manage team policy in on",
-      "url": "https://github.com/onecli/onecli"
+      "title": "Stripe acquires Clerky",
+      "text": "https:&#x2F;&#x2F;twitter.com&#x2F;darbyw&#x2F;status&#x2F;2092718828405096955",
+      "url": "https://www.clerky.com/blog/clerky-is-joining-stripe"
     },
     {
       "title": "A quote from Matt Webb",
-      "text": "5 days ago - After I released version 1.0, I figured I would have to do the rotations myself. So I sat down with ChatGPT and I didn’t get it to write the code, …",
+      "text": "1 week ago - After I released version 1.0, I figured I would have to do the rotations myself. So I sat down with ChatGPT and I didn’t get it to write the code, …",
       "url": "https://simonwillison.net/2026/Aug/21/matt-webb/"
     },
     {
-      "title": "Conceptual integrity and counting lines of code",
-      "text": "1 week ago - Last week I recorded an episode of the Talking Postgres podcast with Claire Giordano on the subject of “How AI is changing software development”. We had a really great conversation. …",
-      "url": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/"
+      "title": "A quote from Paul Dix",
+      "text": "1 day ago - The fact that AI wrote 1M LOC and then refined it over the course of the next couple of months to produce a reliable piece of software that is currently …",
+      "url": "https://simonwillison.net/2026/Aug/26/paul-dix/"
     },
     {
       "title": "A quote from Drew Breunig",
-      "text": "3 days ago - Prior to Fable, it felt silly to waste too much time improving your coding harness or context strategies. A new model would arrive at the same price (or cheaper!) and …",
+      "text": "4 days ago - Prior to Fable, it felt silly to waste too much time improving your coding harness or context strategies. A new model would arrive at the same price (or cheaper!) and …",
       "url": "https://simonwillison.net/2026/Aug/23/drew-breunig/"
     },
     {
-      "title": "Release: llm 0.33",
-      "text": "4 days ago - Access large language models from the command-line",
-      "url": "https://simonwillison.net/2026/Aug/22/llm/"
+      "title": "More than just code review",
+      "text": "5 days ago - The key skill required to make productive use of coding agents is being able to confidently instruct them on how to make changes and then confidently verify that those changes …",
+      "url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/"
     },
     {
-      "title": "Release: llm-anthropic 0.27",
-      "text": "2 days ago - LLM access to models by Anthropic, including the Claude series",
-      "url": "https://simonwillison.net/2026/Aug/24/llm-anthropic/"
+      "title": "The Implications of AI – Stratechery by Ben Thompson",
+      "text": "3 days ago · AI is starting to unbundle the final part of the idea propagation value chain: idea creation and substantiation. The impacts will be far-reaching.",
+      "url": "https://stratechery.com/concept/ai/implications-ai/"
+    },
+    {
+      "title": "Software Engineer, AI accelerator Runtime - OpenAI",
+      "text": "3 days ago · At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared ...",
+      "url": "https://openai.com/careers/software-engineer-ai-accelerator-runtime-san-francisco/"
+    },
+    {
+      "title": "AI Support Engineer - Dublin (Weekend Shift) - OpenAI",
+      "text": "3 days ago · OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the ...",
+      "url": "https://openai.com/careers/ai-support-engineer-dublin-(weekend-shift)-dublin-ireland/"
+    },
+    {
+      "title": "Manager, Applied AI Engineering (Codex) - OpenAI",
+      "text": "4 hours ago · OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the ...",
+      "url": "https://openai.com/careers/manager-applied-ai-engineering-(codex)-san-francisco/"
+    },
+    {
+      "title": "Proposal for New OpenAI Platforms and Capabilities - API",
+      "text": "3 days ago · OpenAI could expand the concept of artificial intelligence beyond a conversational interface and develop systems capable of acting, interacting with digital ...",
+      "url": "https://community.openai.com/t/proposal-for-new-openai-platforms-and-capabilities/1392223"
+    },
+    {
+      "title": "Business Operations Manager, Business Marketing | OpenAI",
+      "text": "1 day ago · OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the ...",
+      "url": "https://openai.com/careers/business-operations-manager-business-marketing-san-francisco/"
+    },
+    {
+      "title": "Software Security Architect, Operating Systems - OpenAI",
+      "text": "2 days ago · OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the ...",
+      "url": "https://openai.com/careers/software-security-architect-operating-systems-or-consumer-devices-san-francisco/"
+    },
+    {
+      "title": "Head of Vulnerability Disclosure & Security Community",
+      "text": "7 days ago · Experience incorporating artificial intelligence into coordinated vulnerability disclosure or CNA processes, such as automated triage, severity assessment, or ...",
+      "url": "https://www.anthropic.com/careers/jobs/5397699008"
+    },
+    {
+      "title": "How Universities Should Prepare Founders - Paul Graham",
+      "text": "5 hours ago · It's to do what universities already do best — to teach them computer science and mechanical engineering and molecular biology. Almost any kind of expertise ...",
+      "url": "https://paulgraham.com/prepare.html"
+    },
+    {
+      "title": "Apple Updates Mini and Studio, AI Computers, OpenAI Jalapeño",
+      "text": "1 day ago · Apple and OpenAI have two completely different hardware announcements; both represent pressure on Nvidia. the best source for learning about how tech works.",
+      "url": "https://stratechery.com/2026/apple-updates-mini-and-studio-ai-computers-openai-jalapeno/"
+    },
+    {
+      "title": "Software Engineer, Infrastructure | OpenAI",
+      "text": "2 hours ago · Strong software engineering skills with experience in Python, Go, C++, Rust, or similar languages. Experience designing, operating, or scaling distributed ...",
+      "url": "https://openai.com/careers/software-engineer-infrastructure-san-francisco/"
+    },
+    {
+      "title": "Software Engineer, API Safety | OpenAI",
+      "text": "6 days ago · Strong software engineering and systems fundamentals, with experience leading technically complex projects from ambiguous ideas to production. Proficiency ...",
+      "url": "https://openai.com/careers/software-engineer-api-safety-san-francisco/"
+    },
+    {
+      "title": "Systems Integration Manager | Consumer Devices | OpenAI",
+      "text": "2 days ago · Strong technical background in software engineering, embedded systems, test automation, or systems engineering. Extensive background in consumer hardware ...",
+      "url": "https://openai.com/careers/systems-integration-manager-or-consumer-devices-san-francisco/"
+    },
+    {
+      "title": "Codex Desktop command runner completely broken ...",
+      "text": "5 days ago · Between the subscription cost and the amount of usage/tokens consumed during software-engineering workflows, I expect the basic execution environment to be ...",
+      "url": "https://community.openai.com/t/codex-desktop-command-runner-completely-broken-helper-unknown-error-setup-refresh-had-errors/1391898/2"
+    },
+    {
+      "title": "Forward Deployed Engineer (FDE), Healthcare - Seattle - OpenAI",
+      "text": "3 days ago · You might thrive in this role if you. Bring 6+ years of software engineering, ML/AI engineering, solutions engineering, technical consulting, or comparable ...",
+      "url": "https://openai.com/careers/forward-deployed-engineer-(fde)-healthcare-seattle-seattle/"
+    },
+    {
+      "title": "Claude Sonnet - Anthropic",
+      "text": "7 days ago · Claude Sonnet 5 gives our agents a strong execution layer for multi-step software engineering work. It handles sustained coding, tool use, and debugging ...",
+      "url": "https://www.anthropic.com/claude/sonnet"
+    },
+    {
+      "title": "Release notes | Anthropic Help Center - Claude Support",
+      "text": "2 days ago · Opus 4.7 shows improvements in software engineering and complex, long-running coding tasks, as well as better vision, allowing it to see images in higher ...",
+      "url": "https://docs.anthropic.com/en/release-notes/claude-apps"
     },
     {
       "title": "Autonomy and Innovation – Stratechery by Ben Thompson",
-      "text": "2 days ago - As you can see from this incident, agents are quite good at finding zero-day attacks in the infrastructure of companies. The question that’s now going to be posed is whether companies are able to invest sufficient model intelligence and effort in finding and remediating their vulnerabilities before someone else that’s a threat actor does it for you.",
+      "text": "3 days ago · For startups the base case is failure; that means that anything that makes success more likely has positive expected value, which is to say that truly leaning ...",
       "url": "https://stratechery.com/2026/autonomy-and-innovation/"
     },
     {
-      "title": "Nvidia’s Risky Business",
-      "text": "2 days ago - We’ll see how zero sum compute actually is — there are reports Google’s researchers have been starved for compute — but the overall takeaway is that whether or not Google is competing for the frontier, they are absolutely competing to dominate AI infrastructure. And, in a world where intelligence is a commodity, TPUs in particular are a big deal.",
-      "url": "https://stratechery.com/2026/nvidias-risky-business/"
+      "title": "Growth Programs Lead, Startups | OpenAI",
+      "text": "3 days ago · About the Team. The Startup Growth team is building the systems, programs, and automation that enable OpenAI to win startups at scale.",
+      "url": "https://openai.com/careers/growth-programs-lead-startups-san-francisco/"
+    },
+    {
+      "title": "Account Director, Startups | Tokyo - OpenAI",
+      "text": "4 days ago · Many of the most disruptive and category-defining AI applications are being created by startups. The Startup Go-To-Market team's mission is to help startups ...",
+      "url": "https://openai.com/careers/account-director-startups-or-tokyo-tokyo-japan/"
+    },
+    {
+      "title": "Integrated Marketing Manager, Developers | OpenAI",
+      "text": "3 days ago · In this role, you will: Support marketing strategies for developers, founders, startups, and engineering teams building with OpenAI, based on how technical ...",
+      "url": "https://openai.com/careers/integrated-marketing-manager-developers-san-francisco/"
+    },
+    {
+      "title": "Product Design Lead, Growth - Codex | OpenAI",
+      "text": "3 days ago · We're looking for a Product Design Leader to shape how startups, small businesses, and growing teams discover, adopt, and unlock lasting value from Codex and ...",
+      "url": "https://openai.com/careers/product-design-lead-growth-codex-san-francisco/"
+    },
+    {
+      "title": "[PDF] The 2026 State of AI Agents Report - Anthropic",
+      "text": "2 days ago · Building AI agents for startups: Learn how leading startups like eSentire and. Gradient Labs build and deploy AI to accelerate the software development.",
+      "url": "https://resources.anthropic.com/hubfs/The+2026+State+of+AI+Agents+Report.pdf"
+    },
+    {
+      "title": "Funding better evaluations of AI's impact on wellbeing - Anthropic",
+      "text": "2 days ago · Startups · Research Labs. Help and security. Availability · Status · Support center. Company. Anthropic · Careers · Leadership · Policy · Economic Futures ...",
+      "url": "https://www.anthropic.com/news/wellbeing-research-grants"
+    },
+    {
+      "title": "Anthropic's Watermarking, How It (Probably) Works, Worse ...",
+      "text": "6 days ago · Anthropic is adding watermarking in response to the E.U.'s AI law. It's a terrible idea, first and foremost for philosophical reasons. Missing: machine | Show results with: machine",
+      "url": "https://stratechery.com/2026/anthropics-watermarking-how-it-probably-works-worse-than-it-seems/"
+    },
+    {
+      "title": "Machine Learning Engineer, Multimodal Perception and ...",
+      "text": "7 days ago · Our work spans machine learning ... Have a strong background in computer vision, audio or speech machine learning, multimodal learning, or sensing.",
+      "url": "https://openai.com/careers/machine-learning-engineer-multimodal-perception-and-authentication-san-francisco/"
+    },
+    {
+      "title": "Introducing Intelligence Age | OpenAI",
+      "text": "7 days ago · Doing this will involve research at the intersection of public-policy design, economics, the law, history, and machine learning itself. It will also require ...",
+      "url": "https://openai.com/index/introducing-ai-futures/"
+    },
+    {
+      "title": "People Research Scientist - OpenAI",
+      "text": "3 days ago · Apply advanced statistical modeling, machine learning, and research ... machine learning evaluation. High proficiency in R or Python and SQL, with ...",
+      "url": "https://openai.com/careers/people-research-scientist-san-francisco/"
+    },
+    {
+      "title": "Research Engineer / Research Scientist, Health | OpenAI",
+      "text": "6 days ago · Have an unusually strong track record in machine learning or AI research, with the depth to push at least one important area forward: pretraining ...",
+      "url": "https://openai.com/careers/research-engineer-research-scientist-health-san-francisco/"
+    },
+    {
+      "title": "Codex for every role, tool, and workflow - OpenAI",
+      "text": "3 days ago · At NVIDIA, researchers are using Codex to speed up experiment workflows, from finding research ideas to writing scripts for machine learning infrastructure.",
+      "url": "https://openai.com/kk-Cyrl/index/codex-for-every-role-tool-workflow/"
     }
   ]
 }
