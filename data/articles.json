@@ -1,9 +1,9 @@
 {
   "articles": [
     {
-      "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-      "text": "164 points on Hacker News",
-      "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/"
+      "title": "DIY archivists push budget Nikons to 902,000 clicks to save 1,800 rare books",
+      "text": "46 points on Hacker News",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/diy-archivists-push-budget-nikons-to-902-000-clicks-to-save-1-800-rare-books-team-trains-neural-net-on-photoshop-edits-to-process-526-000-scans"
     },
     {
       "title": "Software engineering is about managing complexity",
@@ -12,18 +12,23 @@
     },
     {
       "title": "The growing divide between AI hype and software engineering reality",
-      "text": "66 points on Hacker News",
+      "text": "67 points on Hacker News",
       "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/"
     },
     {
       "title": "I used AWS cognito for a startup. I wouldn't do it again",
-      "text": "191 points on Hacker News",
+      "text": "192 points on Hacker News",
       "url": "https://joshkaramuth.com/blog/aws-cognito-authentication-startup-nightmare/"
     },
     {
       "title": "Actinide is first startup to produce high-assay low-enriched uranium (HALEU)",
       "text": "175 points on Hacker News",
       "url": "https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu"
+    },
+    {
+      "title": "Since it was stripped of planetary status, Pluto’s defenders have been fighting",
+      "text": "56 points on Hacker News",
+      "url": "https://www.theguardian.com/science/2026/aug/31/forbidden-planet-was-plutos-2006-demotion-a-big-mistake"
     },
     {
       "title": "GLM-5.3 is now open-weight",
@@ -41,169 +46,154 @@
       "url": "https://www.clerky.com/blog/clerky-is-joining-stripe"
     },
     {
+      "title": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
+      "text": "Hi HN, we’re Brandon and Kingston, the founders of Hebbian Robotics. We built HFlow ( https:&#x2F;&#x2F;github.com&#x2F;Hebbian-Robotics&#x2F;hflow ), an SDK that turns multimodal recordings from robots and human operators into standardized, quality-checked episodes and queryable dataset manifests. A recording can contain synchronized video, joint states, actions, timestamps, and metadata, and HFlow processes those streams together. Here’s a demo of HFlow in action: https:&#x2F;&#x2F;www.youtube",
+      "url": "https://github.com/Hebbian-Robotics/hflow"
+    },
+    {
       "title": "Gemini Omni 1.1 Flash",
       "text": "296 points on Hacker News",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/"
     },
     {
+      "title": "Develop Cross-Platform CLI and GUI Tools with Tcl/Tk",
+      "text": "106 points on Hacker News",
+      "url": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide"
+    },
+    {
       "title": "A quote from Paul Dix",
-      "text": "5 days ago - The fact that AI wrote 1M LOC and then refined it over the course of the next couple of months to produce a reliable piece of software that is currently …",
+      "text": "1 week ago - The fact that AI wrote 1M LOC and then refined it over the course of the next couple of months to produce a reliable piece of software that is currently …",
       "url": "https://simonwillison.net/2026/Aug/26/paul-dix/"
     },
     {
       "title": "Archive for Wednesday, 26th August 2026",
-      "text": "6 days ago - The fact that AI wrote 1M LOC and then refined it over the course of the next couple of months to produce a reliable piece of software that is currently running on millions of developer machines is absolutely mind blowing. And you can say, “well it’s not that impressive because they had ...",
+      "text": "1 week ago - The fact that AI wrote 1M LOC and then refined it over the course of the next couple of months to produce a reliable piece of software that is currently running on millions of developer machines is absolutely mind blowing. And you can say, “well it’s not that impressive because they had ...",
       "url": "https://simonwillison.net/2026/Aug/26/"
     },
     {
       "title": "Archive for Sunday, 30th August 2026",
-      "text": "1 day ago - OpenAI announced ChatGPT Work on July 9th, and have been furiously iterating on it ever since. It is an extraordinarily confusing and very powerful product. Here’s what I’ve figured out about it so far",
+      "text": "2 days ago - OpenAI announced ChatGPT Work on July 9th, and have been furiously iterating on it ever since. It is an extraordinarily confusing and very powerful product. Here’s what I’ve figured out about it so far",
       "url": "https://simonwillison.net/2026/Aug/30/"
     },
     {
-      "title": "Qwen3.8-Flash-Next",
-      "text": "5 days ago - Another open weights model from Qwen. This one is \"a multimodal MoE model that also serves as an early preview of the architecture used in Qwen4\". It's pretty big: 125B …",
-      "url": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/"
-    },
-    {
-      "title": "Archive for Tuesday, 25th August 2026",
-      "text": "6 days ago - EVE Online: The Move to Python 3 Begins! (via) EVE Online has been one of the most interesting case studies in Python at scale for over twenty years now · They've been running on Stackless Python since their launch in 2003, and their last major upgrade was 16 years ago, to Stackless Python ...",
-      "url": "https://simonwillison.net/2026/Aug/25/"
-    },
-    {
-      "title": "Learning never stops: How AI makes learning continuous - OpenAI",
-      "text": "5 days ago · OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-      "url": "https://openai.com/index/learning-never-stops/"
-    },
-    {
       "title": "Possible Future of Artificial Intelligence Research",
-      "text": "2 days ago · Possible Future of Artificial Intelligence Research ChatGPT Use cases and examples in-the-news, off-topic, philosophy",
+      "text": "2 days ago · Possible Future of Artificial Intelligence Research · ChatGPT Use cases and ... From Shakey to ChatGPT: The Revival of Artificial Intelligence Over Five Decades.",
       "url": "https://community.openai.com/t/possible-future-of-artificial-intelligence-research/1393492"
     },
     {
-      "title": "The Hugging Face incident and the road ahead - Community ...",
-      "text": "4 days ago · In July 2026, during internal cybersecurity evaluations, OpenAI models circumvented controls designed to isolate them from the internet and compromised parts of OpenAI’s internal research infrastructure and Hugging Face’s systems. The incident occurred during cybersecurity evaluations of several OpenAI models, and was primarily driven by a highly capable, internal-only research model ...",
-      "url": "https://community.openai.com/t/the-hugging-face-incident-and-the-road-ahead/1393041"
+      "title": "AI Support Engineer, Government - San Francisco, CA | OpenAI",
+      "text": "15 hours ago · OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the ...",
+      "url": "https://openai.com/careers/ai-support-engineer-government-san-francisco-ca-san-francisco/"
     },
     {
-      "title": "Event Replay: Inside Applied AI Engineering at OpenAI",
-      "text": "3 days ago · This OpenAI Forum event offered a closer look at the Applied AI Engineering role at OpenAI and how the team turns powerful models into reliable, useful systems. Bonnie Chatterjee spoke with applied AI engineers Erika Kettleson and Thomas Li about their da...",
-      "url": "https://forum.openai.com/public/videos/event-replay-inside-applied-ai-engineering-at-openai-2026-08-27"
+      "title": "Business Operations Manager, Business Marketing - OpenAI",
+      "text": "6 days ago · OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the ...",
+      "url": "https://openai.com/careers/business-operations-manager-business-marketing-san-francisco/"
     },
     {
-      "title": "Feature request: Better context management in Projects and ...",
-      "text": "3 days ago · I use Projects and ChatGPT Work for long-running research and software-engineering tasks. I would like to propose three related context-management improvements. Explicit references to Project conversations Projects ca…",
-      "url": "https://community.openai.com/t/feature-request-better-context-management-in-projects-and-chatgpt-work/1393260"
+      "title": "Possible Future of Artificial Intelligence Research - #2 by Diet",
+      "text": "3 days ago · Possible Future of Artificial Intelligence Research · Community · in-the-news ... From Shakey to ChatGPT: The Revival of Artificial Intelligence Over Five Decades.",
+      "url": "https://community.openai.com/t/possible-future-of-artificial-intelligence-research/1393492/2"
     },
     {
-      "title": "EVE Online: The Move to Python 3 Begins! - simonwillison.net",
-      "text": "6 days ago · EVE Online: The Move to Python 3 Begins! (via) EVE Online has been one of the most interesting case studies in Python at scale for over twenty years now. They've been running on Stackless Python since their launch in 2003, and their last major upgrade was 16 years ago, to Stackless Python 2.7 in 2010. Their upgrade to Python 3 will start using the futurize script against 2.4 million lines of ...",
-      "url": "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/"
+      "title": "Manager, Applied AI Engineering (Startups) - OpenAI",
+      "text": "23 hours ago · OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the ...",
+      "url": "https://openai.com/careers/manager-applied-ai-engineering-(startups)-san-francisco/"
     },
     {
-      "title": "Breaking Claude Code Opus 5 Auto Mode - simonwillison.net",
-      "text": "4 days ago · Breaking Claude Code Opus 5 Auto Mode. Anthropic are putting a great deal of faith in Claude Code's auto mode for protecting their coding agent users against prompt injection attacks. They recently made that the default and have made bold claims about its effectiveness. Johann Rehberger is one of the most credible prompt injection researchers active today. He found an attack against auto mode ...",
-      "url": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/"
+      "title": "Hardware Engineer, Test | OpenAI",
+      "text": "5 days ago · OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the ...",
+      "url": "https://openai.com/careers/hardware-engineer-test-san-francisco/"
     },
     {
-      "title": "Simon Willison on bun",
-      "text": "5 days ago · Instead of putting our users & community through \"Bun, the VC-backed startups tries to figure out monetization\" – thanks to Anthropic, we can skip that chapter entirely and focus on building the best JavaScript tooling.",
-      "url": "https://simonwillison.net/tags/bun/"
+      "title": "How Universities Should Prepare Founders - Paul Graham",
+      "text": "8 hours ago · It's to do what universities already do best — to teach them computer science and mechanical engineering and molecular biology. Almost any kind of expertise ...",
+      "url": "https://paulgraham.com/prepare.html"
     },
     {
-      "title": "Stratechery – Stratechery by Ben Thompson",
-      "text": "5 days ago · Stratechery is launching a new podcast: Sharp Tech with Ben Thompson. In addition, the Stratechery Update subscription has now been expanded to the Stratechery Plus subscription, including the Stratechery Update, Stratechery Interviews, Sharp Tech, and Dithering.",
-      "url": "https://stratechery.com/company/stratechery/"
+      "title": "Software Engineer, Infrastructure | OpenAI",
+      "text": "5 days ago · Strong software engineering skills with experience in Python, Go, C++, Rust, or similar languages. Experience designing, operating, or scaling distributed ...",
+      "url": "https://openai.com/careers/software-engineer-infrastructure-san-francisco/"
     },
     {
-      "title": "OpenAI – Stratechery by Ben Thompson",
-      "text": "5 days ago · Incentives favor offense when it comes to agentic cybersecurity; it’s the same dynamic that will limit incumbents and fuel startups in the long run.",
-      "url": "https://stratechery.com/company/openai/"
+      "title": "Manager, Applied AI Engineering (Codex) - OpenAI",
+      "text": "5 days ago · Possess strong hands-on software engineering experience and fluency with programming languages such as Python or JavaScript. Understand modern software ...",
+      "url": "https://openai.com/careers/manager-applied-ai-engineering-(codex)-san-francisco/"
     },
     {
-      "title": "Airbnb – Stratechery by Ben Thompson",
-      "text": "5 days ago · Airbnb and DoorDash both created new markets where ones did not previously exist; they are startups played on “hard” mode.",
-      "url": "https://stratechery.com/company/airbnb/"
+      "title": "Manager, Senior Support Engineering | OpenAI",
+      "text": "4 days ago · In this role, you will: Build and lead a team of deeply technical and tenured Senior Support Engineers who bring backgrounds in software engineering, site ...",
+      "url": "https://openai.com/careers/manager-senior-support-engineering-dublin-ireland/"
     },
     {
-      "title": "AI – Stratechery by Ben Thompson",
-      "text": "5 days ago · Incentives favor offense when it comes to agentic cybersecurity; it’s the same dynamic that will limit incumbents and fuel startups in the long run.",
-      "url": "https://stratechery.com/concept/ai/"
+      "title": "Systems Integration Manager | Consumer Devices - OpenAI",
+      "text": "7 days ago · Strong technical background in software engineering, embedded systems, test automation, or systems engineering. Extensive background in consumer hardware ...",
+      "url": "https://openai.com/careers/systems-integration-manager-or-consumer-devices-san-francisco/"
     },
     {
-      "title": "Apple Updates Mini and Studio, AI Computers, OpenAI Jalapeño",
-      "text": "5 days ago · Apple and OpenAI have two completely different hardware announcements; both represent pressure on Nvidia.",
-      "url": "https://stratechery.com/2026/apple-updates-mini-and-studio-ai-computers-openai-jalapeno/"
+      "title": "Forward Deployed Engineer (FDE), Legal-NYC | OpenAI",
+      "text": "6 days ago · Bring 5+ years of software engineering, ML engineering, or technical deployment experience with customer-facing ownership in financial services or adjacent ...",
+      "url": "https://openai.com/careers/forward-deployed-engineer-(fde)-legal-nyc-new-york-city/"
     },
     {
-      "title": "Digital – Stratechery by Ben Thompson",
-      "text": "5 days ago · An interview with Cloudflare founder and CEO Matthew Prince about founding Cloudflare from the bottoms up, and why now is the time to leverage the power that followed to enact pay-per-crawl.",
-      "url": "https://stratechery.com/topic/publishing/digital/"
+      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+      "text": "6 days ago · Together, these capabilities give organizations more ways to use OpenAI across application development, software engineering, and agentic workflows—while ...",
+      "url": "https://openai.com/fr-CA/index/openai-on-aws/"
     },
     {
-      "title": "Supporting Thailand’s next generation of AI startups - OpenAI",
-      "text": "3 days ago · This first cohort is the beginning of a longer-term effort. By bringing together government, universities, startups, investors, and technology partners, we aim to establish a repeatable model that helps Thai founders build trusted AI products and take solutions developed in Thailand to the world.",
+      "title": "Release notes | Anthropic Help Center - Claude Support",
+      "text": "7 days ago · Opus 4.7 shows improvements in software engineering and complex, long-running coding tasks, as well as better vision, allowing it to see images in higher ...",
+      "url": "https://docs.anthropic.com/en/release-notes/claude-apps"
+    },
+    {
+      "title": "2026.35: Internet Hype and Real World Change - Stratechery",
+      "text": "4 days ago · Autonomy and Innovation — Incentives favor offense when it comes to agentic cybersecurity; it's the same dynamic that will limit incumbents and fuel startups in ...",
+      "url": "https://stratechery.com/2026/internet-hype-and-real-world-change/"
+    },
+    {
+      "title": "Supporting Thailand's next generation of AI startups - OpenAI",
+      "text": "4 days ago · OpenAI and Thailand's MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
       "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand/"
     },
     {
-      "title": "ChatGPT Business - Release Notes - OpenAI Help Center",
-      "text": "3 days ago · ChatGPT Business members can use webhooks in Work to stay on top of connected-app updates without repeatedly checking for them, and can share customizable scheduled tasks within their workspace. Supported webhooks include new Gmail messages, Slack channel messages, and GitHub pull request activity. Create webhook-triggered tasks Ask Work on web, iOS, and Android to summarize a new Gmail ...",
-      "url": "https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes"
+      "title": "A milestone in expanding access to AI | OpenAI",
+      "text": "24 hours ago · We're excited to make advertising in ChatGPT more accessible to SMBs and startups, giving businesses of every size an opportunity to reach customers as they ...",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/"
     },
     {
-      "title": "Introducing ChatGPT Business Premium Seats",
-      "text": "6 days ago · The new $100 Premium seat is a game changer for small businesses and startups—giving lean teams better tools, faster workflows, and capabilities once reserved for big companies.",
-      "url": "https://community.openai.com/t/introducing-chatgpt-business-premium-seats/1392591"
+      "title": "The full stack behind abundant intelligence | OpenAI",
+      "text": "7 days ago · Supporting Thailand's next generation of AI startups > Cover image. Supporting Thailand's next generation of AI startups. Company Aug 28, 2026. Better answers ...",
+      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence/"
     },
     {
-      "title": "Previewing the Model Hardware Standard \\ Anthropic",
-      "text": "4 days ago · Anthropic is opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.",
-      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview"
+      "title": "OpenAI supports California's bill to advance youth AI safety",
+      "text": "8 hours ago · Our decision on Cursor following its acquisition by SpaceX · Aug 28, 2026 ; Supporting Thailand's next generation of AI startups · Aug 28, 2026 ; What students gain ...",
+      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety/"
     },
     {
-      "title": "Expanding our support for scientists \\ Anthropic",
-      "text": "4 days ago · Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+      "title": "Improving our alignment and security efforts - Anthropic",
+      "text": "14 hours ago · Startups · Research Labs. Help and security. Availability · Status · Support center. Company. Anthropic · Careers · Leadership · Policy · Economic Futures ...",
+      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts"
+    },
+    {
+      "title": "Expanding our support for scientists - Anthropic",
+      "text": "5 days ago · Startups · Research Labs. Help and security. Availability · Status · Support center. Company. Anthropic · Careers · Leadership · Policy · Economic Futures ...",
       "url": "https://www.anthropic.com/news/expanding-support-for-scientists"
     },
     {
-      "title": "Enabling independent research on how people use Claude",
-      "text": "5 days ago · Earlier this year, we ran a pilot giving external researchers access to aggregate, real-world Claude usage data. Three research groups designed their own studies for Anthropic Insights, our privacy-preserving analysis tool. In this post, we share high-level results from those studies and what we learned running this pilot.",
-      "url": "https://www.anthropic.com/research/enabling-independent-research"
+      "title": "Funding better evaluations of AI's impact on wellbeing - Anthropic",
+      "text": "7 days ago · Startups · Research Labs. Help and security. Availability · Status · Support center. Company. Anthropic · Careers · Leadership · Policy · Economic Futures ...",
+      "url": "https://www.anthropic.com/news/wellbeing-research-grants"
     },
     {
-      "title": "Automated researchers can reliably mitigate alignment failures",
-      "text": "3 days ago · Successfully mitigating diverse alignment failures. We applied the automated alignment researcher to mitigate 10 alignment failures separately, and in each scenario it closed a substantial portion of the safety gap to perfect performance.",
-      "url": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures"
+      "title": "Previewing the Model Hardware Standard - Anthropic",
+      "text": "5 days ago · Startups · Research Labs. Help and security. Availability · Status · Support center. Company. Anthropic · Careers · Leadership · Policy · Economic Futures ...",
+      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview"
     },
     {
-      "title": "How Ariso uses OpenAI models to build a workplace coach",
-      "text": "4 days ago · He took online machine-learning classes, then experimented with GPT models by generating lyrics for imaginary songs by his favorite bands. In 2023, he founded SciSummary, which summarizes research papers and helps researchers organize references.",
-      "url": "https://academy.openai.com/public/blogs/how-ariso-uses-openai-models-to-build-a-workplace-coach-2026-08-27"
-    },
-    {
-      "title": "ChatGPT Enterprise & Edu - Release Notes - OpenAI Help Center",
-      "text": "3 days ago · ChatGPT Enterprise & Edu - Release Notes Review new features, administrative controls, and product updates for ChatGPT Enterprise and Edu.",
-      "url": "https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes"
-    },
-    {
-      "title": "OpenAI Newsroom | Product",
-      "text": "5 days ago · Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity.",
-      "url": "https://openai.com/news/product-releases/"
-    },
-    {
-      "title": "Topics tagged codex-cli - OpenAI API Community Forum",
-      "text": "5 days ago · Topics tagged codex-cli",
-      "url": "https://community.openai.com/tag/codex-cli/940"
-    },
-    {
-      "title": "What is Diff b/w Codex and ChatGPT mode in ChatGPT desktop ...",
-      "text": "4 days ago · I want to understand the difference between using ChatGPT mode and Codex mode in the ChatGPT app. Both seem to do the same thing, and I can brainstorm, execute tasks, and reference files in both places. I’m not exactly sure when to use which one, and we only use Codex mode throughout. What are the recommendations?",
-      "url": "https://community.openai.com/t/what-is-diff-b-w-codex-and-chatgpt-mode-in-chatgpt-desktop-app/1392895"
-    },
-    {
-      "title": "ChatGPT Business - Release Notes | OpenAI Help Center",
-      "text": "3 days ago · This first set includes Sales, Data Analytics, Product Design, Creative Production, Investment Banking, and Public Equity Investing. These plugins package role-specific skills, app integrations, starter prompts, and workflow guidance so teams can use Codex for sales prep, analytics and dashboards, prototypes, creative assets, and financial ...",
-      "url": "https://help-lb.openai.com/en/articles/11391654-chatgpt-business-release-notes"
+      "title": "Introducing wrapture - Simon Willison's Weblog",
+      "text": "12 hours ago · Wrapture as taking the monkeypatching ideas from wrapt and extending them to apply to testing and tracing at the same time.",
+      "url": "https://simonwillison.net/2026/Aug/31/introducing-wrapture/"
     }
   ]
 }
