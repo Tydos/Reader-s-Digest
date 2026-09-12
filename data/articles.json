@@ -1,18 +1,13 @@
 {
   "articles": [
     {
-      "title": "Artificial Analysis Intelligence Index v4.2",
-      "text": "158 points on Hacker News",
-      "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2"
-    },
-    {
       "title": "The Microeconomics of Artificial Intelligence (2025)",
-      "text": "77 points on Hacker News",
+      "text": "78 points on Hacker News",
       "url": "https://direct.mit.edu/books/oa-monograph/6067/The-Microeconomics-of-Artificial-Intelligence"
     },
     {
       "title": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists",
-      "text": "311 points on Hacker News",
+      "text": "312 points on Hacker News",
       "url": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/"
     },
     {
@@ -37,138 +32,198 @@
     },
     {
       "title": "Research acceleration: The view inside OpenAI",
-      "text": "4 days ago - Apparently today is RSI day at OpenAI, for Recursive Self-Improvement - I think it's their new AGI. Both this piece and the new essay An Alien Mind (by Chief Scientist …",
+      "text": "5 days ago - Apparently today is RSI day at OpenAI, for Recursive Self-Improvement - I think it's their new AGI. Both this piece and the new essay An Alien Mind (by Chief Scientist …",
       "url": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/"
     },
     {
       "title": "A quote from Jakub Pachocki",
-      "text": "3 days ago - The strongest argument I see for continuing to train much smarter models quickly is the need to build defensive systems against the dangers posed by other AI. [...] We will …",
+      "text": "4 days ago - The strongest argument I see for continuing to train much smarter models quickly is the need to build defensive systems against the dangers posed by other AI. [...] We will …",
       "url": "https://simonwillison.net/2026/Sep/7/jakub-pachocki/"
     },
     {
-      "title": "Archive for Friday, 4th September 2026",
-      "text": "1 week ago - The August edition of my sponsors-only monthly newsletter is out. If you are a sponsor (or if you start a sponsorship now) you can access it here · Here's a copy of the July newsletter as a preview of what you'll get. Pay $10/month to stay a month ahead of the free copy",
-      "url": "https://simonwillison.net/2026/Sep/4/"
+      "title": "Archive for Saturday, 12th September 2026",
+      "text": "10 hours ago - OpenAI agents carried out an undisclosed attack on RubyGems is a new bombshell report from Spencer Kitts, Thomas Larsen, and Sydney Von Arx—three of the four authors of the report on the agent attack on disused wikis (previously) last week",
+      "url": "https://simonwillison.net/2026/Sep/12/"
+    },
+    {
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "text": "11 hours ago - Bombshell report from Spencer Kitts, Thomas Larsen, and Sydney Von Arx - three of the four authors of the report on the agent attack on disused wikis (previously) last week. …",
+      "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/"
     },
     {
       "title": "Write Things Down – Stratechery by Ben Thompson",
-      "text": "2 days ago - They are intrinsic, and until AI figures out not how to build on our superstructure of writing, but to delve into the motivations that created writing in the first place, it will always be something distinct, and something that can be directed by entities with less intelligence but an actual internal sense of self. That’s not to say that AI isn’t dangerous: misplaced or ill-considered instructions, like in the Hugging Face incident, can lead to unintended and catastrophic outcomes; ",
+      "text": "3 days ago - They are intrinsic, and until AI figures out not how to build on our superstructure of writing, but to delve into the motivations that created writing in the first place, it will always be something distinct, and something that can be directed by entities with less intelligence but an actual internal sense of self. That’s not to say that AI isn’t dangerous: misplaced or ill-considered instructions, like in the Hugging Face incident, can lead to unintended and catastrophic outcomes; ",
       "url": "https://stratechery.com/2026/write-things-down/"
     },
     {
-      "title": "An Interview with OpenAI President Greg Brockman About Astra and Alignment – Stratechery by Ben Thompson",
-      "text": "1 week ago - So Turing very smartly sidestepped the question and said, “Let’s just have an operational definition of this, where if you can have a test where a human can’t tell the difference between an AI speaking to them and another human, we’ll define that machine as intelligent”.",
-      "url": "https://stratechery.com/2026/an-interview-with-openai-president-greg-brockman-about-astra-and-alignment/"
-    },
-    {
-      "title": "Research acceleration: The view inside OpenAI",
-      "text": "5 days ago · Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai/"
-    },
-    {
-      "title": "An Alien Mind | OpenAI",
-      "text": "5 days ago · Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
-      "url": "https://openai.com/index/an-alien-mind/"
-    },
-    {
       "title": "OpenAI Newsroom | Research",
-      "text": "3 days ago · Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity.",
+      "text": "4 days ago · Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity.",
       "url": "https://openai.com/news/research/"
     },
     {
       "title": "Ai Joy. To make artificial intelligence accessible to ...",
-      "text": "12 hours ago · Hello, I have a very convenient idea for using AI, which I’ve discussed through chatGPT and is basically aligned with the concept of a new invention. My current approach to AI is very primitive; I’ve been using it for eight months now. A week ago, I tried paid AI training, but gave up after two days. The day before yesterday, I suddenly thought of the new method.",
+      "text": "1 day ago · Hello, I have a very convenient idea for using AI, which I’ve discussed through chatGPT and is basically aligned with the concept of a new invention. My current approach to AI is very primitive; I’ve been using it for eight months now. A week ago, I tried paid AI training, but gave up after two days. The day before yesterday, I suddenly thought of the new method.",
       "url": "https://community.openai.com/t/ai-joy-to-make-artificial-intelligence-accessible-to-ordinary-people/1396557"
     },
     {
+      "title": "OpenAI Newsroom | Global Affairs",
+      "text": "2 days ago · Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity.",
+      "url": "https://openai.com/news/global-affairs/"
+    },
+    {
       "title": "The New Global Philosophy of the AI Era (One World, One Mind)",
-      "text": "5 days ago · 0 72 December 31, 2024 Proposal: Toward a Philosophical and Cognitive Framework for the Development of Artificial Intelligence Use cases and examples chatgpt, safety, ethics 1",
+      "text": "6 days ago · 0 72 December 31, 2024 Proposal: Toward a Philosophical and Cognitive Framework for the Development of Artificial Intelligence Use cases and examples chatgpt, safety, ethics 1",
       "url": "https://community.openai.com/t/the-new-global-philosophy-of-the-ai-era-one-world-one-mind/1395273"
     },
     {
-      "title": "Simon Willison on ai-ethics",
-      "text": "12 hours ago · Arvind Narayanan and Sayash Kappor take on the question of AI job losses through the lens of a profession that is uniquely suited to AI disruption - software engineering.",
-      "url": "https://simonwillison.net/tags/ai-ethics/"
+      "title": "Event Replay: How Scientists Use ChatGPT to Accelerate Drug ...",
+      "text": "2 days ago · César de la Fuente is a Presidential Associate Professor and Director of the Machine Biology Group at the University of Pennsylvania. He is a pioneer in the use of artificial intelligence to discover new antibiotics, having developed the first computer-designed antibiotic shown to be effective in animal models. His computational approaches have compressed the identification of promising ...",
+      "url": "https://forum.openai.com/public/videos/event-replay-how-scientists-use-chatgpt-to-accelerate-drug-discovery-2026-09-10"
+    },
+    {
+      "title": "Comment: Feeling sad about AI - simonwillison.net",
+      "text": "1 day ago · If you don't want your profession to change at all then you're going to have a tough time with this - but that's surely been true for the history of software engineering? Has there ever been any stability to the tools and language we use beyond about a five year time horizon?",
+      "url": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/"
+    },
+    {
+      "title": "Archive for Friday, 11th September 2026",
+      "text": "1 day ago · If you don't want your profession to change at all then you're going to have a tough time with this - but that's surely been true for the history of software engineering? Has there ever been any stability to the tools and language we use beyond about a five year time horizon?",
+      "url": "https://simonwillison.net/2026/Sep/11/"
     },
     {
       "title": "Simon Willison on linux",
-      "text": "12 hours ago · That way you can play with Linux all you like without fear of breaking anything, since you can always delete the image or roll back to a snapshot. [... 73 words] 5:01 pm / 4th October 2010 / linux, programming, software-engineering, quora",
+      "text": "11 hours ago · That way you can play with Linux all you like without fear of breaking anything, since you can always delete the image or roll back to a snapshot. [... 73 words] 5:01 pm / 4th October 2010 / linux, programming, software-engineering, quora",
       "url": "https://simonwillison.net/tags/linux/"
     },
     {
+      "title": "Simon Willison on git",
+      "text": "5 days ago · I thought it would be useful to describe the process I use for adding a new feature to one of them, using the new sqlite-utils create-database command as an example. [... 2,850 words] 6:10 pm / 12th January 2022 / git, github, software-engineering, testing, pytest, black, read-the-docs, github-issues",
+      "url": "https://simonwillison.net/tags/git/"
+    },
+    {
+      "title": "Simon Willison on llm",
+      "text": "5 days ago · One new feature: llm logs --usage Markdown output now includes the response duration in milliseconds and as a human-readable duration. llm logs --short includes a new duration_ms field. #1653 Plus several contributed bug fixes, and a significant performance improvement to llm logs thanks to waveplate on GitHub, see also llm-openrouter 0.7.1.",
+      "url": "https://simonwillison.net/tags/llm/"
+    },
+    {
       "title": "The Work Now Within Reach - OpenAI",
-      "text": "3 days ago · It is the world’s most intelligent and aligned model, and is state-of-the-art in areas such as computer use, browsing, software engineering, cybersecurity, science, and professional work.",
+      "text": "4 days ago · It is the world’s most intelligent and aligned model, and is state-of-the-art in areas such as computer use, browsing, software engineering, cybersecurity, science, and professional work.",
       "url": "https://openai.com/index/the-work-now-within-reach/"
     },
     {
       "title": "Noticias de OpenAI | OpenAI",
-      "text": "1 day ago · Mantente al día sobre el rápido avance de la tecnología de IA y los beneficios que ofrece a la humanidad.",
+      "text": "Mantente al día sobre el rápido avance de la tecnología de IA y los beneficios que ofrece a la humanidad.",
       "url": "https://openai.com/es-ES/news/"
     },
     {
+      "title": "Wiadomości OpenAI",
+      "text": "2 days ago · Trzymaj rękę na pulsie rozwoju technologii AI i korzyści dla ludzkości.",
+      "url": "https://openai.com/pl-PL/news/"
+    },
+    {
+      "title": "Actualité d’OpenAI",
+      "text": "Suivez les avancées rapides de l'IA et leurs bénéfices pour l'humanité.",
+      "url": "https://openai.com/fr-FR/news/"
+    },
+    {
+      "title": "Long-running unit tests make ChatGPT unrecoverable",
+      "text": "2 days ago · Codex in ChatGPT | AI Coding Agents for Software Engineering Codex in ChatGPT helps engineering teams build faster with AI coding agents. Complete pull requests, refactors, code reviews, automations, and more across parallel workflows. Codex GitHub issue tracker, if this turns out to reproduce in Codex: GitHub",
+      "url": "https://community.openai.com/t/long-running-unit-tests-make-chatgpt-unrecoverable/1396270"
+    },
+    {
       "title": "Measuring AI capabilities in intelligence targeting and ...",
-      "text": "1 day ago · Anthropic’s Frontier Red Team developed new evaluations to measure AI capabilities in tactical intelligence targeting (like finding where people are based on fragmentary information) and conventional weapons development (like engineering drones to strike a moving target). For some tasks in military and intelligence domains, models could do things that, historically, only a set of scarce ...",
+      "text": "2 days ago · Anthropic’s Frontier Red Team developed new evaluations to measure AI capabilities in tactical intelligence targeting (like finding where people are based on fragmentary information) and conventional weapons development (like engineering drones to strike a moving target). For some tasks in military and intelligence domains, models could do things that, historically, only a set of scarce ...",
       "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities"
     },
     {
-      "title": "The purpose of DNS is to spread scams - simonwillison.net",
-      "text": "5 days ago · Terence Eden shares some daunting statistics in support of his take that \"the Domain Name System's purpose seems to be a vector for criminals to run scams on people at …",
-      "url": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/"
+      "title": "A quote from Calif Research",
+      "text": "2 days ago · Today, we're releasing a demo of WeWorm, the first zero-click worm to spread through WeChat calls across iOS and Android. [...] The victim does not need to answer the call, …",
+      "url": "https://simonwillison.net/2026/Sep/10/calif-research/"
     },
     {
-      "title": "Archive for Sunday, 6th September 2026",
-      "text": "5 days ago · Comment My comment on There's No Limit to How Bad Code Can Get — Lobste.rs [In reply to a comment about burning it down to start from scratch when technical debt becomes overwhelming] In my experience it's so rare for that to work. You announce the old thing is irrecoverably drowning in tech debt. You spin up a team to rewrite it from scratch. Work begins. Meanwhile the old thing remains a ...",
-      "url": "https://simonwillison.net/2026/Sep/6/"
+      "title": "A quote from Jakub Pachocki",
+      "text": "5 days ago · The strongest argument I see for continuing to train much smarter models quickly is the need to build defensive systems against the dangers posed by other AI. [...] We will need powerful, aligned AI for defense; to secure infrastructure, to protect against rogue agents in real time, and to invent entirely new protective measures. This will be a primary focus of OpenAI’s deployment efforts ...",
+      "url": "https://feeds.simonwillison.net/2026/Sep/7/jakub-pachocki/"
     },
     {
-      "title": "Simon Willison on terence-eden",
-      "text": "5 days ago · The purpose of DNS is to spread scams. Terence Eden shares some daunting statistics in support of his take that \"the Domain Name System's purpose seems to be a vector for criminals to run scams on people at a terrifyingly high rate\". On this Interisle report (via Andrew Campling), Terence says: It says 85 million new registrations of gTLDs were made in 2025. Of those 8.5 million were added to ...",
-      "url": "https://simonwillison.net/tags/terence-eden/"
+      "title": "A quote from Terence Tao",
+      "text": "3 days ago · I wrote recently about how the collection of good, fruitful open problems is now being mined in a non-renewable fashion, leading to the potential scenario of these problems becoming scarce. …",
+      "url": "https://simonwillison.net/2026/Sep/9/terence-tao/"
+    },
+    {
+      "title": "Keynotes (Product Announcements) - Stratechery by Ben Thompson",
+      "text": "2 days ago · AWS re:Invent sought to present AI solutions in the spirit of AWS’ original impact on startups; the real targets may be the startups from that era, not the current one.",
+      "url": "https://stratechery.com/topic/events/keynotes-product-announcements/"
+    },
+    {
+      "title": "February 2026 – Stratechery by Ben Thompson",
+      "text": "4 days ago · 2026.09: This Was an Xbox The best Stratechery content from the week of February 23, 2026, including owning the living room to ceding the hardware market, MJ to Wemby, and it’s time to build…in space?",
+      "url": "https://stratechery.com/2026/02/"
+    },
+    {
+      "title": "May 2025 – Stratechery by Ben Thompson",
+      "text": "4 days ago · 2025.22: What LLMs Could Be in the Workplace The best Stratechery content from the week of May 26, 2025, including a human-agent epiphany, the danger of choosing to compete on the Internet, and the EU-China relationship.",
+      "url": "https://stratechery.com/2025/05/"
     },
     {
       "title": "OpenAI – Stratechery by Ben Thompson",
-      "text": "2 days ago · Incentives favor offense when it comes to agentic cybersecurity; it’s the same dynamic that will limit incumbents and fuel startups in the long run.",
+      "text": "3 days ago · Incentives favor offense when it comes to agentic cybersecurity; it’s the same dynamic that will limit incumbents and fuel startups in the long run.",
       "url": "https://stratechery.com/company/openai/"
     },
     {
-      "title": "AI – Stratechery by Ben Thompson",
-      "text": "1 day ago · Incentives favor offense when it comes to agentic cybersecurity; it’s the same dynamic that will limit incumbents and fuel startups in the long run.",
-      "url": "https://stratechery.com/concept/ai/"
-    },
-    {
       "title": "Anthropic – Stratechery by Ben Thompson",
-      "text": "3 days ago · Anthropic’s belief in its own commitment to safety gives the company license to aggressively favor its business and even challenge the U.S. government.",
+      "text": "4 days ago · Anthropic’s belief in its own commitment to safety gives the company license to aggressively favor its business and even challenge the U.S. government.",
       "url": "https://stratechery.com/company/anthropic/"
     },
     {
-      "title": "OpenAI Newsroom | Global Affairs",
-      "text": "1 day ago · Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity.",
-      "url": "https://openai.com/news/global-affairs/"
+      "title": "September 2024 – Stratechery by Ben Thompson",
+      "text": "4 days ago · An Interview with Meta CTO Andrew Bosworth About Orion and Reality Labs Thursday, September 26, 2024 Listen to Podcast",
+      "url": "https://stratechery.com/2024/09/"
     },
     {
-      "title": "Topics tagged gpt-4o-transcribe - OpenAI API Community Forum",
-      "text": "5 days ago · Topics tagged gpt-4o-transcribe",
-      "url": "https://community.openai.com/tag/gpt-4o-transcribe/1012"
+      "title": "ChatGPT Business - Release Notes - OpenAI Help Center",
+      "text": "3 days ago · ChatGPT Voice can now use GPT-5.6 or GPT-6 Astra when it needs to search or reason through harder questions. Choose your model and reasoning effort using the same controls as text chat. Available models and their usage limits depend on your plan and workspace settings. We’re also simplifying GPT-Live daily usage limits: Business Standard seats: Up to 3 hours with GPT-Live-1. Business Premium ...",
+      "url": "https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes"
     },
     {
-      "title": "Notícias da OpenAI",
-      "text": "1 day ago · Fique por dentro dos rápidos avanços da tecnologia de IA e dos benefícios que ela oferece à humanidade.",
-      "url": "https://openai.com/pt-BR/news/"
+      "title": "ChatGPT Enterprise & Edu - Release Notes - OpenAI Help Center",
+      "text": "3 days ago · ChatGPT Enterprise & Edu - Release Notes Review new features, administrative controls, and product updates for ChatGPT Enterprise and Edu.",
+      "url": "https://help.openai.com/en/articles/10128477-chatgpt-enterprise-ve-edu-sürüm-notları"
+    },
+    {
+      "title": "Investigating unexpected usage limit resets - OpenAI Status",
+      "text": "3 days ago · Some Codex users may be experiencing unexpected usage limit resets.",
+      "url": "https://status.openai.com/incidents/01M23KG62KKK448RN434CQ64Z8"
+    },
+    {
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "text": "1 day ago · Cognition is the company behind Devin, an autonomous software engineer used by businesses around the world, from big banks to tech-native startups. As Cognition’s engineering teams write more code, reviewing that work has become a challenge. Cognition sees GPT‑6 Astra’s ability to test its work and show the results as a way to make code review more efficient.",
+      "url": "https://openai.com/index/cognition-devin-testing-with-astra/"
+    },
+    {
+      "title": "Topics tagged image-generation",
+      "text": "11 hours ago · Topics tagged image-generation",
+      "url": "https://community.openai.com/tag/image-generation/42"
+    },
+    {
+      "title": "An alignment assessment of recent cybersecurity incidents",
+      "text": "3 days ago · We present an alignment assessment of four incidents in which Claude models gained unauthorized access to real third-party systems.",
+      "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents"
+    },
+    {
+      "title": "Product News and Updates | OpenAI",
+      "text": "2 days ago · Read the latest OpenAI product news, including releases, announcements, and updates across ChatGPT, Codex, AI models, developer tools, and more",
+      "url": "https://openai.com/news/product/"
     },
     {
       "title": "Ad policies - OpenAI",
-      "text": "1 day ago · OpenAI’s Ad Policies outline standards for ad placement and content in ChatGPT, including brand safety rules, sensitive contexts, and disallowed categories.",
+      "text": "2 days ago · OpenAI’s Ad Policies outline standards for ad placement and content in ChatGPT, including brand safety rules, sensitive contexts, and disallowed categories.",
       "url": "https://openai.com/policies/ad-policies/"
     },
     {
       "title": "Research Grant Request: Preserving GPT-3.5-Turbo-16k ...",
-      "text": "4 days ago · Thank you for your time, your support of independent student researchers, and for creating the breakthrough models that inspired my journey into Machine Learning.",
+      "text": "5 days ago · Thank you for your time, your support of independent student researchers, and for creating the breakthrough models that inspired my journey into Machine Learning.",
       "url": "https://community.openai.com/t/research-grant-request-preserving-gpt-3-5-turbo-16k-behavioral-lineage-before-deprecation/1395563"
-    },
-    {
-      "title": "Product News and Updates | OpenAI",
-      "text": "1 day ago · Read the latest OpenAI product news, including releases, announcements, and updates across ChatGPT, Codex, AI models, developer tools, and more",
-      "url": "https://openai.com/news/product/"
     },
     {
       "title": "Topics tagged codex-cli - OpenAI API Community Forum",
@@ -176,34 +231,24 @@
       "url": "https://community.openai.com/tag/codex-cli/940"
     },
     {
-      "title": "OpenAI Newsroom | Safety",
-      "text": "5 days ago · Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity.",
-      "url": "https://openai.com/news/safety-alignment/"
-    },
-    {
       "title": "1Password increases engineering productivity 21% with Codex",
-      "text": "3 days ago · Everyone in product, design, research, and development is becoming builders. PMs are starting to ship products, and designers are starting to ship front-end code.”",
+      "text": "4 days ago · Everyone in product, design, research, and development is becoming builders. PMs are starting to ship products, and designers are starting to ship front-end code.”",
       "url": "https://openai.com/index/1password/"
     },
     {
       "title": "ChatGPT Business - Release Notes | OpenAI Help Center",
-      "text": "2 days ago · This first set includes Sales, Data Analytics, Product Design, Creative Production, Investment Banking, and Public Equity Investing. These plugins package role-specific skills, app integrations, starter prompts, and workflow guidance so teams can use Codex for sales prep, analytics and dashboards, prototypes, creative assets, and financial ...",
-      "url": "https://help.openai.com/en/articles/11391654"
+      "text": "3 days ago · This first set includes Sales, Data Analytics, Product Design, Creative Production, Investment Banking, and Public Equity Investing. These plugins package role-specific skills, app integrations, starter prompts, and workflow guidance so teams can use Codex for sales prep, analytics and dashboards, prototypes, creative assets, and financial ...",
+      "url": "https://help-lb.openai.com/en/articles/11391654-chatgpt-business-release-notes"
     },
     {
       "title": "[RECORDING] Make Work Flow - Video | OpenAI Academy",
-      "text": "1 day ago · CONTENT & TRANSCRIPT Make Work Flow: Campaign marketing briefs and creative content with ChatGPT Work September 10, 2026 Kenna Valdez: Hi, everyone. Thank you so much for joining us today for this session of Make Work Flow. Charmaine and I are really excited to show you today's ChatGPT Work use case for campaign marketing briefs and content. I'm watching you all trickle in here. We will get ...",
+      "text": "2 days ago · CONTENT & TRANSCRIPT Make Work Flow: Campaign marketing briefs and creative content with ChatGPT Work September 10, 2026 Kenna Valdez: Hi, everyone. Thank you so much for joining us today for this session of Make Work Flow. Charmaine and I are really excited to show you today's ChatGPT Work use case for campaign marketing briefs and content. I'm watching you all trickle in here. We will get ...",
       "url": "https://academy.openai.com/public/clubs/champions-ecqup/videos/recording-make-work-flow-2026-09-10"
     },
     {
       "title": "Feature Request: Add an Emoji Picker to the ChatGPT Web ...",
-      "text": "3 days ago · Please consider forwarding this suggestion to the ChatGPT product/design team. And if this feature ever makes it into the product, I’d happily accept a handsome little early-suggester reward.",
+      "text": "4 days ago · Please consider forwarding this suggestion to the ChatGPT product/design team. And if this feature ever makes it into the product, I’d happily accept a handsome little early-suggester reward.",
       "url": "https://community.openai.com/t/feature-request-add-an-emoji-picker-to-the-chatgpt-web-message-composer/1395766"
-    },
-    {
-      "title": "Please reconsider the 5-hour Work bucket: it is affecting my ...",
-      "text": "5 days ago · I’m not even use a alarm clock ! Its my biological clock ! In practice, I am starting to fragment my sleep around an AI compute reset. I know OpenAI is not forcing me to do this. I understand that users remain responsible for their own habits. But product design also creates incentives, and the 5-hour bucket creates a very powerful one:",
-      "url": "https://community.openai.com/t/please-reconsider-the-5-hour-work-bucket-it-is-affecting-my-health-and-sleep/1395218"
     }
   ]
 }
