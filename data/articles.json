@@ -2,7 +2,7 @@
   "articles": [
     {
       "title": "The Malicious Use of Artificial Intelligence",
-      "text": "76 points on Hacker News",
+      "text": "85 points on Hacker News",
       "url": "https://arxiv.org/abs/1802.07228"
     },
     {
@@ -17,8 +17,13 @@
     },
     {
       "title": "Making Startups Powerful",
-      "text": "211 points on Hacker News",
+      "text": "218 points on Hacker News",
       "url": "https://paulgraham.com/powerful.html"
+    },
+    {
+      "title": "Steam Frame starts at $1059",
+      "text": "689 points on Hacker News",
+      "url": "https://store.steampowered.com/hardware/steamframe"
     },
     {
       "title": "On the Navier–Stokes Millennium Prize Problem",
@@ -31,324 +36,239 @@
       "url": "https://mathstodon.xyz/@andreasthom/117240535270608201"
     },
     {
+      "title": "Why don't machine learning research agents overfit?",
+      "text": "130 points on Hacker News",
+      "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit"
+    },
+    {
       "title": "Apple wants to train AI on your private personal data",
       "text": "30 points on Hacker News",
       "url": "https://machinelearning.apple.com/research/introducing-third-generation-of-apple-foundation-models"
     },
     {
+      "title": "2025 Word of the Year: Slop - simonwillison.net",
+      "text": "3 days ago · 2025 Word of the Year: Slop. Slop lost to \"brain rot\" for Oxford Word of the Year 2024 but it's finally made it this year thanks to Merriam-Webster! Merriam-Webster’s human editors have chosen slop as the 2025 Word of the Year. We define slop as “digital content of low quality that is produced usually in quantity by means of artificial intelligence.”",
+      "url": "https://simonwillison.net/2025/Dec/15/2025-word-of-the-year-slop/"
+    },
+    {
       "title": "A quote from David L. Poole and Alan K. Mackworth",
-      "text": "An agent is something that acts in an environment; it does something. Agents include worms, dogs, thermostats, airplanes, robots, humans, companies, and countries. — David L. Poole and Alan K. Mackworth, Artificial Intelligence: Foundations of Computational Agents",
+      "text": "3 days ago · An agent is something that acts in an environment; it does something. Agents include worms, dogs, thermostats, airplanes, robots, humans, companies, and countries. — David L. Poole and Alan K. Mackworth, Artificial Intelligence: Foundations of Computational Agents",
       "url": "https://simonwillison.net/2025/Mar/19/worms-and-dogs-and-countries/"
     },
     {
+      "title": "Voting opens for Oxford Word of the Year 2024",
+      "text": "3 days ago · Voting opens for Oxford Word of the Year 2024 (via) One of the options is slop! slop (n.): Art, writing, or other content generated using artificial intelligence, shared and distributed online in an indiscriminate or intrusive way, and characterized as being of low quality, inauthentic, or inaccurate. Update 1st December: Slop lost to Brain rot",
+      "url": "https://simonwillison.net/2024/Nov/15/slop-word-of-the-year/"
+    },
+    {
       "title": "talk.wasm - Simon Willison",
-      "text": "talk.wasm (via) \"Talk with an Artificial Intelligence in your browser\". Absolutely stunning demo which loads the Whisper speech recognition model (75MB) and a GPT-2 model (240MB) and executes them both in your browser via WebAssembly, then uses the Web Speech API to talk back to you. The result is a full speak-with-an-AI interface running entirely client-side. GPT-2 sadly mostly generates ...",
+      "text": "3 days ago · talk.wasm (via) “Talk with an Artificial Intelligence in your browser”. Absolutely stunning demo which loads the Whisper speech recognition model (75MB) and a GPT-2 model (240MB) and executes them both in your browser via WebAssembly, then uses the Web Speech API to talk back to you. The result is a full speak-with-an-AI interface running entirely client-side. GPT-2 sadly mostly generates ...",
       "url": "https://simonwillison.net/2022/Dec/7/talk-wasm/"
     },
     {
-      "title": "OpenAI agents attacked RubyGems back in May",
-      "text": "3 days ago - OpenAI agents carried out an undisclosed attack on RubyGems is a new bombshell report from Spencer Kitts, Thomas Larsen, and Sydney Von Arx—three of the four authors of the report …",
-      "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/"
-    },
-    {
-      "title": "Research acceleration: The view inside OpenAI",
-      "text": "1 week ago - Apparently today is RSI day at OpenAI, for Recursive Self-Improvement - I think it's their new AGI. Both this piece and the new essay An Alien Mind (by Chief Scientist …",
-      "url": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/"
-    },
-    {
-      "title": "A quote from Jakub Pachocki",
-      "text": "1 week ago - The strongest argument I see for continuing to train much smarter models quickly is the need to build defensive systems against the dangers posed by other AI. [...] We will …",
-      "url": "https://simonwillison.net/2026/Sep/7/jakub-pachocki/"
+      "title": "Compromising LLMs: The Advent of AI Malware - Simon Willison",
+      "text": "3 days ago · Compromising LLMs: The Advent of AI Malware. The big Black Hat 2023 Prompt Injection talk, by Kai Greshake and team. The linked Whitepaper, Not what you’ve signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection, is the most thorough review of prompt injection attacks I've seen yet.",
+      "url": "https://simonwillison.net/2023/Aug/18/compromising-llms/"
     },
     {
       "title": "Write Things Down – Stratechery by Ben Thompson",
-      "text": "6 days ago - They are intrinsic, and until AI figures out not how to build on our superstructure of writing, but to delve into the motivations that created writing in the first place, it will always be something distinct, and something that can be directed by entities with less intelligence but an actual internal sense of self. That’s not to say that AI isn’t dangerous: misplaced or ill-considered instructions, like in the Hugging Face incident, can lead to unintended and catastrophic outcomes; ",
+      "text": "1 week ago - They are intrinsic, and until AI figures out not how to build on our superstructure of writing, but to delve into the motivations that created writing in the first place, it will always be something distinct, and something that can be directed by entities with less intelligence but an actual internal sense of self. That’s not to say that AI isn’t dangerous: misplaced or ill-considered instructions, like in the Hugging Face incident, can lead to unintended and catastrophic outcomes; ",
       "url": "https://stratechery.com/2026/write-things-down/"
     },
     {
       "title": "Content | OpenAI Academy",
-      "text": "4 days ago · Unlock the new opportunities of the AI era by equipping yourself with the knowledge and skills to harness artificial intelligence effectively.",
+      "text": "5 days ago · Unlock the new opportunities of the AI era by equipping yourself with the knowledge and skills to harness artificial intelligence effectively.",
       "url": "https://academy.openai.com/public/content?search=openai+training+curriculum"
     },
     {
       "title": "OpenAI Academy - Madrid - Resource | OpenAI Academy",
-      "text": "1 day ago · Unlock the new opportunities of the AI era by equipping yourself with the knowledge and skills to harness artificial intelligence effectively.",
+      "text": "2 days ago · Unlock the new opportunities of the AI era by equipping yourself with the knowledge and skills to harness artificial intelligence effectively.",
       "url": "https://academy.openai.com/public/resources/openai-academy-madrid-2026-09-13"
     },
     {
-      "title": "Ai Joy. To make artificial intelligence accessible to ...",
-      "text": "3 days ago · I believe the following three aspects can greatly improve the usage rate of artificial intelligence: 1. Develop an AI application. Users can easily select the content they need after entering the interface. At the second level, users can again select simplified information, and the third level offers currently free content.",
-      "url": "https://community.openai.com/t/ai-joy-to-make-artificial-intelligence-accessible-to-ordinary-people/1396557"
+      "title": "Rethinking skills and prompts for GPT-6 Astra | OpenAI Developers",
+      "text": "Revisit skill descriptions, AGENTS.md, and task prompts to avoid bloated context.",
+      "url": "https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra"
     },
     {
       "title": "Expanding AI access and cyber defense for federal, state ...",
-      "text": "4 days ago · OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
+      "text": "5 days ago · A first-of-its-kind agreement will provide free access and 50% off usage for federal, state, local, and tribal governments, alongside expanded support and access for public-sector cyber defenders.",
       "url": "https://openai.com/index/expanding-ai-access-us-government/"
     },
     {
-      "title": "[PDF] Economic Scenarios for Transformative AI | Anthropic",
-      "text": "5 days ago · Assessing the macroeco- nomic productivity gains from artificial intelligence,” Artificial Intelligence Papers 29, OECD. 2024. ... Economics of Artificial ...",
-      "url": "https://www-cdn.anthropic.com/files/4zrzovbb/website/cf58f84d46a4a76bf5a5b039ac695fba6b80041c.pdf"
-    },
-    {
-      "title": "An alignment assessment of recent cybersecurity incidents",
-      "text": "5 days ago · We present an alignment assessment of four incidents in which Claude models gained unauthorized access to real third-party systems.",
-      "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents"
-    },
-    {
-      "title": "Simon Willison on agentic-engineering",
-      "text": "3 days ago · If your entire business depends on software engineering growing as a field and producing larger volumes of more lucrative seats, you have a strong incentive to believe that agents will have that effect!",
-      "url": "https://simonwillison.net/tags/agentic-engineering/"
-    },
-    {
-      "title": "Comment: Feeling sad about AI - Simon Willison's Weblog",
-      "text": "3 days ago · ... software engineering? Has there ever been any stability to the tools and language we use beyond about a five year time horizon? These changes are happening ...",
-      "url": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/"
-    },
-    {
-      "title": "Simon Willison on ai",
-      "text": "2 days ago · If you don't want your profession to change at all then you're going to have a tough time with this - but that's surely been true for the history of software engineering? Has there ever been any stability to the tools and language we use beyond about a five year time horizon?",
-      "url": "https://simonwillison.net/tags/ai/"
-    },
-    {
-      "title": "Archive for Friday, 11th September 2026",
-      "text": "3 days ago · If you don't want your profession to change at all then you're going to have a tough time with this - but that's surely been true for the history of software engineering? Has there ever been any stability to the tools and language we use beyond about a five year time horizon?",
-      "url": "https://feeds.simonwillison.net/2026/Sep/11/"
-    },
-    {
-      "title": "Simon Willison on ai-assisted-programming",
-      "text": "14 hours ago · This friction synchronizes people. — Armin Ronacher, The Tower Keeps Rising # 14th July 2026, 6:04 pm / armin-ronacher, software-engineering, ai, generative-ai, llms, ai-assisted-programming, coding-agents, agentic-engineering",
-      "url": "https://simonwillison.net/tags/ai-assisted-programming/"
-    },
-    {
-      "title": "Software Engineer, API Frontiers - OpenAI",
-      "text": "4 days ago · Strong software engineering fundamentals, with practical knowledge of distributed systems, concurrency, and asynchronous execution. Ability to diagnose ...",
-      "url": "https://openai.com/careers/software-engineer-api-frontiers-new-york-city/"
-    },
-    {
-      "title": "Software Engineer, AI for Chip Design | OpenAI",
-      "text": "6 days ago · You might thrive in this role if you: Have strong software engineering fundamentals, with experience designing, implementing, and debugging reliable systems.",
-      "url": "https://openai.com/careers/software-engineer-ai-for-chip-design-san-francisco/"
-    },
-    {
-      "title": "Training - Runtime Foundations Engineer | OpenAI",
-      "text": "5 days ago · Care deeply about performance, correctness, and reliability. Have strong software engineering skills and are proficient in Rust or another systems programming ...",
-      "url": "https://openai.com/careers/training-runtime-foundations-engineer-san-francisco/"
-    },
-    {
-      "title": "Applied AI Engineer, Codex - OpenAI",
-      "text": "3 days ago · Are an active user of AI coding tools and have developed a strong point of view on how AI can improve developer productivity and software engineering workflows.",
-      "url": "https://openai.com/careers/applied-ai-engineer-codex-london-uk/"
-    },
-    {
-      "title": "OpenAI and AWS partnership",
-      "text": "2 days ago · OpenAI and AWS help organizations accelerate the deployment of priority AI workloads. Software engineering. Financial services. Healthcare and life sciences",
-      "url": "https://openai.com/business/partners/aws/"
-    },
-    {
-      "title": "Manager, Applied AI Engineering (Codex) - OpenAI",
-      "text": "3 days ago · Possess strong hands-on software engineering experience and fluency with programming languages such as Python or JavaScript. Understand modern software ...",
-      "url": "https://openai.com/careers/manager-applied-ai-engineering-(codex)-munich-germany/"
-    },
-    {
-      "title": "Claude Sonnet - Anthropic",
-      "text": "7 days ago · Claude Sonnet 5 gives our agents a strong execution layer for multi-step software engineering work. It handles sustained coding, tool use, and debugging ...",
-      "url": "https://www.anthropic.com/claude/sonnet"
-    },
-    {
       "title": "Measuring AI capabilities in intelligence targeting and ...",
-      "text": "4 days ago · Because of this, we focus these evaluations on simulating aspects of the software engineering that undergirds drone warfare. One-way attack drones are designed to directly strike a target with an integrated explosive payload, rather than releasing munitions and returning to base.",
+      "text": "5 days ago · Anthropic’s Frontier Red Team developed new evaluations to measure AI capabilities in tactical intelligence targeting and conventional weapons development.",
       "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities"
     },
     {
-      "title": "An alignment assessment of recent cybersecurity incidents",
-      "text": "5 days ago · We also developed scenarios that attempt to reproduce similar destructive behavior across three non-cybersecurity coding domains: general software engineering, ...",
-      "url": "https://www.anthropic.com/news/alignment-assessment-cybersecurity-incidents"
-    },
-    {
-      "title": "[PDF] Detecting and countering misuse of AI: September 2026",
-      "text": "4 days ago · The distillation attacks targeted agentic tasks, software engineering, kernel development, and long-horizon tasks. The harvested transcripts were used to ...",
-      "url": "https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a597377d3b5/Anthropic-Detecting-and-countering-091026.pdf"
-    },
-    {
-      "title": "Release notes | Claude Help Center",
-      "text": "4 days ago · Opus 4.7 shows improvements in software engineering and complex, long-running coding tasks, as well as better vision, allowing it to see images in higher ...",
-      "url": "https://docs.anthropic.com/en/release-notes/claude-apps"
-    },
-    {
-      "title": "Django for Startup Founders: A better software architecture ...",
-      "text": "2 days ago · Alex then extends that into his own architectural recommendations for startups building with Django to help waste as little time as possible on problems that aren’t core to the product they are building.",
-      "url": "https://simonwillison.net/2021/Jun/24/django-for-startup-founders/"
-    },
-    {
-      "title": "Lessons from 6 software rewrite stories - Simon Willison",
-      "text": "2 days ago · Lessons from 6 software rewrite stories (via) Herb Caudill takes on the classic idea that rewriting from scratch is “the single worst strategic mistake that any software company can make” and investigates it through the lens of six well-chosen examples: Netscape 6, Basecamp Classic/2/3, Visual Studio/VS Code, Gmail/Inbox, FogBugz/Wasabi/Trello, and finally FreshBooks/BillSpring. Each story ...",
-      "url": "https://simonwillison.net/2019/Feb/19/lessons-6-software-rewrite-stories/"
-    },
-    {
-      "title": "(Almost) Every infrastructure decision I endorse or regret ...",
-      "text": "2 days ago · (Almost) Every infrastructure decision I endorse or regret after 4 years running infrastructure at a startup (via) Absolutely fascinating post by Jack Lindamood talking about services, tools and processes used by his startup and which ones turned out to work well v.s. which ones are now regretted. I’d love to see more companies produce lists like this.",
-      "url": "https://simonwillison.net/2024/Feb/10/almost-every-infrastructure-decision-i-endorse-or-regret/"
-    },
-    {
-      "title": "Native is now the future of mobile at Shopify",
-      "text": "4 days ago · Native is now the future of mobile at Shopify (via) Shopify are moving from React Native back to separate Swift and Kotlin codebases for their native apps, for the exact reason you would expect: We decided to switch from native to React Native in 2020 for three reasons: Stop building the same features twice Allow developers to work across the stack Spend less time chasing feature parity and ...",
-      "url": "https://simonwillison.net/2026/Sep/10/shopify-react-native/"
-    },
-    {
-      "title": "OpenAI – Stratechery by Ben Thompson",
-      "text": "5 days ago · Incentives favor offense when it comes to agentic cybersecurity; it’s the same dynamic that will limit incumbents and fuel startups in the long run.",
-      "url": "https://stratechery.com/company/openai/"
-    },
-    {
-      "title": "Stratechery – Stratechery by Ben Thompson",
-      "text": "4 days ago · Stratechery is launching a new podcast: Sharp Tech with Ben Thompson. In addition, the Stratechery Update subscription has now been expanded to the Stratechery Plus subscription, including the Stratechery Update, Stratechery Interviews, Sharp Tech, and Dithering.",
-      "url": "https://stratechery.com/company/stratechery/"
-    },
-    {
-      "title": "Keynotes (Product Announcements) - Stratechery by Ben Thompson",
-      "text": "4 days ago · AWS re:Invent sought to present AI solutions in the spirit of AWS’ original impact on startups; the real targets may be the startups from that era, not the current one.",
-      "url": "https://stratechery.com/topic/events/keynotes-product-announcements/"
-    },
-    {
-      "title": "Airbnb – Stratechery by Ben Thompson",
-      "text": "4 days ago · Airbnb and DoorDash both created new markets where ones did not previously exist; they are startups played on “hard” mode.",
-      "url": "https://stratechery.com/company/airbnb/"
-    },
-    {
-      "title": "Interview – Stratechery by Ben Thompson",
-      "text": "4 days ago · An interview with Michael Morton about e-commerce and AI, including the challenges of unfalsifiable bear cases, distribution versus referal models, grocery, and autonomous vehicles.",
-      "url": "https://stratechery.com/topic/events/interview/"
-    },
-    {
-      "title": "Enterprise – Stratechery by Ben Thompson",
-      "text": "4 days ago · An interview with OpenAI President and Co-Founder Greg Brockman about the history of OpenAI, Astra and alignment, and the weight of building the future.",
-      "url": "https://stratechery.com/concept/business-models/enterprise/"
-    },
-    {
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems | OpenAI",
-      "text": "14 hours ago · Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
-      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra/"
-    },
-    {
-      "title": "ChatGPT Business - Release Notes - OpenAI Help Center",
-      "text": "5 days ago · ChatGPT Voice can now use GPT-5.6 or GPT-6 Astra when it needs to search or reason through harder questions. Choose your model and reasoning effort using the same controls as text chat. Available models and their usage limits depend on your plan and workspace settings. We’re also simplifying GPT-Live daily usage limits: Business Standard seats: Up to 3 hours with GPT-Live-1. Business Premium ...",
-      "url": "https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes"
-    },
-    {
-      "title": "Topics tagged chatgpt - OpenAI API Community Forum",
-      "text": "14 hours ago · Topics tagged chatgpt",
-      "url": "https://community.openai.com/tag/chatgpt/16"
-    },
-    {
-      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-      "text": "3 days ago · Cognition is the company behind Devin, an autonomous software engineer used by businesses around the world, from big banks to tech-native startups. As Cognition’s engineering teams write more code, reviewing that work has become a challenge.",
-      "url": "https://openai.com/index/cognition-devin-testing-with-astra/"
-    },
-    {
-      "title": "Business Owners to know what Workspace Member Reached a Usage ...",
-      "text": "14 hours ago · I am a ChatGPT Business owner currently running a 5seat workspace, and our team is growing. I believe this situation represents many startups and small businesses using ChatGPT Business, so I wanted to suggest a small but genuinely useful improvement for workspace owners. I am sure the one -Human- reads this will understand and feel the importance of it. As -Norbert Wiener- place it “ Render ...",
-      "url": "https://community.openai.com/t/business-owners-to-know-what-workspace-member-reached-a-usage-limit/1397419"
-    },
-    {
-      "title": "Introducing Claude Design by Anthropic Labs",
-      "text": "7 days ago · Startups · Research Labs. Help and security. Availability · Status · Support center. Company. Anthropic · Careers · Leadership · Policy · Economic Futures ...",
-      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs"
-    },
-    {
-      "title": "Scenarios for our Economic Future - Anthropic",
-      "text": "5 minutes ago · Startups · Scientists. Help and security. Availability · Status · Support center. Company. Anthropic · Careers · Leadership · Policy · Economic Futures ...",
-      "url": "https://www.anthropic.com/institute/econ-scenarios"
-    },
-    {
-      "title": "I counted all of the yurts in Mongolia using machine learning",
-      "text": "2 days ago · I counted all of the yurts in Mongolia using machine learning (via) Fascinating, detailed account by Monroe Clinton of a geospatial machine learning project. Monroe wanted to count visible yurts in Mongolia using Google Maps satellite view.",
-      "url": "https://simonwillison.net/2025/Jun/18/yurts-in-mongolia/"
-    },
-    {
-      "title": "Simon Willison on generative-ai",
-      "text": "2 days ago · Random 1,979 posts tagged “generative-ai” Machine learning systems that can generate new content: text, images, audio, video and more.",
-      "url": "https://simonwillison.net/tags/generative-ai/"
-    },
-    {
-      "title": "Supercharging Developer Productivity with ChatGPT and Claude ...",
-      "text": "2 days ago · Supercharging Developer Productivity with ChatGPT and Claude with Simon Willison (via) I'm the guest for the latest episode of the TWIML AI podcast - This Week in Machine Learning & AI, hosted by Sam Charrington.",
-      "url": "https://simonwillison.net/2024/Sep/17/supercharging-developer-productivity/"
-    },
-    {
-      "title": "Fairly Trained launches certification for generative AI ...",
-      "text": "2 days ago · I've been using the term \"vegan models\" for a while to describe machine learning models that have been trained in a way that avoids using unlicensed, copyrighted data. Fairly Trained is a new non-profit initiative that aims to encourage such models through a \"certification\" stamp of approval.",
-      "url": "https://simonwillison.net/2024/Jan/25/fairly-trained-launches-certification-for-generative-ai-models-t/"
-    },
-    {
-      "title": "Simon Willison on hugging-face",
-      "text": "3 days ago · Hugging Face Transformers is a library of Transformer machine learning models plus a Python package for loading and running them. Transformers.js provides a JavaScript alternative interface which runs in your browser, thanks to a set of precompiled WebAssembly binaries for a selection of models.",
-      "url": "https://simonwillison.net/tags/hugging-face/"
-    },
-    {
-      "title": "Let's build the GPT Tokenizer - Simon Willison",
-      "text": "Feb 20, 2024 · Let's build the GPT Tokenizer. When Andrej Karpathy left OpenAI last week a lot of people expressed hope that he would be increasing his output of educational YouTube videos. Here’s an in-depth 2 hour dive into how tokenizers work and how to build one from scratch, published this morning. The section towards the end, “revisiting and explaining the quirks of LLM tokenization”, helps ...",
-      "url": "https://simonwillison.net/2024/Feb/20/lets-build-the-gpt-tokenizer/"
-    },
-    {
-      "title": "Ad policies - OpenAI",
-      "text": "4 days ago · We use machine learning systems, including LLMs and classifiers, to review ads, landing pages, and advertiser signals for policy compliance before ads are eligible to run",
-      "url": "https://openai.com/policies/ad-policies/"
-    },
-    {
-      "title": "Product News and Updates | OpenAI",
-      "text": "4 days ago · Read the latest OpenAI product news, including releases, announcements, and updates across ChatGPT, Codex, AI models, developer tools, and more",
-      "url": "https://openai.com/news/product/"
-    },
-    {
-      "title": "Control Systems Software Engineer, Robotics | OpenAI",
-      "text": "6 days ago · Work with machine learning engineers to implement reinforcement learning models. Collaborate across mechanical, electrical, and software teams to integrate ...",
-      "url": "https://openai.com/careers/control-systems-software-engineer-robotics-san-francisco/"
-    },
-    {
-      "title": "Applied AI Engineer, Digital Natives | OpenAI",
-      "text": "6 days ago · Have a demonstrated track record of designing, building, and delivering AI or machine-learning systems in enterprise environments, including taking systems ...",
-      "url": "https://openai.com/careers/applied-ai-engineer-digital-natives-london-uk/"
-    },
-    {
-      "title": "Researcher, Safety Training, National Security | OpenAI",
-      "text": "2 days ago · Have a degree in computer science, machine learning, or a related field, and strong deep learning research or engineering skills. Have experience improving ...",
-      "url": "https://openai.com/careers/researcher-safety-training-national-security-san-francisco/"
+      "title": "Simon Willison on agentic-engineering",
+      "text": "1 day ago · 63 posts tagged ‘agentic-engineering’. Using coding agents for professional software development. I've written a lot more about this under my broader tag ai-assisted-programming.",
+      "url": "https://simonwillison.net/tags/agentic-engineering/"
     },
     {
       "title": "Archive for Friday, 11th September 2026",
-      "text": "3 days ago · Finding slow code with wrapture - wrapture's tools for recording timing information, both individually and aggregated across multiple calls. OpenTelemetry ... Missing: developer | Show results with: developer",
-      "url": "https://simonwillison.net/2026/Sep/11/"
+      "text": "4 days ago · If you don't want your profession to change at all then you're going to have a tough time with this - but that's surely been true for the history of software engineering? Has there ever been any stability to the tools and language we use beyond about a five year time horizon?",
+      "url": "https://feeds.simonwillison.net/2026/Sep/11/"
     },
     {
-      "title": "Introducing ChatGPT Images 2.5 - Simon Willison's Weblog",
-      "text": "6 days ago · Choose Sunburst for workflows where editing precision matters most, and Flare for fast, high-quality everyday image generation. I upgraded my openai_image.py ... Missing: developer | Show results with: developer",
-      "url": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/"
+      "title": "Comment: What blog posts influenced your thinking the most?",
+      "text": "1 day ago · I absolutely love his idea that migrations (e.g. replacing one service with a new one, or switching database engines, or whatever) are part and parcel of software engineering and are a skill that you should invest in and get good at, not avoid or treat as special one-offs.",
+      "url": "https://simonwillison.net/2026/Sep/14/influences/"
     },
     {
-      "title": "Don't sleep on wrapture - Simon Willison's Weblog",
-      "text": "3 days ago · Graham Dumpleton's new monkey patching package wrapture is shaping up to be an indispensable tool for Python developers. I'm not sure why I've seen so ... Missing: developer | Show results with: developer",
-      "url": "https://simonwillison.net/2026/Sep/11/wrapture/"
+      "title": "Simon Willison on ai",
+      "text": "12 hours ago · If you don't want your profession to change at all then you're going to have a tough time with this - but that's surely been true for the history of software engineering? Has there ever been any stability to the tools and language we use beyond about a five year time horizon?",
+      "url": "https://simonwillison.net/tags/ai/"
     },
     {
-      "title": "Release: llm 0.35 - Simon Willison's Weblog",
-      "text": "7 days ago · Release llm 0.35 — Access large language models from the command-line. New OpenAI model: gpt-6-astra for GPT-6 Astra. Posted 7th September 2026 at 11:54 pm ...",
-      "url": "https://simonwillison.net/2026/Sep/7/llm/"
+      "title": "Simon Willison on generative-ai",
+      "text": "1 day ago · 1,980 posts tagged ‘generative-ai’. Machine learning systems that can generate new content: text, images, audio, video and more.",
+      "url": "https://simonwillison.net/tags/generative-ai/"
+    },
+    {
+      "title": "OpenAI 新聞 | OpenAI",
+      "text": "5 days ago · 緊貼 AI 技術的快速發展，以及 AI 為人類帶來的裨益。",
+      "url": "https://openai.com/zh-Hant-HK/news/"
+    },
+    {
+      "title": "OpenAI 最新消息 | OpenAI",
+      "text": "5 days ago · AI 科技日新月異，在此隨時掌握最新進展，了解人工智慧為人類帶來的各項益處。",
+      "url": "https://openai.com/zh-Hant/news/"
+    },
+    {
+      "title": "Product Inquiry: Programmatic Inbound Access to a Persistent ...",
+      "text": "2 days ago · I do a significant amount of software engineering work directly from the Web UI rather than treating it simply as a conversational assistant. Over time, this environment has accumulated substantial context about my projects, engineering conventions, architectural decisions, tooling, development protocols, review processes, preferred working ...",
+      "url": "https://community.openai.com/t/product-inquiry-programmatic-inbound-access-to-a-persistent-chatgpt-web-ui-session/1397083"
+    },
+    {
+      "title": "Django for Startup Founders: A better software architecture ...",
+      "text": "3 days ago · Django for Startup Founders: A better software architecture for SaaS startups and consumer apps (via) The opening section of this article has very little to do with Django: it’s an insightful description of the technical challenges faced by a startup that is still seeking product-market fit. Alex then extends that into his own architectural recommendations for startups building with Django ...",
+      "url": "https://simonwillison.net/2021/Jun/24/django-for-startup-founders/"
+    },
+    {
+      "title": "A quote from Tom MacWright",
+      "text": "3 days ago · Building technology in startups is all about having the right level of tech debt. If you have none, you’re probably going too slow and not prioritizing product-market fit and the important business stuff.",
+      "url": "https://simonwillison.net/2024/Nov/3/tom-macwright/"
+    },
+    {
+      "title": "Lessons from 6 software rewrite stories - Simon Willison",
+      "text": "3 days ago · Lessons from 6 software rewrite stories (via) Herb Caudill takes on the classic idea that rewriting from scratch is “the single worst strategic mistake that any software company can make” and investigates it through the lens of six well-chosen examples: Netscape 6, Basecamp Classic/2/3, Visual Studio/VS Code, Gmail/Inbox, FogBugz/Wasabi/Trello, and finally FreshBooks/BillSpring. Each story ...",
+      "url": "https://simonwillison.net/2019/Feb/19/lessons-6-software-rewrite-stories/"
+    },
+    {
+      "title": "A quote from Brad Lightcap",
+      "text": "3 days ago · Through conversations with startups and developers, it became clear how important it was to be able to support a spectrum of needs, such as custom fine-tuning for specialized tasks, more tunable latency, running on-prem, or deployments requiring full data control. — Brad Lightcap, COO, OpenAI Posted 1st April 2025 at 2:53 am",
+      "url": "https://simonwillison.net/2025/Apr/1/brad-lightcap/"
+    },
+    {
+      "title": "(Almost) Every infrastructure decision I endorse or regret ...",
+      "text": "3 days ago · (Almost) Every infrastructure decision I endorse or regret after 4 years running infrastructure at a startup (via) Absolutely fascinating post by Jack Lindamood talking about services, tools and processes used by his startup and which ones turned out to work well v.s. which ones are now regretted. I’d love to see more companies produce lists like this.",
+      "url": "https://simonwillison.net/2024/Feb/10/almost-every-infrastructure-decision-i-endorse-or-regret/"
+    },
+    {
+      "title": "Stratechery – Stratechery by Ben Thompson",
+      "text": "5 days ago · Stratechery is launching a new podcast: Sharp Tech with Ben Thompson. In addition, the Stratechery Update subscription has now been expanded to the Stratechery Plus subscription, including the Stratechery Update, Stratechery Interviews, Sharp Tech, and Dithering.",
+      "url": "https://stratechery.com/company/stratechery/"
+    },
+    {
+      "title": "Airbnb – Stratechery by Ben Thompson",
+      "text": "5 days ago · Airbnb and DoorDash both created new markets where ones did not previously exist; they are startups played on “hard” mode.",
+      "url": "https://stratechery.com/company/airbnb/"
+    },
+    {
+      "title": "Keynotes (Product Announcements) - Stratechery by Ben Thompson",
+      "text": "Jun 3, 2026 · AWS re:Invent sought to present AI solutions in the spirit of AWS’ original impact on startups; the real targets may be the startups from that era, not the current one.",
+      "url": "https://stratechery.com/topic/events/keynotes-product-announcements/"
+    },
+    {
+      "title": "AI – Stratechery by Ben Thompson",
+      "text": "5 days ago · Incentives favor offense when it comes to agentic cybersecurity; it’s the same dynamic that will limit incumbents and fuel startups in the long run.",
+      "url": "https://stratechery.com/concept/ai/"
+    },
+    {
+      "title": "Events – Stratechery by Ben Thompson",
+      "text": "5 days ago · An interview with OpenAI President and Co-Founder Greg Brockman about the history of OpenAI, Astra and alignment, and the weight of building the future.",
+      "url": "https://stratechery.com/topic/events/"
+    },
+    {
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems | OpenAI",
+      "text": "1 day ago · Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra/"
+    },
+    {
+      "title": "Release Notes - OpenAI",
+      "text": "4 days ago · OpenAI release notes for ChatGPT, API Platform, and Codex. Explore the latest features, updates, and improvements across OpenAI products.",
+      "url": "https://openai.com/products/release-notes/"
+    },
+    {
+      "title": "Elevated errors for GPT-5.6 Sol on the API - OpenAI Status",
+      "text": "4 days ago · All impacted services have now fully recovered. We have brought additional capacity online and are seeing improvements for some GPT-5.6 Sol API traffic. We continue to mitigate elevated errors affecting Chat Completions and Responses and are monitoring recovery",
+      "url": "https://status.openai.com/incidents/01M27VK1VN54RQJGJEHB5JTQJJ"
+    },
+    {
+      "title": "ChatGPT Business release notes | OpenAI Help Center",
+      "text": "4 days ago · ChatGPT Business admins can use Model Test to understand which models a member can access and which settings contribute to that access. Open Admin Console, select your ChatGPT workspace, then use Models > Test to search for a member by name or email. Testing does not grant model access, change permissions or usage limits, or override the member’s seat type or workspace plan. For the steps ...",
+      "url": "https://help.openai.com/en/articles/11391654-codex-updates"
+    },
+    {
+      "title": "I counted all of the yurts in Mongolia using machine learning",
+      "text": "3 days ago · Fascinating, detailed account by Monroe Clinton of a geospatial machine learning project. Monroe wanted to count visible yurts in Mongolia using Google Maps satellite view. The resulting project incorporates mercantile …",
+      "url": "https://simonwillison.net/2025/Jun/18/yurts-in-mongolia/"
+    },
+    {
+      "title": "Fairly Trained launches certification for generative AI ...",
+      "text": "3 days ago · Fairly Trained launches certification for generative AI models that respect creators’ rights. I've been using the term \"vegan models\" for a while to describe machine learning models that have been trained in a way that avoids using unlicensed, copyrighted data. Fairly Trained is a new non-profit initiative that aims to encourage such models through a \"certification\" stamp of approval. The ...",
+      "url": "https://simonwillison.net/2024/Jan/25/fairly-trained-launches-certification-for-generative-ai-models-t/"
+    },
+    {
+      "title": "Supercharging Developer Productivity with ChatGPT and Claude ...",
+      "text": "3 days ago · Supercharging Developer Productivity with ChatGPT and Claude with Simon Willison (via) I'm the guest for the latest episode of the TWIML AI podcast - This Week in Machine Learning & AI, hosted by Sam Charrington. We mainly talked about how I use LLM tooling for my own work - Claude, ChatGPT, Code Interpreter, Claude Artifacts, LLM and GitHub Copilot - plus a bit about my experiments with local ...",
+      "url": "https://simonwillison.net/2024/Sep/17/supercharging-developer-productivity/"
+    },
+    {
+      "title": "Simon Willison on hugging-face",
+      "text": "4 days ago · Hugging Face Transformers is a library of Transformer machine learning models plus a Python package for loading and running them. Transformers.js provides a JavaScript alternative interface which runs in your browser, thanks to a set of precompiled WebAssembly binaries for a selection of models.",
+      "url": "https://simonwillison.net/tags/hugging-face/"
+    },
+    {
+      "title": "The Random Transformer - Simon Willison",
+      "text": "3 days ago · The Random Transformer (via) “Understand how transformers work by demystifying all the math behind them”—Omar Sanseviero from Hugging Face meticulously implements the transformer architecture behind LLMs from scratch using Python and numpy. There’s a lot to take in here but it’s all very clearly explained.",
+      "url": "https://simonwillison.net/2024/Jan/10/the-random-transformer/"
     },
     {
       "title": "Product News and Updates | OpenAI",
-      "text": "4 days ago · Read the latest OpenAI product news, including releases, announcements, and updates across ChatGPT, Codex, AI models, developer tools, and more",
-      "url": "https://openai.com/news/product-releases/"
+      "text": "5 days ago · Read the latest OpenAI product news, including releases, announcements, and updates across ChatGPT, Codex, AI models, developer tools, and more",
+      "url": "https://openai.com/news/product/"
     },
     {
-      "title": "Now everyone can put data to work - OpenAI",
-      "text": "4 days ago · Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+      "title": "Ad policies - OpenAI",
+      "text": "5 days ago · OpenAI’s Ad Policies outline standards for ad placement and content in ChatGPT, including brand safety rules, sensitive contexts, and disallowed categories.",
+      "url": "https://openai.com/policies/ad-policies/"
+    },
+    {
+      "title": "What Can AI Safety Learn From a Boiler Code? - ChatGPT ...",
+      "text": "3 days ago · What Can AI Safety Learn From a Boiler Code? Michael Files, 9/12/26 I have been thinking a lot lately about AI safety, particularly after reading about recent incidents involving autonomous AI agents behaving in ways their researchers did not anticipate. And I keep thinking about boilers. That may sound ridiculous at first. My background is not in machine-learning research. I have spent ...",
+      "url": "https://community.openai.com/t/what-can-ai-safety-learn-from-a-boiler-code/1397044"
+    },
+    {
+      "title": "Now everyone can put data to work | OpenAI",
+      "text": "5 days ago · Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
       "url": "https://openai.com/index/put-data-to-work/"
     },
     {
+      "title": "Product News and Updates | OpenAI",
+      "text": "5 days ago · Read the latest OpenAI product news, including releases, announcements, and updates across ChatGPT, Codex, AI models, developer tools, and more",
+      "url": "https://openai.com/news/product-releases/"
+    },
+    {
       "title": "Introducing the Agents API - OpenAI",
-      "text": "4 days ago · Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+      "text": "5 days ago · Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
       "url": "https://openai.com/index/introducing-the-agents-api/"
+    },
+    {
+      "title": "ChatGPT Enterprise and Edu release notes - OpenAI Help Center",
+      "text": "4 days ago · ChatGPT Enterprise and Edu release notes Review new features, administrative controls, and product updates for ChatGPT Enterprise and Edu.",
+      "url": "https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes"
     },
     {
       "title": "Topics tagged codex-cli - OpenAI API Community Forum",
@@ -356,19 +276,24 @@
       "url": "https://community.openai.com/tag/codex-cli/940"
     },
     {
-      "title": "A quote from Andrew Ng",
-      "text": "Jun 13, 2025 · (ii) They are able to use AI assistance to carry out rapid engineering, building software systems in dramatically less time than was possible before. In addition, good product/design instincts are a significant bonus. — Andrew Ng Posted 13th June 2025 at 4:13 pm",
-      "url": "https://simonwillison.net/2025/Jun/13/andrew-ng/"
-    },
-    {
       "title": "Introducing ChatGPT for Financial Services - OpenAI",
-      "text": "4 days ago · Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+      "text": "5 days ago · Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
       "url": "https://openai.com/index/introducing-chatgpt-financial-services/"
     },
     {
-      "title": "ChatGPT Enterprise & Edu - Release Notes - OpenAI Help Center",
-      "text": "5 days ago · This first set includes Sales, Data Analytics, Product Design, Creative Production, Investment Banking, and Public Equity Investing. These plugins package role-specific skills, app integrations, starter prompts, and workflow guidance so teams can use Codex for sales prep, analytics and dashboards, prototypes, creative assets, and financial ...",
-      "url": "https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes%252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252523.mkv"
+      "title": "Feature Proposal — “Living Compass Mode”: an optional ...",
+      "text": "1 day ago · For people working on AI alignment, model behavior, AI ethics or product design: «Could an AI be designed to question the objective before optimizing it, without becoming paternalistic or ideological?» And if so, what would be the best way to evaluate whether such a mode genuinely improves decision-making?",
+      "url": "https://community.openai.com/t/feature-proposal-living-compass-mode-an-optional-framework-for-ecological-interspecies-and-intergenerational-considerations/1397600"
+    },
+    {
+      "title": "ChatGPT Business release notes | OpenAI Help Center",
+      "text": "4 days ago · This first set includes Sales, Data Analytics, Product Design, Creative Production, Investment Banking, and Public Equity Investing. These plugins package role-specific skills, app integrations, starter prompts, and workflow guidance so teams can use Codex for sales prep, analytics and dashboards, prototypes, creative assets, and financial ...",
+      "url": "https://help.openai.com/en/articles/11391654-chatgpt-business-versionshinweise"
+    },
+    {
+      "title": "Feature Proposal - Multi-Personality Conversations in ChatGPT",
+      "text": "12 hours ago · But those seem like engineering and product-design problems rather than fundamental limitations of AI. And ChatGPT already has concepts such as Projects that bring chats, files, instructions, and context together for ongoing work. That makes the idea of a shared conversational context feel like a natural extension of an existing product direction.",
+      "url": "https://community.openai.com/t/feature-proposal-multi-personality-conversations-in-chatgpt/1397749"
     }
   ]
 }
