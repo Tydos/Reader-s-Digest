@@ -6,33 +6,18 @@
       "url": "https://arxiv.org/abs/1802.07228"
     },
     {
-      "title": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists",
-      "text": "313 points on Hacker News",
-      "url": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/"
-    },
-    {
-      "title": "Mathematicians want proof OpenAI didn't use their work",
-      "text": "77 points on Hacker News",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data"
-    },
-    {
       "title": "Making Startups Powerful",
-      "text": "221 points on Hacker News",
+      "text": "223 points on Hacker News",
       "url": "https://paulgraham.com/powerful.html"
     },
     {
       "title": "Steam Frame starts at $1059",
-      "text": "731 points on Hacker News",
+      "text": "735 points on Hacker News",
       "url": "https://store.steampowered.com/hardware/steamframe"
     },
     {
-      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-      "text": "https:&#x2F;&#x2F;mathstodon.xyz&#x2F;@andreasthom&#x2F;117240536885387540 https:&#x2F;&#x2F;mathstodon.xyz&#x2F;@andreasthom&#x2F;117240537520615623 https:&#x2F;&#x2F;x.com&#x2F;ValerioCapraro&#x2F;status&#x2F;2097791836269977996 , https:&#x2F;&#x2F;xcancel.com&#x2F;ValerioCapraro&#x2F;status&#x2F;209779183626997799... https:&#x2F;&#x2F;bsky.app&#x2F;profile&#x2F;did:plc:ckaz32jwl6t2cno6fmuw2nhn&#x2F;po...",
-      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201"
-    },
-    {
       "title": "Salesforce Global Outage",
-      "text": "84 points on Hacker News",
+      "text": "274 points on Hacker News",
       "url": "https://status.salesforce.com/products/all"
     },
     {
@@ -42,7 +27,7 @@
     },
     {
       "title": "Why don't machine learning research agents overfit?",
-      "text": "133 points on Hacker News",
+      "text": "134 points on Hacker News",
       "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit"
     },
     {
@@ -56,33 +41,18 @@
       "url": "https://github.com/pizza-bot-app/pizza-bot"
     },
     {
-      "title": "2025 Word of the Year: Slop - simonwillison.net",
-      "text": "2025 Word of the Year: Slop. Slop lost to \"brain rot\" for Oxford Word of the Year 2024 but it's finally made it this year thanks to Merriam-Webster! Merriam-Webster's human editors have chosen slop as the 2025 Word of the Year. We define slop as \"digital content of low quality that is produced usually in quantity by means of artificial intelligence.\"",
-      "url": "https://simonwillison.net/2025/Dec/15/2025-word-of-the-year-slop/"
-    },
-    {
-      "title": "A quote from David L. Poole and Alan K. Mackworth",
-      "text": "An agent is something that acts in an environment; it does something. Agents include worms, dogs, thermostats, airplanes, robots, humans, companies, and countries. — David L. Poole and Alan K. Mackworth, Artificial Intelligence: Foundations of Computational Agents",
-      "url": "https://simonwillison.net/2025/Mar/19/worms-and-dogs-and-countries/"
-    },
-    {
-      "title": "talk.wasm - Simon Willison",
-      "text": "talk.wasm (via) \"Talk with an Artificial Intelligence in your browser\". Absolutely stunning demo which loads the Whisper speech recognition model (75MB) and a GPT-2 model (240MB) and executes them both in your browser via WebAssembly, then uses the Web Speech API to talk back to you. The result is a full speak-with-an-AI interface running entirely client-side. GPT-2 sadly mostly generates ...",
-      "url": "https://simonwillison.net/2022/Dec/7/talk-wasm/"
-    },
-    {
       "title": "OpenAI agents attacked RubyGems back in May",
-      "text": "4 days ago - OpenAI agents carried out an undisclosed attack on RubyGems is a new bombshell report from Spencer Kitts, Thomas Larsen, and Sydney Von Arx—three of the four authors of the report …",
+      "text": "5 days ago - OpenAI agents carried out an undisclosed attack on RubyGems is a new bombshell report from Spencer Kitts, Thomas Larsen, and Sydney Von Arx—three of the four authors of the report …",
       "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/"
     },
     {
       "title": "Archive for Saturday, 12th September 2026",
-      "text": "4 days ago - OpenAI agents carried out an undisclosed attack on RubyGems is a new bombshell report from Spencer Kitts, Thomas Larsen, and Sydney Von Arx—three of the four authors of the report on the agent attack on disused wikis (previously) last week",
+      "text": "5 days ago - OpenAI agents carried out an undisclosed attack on RubyGems is a new bombshell report from Spencer Kitts, Thomas Larsen, and Sydney Von Arx—three of the four authors of the report on the agent attack on disused wikis (previously) last week",
       "url": "https://simonwillison.net/2026/Sep/12/"
     },
     {
       "title": "Write Things Down – Stratechery by Ben Thompson",
-      "text": "1 week ago - They are intrinsic, and until AI figures out not how to build on our superstructure of writing, but to delve into the motivations that created writing in the first place, it will always be something distinct, and something that can be directed by entities with less intelligence but an actual internal sense of self. That’s not to say that AI isn’t dangerous: misplaced or ill-considered instructions, like in the Hugging Face incident, can lead to unintended and catastrophic outcomes; ",
+      "text": "1 day ago - They are intrinsic, and until AI figures out not how to build on our superstructure of writing, but to delve into the motivations that created writing in the first place, it will always be something distinct, and something that can be directed by entities with less intelligence but an actual internal sense of self. That’s not to say that AI isn’t dangerous: misplaced or ill-considered instructions, like in the Hugging Face incident, can lead to unintended and catastrophic outcomes; N",
       "url": "https://stratechery.com/2026/write-things-down/"
     }
   ]
