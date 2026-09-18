@@ -1,13 +1,18 @@
 {
   "articles": [
     {
+      "title": "Artificial intelligence now beats some of the best human forecasters",
+      "text": "119 points on Hacker News",
+      "url": "https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters"
+    },
+    {
       "title": "The Malicious Use of Artificial Intelligence",
       "text": "87 points on Hacker News",
       "url": "https://arxiv.org/abs/1802.07228"
     },
     {
       "title": "Making Startups Powerful",
-      "text": "223 points on Hacker News",
+      "text": "224 points on Hacker News",
       "url": "https://paulgraham.com/powerful.html"
     },
     {
@@ -17,7 +22,7 @@
     },
     {
       "title": "Salesforce Global Outage",
-      "text": "274 points on Hacker News",
+      "text": "278 points on Hacker News",
       "url": "https://status.salesforce.com/products/all"
     },
     {
@@ -27,7 +32,7 @@
     },
     {
       "title": "Why don't machine learning research agents overfit?",
-      "text": "134 points on Hacker News",
+      "text": "135 points on Hacker News",
       "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit"
     },
     {
@@ -42,18 +47,118 @@
     },
     {
       "title": "OpenAI agents attacked RubyGems back in May",
-      "text": "5 days ago - OpenAI agents carried out an undisclosed attack on RubyGems is a new bombshell report from Spencer Kitts, Thomas Larsen, and Sydney Von Arx—three of the four authors of the report …",
+      "text": "1 week ago - OpenAI agents carried out an undisclosed attack on RubyGems is a new bombshell report from Spencer Kitts, Thomas Larsen, and Sydney Von Arx—three of the four authors of the report …",
       "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/"
     },
     {
       "title": "Archive for Saturday, 12th September 2026",
-      "text": "5 days ago - OpenAI agents carried out an undisclosed attack on RubyGems is a new bombshell report from Spencer Kitts, Thomas Larsen, and Sydney Von Arx—three of the four authors of the report on the agent attack on disused wikis (previously) last week",
+      "text": "1 week ago - OpenAI agents carried out an undisclosed attack on RubyGems is a new bombshell report from Spencer Kitts, Thomas Larsen, and Sydney Von Arx—three of the four authors of the report on the agent attack on disused wikis (previously) last week",
       "url": "https://simonwillison.net/2026/Sep/12/"
     },
     {
       "title": "Write Things Down – Stratechery by Ben Thompson",
-      "text": "1 day ago - They are intrinsic, and until AI figures out not how to build on our superstructure of writing, but to delve into the motivations that created writing in the first place, it will always be something distinct, and something that can be directed by entities with less intelligence but an actual internal sense of self. That’s not to say that AI isn’t dangerous: misplaced or ill-considered instructions, like in the Hugging Face incident, can lead to unintended and catastrophic outcomes; N",
+      "text": "2 days ago - They are intrinsic, and until AI figures out not how to build on our superstructure of writing, but to delve into the motivations that created writing in the first place, it will always be something distinct, and something that can be directed by entities with less intelligence but an actual internal sense of self. That’s not to say that AI isn’t dangerous: misplaced or ill-considered instructions, like in the Hugging Face incident, can lead to unintended and catastrophic outcomes; ",
       "url": "https://stratechery.com/2026/write-things-down/"
+    },
+    {
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems | OpenAI",
+      "text": "4 days ago · Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra/"
+    },
+    {
+      "title": "OpenAI Academy - Madrid - Resource | OpenAI Academy",
+      "text": "5 days ago · Unlock the new opportunities of the AI era by equipping yourself with the knowledge and skills to harness artificial intelligence effectively.",
+      "url": "https://academy.openai.com/public/resources/openai-academy-madrid-2026-09-13"
+    },
+    {
+      "title": "OpenAI Newsroom | Global Affairs",
+      "text": "2 days ago · Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity.",
+      "url": "https://openai.com/news/global-affairs/"
+    },
+    {
+      "title": "Simon Willison on agentic-engineering",
+      "text": "4 days ago · If your entire business depends on software engineering growing as a field and producing larger volumes of more lucrative seats, you have a strong incentive to believe that agents will have that effect!",
+      "url": "https://simonwillison.net/tags/agentic-engineering/"
+    },
+    {
+      "title": "How to connect AI usage to business value - OpenAI",
+      "text": "2 days ago · Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value/"
+    },
+    {
+      "title": "Product Inquiry: Programmatic Inbound Access to a Persistent ...",
+      "text": "5 days ago · My use case is based on how heavily I already use ChatGPT through the Web UI. ChatGPT is effectively the centre of my engineering environment. I do a significant amount of software engineering work directly from the Web UI rather than treating it simply as a conversational assistant.",
+      "url": "https://community.openai.com/t/product-inquiry-programmatic-inbound-access-to-a-persistent-chatgpt-web-ui-session/1397083"
+    },
+    {
+      "title": "Feature Request: Replace Codex Pet with a Codex Task Board",
+      "text": "2 days ago · An AI software engineering workspace where I can manage a queue of work, monitor multiple agents, review their results, and intervene when necessary. About Codex Pet",
+      "url": "https://community.openai.com/t/feature-request-replace-codex-pet-with-a-codex-task-board/1397992"
+    },
+    {
+      "title": "OpenAI – Stratechery by Ben Thompson",
+      "text": "3 days ago · Incentives favor offense when it comes to agentic cybersecurity; it’s the same dynamic that will limit incumbents and fuel startups in the long run.",
+      "url": "https://stratechery.com/company/openai/"
+    },
+    {
+      "title": "Ben Thompson – Stratechery by Ben Thompson",
+      "text": "3 days ago · The best Stratechery content from the week of September 7, 2026, including the arrival of the Duo, AI that benefits humanity, and closing the book on a catastrophe. The best Stratechery content from the week of August 31, 2026, including the market speaking, Apple finding religion, and society ...",
+      "url": "https://stratechery.com/author/ben1402025/"
+    },
+    {
+      "title": "Ben Thompson – Stratechery by Ben Thompson",
+      "text": "3 days ago · ChatGPT ads are working, and solve Amazon’s biggest problem with chatbots. Then, Walmart finally gives in to Apple Pay, because fighting the status quo is hard ...",
+      "url": "https://stratechery.com/author/stratechery/"
+    },
+    {
+      "title": "How Fyxer built an AI executive assistant people trust | OpenAI",
+      "text": "4 days ago · Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+      "url": "https://openai.com/index/fyxer/"
+    },
+    {
+      "title": "Reimagining advertising with AI | OpenAI",
+      "text": "2 days ago · Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai/"
+    },
+    {
+      "title": "Introducing the Life Sciences Verification Program \\ Anthropic",
+      "text": "1 day ago · It’s built for teams of all kinds—from academic labs to startups, pharma companies, and more. Verification and access types To qualify for these grants, each applicant goes through a verification process that includes a review of their research credentials, security standards, and ethical research oversight.",
+      "url": "https://www.anthropic.com/news/life-sciences-verification-program"
+    },
+    {
+      "title": "What Can AI Safety Learn From a Boiler Code? - ChatGPT ...",
+      "text": "6 days ago · My background is not in machine-learning research. I have spent roughly 34 years in metals fabrication and manufacturing, and about two-thirds of that career has involved ASME Code work, primarily boilers and pressure vessels.",
+      "url": "https://community.openai.com/t/what-can-ai-safety-learn-from-a-boiler-code/1397044"
+    },
+    {
+      "title": "Product News and Updates | OpenAI",
+      "text": "2 days ago · Read the latest OpenAI product news, including releases, announcements, and updates across ChatGPT, Codex, AI models, developer tools, and more",
+      "url": "https://openai.com/news/product/"
+    },
+    {
+      "title": "Release Notes - OpenAI",
+      "text": "4 days ago · OpenAI release notes for ChatGPT, API Platform, and Codex. Explore the latest features, updates, and improvements across OpenAI products.",
+      "url": "https://openai.com/products/release-notes/"
+    },
+    {
+      "title": "Topics tagged codex-cli - OpenAI API Community Forum",
+      "text": "1 day ago · Topics tagged codex-cli",
+      "url": "https://community.openai.com/tag/codex-cli/940"
+    },
+    {
+      "title": "Simon Willison on careers",
+      "text": "4 days ago · Compatibility is product. Design your deprecations as migrations with time, tooling, and empathy. Most “API design” is actually “API retirement.” — Addy Osmani, 21 lessons from 14 years at Google # 4th January 2026, 4:40 pm / api-design, addy-osmani, careers, google, migrations",
+      "url": "https://simonwillison.net/tags/careers/"
+    },
+    {
+      "title": "Feature Proposal — “Living Compass Mode”: an optional ...",
+      "text": "4 days ago · For people working on AI alignment, model behavior, AI ethics or product design: «Could an AI be designed to question the objective before optimizing it, without becoming paternalistic or ideological?»",
+      "url": "https://community.openai.com/t/feature-proposal-living-compass-mode-an-optional-framework-for-ecological-interspecies-and-intergenerational-considerations/1397600"
+    },
+    {
+      "title": "Feature Proposal - Multi-Personality Conversations in ChatGPT",
+      "text": "3 days ago · But those seem like engineering and product-design problems rather than fundamental limitations of AI. And ChatGPT already has concepts such as Projects that bring chats, files, instructions, and context together for ongoing work.",
+      "url": "https://community.openai.com/t/feature-proposal-multi-personality-conversations-in-chatgpt/1397749"
     }
   ]
 }
