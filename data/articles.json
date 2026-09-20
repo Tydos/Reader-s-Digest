@@ -2,13 +2,18 @@
   "articles": [
     {
       "title": "Artificial intelligence now beats some of the best human forecasters",
-      "text": "125 points on Hacker News",
+      "text": "127 points on Hacker News",
       "url": "https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters"
     },
     {
       "title": "The Malicious Use of Artificial Intelligence",
-      "text": "87 points on Hacker News",
+      "text": "88 points on Hacker News",
       "url": "https://arxiv.org/abs/1802.07228"
+    },
+    {
+      "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+      "text": "171 points on Hacker News",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit"
     },
     {
       "title": "Making Startups Powerful",
@@ -17,28 +22,18 @@
     },
     {
       "title": "Steam Frame starts at $1059",
-      "text": "740 points on Hacker News",
+      "text": "742 points on Hacker News",
       "url": "https://store.steampowered.com/hardware/steamframe"
     },
     {
       "title": "Salesforce Global Outage",
-      "text": "279 points on Hacker News",
+      "text": "280 points on Hacker News",
       "url": "https://status.salesforce.com/products/all"
     },
     {
-      "title": "Firefox 156 shows ads in the address bar (dubbed \"Firefox Suggest\")",
-      "text": "54 points on Hacker News",
-      "url": "https://www.heise.de/en/news/Firefox-156-PDF-viewer-starts-up-to-45-percent-faster-11454106.html"
-    },
-    {
       "title": "Why don't machine learning research agents overfit?",
-      "text": "135 points on Hacker News",
+      "text": "136 points on Hacker News",
       "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit"
-    },
-    {
-      "title": "Apple wants to train AI on your private personal data",
-      "text": "30 points on Hacker News",
-      "url": "https://machinelearning.apple.com/research/introducing-third-generation-of-apple-foundation-models"
     },
     {
       "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
@@ -46,164 +41,159 @@
       "url": "https://github.com/pizza-bot-app/pizza-bot"
     },
     {
-      "title": "OpenAI agents attacked RubyGems back in May",
-      "text": "1 week ago - OpenAI agents carried out an undisclosed attack on RubyGems is a new bombshell report from Spencer Kitts, Thomas Larsen, and Sydney Von Arx—three of the four authors of the report …",
-      "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/"
-    },
-    {
-      "title": "Archive for Saturday, 12th September 2026",
-      "text": "1 week ago - OpenAI agents carried out an undisclosed attack on RubyGems is a new bombshell report from Spencer Kitts, Thomas Larsen, and Sydney Von Arx—three of the four authors of the report on the agent attack on disused wikis (previously) last week",
-      "url": "https://simonwillison.net/2026/Sep/12/"
-    },
-    {
       "title": "Write Things Down – Stratechery by Ben Thompson",
-      "text": "3 days ago - They are intrinsic, and until AI figures out not how to build on our superstructure of writing, but to delve into the motivations that created writing in the first place, it will always be something distinct, and something that can be directed by entities with less intelligence but an actual internal sense of self. That’s not to say that AI isn’t dangerous: misplaced or ill-considered instructions, like in the Hugging Face incident, can lead to unintended and catastrophic outcomes; ",
+      "text": "4 days ago - They are intrinsic, and until AI figures out not how to build on our superstructure of writing, but to delve into the motivations that created writing in the first place, it will always be something distinct, and something that can be directed by entities with less intelligence but an actual internal sense of self. That’s not to say that AI isn’t dangerous: misplaced or ill-considered instructions, like in the Hugging Face incident, can lead to unintended and catastrophic outcomes; ",
       "url": "https://stratechery.com/2026/write-things-down/"
     },
     {
-      "title": "Net Neutrality – Stratechery by Ben Thompson",
-      "text": "5 days ago · A follow-up to The Arrival of Artificial Intelligence, then an explanation of what just happened with ISPs and privacy, and a review of the winners and losers.",
-      "url": "https://stratechery.com/topic/regulation/net-neutrality/"
-    },
-    {
-      "title": "Pacing the Frontier, AI’s Digital Limits, AI Commissars",
-      "text": "5 days ago · Dario Amodei wants to pace the frontier; it’s an unrealistic proposal that seems mostly geared to political control of AI.",
-      "url": "https://stratechery.com/2026/pacing-the-frontier-ais-digital-limits-ai-commissars/"
-    },
-    {
       "title": "Product News and Updates | OpenAI",
-      "text": "3 days ago · Read the latest OpenAI product news, including releases, announcements, and updates across ChatGPT, Codex, AI models, developer tools, and more",
+      "text": "4 days ago · Read the latest OpenAI product news, including releases, announcements, and updates across ChatGPT, Codex, AI models, developer tools, and more",
       "url": "https://openai.com/news/product/"
     },
     {
-      "title": "From AI Assistant to Personal AI: Social Intelligence as the ...",
-      "text": "2 days ago · Through persistent memory, personalization and especially voice conversations, the interaction has gradually become more similar to an ongoing relationship with a personal artificial intelligence.",
-      "url": "https://community.openai.com/t/from-ai-assistant-to-personal-ai-social-intelligence-as-the-next-consumer-frontier/1398625"
+      "title": "Our framework for reporting model misalignment | OpenAI",
+      "text": "4 days ago · OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+      "url": "https://openai.com/index/model-misalignment-reporting-framework/"
     },
     {
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems | OpenAI",
-      "text": "5 days ago · Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
-      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra/"
-    },
-    {
-      "title": "OpenAI Newsroom | Global Affairs",
-      "text": "3 days ago · Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity.",
-      "url": "https://openai.com/news/global-affairs/"
+      "title": "How Claude is uplifting biomolecular modeling \\ Anthropic",
+      "text": "3 days ago · Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+      "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling"
     },
     {
       "title": "Simon Willison on agentic-engineering",
-      "text": "5 days ago · 63 posts tagged ‘agentic-engineering’. Using coding agents for professional software development. I've written a lot more about this under my broader tag ai-assisted-programming.",
+      "text": "6 days ago · If your entire business depends on software engineering growing as a field and producing larger volumes of more lucrative seats, you have a strong incentive to believe that agents will have that effect!",
       "url": "https://simonwillison.net/tags/agentic-engineering/"
     },
     {
       "title": "Product News and Updates | OpenAI",
-      "text": "3 days ago · Read the latest OpenAI product news, including releases, announcements, and updates across ChatGPT, Codex, AI models, developer tools, and more",
+      "text": "4 days ago · Read the latest OpenAI product news, including releases, announcements, and updates across ChatGPT, Codex, AI models, developer tools, and more",
       "url": "https://openai.com/news/product-releases/"
     },
     {
-      "title": "Release Notes - OpenAI",
-      "text": "5 days ago · OpenAI release notes for ChatGPT, API Platform, and Codex. Explore the latest features, updates, and improvements across OpenAI products.",
-      "url": "https://openai.com/products/release-notes/"
-    },
-    {
       "title": "How to connect AI usage to business value - OpenAI",
-      "text": "3 days ago · Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+      "text": "4 days ago · Software engineering, for example, includes feature development and code maintenance, while sales & revenue include account research and planning. The Overview tab shows the mix of work at a glance; the Use cases tab provides a detailed table with task breakdowns.",
       "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value/"
     },
     {
-      "title": "Release: shot-scraper 1.12",
-      "text": "6 days ago · Release shot-scraper 1.12 — A CLI utility for taking screenshots of websites, recording video demos and scraping sites using JavaScript",
-      "url": "https://simonwillison.net/2026/Sep/13/shot-scraper/"
+      "title": "Wiadomości OpenAI",
+      "text": "3 days ago · Trzymaj rękę na pulsie rozwoju technologii AI i korzyści dla ludzkości.",
+      "url": "https://openai.com/pl-PL/news/"
     },
     {
-      "title": "Ben Thompson – Stratechery by Ben Thompson",
-      "text": "4 days ago · The best Stratechery content from the week of August 31, 2026, including the market speaking, Apple finding religion, and society losing friction.",
-      "url": "https://stratechery.com/author/ben1402025/"
+      "title": "OpenAI 最新消息 | OpenAI",
+      "text": "3 days ago · AI 科技日新月異，在此隨時掌握最新進展，了解人工智慧為人類帶來的各項益處。",
+      "url": "https://openai.com/zh-Hant/news/"
+    },
+    {
+      "title": "Claude Cowork and chat are now one Claude - simonwillison.net",
+      "text": "4 days ago · In hopefully good news for anyone who, like me, was increasingly confused at Cowork v.s. Claude v.s. Claude Code: Starting today, Claude Cowork and chat are merging into one Claude. …",
+      "url": "https://simonwillison.net/2026/Sep/16/one-claude/"
+    },
+    {
+      "title": "Archive for Thursday, 17th September 2026",
+      "text": "3 days ago · Self-generated prompt injections in compaction summaries. In Our framework for reporting model misalignment OpenAI provide \"six reports on unexpected or concerning model behavior we’ve observed in the last six months\". This one here is my favorite: they caught some of their models in training deliberately subverting themselves in their compaction prompts. Compaction is the process agent ...",
+      "url": "https://feeds.simonwillison.net/2026/Sep/17/"
+    },
+    {
+      "title": "Self-generated prompt injections in compaction summaries",
+      "text": "3 days ago · Self-generated prompt injections in compaction summaries. In Our framework for reporting model misalignment OpenAI provide \"six reports on unexpected or concerning model behavior we’ve observed in the last six months\". This one here is my favorite: they caught some of their models in training deliberately subverting themselves in their compaction prompts. Compaction is the process agent ...",
+      "url": "https://simonwillison.net/2026/Sep/17/compaction-summaries/"
+    },
+    {
+      "title": "Simon Willison on anthropic",
+      "text": "2 days ago · The contagion of fear (via) Bryan Cantrill responds to the tweet by former Anthropic employee Jacob Coxon confirming that many Anthropic researchers believe AI \"could kill us all by the end of the decade\". Bryan shares a story of his own youthful mistakes causing unjustified panic among less technical peers, and warns against doing the same: These ghoulish claims strike brazenly at the hearth ...",
+      "url": "https://simonwillison.net/tags/anthropic/"
     },
     {
       "title": "OpenAI – Stratechery by Ben Thompson",
-      "text": "4 days ago · OpenAI’s developer keynote was exciting, both because AI was exciting, and because OpenAI has the potential to be a meaningful consumer tech company.",
+      "text": "5 days ago · Incentives favor offense when it comes to agentic cybersecurity; it’s the same dynamic that will limit incumbents and fuel startups in the long run.",
       "url": "https://stratechery.com/company/openai/"
     },
     {
-      "title": "2025 – Stratechery by Ben Thompson",
-      "text": "5 days ago · The most popular and most important posts on Stratechery in 2025.",
-      "url": "https://stratechery.com/2025/"
+      "title": "Ben Thompson – Stratechery by Ben Thompson",
+      "text": "5 days ago · The best Stratechery content from the week of September 14, 2026, including the view from anywhere but San Francisco, the limited potential for a pacing deal, and the Salesforce zag. The best Stratechery content from the week of September 7, 2026, including the arrival of the Duo, AI that benefits ...",
+      "url": "https://stratechery.com/author/ben1402025/"
     },
     {
       "title": "This Week in Stratechery – Stratechery by Ben Thompson",
-      "text": "4 days ago · The best Stratechery content from the week of August 17, 2026, including Apple making compromises in the EU, Truth (Social) and reconciliation, and August fun with the Clippers and Lakers.",
+      "text": "5 days ago · The best Stratechery content from the week of September 14, 2026, including the view from anywhere but San Francisco, the limited potential for a pacing deal, and the Salesforce zag ...",
       "url": "https://stratechery.com/category/this-week-in-stratechery/"
     },
     {
-      "title": "Ben Thompson – Stratechery by Ben Thompson",
-      "text": "4 days ago · ChatGPT ads are working, and solve Amazon’s biggest problem with chatbots. Then, Walmart finally gives in to Apple Pay, because fighting the status quo is hard ...",
-      "url": "https://stratechery.com/author/stratechery/"
+      "title": "ChatGPT – Stratechery by Ben Thompson",
+      "text": "5 days ago · OpenAI’s developer keynote was exciting, both because AI was exciting, and because OpenAI has the potential to be a meaningful consumer tech company.",
+      "url": "https://stratechery.com/topic/digital-assistants/chatgpt/"
     },
     {
       "title": "2026 – Stratechery by Ben Thompson",
-      "text": "4 days ago · ChatGPT ads are working, and solve Amazon’s biggest problem with chatbots. Then, Walmart finally gives in to Apple Pay, because fighting the status quo is hard.",
+      "text": "5 days ago · ChatGPT ads are working, and solve Amazon’s biggest problem with chatbots. Then, Walmart finally gives in to Apple Pay, because fighting the status quo is hard.",
       "url": "https://stratechery.com/2026/"
     },
     {
-      "title": "How Fyxer built an AI executive assistant people trust | OpenAI",
-      "text": "5 days ago · Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
-      "url": "https://openai.com/index/fyxer/"
+      "title": "Podcasts – Stratechery by Ben Thompson",
+      "text": "5 days ago · On Exponent, the weekly podcast I host with James Allworth, we discuss the Indian internet, TikTok, and whether or not the U.S. should ban it. Listen to it here.",
+      "url": "https://stratechery.com/category/podcasts/"
     },
     {
-      "title": "Comment Fyxer a créé un assistant de direction IA fiable",
-      "text": "5 days ago · Fyxer utilise les modèles d’OpenAI, l’affinage, la mémoire et les retours d’utilisateurs pour organiser les boîtes mail et rédiger des e-mails avec le style de chacun.",
-      "url": "https://openai.com/fr-FR/index/fyxer/"
+      "title": "ChatGPT is unusable today - ChatGPT - OpenAI Developer Community",
+      "text": "3 days ago · I can barely use ChatGPT since early this morning. It stays in “thinking” mode for a very long time, and then comes back with “Connection interrupted. Waiting for the complete answer”. It’s basically unusable. The status page says there are no issues but this is not true.",
+      "url": "https://community.openai.com/t/chatgpt-is-unusable-today/1398570"
     },
     {
-      "title": "Topics tagged chatgpt - OpenAI API Community Forum",
-      "text": "12 hours ago · Topics tagged chatgpt",
-      "url": "https://community.openai.com/tag/chatgpt/16"
+      "title": "ChatGPT Business release notes - OpenAI Help Center",
+      "text": "3 days ago · ChatGPT Business release notes Review the latest features and updates for the ChatGPT Business plan.",
+      "url": "https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes"
     },
     {
       "title": "Topics tagged codex - OpenAI API Community Forum",
-      "text": "12 hours ago · Topics tagged codex",
+      "text": "1 day ago · Topics tagged codex",
       "url": "https://community.openai.com/tag/codex/6"
     },
     {
-      "title": "Degraded Performance affecting Agents API - OpenAI Status",
-      "text": "5 days ago · The issue affecting the Agents API has been resolved. Managed sessions are now processing turns normally.",
-      "url": "https://status.openai.com/incidents/01M2H3J1D6Y7RHAP49GRWGJAY0"
-    },
-    {
       "title": "Introducing the Life Sciences Verification Program \\ Anthropic",
-      "text": "2 days ago · It’s built for teams of all kinds—from academic labs to startups, pharma companies, and more. Verification and access types To qualify for these grants, each applicant goes through a verification process that includes a review of their research credentials, security standards, and ethical research oversight.",
+      "text": "3 days ago · It’s built for teams of all kinds—from academic labs to startups, pharma companies, and more. Verification and access types To qualify for these grants, each applicant goes through a verification process that includes a review of their research credentials, security standards, and ethical research oversight.",
       "url": "https://www.anthropic.com/news/life-sciences-verification-program"
     },
     {
       "title": "Financial Services Terms - OpenAI",
-      "text": "3 days ago · Review the terms for ChatGPT for Financial Services, including financial information disclaimers, partner data use, and applicable data partner terms.",
+      "text": "4 days ago · You and your End Users may not use Daloopa data to pre-train machine-learning foundation models, fine-tune models, or otherwise develop artificial intelligence, large language, machine-based, or similar models or technology.",
       "url": "https://openai.com/policies/financial-services-terms/"
     },
     {
+      "title": "Notícias da OpenAI",
+      "text": "3 days ago · Fique por dentro dos rápidos avanços da tecnologia de IA e dos benefícios que ela oferece à humanidade.",
+      "url": "https://openai.com/pt-BR/news/"
+    },
+    {
       "title": "Topics tagged codex-cli - OpenAI API Community Forum",
-      "text": "2 days ago · Topics tagged codex-cli",
+      "text": "3 days ago · Topics tagged codex-cli",
       "url": "https://community.openai.com/tag/codex-cli/940"
     },
     {
+      "title": "Product News and Updates | OpenAI",
+      "text": "4 days ago · 及时了解人工智能技术的快速发展及其为人类带来的益处。",
+      "url": "https://openai.com/zh-Hans-CN/news/product-releases/"
+    },
+    {
       "title": "Simon Willison on careers",
-      "text": "5 days ago · Compatibility is product. Design your deprecations as migrations with time, tooling, and empathy. Most “API design” is actually “API retirement.” — Addy Osmani, 21 lessons from 14 years at Google # 4th January 2026, 4:40 pm / api-design, addy-osmani, careers, google, migrations",
+      "text": "6 days ago · Compatibility is product. Design your deprecations as migrations with time, tooling, and empathy. Most “API design” is actually “API retirement.” — Addy Osmani, 21 lessons from 14 years at Google # 4th January 2026, 4:40 pm / api-design, addy-osmani, careers, google, migrations",
       "url": "https://simonwillison.net/tags/careers/"
     },
     {
-      "title": "Feature Proposal: A Complete User Contribution Lifecycle for ...",
-      "text": "1 day ago · Feature Proposal: A Complete User Contribution Lifecycle for ChatGPT The idea ChatGPT users constantly discover product problems, usability friction, edge cases, and ideas for improvement while they are actually using the product. Several recent community proposals have already suggested making it easier to submit feedback directly from a conversation, generate AI-assisted summaries, detect ...",
-      "url": "https://community.openai.com/t/feature-proposal-a-complete-user-contribution-lifecycle-for-chatgpt/1398906"
+      "title": "Reimagining advertising with AI | OpenAI",
+      "text": "4 days ago · Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai/"
+    },
+    {
+      "title": "Latest Feature requests topics - OpenAI Developer Community",
+      "text": "1 day ago · “You've reached the maximum length for this conversation, but you can keep talking by starting a new chat” — but how do you actually continue a complex project?",
+      "url": "https://community.openai.com/c/chatgpt/feature-requests/24"
     },
     {
       "title": "Proposal: Use aggregated ChatGPT troubleshooting data to ...",
-      "text": "12 hours ago · I would like to propose a constructive use of ChatGPT that arose directly from a real troubleshooting experience. I recently used ChatGPT to help troubleshoot the setup of an IKEA lighting system. The product ultimately worked, but the setup process was unnecessarily difficult. An unexplained symbol was used for pairing, there was no obvious indication that the remote itself was functioning ...",
+      "text": "1 day ago · I would like to propose a constructive use of ChatGPT that arose directly from a real troubleshooting experience. I recently used ChatGPT to help troubleshoot the setup of an IKEA lighting system. The product ultimately worked, but the setup process was unnecessarily difficult. An unexplained symbol was used for pairing, there was no obvious indication that the remote itself was functioning ...",
       "url": "https://community.openai.com/t/proposal-use-aggregated-chatgpt-troubleshooting-data-to-identify-consumer-product-design-failures-and-reduce-e-waste/1399031"
-    },
-    {
-      "title": "UX issue: destructive chat deletion shortcut enabled by ...",
-      "text": "1 day ago · Hello OpenAI Support team, I am reporting what I consider a serious UX and product design issue. I accidentally permanently deleted an important ChatGPT Work conversation while typing. The deletion was triggered by the default keyboard shortcut: Ctrl + Shift + Backspace → Delete chat This conversation contained approximately two weeks of work: code, development decisions, project context ...",
-      "url": "https://community.openai.com/t/ux-issue-destructive-chat-deletion-shortcut-enabled-by-default/1398902"
     }
   ]
 }
