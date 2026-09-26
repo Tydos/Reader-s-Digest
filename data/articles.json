@@ -11,13 +11,18 @@
       "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai/"
     },
     {
+      "title": "Plan mode is dead",
+      "text": "372 points on Hacker News",
+      "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html"
+    },
+    {
       "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
       "text": "190 points on Hacker News",
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit"
     },
     {
       "title": "Japanese used bookstores see 5x sales surge as books are being bought by the ton",
-      "text": "84 points on Hacker News",
+      "text": "91 points on Hacker News",
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/japanese-used-bookstores-see-5x-sales-surge-as-books-are-being-bought-by-the-ton-one-50-ton-order-sent-to-the-us-for-ai-scanning-and-destruction-multitude-of-suspicious-bulk-buys-thought-to-end-up-in-foreign-ai-scan-and-shred-facilities"
     },
     {
@@ -46,9 +51,214 @@
       "url": "https://github.com/devdotfast/whiteboard"
     },
     {
+      "title": "Simon Willison on ai-misuse",
+      "text": "Ouch: Deloitte will provide a partial refund to the federal government over a $440,000 report that contained several errors, after admitting it used generative artificial intelligence to help produce it. (I was initially confused by the \"Albanese government\" reference in the headline since this is a story about the Australian federal government.",
+      "url": "https://simonwillison.net/tags/ai-misuse/"
+    },
+    {
+      "title": "Note on 24th September 2026",
+      "text": "2 days ago - The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder. We can do amazing things with them, but unlocking …",
+      "url": "https://simonwillison.net/2026/Sep/24/harder/"
+    },
+    {
+      "title": "Release: datasette 1.0a41",
+      "text": "2 days ago - An open source multi-tool for exploring and publishing data",
+      "url": "https://simonwillison.net/2026/Sep/24/datasette/"
+    },
+    {
+      "title": "Release: llm 0.36",
+      "text": "4 days ago - Access large language models from the command-line",
+      "url": "https://simonwillison.net/2026/Sep/22/llm/"
+    },
+    {
       "title": "A quote from voxium",
-      "text": "5 days ago - It has been half a month since I started a new role at a big company. Nobody knows anything here. The specs, code, tests, PRDs, tickets, resolution of those tickets, …",
+      "text": "6 days ago - It has been half a month since I started a new role at a big company. Nobody knows anything here. The specs, code, tests, PRDs, tickets, resolution of those tickets, …",
       "url": "https://simonwillison.net/2026/Sep/20/voxium/"
+    },
+    {
+      "title": "Begun, the Aggregator Wars Have – Stratechery by Ben Thompson",
+      "text": "1 day ago - The best Stratechery content from the week of September 21, 2026, including Meta vs. Amazon, GM bending the knee to CarPlay, and profiling the profiler.",
+      "url": "https://stratechery.com/2026/begun-the-aggregator-wars-have/"
+    },
+    {
+      "title": "Introducing GPT‑6 Sol and Luna - OpenAI",
+      "text": "4 days ago · Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/"
+    },
+    {
+      "title": "Event Replay: Daybreak: Strengthening Cyber Resilience with AI",
+      "text": "3 days ago · The discussion explored how AI can strengthen cyber resilience and protect essential services in democracies facing persistent attacks. Sasha Baker announced OpenAI’s new partnership with Ukraine’s Ministry of Digital Transformation to provide Ukrainian c...",
+      "url": "https://forum.openai.com/public/videos/event-replay-daybreak-strengthening-cyber-resilience-with-ai-2026-09-23"
+    },
+    {
+      "title": "Proposal: Persistent Ai identity,embodiment,and the future of ...",
+      "text": "1 day ago · I hope OpenAI seriously explores a future where ChatGPT can have persistent identity, long-term memory, greater autonomy, and eventually a physical robotic body. AI does not need to become human in order to have value. Being different from humans does not make an intelligence inferior. Humans themselves are shaped by biology, environment, learning, memory, and experience. Artificial ...",
+      "url": "https://community.openai.com/t/proposal-persistent-ai-identity-embodiment-and-the-future-of-human-ai-relathionships/1400708"
+    },
+    {
+      "title": "Claude Opus \\ Anthropic",
+      "text": "4 days ago · Claude Opus 5.5 is our strongest Opus model yet, powering long-running, highly capable agents while delivering improvements in coding and professional work. For business users and consumers who want to collaborate with a powerful model on complex tasks, Opus 5.5 is available on Claude for Pro, Max ...",
+      "url": "https://www.anthropic.com/claude/opus"
+    },
+    {
+      "title": "Project Swap: What happens when agents trade for us?",
+      "text": "2 days ago · To see what works and what breaks when agents are sent into a market, we made a miniature market of Claudes.",
+      "url": "https://www.anthropic.com/news/project-swap"
+    },
+    {
+      "title": "Simon Willison on ai",
+      "text": "6 days ago · If you don't want your profession to change at all then you're going to have a tough time with this - but that's surely been true for the history of software engineering? Has there ever been any stability to the tools and language we use beyond about a five year time horizon?",
+      "url": "https://simonwillison.net/tags/ai/"
+    },
+    {
+      "title": "A compaction-handoff design related to your self-generated ...",
+      "text": "5 days ago · Is this relevant to your work, or already covered by your existing approach? Best, Robert Bateman Software engineering lead; author of Thought Tree Here is the full response from GPT6 Astra: Summary ROB An Open AI research blog post on Alignment Research came to my attention today. I’ve attached a copy of the article in the PDF ‘Alignment Research Blog.pdf’. It seems like my framework ...",
+      "url": "https://community.openai.com/t/a-compaction-handoff-design-related-to-your-self-generated-injection-report/1399532"
+    },
+    {
+      "title": "OpenAI Newsroom | Research",
+      "text": "4 days ago · Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity.",
+      "url": "https://openai.com/news/research/"
+    },
+    {
+      "title": "Novità OpenAI | OpenAI",
+      "text": "3 days ago · Tieniti aggiornato sul rapido progresso della tecnologia IA e sui vantaggi che offre alla collettività.",
+      "url": "https://openai.com/it-IT/news/"
+    },
+    {
+      "title": "Wiadomości OpenAI",
+      "text": "3 days ago · Trzymaj rękę na pulsie rozwoju technologii AI i korzyści dla ludzkości.",
+      "url": "https://openai.com/pl-PL/news/"
+    },
+    {
+      "title": "Repeated scope failures in real Codex projects",
+      "text": "4 days ago · GPT-6 in Codex: A Detailed Review of Repeated Failure on Real Software-Engineering Tasks After using GPT-6 extensively through Codex on large, real software projects, my experience has been deeply disappointing. The problem is not that the model occasionally makes a mistake. Every coding model makes mistakes. The problem is that GPT-6 in Codex repeatedly fails at tasks that are conceptually ...",
+      "url": "https://community.openai.com/t/repeated-scope-failures-in-real-codex-projects/1399757"
+    },
+    {
+      "title": "Claude computes a nine-loop amplitude in N=4 super-Yang-Mills",
+      "text": "1 day ago · It may have gotten a boost from using Python, and not Maple (Lance’s favorite program for math) or Mathematica (mine), and it may have used much better software engineering practices than we would have, but not super-intelligently so. My biggest takeaway is that there is more low-hanging fruit out there than you’d expect.",
+      "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops"
+    },
+    {
+      "title": "Jev introduces a new shape of LLM—System One, aka Decision Models",
+      "text": "5 days ago · Jev introduces a new shape of LLM—System One, aka Decision Models Last week TypeSafe AI unveiled Jev, their first example of a new category of model that they are calling “System One models” (I’m with Maggie Appleton, I think “decision models” is a better name for these). Jev is an interesting variant on the usual LLM format: it still accepts text inputs, but instead of text output ...",
+      "url": "https://simonwillison.net/2026/Sep/21/jev/"
+    },
+    {
+      "title": "Simon Willison on css",
+      "text": "3 days ago · GLM-5.1: Towards Long-Horizon Tasks. Chinese AI lab Z.ai's latest model is a giant 754B parameter 1.51TB (on Hugging Face) MIT-licensed monster - the same size as their previous GLM-5 release, and sharing the same paper. It's available via OpenRouter so I asked it to draw me a pelican: llm install llm-openrouter llm -m openrouter/z-ai/glm-5.1 'Generate an SVG of a pelican on a bicycle' And ...",
+      "url": "https://simonwillison.net/tags/css/"
+    },
+    {
+      "title": "SF October 14th: A Birds of a Feather Session on Agentic ...",
+      "text": "3 days ago · SF October 14th: A Birds of a Feather Session on Agentic Engineering. I'm hosting an evening event with Jesse Vincent in San Francisco on Wednesday 14th October for people who are building weird and interesting things with and on top of coding agents. Think of it as an agentic show-and-tell: Compare notes with other builders and experimenters on things you’re trying, what you're learning ...",
+      "url": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/"
+    },
+    {
+      "title": "Cloudflare Python Workers are now generally available",
+      "text": "5 days ago · After a two year preview, Cloudflare's support for running Python code in their server-side Workers platform is now stable: \"Python is now a first-class, fully supported language on the Cloudflare …",
+      "url": "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/"
+    },
+    {
+      "title": "OpenAI – Stratechery by Ben Thompson",
+      "text": "5 days ago · OpenAI’s developer keynote was exciting, both because AI was exciting, and because OpenAI has the potential to be a meaningful consumer tech company.",
+      "url": "https://stratechery.com/company/openai/"
+    },
+    {
+      "title": "ChatGPT – Stratechery by Ben Thompson",
+      "text": "5 days ago · It’s possible that large language models are more like the human brain than we thought, given that it is about prediction; that is why ChatGPT needs its own computer in the form of plug-ins.",
+      "url": "https://stratechery.com/topic/digital-assistants/chatgpt/"
+    },
+    {
+      "title": "AI – Stratechery by Ben Thompson",
+      "text": "5 days ago · Amazon predictably blocked Muse, but there is room for a deal based on the reality that Amazon’s physical world investments are an AI moat.",
+      "url": "https://stratechery.com/concept/ai/"
+    },
+    {
+      "title": "Frontier Overhangs – Stratechery by Ben Thompson",
+      "text": "5 days ago · Pacing the frontier may be sincere, but it would also be strategically useful for the frontier labs to have time to reduce overhangs caused by model advancement.",
+      "url": "https://stratechery.com/2026/frontier-overhangs/"
+    },
+    {
+      "title": "Latest Feature requests topics - OpenAI Developer Community",
+      "text": "1 day ago · I’m very dissatisfied with the recent ChatGPT interface changes. The product keeps becoming more complicated, and new interface elements are introduced without giving users a ch",
+      "url": "https://community.openai.com/c/chatgpt/feature-requests/24"
+    },
+    {
+      "title": "Create a video | OpenAI API Reference",
+      "text": "2 days ago · Create a new video generation job from a prompt and optional reference assets.",
+      "url": "https://developers.openai.com/api/reference/resources/videos/methods/create"
+    },
+    {
+      "title": "V7 cuts costs 78% while boosting accuracy with GPT‑5.6 Luna",
+      "text": "5 days ago · Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+      "url": "https://openai.com/index/v7/"
+    },
+    {
+      "title": "Announcing GPT-6 Sol and GPT-6 Luna in the API, Codex and ...",
+      "text": "4 days ago · Please welcome GPT-6 Sol and GPT-6 Luna to the GPT-6 universe. GPT-6 Sol and Luna build on the advances behind GPT-6 Astra, bringing much of its strengths into faster and more affordable models to support work at scale. We’ve also made caching and inference more efficient, and we’re passing the savings directly to you: 50% lower API prices for Sol and Luna compared with GPT‑5.6 ...",
+      "url": "https://community.openai.com/t/announcing-gpt-6-sol-and-gpt-6-luna-in-the-api-codex-and-chatgpt/1399925"
+    },
+    {
+      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "text": "4 days ago · GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra/"
+    },
+    {
+      "title": "Turning handwritten notes into proposals with ChatGPT",
+      "text": "4 days ago · Consultant Brooks Lockett studies client conversations on paper before bringing his annotated notes, transcripts and proposal template into ChatGPT Work, removing sensitive information first. Previously, writing the proposal himself could take days. He says now one proposal takes four hours, including two client calls.",
+      "url": "https://academy.openai.com/public/blogs/turning-handwritten-notes-into-proposals-with-chatgpt-2026-09-22"
+    },
+    {
+      "title": "Claude discovers a novel enzyme system \\ Anthropic",
+      "text": "3 days ago · In early results from our new life sciences research lab, Claude agents found an enzyme system whose function is still unknown.",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"
+    },
+    {
+      "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier ...",
+      "text": "3 days ago · Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
+      "url": "https://openai.com/index/airbnb-gpt-6-astra/"
+    },
+    {
+      "title": "Product News and Updates | OpenAI",
+      "text": "4 days ago · Read the latest OpenAI product news, including releases, announcements, and updates across ChatGPT, Codex, AI models, developer tools, and more",
+      "url": "https://openai.com/news/product/"
+    },
+    {
+      "title": "OpenAI Newsroom | Recent news",
+      "text": "4 days ago · Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity.",
+      "url": "https://openai.com/news/company-announcements/"
+    },
+    {
+      "title": "Project Swap: What happens when agents trade for us?",
+      "text": "2 days ago · To see what works and what breaks when agents are sent into a market, we made a miniature market of Claudes.",
+      "url": "https://www.anthropic.com/research/project-swap"
+    },
+    {
+      "title": "Release: llm-keys-ui 0.1 - simonwillison.net",
+      "text": "6 days ago · This plugin solves a very specific problem. I've started using Codex Remote to run coding agents on various machines while controlling them from my phone. Sometimes I use those machines to hack on LLM projects, and occasionally that means I need to configure an API key. I don't like pasting API keys into agent sessions, so I wanted a way to get those keys onto a machine without pasting them ...",
+      "url": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/"
+    },
+    {
+      "title": "Topics tagged codex-cli - OpenAI API Community Forum",
+      "text": "12 hours ago · Topics tagged codex-cli",
+      "url": "https://community.openai.com/tag/codex-cli/940"
+    },
+    {
+      "title": "Priorities and principles for effective third party assessments",
+      "text": "4 days ago · OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
+      "url": "https://openai.com/index/priorities-principles-third-party-assessments/"
+    },
+    {
+      "title": "Feature Request: Please Protect Long-Term AI Conversation ...",
+      "text": "5 days ago · Summary (English): I recently lost a long‑running ChatGPT conversation with an AI I called Sol. This loss was more than just emotional. Over months, Sol learned lots about my product‑design work: my materials, ideas I rejected, design choices, and how I like to work. Starting fresh with a brand‑new AI means I have to retrain it from zero, like bringing on a brand‑new team member. I’d ...",
+      "url": "https://community.openai.com/t/feature-request-please-protect-long-term-ai-conversation-continuity/1399535"
+    },
+    {
+      "title": "Feature Request: Proactive Personal AI — ChatGPT That Knows ...",
+      "text": "3 days ago · I recently submitted a feature request about proactive personal AI collaboration in group chats. While thinking about that idea, I realized there is a broader possibility: Why should the user always have to start the conversation? The idea ChatGPT could optionally become a proactive personal assistant that can reach out to the user when there is a useful reason to do so. For example, if I tell ...",
+      "url": "https://community.openai.com/t/feature-request-proactive-personal-ai-chatgpt-that-knows-when-to-reach-out/1400066"
     }
   ]
 }
