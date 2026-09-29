@@ -1,29 +1,24 @@
 {
   "articles": [
     {
-      "title": "The Advisory Group on Mathematics and Artificial Intelligence",
-      "text": "161 points on Hacker News",
-      "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/"
-    },
-    {
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "text": "77 points on Hacker News",
-      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai/"
-    },
-    {
       "title": "Plan mode is dead",
-      "text": "581 points on Hacker News",
+      "text": "584 points on Hacker News",
       "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html"
     },
     {
       "title": "Japanese used bookstores see 5x sales surge as books are being bought by the ton",
-      "text": "93 points on Hacker News",
+      "text": "94 points on Hacker News",
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/japanese-used-bookstores-see-5x-sales-surge-as-books-are-being-bought-by-the-ton-one-50-ton-order-sent-to-the-us-for-ai-scanning-and-destruction-multitude-of-suspicious-bulk-buys-thought-to-end-up-in-foreign-ai-scan-and-shred-facilities"
     },
     {
-      "title": "Show HN: Training a model to identify AI web content from structure alone",
-      "text": "Hey HN! We’re Vincent and Jochen from Sitefire ( https:&#x2F;&#x2F;sitefire.ai ). We have been working together for years, with backgrounds in RL&#x2F;optimization at Stanford and software engineering from Technical University Munich (TUM). With Sitefire (YC W26), we help marketing teams get recommended by AI Search (ChatGPT, Google AI Overviews, AI Mode, Claude, etc.). Our software monitors prompts, sees which web pages get cited, and uses these insights to help marketing teams take action, e.g",
-      "url": "https://arxiv.org/abs/2609.15369"
+      "title": "Launch HN: Vespper (YC F24) – SOTA Docx MCP",
+      "text": "Hey HN! We&#x27;re Dudu and Topaz from Vespper ( https:&#x2F;&#x2F;vespper.com ). Vespper is an MCP that lets AI agents efficiently edit Word documents, powered by our fine-tuned model. It&#x27;s currently 3× faster, 2× cheaper and more accurate than the closest alternative. Check out an overview of how the product works here: https:&#x2F;&#x2F;youtu.be&#x2F;odKxsgPjzzw We came to work on this problem after spending a year building an AI document editor for pharma companies. Before that, Topaz(m",
+      "url": "https://www.vespper.com/blog/launching-vespper-docx-mcp"
+    },
+    {
+      "title": "Show HN: AgentRun: DSL to turn agents into workflows",
+      "text": "Hi HN, I just open sourced the DSL that our harness in grep.ai uses to turn repeatable parts of agent work into workflows. You can combine tool calls, code, Jev-powered system one decisions for things like routing and screening evidence, and agents when a step needs more investigation. Our harness uses the traces and retro notes agents leave behind when doing a job to figure out which parts can become a workflow. The idea is to make the work easier to understand and avoid paying for a full agent",
+      "url": "https://github.com/Parcha-ai/agentrun"
     },
     {
       "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
@@ -31,164 +26,24 @@
       "url": "https://github.com/devdotfast/whiteboard"
     },
     {
-      "title": "Simon Willison on ai-misuse",
-      "text": "Deloitte will provide a partial refund to the federal government over a $440,000 report that contained several errors, after admitting it used generative artificial intelligence to help produce it.",
-      "url": "https://simonwillison.net/tags/ai-misuse/"
-    },
-    {
       "title": "2026 in LLMs (so far)",
-      "text": "16 hours ago - In May, Pope Leo XIV released an encyclical letter on “safeguarding the human person in the time of artificial intelligence”.",
+      "text": "2 days ago - In May, Pope Leo XIV released an encyclical letter on “safeguarding the human person in the time of artificial intelligence”.",
       "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/"
     },
     {
       "title": "Begun, the Aggregator Wars Have – Stratechery by Ben Thompson",
-      "text": "3 days ago - The best Stratechery content from the week of September 21, 2026, including Meta vs. Amazon, GM bending the knee to CarPlay, and profiling the profiler.",
+      "text": "4 days ago - The best Stratechery content from the week of September 21, 2026, including Meta vs. Amazon, GM bending the knee to CarPlay, and profiling the profiler.",
       "url": "https://stratechery.com/2026/begun-the-aggregator-wars-have/"
     },
     {
       "title": "Apps, Agents, and Aggregation – Stratechery by Ben Thompson",
-      "text": "6 hours ago - Agents are the ultimate Aggregators; they reveal apps as a means, not an ends, and providing them is tech’s biggest prize.",
+      "text": "1 day ago - Agents are the ultimate Aggregators; they reveal apps as a means, not an ends, and providing them is tech’s biggest prize.",
       "url": "https://stratechery.com/2026/apps-agents-and-aggregation/"
     },
     {
-      "title": "Two years of OpenAI Academy",
-      "text": "5 days ago · Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
-      "url": "https://openai.com/index/two-years-of-openai-academy/"
-    },
-    {
-      "title": "Claude discovers a novel enzyme system \\ Anthropic",
-      "text": "5 days ago · In early results from our new life sciences research lab, Claude agents found an enzyme system whose function is still unknown.",
-      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"
-    },
-    {
-      "title": "Project Swap: What happens when agents trade for us?",
-      "text": "4 days ago · Adler, Steven et al., “Personhood Credentials: Artificial Intelligence and the Value of Privacy-preserving Tools to Distinguish Who is Real Online,” arXiv preprint arXiv:2408.07892, 2024.",
-      "url": "https://www.anthropic.com/research/project-swap"
-    },
-    {
-      "title": "Note on 24th September 2026 - simonwillison.net",
-      "text": "4 days ago · The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder. We can do amazing things with them, but unlocking their full potential requires extraordinary discipline and knowledge.",
-      "url": "https://simonwillison.net/2026/Sep/24/harder/"
-    },
-    {
-      "title": "Astra is terrible - anyone had bad reviews? - Community ...",
-      "text": "2 days ago · Anyone else have to prompt 10-30 times in order for Astra to be able to understand ? finding my self using 100-300$ a day multiple prompts to get it to understand a single thing. Terrible model , im going back to chinese models . deepseek , GLM is 100x better and 100x cheaper!!!",
-      "url": "https://community.openai.com/t/astra-is-terrible-anyone-had-bad-reviews/1401116"
-    },
-    {
-      "title": "Noticias de OpenAI",
-      "text": "5 days ago · No te pierdas las últimas novedades sobre los avances vertiginosos en la tecnología de IA y los beneficios que ofrece a la humanidad.",
-      "url": "https://openai.com/es-419/news/"
-    },
-    {
-      "title": "Claude computes a nine-loop amplitude in N=4 super-Yang-Mills",
-      "text": "3 days ago · It may have gotten a boost from using Python, and not Maple (Lance’s favorite program for math) or Mathematica (mine), and it may have used much better software engineering practices than we would have, but not super-intelligently so.",
-      "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops"
-    },
-    {
-      "title": "Releases - simonwillison.net",
-      "text": "4 days ago · Alec Garcia added support for OpenTelemetry to Datasette in this release. I've also refactored all of Datasette's modal dialogs to a single Web Component, which is now documented for other plugins to use.",
-      "url": "https://simonwillison.net/elsewhere/release/"
-    },
-    {
-      "title": "Simon Willison on css",
-      "text": "5 days ago · GLM-5.1: Towards Long-Horizon Tasks. Chinese AI lab Z.ai's latest model is a giant 754B parameter 1.51TB (on Hugging Face) MIT-licensed monster - the same size as their previous GLM-5 release, and sharing the same paper. It's available via OpenRouter so I asked it to draw me a pelican: llm install llm-openrouter llm -m openrouter/z-ai/glm-5.1 'Generate an SVG of a pelican on a bicycle' And ...",
-      "url": "https://simonwillison.net/tags/css/"
-    },
-    {
-      "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
-      "text": "6 days ago · Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war Yesterday was Grok 4.7 (pelicans) and MiMo v2.6 Flash/Pro (more pelicans). Today Anthropic released Claude Opus 5.5, and around an hour later OpenAI released GPT-6 Sol and GPT-6 Luna. It’s going to take a while to get a good read on all of these new models, but here are my impressions so far. GPT-6 Sol and Luna are half the price of ...",
-      "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/"
-    },
-    {
-      "title": "2026 – Stratechery by Ben Thompson",
-      "text": "5 days ago · The best Stratechery content from the week of September 21, 2026, including Meta vs. Amazon, GM bending the knee to CarPlay, and profiling the profiler.",
-      "url": "https://stratechery.com/2026/"
-    },
-    {
-      "title": "Activision – Stratechery by Ben Thompson",
-      "text": "4 days ago · OpenAI’s DevDay evolution mirrors the hype cycle; Microsoft’s Game Pass price raise is an admission of failure; and Verizon decides it doesn’t want to be under the thumb of SpaceX.",
-      "url": "https://stratechery.com/company/microsoft/activision/"
-    },
-    {
-      "title": "An Interview with Colossus EIC Jeremy Stern About Profiling ...",
-      "text": "4 days ago · An interview with Colossus EIC Jeremy Stern about profiling Mark Zuckerberg and other prominent tech figures.",
-      "url": "https://stratechery.com/2026/an-interview-with-colossus-eic-jeremy-stern-about-profiling-mark-zuckerberg/"
-    },
-    {
-      "title": "ChatGPT Business release notes - OpenAI Help Center",
-      "text": "5 days ago · Review the latest features and updates for the ChatGPT Business plan.",
-      "url": "https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes"
-    },
-    {
-      "title": "Harvey turns legal context into stronger drafts with GPT-6 ...",
-      "text": "5 days ago · Harvey helps law firms and in-house legal teams securely deploy AI across complex legal workflows, from litigation to mergers. Its customers use Harvey to turn vast amounts of information into complex legal documents. With GPT‑6 Astra, Harvey can bring more context into the drafting process and generate more structured outputs.",
-      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra/"
-    },
-    {
-      "title": "Announcing GPT-6 Sol and GPT-6 Luna in the API, Codex and ...",
-      "text": "6 days ago · Please welcome GPT-6 Sol and GPT-6 Luna to the GPT-6 universe. GPT-6 Sol and Luna build on the advances behind GPT-6 Astra, bringing much of its strengths into faster and more affordable models to support work at scale. We’ve also made caching and inference more efficient, and we’re passing the savings directly to you: 50% lower API prices for Sol and Luna compared with GPT‑5.6 ...",
-      "url": "https://community.openai.com/t/announcing-gpt-6-sol-and-gpt-6-luna-in-the-api-codex-and-chatgpt/1399925"
-    },
-    {
-      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "text": "3 days ago · With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
-      "url": "https://openai.com/index/proaction/"
-    },
-    {
-      "title": "Topics tagged image-generation",
-      "text": "16 hours ago · Topics tagged image-generation",
-      "url": "https://community.openai.com/tag/image-generation/42"
-    },
-    {
-      "title": "Opus 5.5 for Work | Webinars \\ Anthropic",
-      "text": "Claude Opus 5.5 is now available, and it’s our most capable Opus model for everyday work. It communicates more naturally and it costs about 40% less than Opus 5 on typical workloads billed by token, including usage credits. Join Anthropic's team for a look at what's changed and how to use Opus 5.5 ...",
-      "url": "https://www.anthropic.com/webinars/opus-5-5-for-work"
-    },
-    {
-      "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier ...",
-      "text": "5 days ago · This deep use of AI and machine learning across its marketplace helps the company better understand what guests are looking for, identify potentially fraudulent content or claims, help guests when travel plans change, and ensure hosts get insurance payouts faster and easier.",
-      "url": "https://openai.com/index/airbnb-gpt-6-astra/"
-    },
-    {
-      "title": "Release Notes - OpenAI",
-      "text": "4 days ago · OpenAI release notes for ChatGPT, API Platform, and Codex. Explore the latest features, updates, and improvements across OpenAI products.",
-      "url": "https://openai.com/products/release-notes/"
-    },
-    {
-      "title": "Feature Request: Folders / Parent Groups for ChatGPT Projects",
-      "text": "2 days ago · Machine Learning Deep Learning Cybersecurity I would like to group these Projects under a parent folder such as “University”, while keeping each course as its own independent Project. Ideally, the sidebar could support a structure like: University ├── Machine Learning ├── Deep Learning └── Cybersecurity Research",
-      "url": "https://community.openai.com/t/feature-request-folders-parent-groups-for-chatgpt-projects/1401039"
-    },
-    {
-      "title": "Simon Willison on coding-agents",
-      "text": "4 days ago · 252 posts tagged ‘coding-agents’. Systems where an LLM writes code which is then compiled, executed, tested or otherwise exercised by tools in a loop.",
-      "url": "https://simonwillison.net/tags/coding-agents/"
-    },
-    {
-      "title": "A continuous AI environment for home and work",
-      "text": "2 days ago · OpenAI could explore developer tools, a marketplace, and commercial terms with partners; that is a potential business model, not a requirement for the first version.",
-      "url": "https://community.openai.com/t/a-continuous-ai-environment-for-home-and-work/1400985"
-    },
-    {
-      "title": "ChatGPT interactive avatar - Feature requests - OpenAI ...",
-      "text": "1 day ago · Hello OpenAI Team, I would like to submit a product idea for ChatGPT. I believe ChatGPT could become much more interactive if users had the option to use an interactive avatar during Voice Mode. Instead of ChatGPT appearing primarily as text or a simple voice interface, the user could choose an avatar that visually represents ChatGPT during the conversation. For example: • When ChatGPT is ...",
-      "url": "https://community.openai.com/t/chatgpt-interactive-avatar/1401246"
-    },
-    {
-      "title": "ChatGPT interactive image - Feature requests - OpenAI ...",
-      "text": "1 day ago · Hello OpenAI Team, I would like to submit a product idea for ChatGPT. I believe ChatGPT could become much more interactive if users had the option to use an interactive avatar during Voice Mode. Instead of ChatGPT appearing primarily as text or a simple voice interface, the user could choose an avatar that visually represents ChatGPT during the conversation. For example: • When ChatGPT is ...",
-      "url": "https://community.openai.com/t/chatgpt-interactive-image/1401246"
-    },
-    {
-      "title": "Topics tagged chatgpt-feedback - OpenAI API Community Forum",
-      "text": "16 hours ago · Topics tagged chatgpt-feedback",
-      "url": "https://community.openai.com/tag/chatgpt-feedback/302"
-    },
-    {
-      "title": "Feature Request: Proactive Personal AI — ChatGPT That Knows ...",
-      "text": "5 days ago · If the OpenAI team finds this concept interesting, I would genuinely love to hear their thoughts or discuss the idea further. I would also be very happy to provide additional examples or help think through the product design. Thank you for considering it.",
-      "url": "https://community.openai.com/t/feature-request-proactive-personal-ai-chatgpt-that-knows-when-to-reach-out/1400066"
+      "title": "One More Note on Agents, Meta Connect, Meta Enterprise Platform – Stratechery by Ben Thompson",
+      "text": "5 hours ago - Meta has the chance to own the consumer agentic space; going for enterprise is a big mistake.",
+      "url": "https://stratechery.com/2026/one-more-note-on-agents-meta-connect-meta-enterprise-platform/"
     }
   ]
 }
