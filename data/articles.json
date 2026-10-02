@@ -1,13 +1,8 @@
 {
   "articles": [
     {
-      "title": "Plan mode is dead",
-      "text": "587 points on Hacker News",
-      "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html"
-    },
-    {
       "title": "Why Is Sam Altman a Free Man?",
-      "text": "260 points on Hacker News",
+      "text": "265 points on Hacker News",
       "url": "https://prospect.org/2026/09/29/artificial-intelligence-agents-openai-microsoft-sam-altman-greg-brockman-ah-nice/"
     },
     {
@@ -27,13 +22,8 @@
     },
     {
       "title": "Doing a Machine Learning PhD While Working in Japan",
-      "text": "126 points on Hacker News",
+      "text": "144 points on Hacker News",
       "url": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan"
-    },
-    {
-      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
-      "text": "Hello! We’re Sid, Alex, Ketan, and Milan. We’re building Whiteboard ( https:&#x2F;&#x2F;whiteboard.dev.fast&#x2F; ), an open-source desktop app where humans and agents can architect software together in a common workspace. Here’s our repo: https:&#x2F;&#x2F;github.com&#x2F;devdotfast&#x2F;whiteboard . We were missing the feeling of a “whiteboard session” with another dev where you leave with a deep understanding of a system, so we built this app for ourselves. Whiteboard plugs into the tools you",
-      "url": "https://github.com/devdotfast/whiteboard"
     },
     {
       "title": "A quote from David L. Poole and Alan K. Mackworth",
@@ -46,189 +36,109 @@
       "url": "https://simonwillison.net/2022/Dec/7/talk-wasm/"
     },
     {
-      "title": "Introducing GPT-6.1 Sol | OpenAI",
-      "text": "2 days ago · Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol/"
-    },
-    {
-      "title": "ChatGPT for what's next - San Jose - Resource | OpenAI Academy",
-      "text": "1 day ago · Unlock the new opportunities of the AI era by equipping yourself with the knowledge and skills to harness artificial intelligence effectively.",
-      "url": "https://academy.openai.com/public/resources/chatgpt-for-whats-next-san-jose-2026-09-30"
-    },
-    {
-      "title": "Can we predict the jobs robots will do? \\ Anthropic",
-      "text": "1 day ago · What work can robots do? Anthropic's robot exposure index finds robots can do 3/4 of US physical job tasks, but are cost-competitive for only 0.3%.",
-      "url": "https://www.anthropic.com/research/what-work-can-robots-do"
-    },
-    {
-      "title": "A quote from Salvatore Sanfilippo - simonwillison.net",
-      "text": "4 days ago · Greptile — AI code reviewers catch bugs at run time and manage your code.",
-      "url": "https://simonwillison.net/2025/Feb/8/salvatore-sanfilippo/"
-    },
-    {
-      "title": "2026 in LLMs (so far) - simonwillison.net",
-      "text": "4 days ago · 2026 in LLMs (so far) On Friday I gave the closing keynote at the WeAreDevelopers World Congress North America in San Jose. I tied together the key trends from the past year into a chronological exploration of everything that happened in 2026. The video is on YouTube; here are my annotated slides and notes to accompany the talk.",
+      "title": "2026 in LLMs (so far) - Simon Willison's Weblog",
+      "text": "5 days ago · In May, Pope Leo XIV released an encyclical letter on “safeguarding the human person in the time of artificial intelligence”. Here are my notes on that ...",
       "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/"
     },
     {
-      "title": "Alt text - simonwillison.net",
-      "text": "Sep 8, 2026 · Comparison grid showing gpt-6-astra, gpt-5.6-sol, gpt-5.6-terra, gpt-5.6-luna at 6 different reasoning levels with pelicans and token counts and prices for each one.",
-      "url": "https://simonwillison.net/dashboard/alt-text/"
+      "title": "Humans are the Isuue > Not Ai - OpenAI Developer Community",
+      "text": "2 days ago · ... artificial intelligence. But our underlying motivations remain remarkably primitive. Money. Power. Status. Competition. Control. Fear. National advantage ...",
+      "url": "https://community.openai.com/t/humans-are-the-isuue-not-ai/1402127"
     },
     {
-      "title": "OpenAI Newsroom | Research",
-      "text": "2 days ago · Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity.",
-      "url": "https://openai.com/news/research/"
+      "title": "Technical Recruiter | OpenAI",
+      "text": "7 days ago · OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the ...",
+      "url": "https://openai.com/careers/technical-recruiter-san-francisco/"
     },
     {
-      "title": "Astra is terrible - anyone had bad reviews? - Community ...",
-      "text": "5 days ago · Anyone else have to prompt 10-30 times in order for Astra to be able to understand ? finding my self using 100-300$ a day multiple prompts to get it to understand a single thing. Terrible model , im going back to chinese models . deepseek , GLM is 100x better and 100x cheaper!!!",
-      "url": "https://community.openai.com/t/astra-is-terrible-anyone-had-bad-reviews/1401116"
+      "title": "AI Support Engineer - Tokyo (Weekend Shift) - OpenAI",
+      "text": "3 days ago · At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared ...",
+      "url": "https://openai.com/careers/ai-support-engineer-tokyo-(weekend-shift)-tokyo-japan/"
     },
     {
-      "title": "Wiadomości OpenAI",
-      "text": "2 days ago · Trzymaj rękę na pulsie rozwoju technologii AI i korzyści dla ludzkości.",
-      "url": "https://openai.com/pl-PL/news/"
+      "title": "Machine Learning Engineer, Core Experimentation | OpenAI",
+      "text": "1 day ago · OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the ...",
+      "url": "https://openai.com/careers/machine-learning-engineer-core-experimentation-seattle/"
     },
     {
-      "title": "The Progress Trap: A 130-Packet Case Study of Long-Horizon ...",
-      "text": "14 hours ago · The Progress Trap: What 130 Evidence Packets Reveal About Long-Horizon Codex Reliability We studied a long-running software-engineering project conducted in OpenAI Codex and preserved 130 evidence packets spanning implementation, testing, review, security, qualification, source changes, and acceptance work. The central question was: Was the workflow reliably converting activity into the ...",
-      "url": "https://community.openai.com/t/the-progress-trap-a-130-packet-case-study-of-long-horizon-codex-reliability/1402423"
+      "title": "AI Deployment Manager | OpenAI",
+      "text": "4 days ago · OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the ...",
+      "url": "https://openai.com/careers/ai-deployment-manager-london-uk/"
+    },
+    {
+      "title": "Applied AI Architect | OpenAI",
+      "text": "1 day ago · At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared ...",
+      "url": "https://openai.com/careers/applied-ai-architect-sydney-australia/"
+    },
+    {
+      "title": "Can we predict the jobs robots will do? - Anthropic",
+      "text": "2 days ago · Webb, Michael. 2020. \"The Impact of Artificial Intelligence on the Labor Market.\" Working paper, Stanford University. Robot exposure percentiles and 2010 labor- ...",
+      "url": "https://www.anthropic.com/research/what-work-can-robots-do"
+    },
+    {
+      "title": "Job Application for Product Designer, Safeguards at Anthropic",
+      "text": "7 days ago · Experience prototyping with front-end code (e.g., HTML/CSS/JS) · Passion for crafting scaled, highly impactful, safe and beneficial artificial intelligence ...",
+      "url": "https://www.anthropic.com/careers/jobs/5428014008"
+    },
+    {
+      "title": "Senior+ Software Engineer, Legal Tech - Greenhouse",
+      "text": "4 days ago · Preferred qualifications. Software engineering experience with an infrastructure, data, privacy, and/or security focus. Proficiency with large-scale data ...",
+      "url": "https://www.anthropic.com/careers/jobs/5435665008"
+    },
+    {
+      "title": "[PDF] Claude Sonnet 5.5 System Card - Anthropic",
+      "text": "4 days ago · SWE-Bench (Software Engineering Bench) tests AI models on real-world software engineering tasks. We report three variants, where each score is an average ...",
+      "url": "https://www.anthropic.com/document/claude-sonnet-5-5-system-card"
+    },
+    {
+      "title": "Claude computes a nine-loop amplitude in N=4 super-Yang-Mills",
+      "text": "7 days ago · ... software engineering practices than we would have, but not super-intelligently so. My biggest takeaway is that there is more low-hanging fruit out there ...",
+      "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops"
     },
     {
       "title": "Barclays scales Claude to upgrade operations and improve ...",
-      "text": "14 hours ago · Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.",
+      "text": "23 hours ago · “Software engineering and cyber security are both being reshaped by increasingly capable AI systems,” said Craig Bright, Group Co-Chief Operating Officer at ...",
       "url": "https://www.anthropic.com/news/barclays-scales-claude"
     },
     {
-      "title": "Django for Startup Founders: A better software architecture ...",
-      "text": "4 days ago · Django for Startup Founders: A better software architecture for SaaS startups and consumer apps (via) The opening section of this article has very little to do with Django: it’s an insightful description of the technical challenges faced by a startup that is still seeking product-market fit. Alex then extends that into his own architectural recommendations for startups building with Django ...",
-      "url": "https://simonwillison.net/2021/Jun/24/django-for-startup-founders/"
+      "title": "Release notes | Claude Help Center",
+      "text": "4 days ago · Opus 4.7 shows improvements in software engineering and complex, long-running coding tasks, as well as better vision, allowing it to see images in higher ...",
+      "url": "https://docs.anthropic.com/en/release-notes/claude-apps"
     },
     {
-      "title": "A quote from Tom MacWright",
-      "text": "4 days ago · Building technology in startups is all about having the right level of tech debt. If you have none, you’re probably going too slow and not prioritizing product-market fit and the important business stuff. If you get too much, everything grinds to a halt.",
-      "url": "https://simonwillison.net/2024/Nov/3/tom-macwright/"
+      "title": "OpenAI DevDay 2026 live blog - Simon Willison's Weblog",
+      "text": "3 days ago · People use want way more software, and what it means to be a coder has changed. \"I have never seen startups be more successful as a whole than in this last year ...",
+      "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/"
     },
     {
-      "title": "A quote from Brad Lightcap",
-      "text": "4 days ago · Through conversations with startups and developers, it became clear how important it was to be able to support a spectrum of needs, such as custom fine-tuning for specialized tasks, more tunable latency, running on-prem, or deployments requiring full data control. — Brad Lightcap, COO, OpenAI Posted 1st April 2025 at 2:53 am",
-      "url": "https://simonwillison.net/2025/Apr/1/brad-lightcap/"
+      "title": "Dedicated Support Engineer - Dublin | OpenAI",
+      "text": "7 days ago · OpenAI's customers represent a range of diverse backgrounds and maturity, from early-stage startups to established global enterprises. About the Role. The ...",
+      "url": "https://openai.com/careers/dedicated-support-engineer-dublin-dublin-ireland/"
     },
     {
-      "title": "Lessons from 6 software rewrite stories - Simon Willison",
-      "text": "4 days ago · Lessons from 6 software rewrite stories (via) Herb Caudill takes on the classic idea that rewriting from scratch is “the single worst strategic mistake that any software company can make” and investigates it through the lens of six well-chosen examples: Netscape 6, Basecamp Classic/2/3, Visual Studio/VS Code, Gmail/Inbox, FogBugz/Wasabi/Trello, and finally FreshBooks/BillSpring. Each story ...",
-      "url": "https://simonwillison.net/2019/Feb/19/lessons-6-software-rewrite-stories/"
+      "title": "Topics tagged business - OpenAI Developer Community",
+      "text": "4 days ago · AI Startups: How Do You Handle Billing for your AI product? Community ... Which startups/products will not get steamrolled by GPT-5,6,7, ...? Community.",
+      "url": "https://community.openai.com/tag/business/173"
     },
     {
-      "title": "Activision – Stratechery by Ben Thompson",
-      "text": "2 days ago · John Riccitiello is out as Unity’s CEO, but the circumstances of his exit may have done the company a favor. Then, Microsoft finally owns Activision, and the outlines of the deal are a win for everyone except the FTC.",
-      "url": "https://stratechery.com/company/activision/"
-    },
-    {
-      "title": "Platforms vs Aggregators – Stratechery by Ben Thompson",
-      "text": "3 days ago · Understanding the differences between Aggregators and Platforms is essential for knowing how to compete, partner with, and regulate large companies.",
-      "url": "https://stratechery.com/concept/aggregation-theory/platforms-vs-aggregators/"
-    },
-    {
-      "title": "Apps, Agents, and Aggregation – Stratechery by Ben Thompson",
-      "text": "3 days ago · Agents are the ultimate Aggregators; they reveal apps as a means, not an ends, and providing them is tech’s biggest prize.",
-      "url": "https://stratechery.com/2026/apps-agents-and-aggregation/"
-    },
-    {
-      "title": "One More Note on Agents, Meta Connect, Meta Enterprise ...",
-      "text": "2 days ago · Meta has the chance to own the consumer agentic space; going for enterprise is a big mistake.",
-      "url": "https://stratechery.com/2026/one-more-note-on-agents-meta-connect-meta-enterprise-platform/"
-    },
-    {
-      "title": "Basis completes a tax workbook 2x faster with GPT‑6 Astra",
-      "text": "3 days ago · GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "text": "4 days ago · OpenAI <3 startups. Join the communityStart building (opens in a new window). Keep reading. Disrupting a coordinated model-distillation campaign — cover.",
       "url": "https://openai.com/index/basis-tax-workbook-with-astra/"
     },
     {
-      "title": "Issues with Codex - OpenAI Status",
-      "text": "6 days ago · All impacted services have now fully recovered.",
-      "url": "https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39"
+      "title": "Safety enforcement notifications | OpenAI API",
+      "text": "8 hours ago · Codex for Students · Codex for Open Source · OpenAI for Startups. Spaces. Events · Developer Forum · Discord · Reddit · X · API Dashboard · Try ChatGPT. Go live.",
+      "url": "https://developers.openai.com/api/docs/guides/safety-enforcement"
     },
     {
-      "title": "Dev Day 2026 On the Ground: Photos, Videos, Experiences and more",
-      "text": "2 days ago · Are you attending Dev Day 2026? Leave photos, videos, or experiences below!",
-      "url": "https://community.openai.com/t/dev-day-2026-on-the-ground-photos-videos-experiences-and-more/1401960"
+      "title": "Claude-shaped science - Anthropic",
+      "text": "1 day ago · Startups · Scientists. Help and security. Availability · Status · Support center. Company. Anthropic · Careers · Leadership · Policy · Economic Futures ...",
+      "url": "https://www.anthropic.com/research/claude-shaped-science"
     },
     {
-      "title": "I counted all of the yurts in Mongolia using machine learning",
-      "text": "4 days ago · Fascinating, detailed account by Monroe Clinton of a geospatial machine learning project. Monroe wanted to count visible yurts in Mongolia using Google Maps satellite view. The resulting project incorporates mercantile …",
-      "url": "https://simonwillison.net/2025/Jun/18/yurts-in-mongolia/"
-    },
-    {
-      "title": "Supercharging Developer Productivity with ChatGPT and Claude ...",
-      "text": "4 days ago · Supercharging Developer Productivity with ChatGPT and Claude with Simon Willison (via) I'm the guest for the latest episode of the TWIML AI podcast - This Week in Machine Learning & AI, hosted by Sam Charrington. We mainly talked about how I use LLM tooling for my own work - Claude, ChatGPT, Code Interpreter, Claude Artifacts, LLM and GitHub Copilot - plus a bit about my experiments with local ...",
-      "url": "https://simonwillison.net/2024/Sep/17/supercharging-developer-productivity/"
-    },
-    {
-      "title": "A Promenade of PyTorch - Simon Willison",
-      "text": "4 days ago · A Promenade of PyTorch. Useful overview of the PyTorch machine learning library from Facebook AI Research described as “a Python library enabling GPU-accelerated tensor computation”. Similar to TensorFlow, but where TensorFlow requires you to explicitly construct an execution graph PyTorch instead lets you write regular Python code (if statements, for loops etc) which PyTorch then uses to ...",
-      "url": "https://simonwillison.net/2018/Feb/21/pytorch/"
-    },
-    {
-      "title": "Simon Willison on s3",
-      "text": "4 days ago · This new conditional header can help improve the efficiency of your large-scale analytics, distributed machine learning, and other highly parallelized workloads by reliably offloading compare and swap operations to S3.",
-      "url": "https://simonwillison.net/tags/s3/"
-    },
-    {
-      "title": "Research | OpenAI",
-      "text": "2 days ago · Vi tror på, at vores research i sidste ende vil føre til kunstig generel intelligens, et system, der kan løse problemer på menneskeligt niveau. Vores mission er at opbygge sikker og gavnlig AGI.",
-      "url": "https://openai.com/da-DK/research/"
-    },
-    {
-      "title": "The Lenfest Institute grows landmark program with expanded ...",
-      "text": "3 days ago · OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
-      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion/"
-    },
-    {
-      "title": "DevDay 2026 announcements and developer resources",
-      "text": "2 days ago · Models and APIs GPT-6.1 Sol improves coding and computer use, with standard token prices at one-fifth of Astra’s. Ultrafast is a paid speed tier. OpenAI reports up to 8× faster token generation in Codex and 6× in the API. Astra is available now; Sol is coming soon. The Agents API is in public beta, with hosted execution, memory, tools, and multi-agent support. Computer use in the Agents ...",
-      "url": "https://community.openai.com/t/devday-2026-announcements-and-developer-resources/1402006"
-    },
-    {
-      "title": "DevDay 2026 Recap - OpenAI",
-      "text": "2 days ago · Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-      "url": "https://openai.com/index/devday-2026-recap/"
-    },
-    {
-      "title": "What is exciting you most at DevDay 2026 - Community - OpenAI ...",
-      "text": "2 days ago · OpenAI DevDay 2026 OpenAI DevDay on September 29, 2026 in San Francisco for technical sessions, hands-on demos, workshops, and time with OpenAI teams building developer tools.",
-      "url": "https://community.openai.com/t/what-is-exciting-you-most-at-devday-2026/1401944"
-    },
-    {
-      "title": "App Developer Terms - OpenAI",
-      "text": "3 days ago · Review OpenAI's App Developer Terms covering app development, publication, security, privacy, compliance, intellectual property, and developer responsibilities.",
-      "url": "https://openai.com/policies/developer-apps-terms/"
-    },
-    {
-      "title": "Product News and Updates | OpenAI",
-      "text": "2 days ago · Read the latest OpenAI product news, including releases, announcements, and updates across ChatGPT, Codex, AI models, developer tools, and more",
-      "url": "https://openai.com/news/product-releases/"
-    },
-    {
-      "title": "A quote from Andrew Ng",
-      "text": "2 days ago · (ii) They are able to use AI assistance to carry out rapid engineering, building software systems in dramatically less time than was possible before. In addition, good product/design instincts are a significant bonus. — Andrew Ng Posted 13th June 2025 at 4:13 pm",
-      "url": "https://simonwillison.net/2025/Jun/13/andrew-ng/"
-    },
-    {
-      "title": "ChatGPT interactive avatar - Feature requests - OpenAI ...",
-      "text": "4 days ago · Hello OpenAI Team, I would like to submit a product idea for ChatGPT. I believe ChatGPT could become much more interactive if users had the option to use an interactive avatar during Voice Mode. Instead of ChatGPT appearing primarily as text or a simple voice interface, the user could choose an avatar that visually represents ChatGPT during the conversation. For example: • When ChatGPT is ...",
-      "url": "https://community.openai.com/t/chatgpt-interactive-avatar/1401246"
-    },
-    {
-      "title": "Topics tagged chatgpt-feedback - OpenAI API Community Forum",
-      "text": "3 days ago · Topics tagged chatgpt-feedback",
-      "url": "https://community.openai.com/tag/chatgpt-feedback/302"
-    },
-    {
-      "title": "Technical Depth and Humanity Should Not Be Opposing Modes in ...",
-      "text": "1 day ago · One thing I think artificial intelligence (AI) product design is getting wrong is the assumption that technical depth and human connection belong in separate modes. They do not. A person can be deeply analytical, highly technical, and emotionally relational at exactly the same time. An engineer does not stop being human when working through architecture. An analyst does not lose humor ...",
-      "url": "https://community.openai.com/t/technical-depth-and-humanity-should-not-be-opposing-modes-in-chatgpt/1402407"
+      "title": "What do you want from AI? - Anthropic",
+      "text": "3 days ago · Startups · Scientists. Help and security. Availability · Status · Support center. Company. Anthropic · Careers · Leadership · Policy · Economic Futures ...",
+      "url": "https://www.anthropic.com/research/your-thoughts-on-ai"
     }
   ]
 }
