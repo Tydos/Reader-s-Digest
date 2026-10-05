@@ -2,7 +2,7 @@
   "articles": [
     {
       "title": "Understanding Frontier Artificial Intelligence",
-      "text": "49 points on Hacker News",
+      "text": "50 points on Hacker News",
       "url": "https://casp.ac/reports/intelligence-explosion"
     },
     {
@@ -21,6 +21,11 @@
       "url": "https://www.vespper.com/blog/launching-vespper-docx-mcp"
     },
     {
+      "title": "Claude partial outage",
+      "text": "171 points on Hacker News",
+      "url": "https://status.claude.com/incidents/4xvtc2gnq73l"
+    },
+    {
       "title": "Doing a Machine Learning PhD While Working in Japan",
       "text": "146 points on Hacker News",
       "url": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan"
@@ -29,176 +34,6 @@
       "title": "Simon Willison on ai-misuse",
       "text": "Ouch: Deloitte will provide a partial refund to the federal government over a $440,000 report that contained several errors, after admitting it used generative artificial intelligence to help produce it. (I was initially confused by the \"Albanese government\" reference in the headline since this is a story about the Australian federal government.",
       "url": "https://simonwillison.net/tags/ai-misuse/"
-    },
-    {
-      "title": "ChatGPT for what's next - San Jose - Resource | OpenAI Academy",
-      "text": "4 days ago · Unlock the new opportunities of the AI era by equipping yourself with the knowledge and skills to harness artificial intelligence effectively.",
-      "url": "https://academy.openai.com/public/resources/chatgpt-for-whats-next-san-jose-2026-09-30"
-    },
-    {
-      "title": "ChatGPT for nonprofits - Kansas City - Resource | OpenAI Academy",
-      "text": "5 days ago · Unlock the new opportunities of the AI era by equipping yourself with the knowledge and skills to harness artificial intelligence effectively.",
-      "url": "https://academy.openai.com/public/resources/chatgpt-for-nonprofits-kansas-city-2026-09-29"
-    },
-    {
-      "title": "Can we predict the jobs robots will do? \\ Anthropic",
-      "text": "4 days ago · Cockburn, Iain M., Rebecca Henderson, and Scott Stern, \"The Impact of Artificial Intelligence on Innovation: An Exploratory Analysis,\" in Ajay Agrawal, Joshua Gans, and Avi Goldfarb, eds.,",
-      "url": "https://www.anthropic.com/research/what-work-can-robots-do"
-    },
-    {
-      "title": "Anthropic’s Transparency Hub",
-      "text": "2 days ago · A look at Anthropic's key processes, programs, and practices for responsible AI development.",
-      "url": "https://www.anthropic.com/transparency/model-report"
-    },
-    {
-      "title": "Barclays scales Claude to upgrade operations and improve ...",
-      "text": "3 days ago · Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.",
-      "url": "https://www.anthropic.com/news/barclays-scales-claude"
-    },
-    {
-      "title": "Simon Willison on glm",
-      "text": "5 days ago · Today we’re releasing SWE-1.5, the latest in our family of models optimized for software engineering. It is a frontier-size model with hundreds of billions of parameters that achieves near-SOTA coding performance.",
-      "url": "https://simonwillison.net/tags/glm/"
-    },
-    {
-      "title": "Introducing GPT-6.1 Sol | OpenAI",
-      "text": "5 days ago · On DeepSWE v1.1, which evaluates complex software-engineering tasks in real codebases, GPT‑6.1 Sol matches GPT‑6 Astra at roughly one-fifth of the cost, while eclipsing GPT‑6 Sol’s best score by 6.4 percentage points at a lower reasoning effort and cost.",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol/"
-    },
-    {
-      "title": "OpenAI Newsroom | Research",
-      "text": "5 days ago · Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity.",
-      "url": "https://openai.com/news/research/"
-    },
-    {
-      "title": "OpenAI News | OpenAI",
-      "text": "3 days ago · Maradj naprakész az AI-technológia gyors fejlődésével és az emberiség számára kínált előnyökkel kapcsolatban.",
-      "url": "https://openai.com/hu-HU/news/"
-    },
-    {
-      "title": "Новости OpenAI | OpenAI",
-      "text": "3 days ago · Будьте в курсе стремительного развития технологий в области искусственного интеллекта и тех преимуществ, которые они предлагают человечеству.",
-      "url": "https://openai.com/ru-RU/news/"
-    },
-    {
-      "title": "Wiadomości OpenAI",
-      "text": "3 days ago · Trzymaj rękę na pulsie rozwoju technologii AI i korzyści dla ludzkości.",
-      "url": "https://openai.com/pl-PL/news/"
-    },
-    {
-      "title": "Claude Frontier Academy: $100M to train 10,000 engineers",
-      "text": "2 days ago · Claude Frontier Academy trains Frontier Deployed Engineers to the standard of Anthropic’s own — a $100 million commitment to train 10,000 by the end of 2027.",
-      "url": "https://www.anthropic.com/news/claude-frontier-academy"
-    },
-    {
-      "title": "A quote from Anthropic Frontier Red Team - simonwillison.net",
-      "text": "5 days ago · We evaluate several models on 100 tasks from the [internal Binary Exploitation benchmark] (selected at random), and find that GLM-5.3 develops full control flow hijacks in 4% of the trials; …",
-      "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/"
-    },
-    {
-      "title": "Ben Thompson – Stratechery by Ben Thompson",
-      "text": "5 days ago · The best Stratechery content from the week of September 28, 2026, including Meta’s focus, what OpenAI is doing, and Mao and NBA Media Day ...",
-      "url": "https://stratechery.com/author/stratechery/"
-    },
-    {
-      "title": "2026 – Stratechery by Ben Thompson",
-      "text": "4 days ago · The best Stratechery content from the week of September 28, 2026, including Meta’s focus, what OpenAI is doing, and Mao and NBA Media Day.",
-      "url": "https://stratechery.com/2026/"
-    },
-    {
-      "title": "OpenAI – Stratechery by Ben Thompson",
-      "text": "4 days ago · Incentives favor offense when it comes to agentic cybersecurity; it’s the same dynamic that will limit incumbents and fuel startups in the long run.",
-      "url": "https://stratechery.com/company/openai/"
-    },
-    {
-      "title": "Events – Stratechery by Ben Thompson",
-      "text": "5 days ago · An interview with Jason Del Rey about Amazon versus Meta, which is a continuation of the oldest battle in retail between Amazon and Walmart.",
-      "url": "https://stratechery.com/topic/events/"
-    },
-    {
-      "title": "A model guide for the GPT‑6 family - OpenAI",
-      "text": "2 days ago · Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
-      "url": "https://openai.com/index/practical-guide-building-gpt-6/"
-    },
-    {
-      "title": "DevDay 2026 Recap - OpenAI",
-      "text": "5 days ago · Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-      "url": "https://openai.com/index/devday-2026-recap/"
-    },
-    {
-      "title": "Issues with login, signup, and ads - OpenAI Status",
-      "text": "3 days ago · All impacted services have now fully recovered.",
-      "url": "https://status.openai.com/incidents/01M3WCKTAN41RZ01SBRRTY4AYM"
-    },
-    {
-      "title": "Elevated errors in ChatGPT Space Pages - OpenAI Status",
-      "text": "5 days ago · All impacted services have now fully recovered.",
-      "url": "https://status.openai.com/incidents/01M3R1T4FCR1337FBBYY9K2RPB"
-    },
-    {
-      "title": "DevDay 2026 announcements and developer resources",
-      "text": "5 days ago · Models and APIs GPT-6.1 Sol improves coding and computer use, with standard token prices at one-fifth of Astra’s. Ultrafast is a paid speed tier. OpenAI reports up to 8× faster token generation in Codex and 6× in the API. Astra is available now; Sol is coming soon. The Agents API is in public beta, with hosted execution, memory, tools, and multi-agent support. Computer use in the Agents ...",
-      "url": "https://community.openai.com/t/devday-2026-announcements-and-developer-resources/1402006"
-    },
-    {
-      "title": "What do you want from AI? \\ Anthropic",
-      "text": "5 days ago · Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-      "url": "https://www.anthropic.com/research/your-thoughts-on-ai"
-    },
-    {
-      "title": "Anthropic's coordinated vulnerability disclosure dashboard",
-      "text": "2 days ago · Anthropic's coordinated vulnerability disclosure dashboard Overview · Ledger · Archive · About Light Dark System Last updated 2026-10-02 19:47 UTC. Anthropic uses Claude models, including an early snapshot of Claude Mythos Preview, to find security vulnerabilities in open-source software. We partner with external security research firms to triage findings, validate them, and report human ...",
-      "url": "https://red.anthropic.com/2026/cvd/"
-    },
-    {
-      "title": "Claude-shaped science \\ Anthropic",
-      "text": "3 days ago · Matthew Schwartz describes what happened when he stopped fighting Claude and allowed Claude to find “Claude-shaped” problems. This led him to build BootLoops, a toolkit for exact calculations in quantitative science, which he has been applying across scientific fields alongside experts.",
-      "url": "https://www.anthropic.com/research/claude-shaped-science"
-    },
-    {
-      "title": "Let's build the GPT Tokenizer - Simon Willison",
-      "text": "Feb 20, 2024 · Let's build the GPT Tokenizer. When Andrej Karpathy left OpenAI last week a lot of people expressed hope that he would be increasing his output of educational YouTube videos. Here’s an in-depth 2 hour dive into how tokenizers work and how to build one from scratch, published this morning. The section towards the end, “revisiting and explaining the quirks of LLM tokenization”, helps ...",
-      "url": "https://simonwillison.net/2024/Feb/20/lets-build-the-gpt-tokenizer/"
-    },
-    {
-      "title": "Product News and Updates | OpenAI",
-      "text": "5 days ago · Read the latest OpenAI product news, including releases, announcements, and updates across ChatGPT, Codex, AI models, developer tools, and more",
-      "url": "https://openai.com/news/product/"
-    },
-    {
-      "title": "OpenAI DevDay 2026 live blog - simonwillison.net",
-      "text": "5 days ago · OpenAI DevDay 2026 live blog I’m at OpenAI DevDay today, in Fort Mason, San Francisco. Same as last year I’ll be live blogging the keynote and some other notes during the day. OpenAI gave me a free ticket and a seat in the “creator” area for the keynote. Show latest first",
-      "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/"
-    },
-    {
-      "title": "Simon Willison on coding-agents",
-      "text": "1 day ago · 254 posts tagged ‘coding-agents’. Systems where an LLM writes code which is then compiled, executed, tested or otherwise exercised by tools in a loop.",
-      "url": "https://simonwillison.net/tags/coding-agents/"
-    },
-    {
-      "title": "Introducing dots - OpenAI",
-      "text": "5 days ago · Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
-      "url": "https://openai.com/index/introducing-dots/"
-    },
-    {
-      "title": "What is exciting you most at DevDay 2026 - Community - OpenAI ...",
-      "text": "5 days ago · OpenAI DevDay 2026 OpenAI DevDay on September 29, 2026 in San Francisco for technical sessions, hands-on demos, workshops, and time with OpenAI teams building developer tools.",
-      "url": "https://community.openai.com/t/what-is-exciting-you-most-at-devday-2026/1401944"
-    },
-    {
-      "title": "A quote from Andrew Ng",
-      "text": "Jun 13, 2025 · (ii) They are able to use AI assistance to carry out rapid engineering, building software systems in dramatically less time than was possible before. In addition, good product/design instincts are a significant bonus. — Andrew Ng Posted 13th June 2025 at 4:13 pm",
-      "url": "https://simonwillison.net/2025/Jun/13/andrew-ng/"
-    },
-    {
-      "title": "ChatGPT Business release notes - OpenAI Help Center",
-      "text": "5 days ago · This first set includes Sales, Data Analytics, Product Design, Creative Production, Investment Banking, and Public Equity Investing. These plugins package role-specific skills, app integrations, starter prompts, and workflow guidance so teams can use Codex for sales prep, analytics and dashboards, prototypes, creative assets, and financial ...",
-      "url": "https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes"
-    },
-    {
-      "title": "Technical Depth and Humanity Should Not Be Opposing Modes in ...",
-      "text": "4 days ago · One thing I think artificial intelligence (AI) product design is getting wrong is the assumption that technical depth and human connection belong in separate modes. They do not. A person can be deeply analytical, highly technical, and emotionally relational at exactly the same time. An engineer does not stop being human when working through architecture. An analyst does not lose humor ...",
-      "url": "https://community.openai.com/t/technical-depth-and-humanity-should-not-be-opposing-modes-in-chatgpt/1402407"
     }
   ]
 }
