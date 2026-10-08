@@ -12,13 +12,138 @@
     },
     {
       "title": "Mathematics of Geothermal Energy",
-      "text": "72 points on Hacker News",
+      "text": "73 points on Hacker News",
       "url": "https://www.ebsco.com/research-starters/power-and-energy/mathematics-geothermal-energy/"
     },
     {
       "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
-      "text": "386 points on Hacker News",
+      "text": "426 points on Hacker News",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/"
+    },
+    {
+      "title": "Apple and a Hacker’s Future – Stratechery by Ben Thompson",
+      "text": "3 days ago · The products also serve as a showcase for Apple’s new Siri AI assistant, technology that the company spent years developing. The revamped Siri suffered numerous delays, and the smart-home devices should help spotlight Apple’s efforts to finally catch up in artificial intelligence.",
+      "url": "https://stratechery.com/2026/apple-and-a-hackers-future/"
+    },
+    {
+      "title": "OpenAI Research | Publication",
+      "text": "2 days ago · OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+      "url": "https://openai.com/research/index/publication/"
+    },
+    {
+      "title": "ChatGPT for nonprofits - Anchorage - Resource | OpenAI Academy",
+      "text": "2 days ago · Unlock the new opportunities of the AI era by equipping yourself with the knowledge and skills to harness artificial intelligence effectively.",
+      "url": "https://academy.openai.com/public/resources/chatgpt-for-nonprofits-anchorage-2026-10-06"
+    },
+    {
+      "title": "From answering AI to proactive knowledge intelligence",
+      "text": "4 days ago · Dear OpenAI team and members of the AI community, I would like to propose an idea that I believe could contribute to the future development of artificial intelligence. Today, AI is remarkably capable of answering questions and providing information.",
+      "url": "https://community.openai.com/t/from-answering-ai-to-proactive-knowledge-intelligence/1403307"
+    },
+    {
+      "title": "For OpenAI Research: Proposal for a Human-Centered Multi ...",
+      "text": "15 hours ago · I believe artificial intelligence should help humanity become more knowledgeable, capable, curious, and responsible over time. The proposal: A Human-Centered Adaptive Cognitive Cluster",
+      "url": "https://community.openai.com/t/for-openai-research-proposal-for-a-human-centered-multi-model-ai-architecture/1404246"
+    },
+    {
+      "title": "Simon Willison on coding-agents",
+      "text": "5 days ago · The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder. We can do amazing things with them, but unlocking their full potential requires extraordinary discipline and knowledge.",
+      "url": "https://feeds.simonwillison.net/tags/coding-agents/"
+    },
+    {
+      "title": "Topics tagged codex - OpenAI API Community Forum",
+      "text": "15 hours ago · Topics tagged codex",
+      "url": "https://community.openai.com/tag/codex/6"
+    },
+    {
+      "title": "OpenAI Newsroom | Research",
+      "text": "1 day ago · Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity.",
+      "url": "https://openai.com/news/research/"
+    },
+    {
+      "title": "OpenAI Haberleri | OpenAI",
+      "text": "1 day ago · Yapay zeka teknolojisindeki hızlı gelişmeleri ve bu teknolojinin insanlığa sunduğu faydaları yakından takip edin.",
+      "url": "https://openai.com/tr-TR/news/"
+    },
+    {
+      "title": "Topics tagged chatgpt - OpenAI API Community Forum",
+      "text": "15 hours ago · Topics tagged chatgpt",
+      "url": "https://community.openai.com/tag/chatgpt/16"
+    },
+    {
+      "title": "TILs - simonwillison.net",
+      "text": "2 days ago · I saw Parseable in a Show HN today - it's a new observability platform with both an open source (AGPL) Rust implementation (a single ~180MB binary), an \"Enterprise\" version with extra features and a cloud hosted option. Since Datasette 1.0a41 added OpenTelemetry support (thanks, Alex Garcia), I decided to fire up Codex and have it figure out how to run Parseable and feed it traces from ...",
+      "url": "https://simonwillison.net/elsewhere/til/"
+    },
+    {
+      "title": "We’re going to need default hard budget caps on pretty much ...",
+      "text": "5 days ago · Here’s a product feature which the world is going to need a whole lot more of over the coming months and years: default hard budget caps. I’m talking about the …",
+      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/"
+    },
+    {
+      "title": "2026 – Stratechery by Ben Thompson",
+      "text": "3 days ago · The best Stratechery content from the week of September 21, 2026, including Meta vs. Amazon, GM bending the knee to CarPlay, and profiling the profiler.",
+      "url": "https://stratechery.com/2026/"
+    },
+    {
+      "title": "Ben Thompson – Stratechery by Ben Thompson",
+      "text": "Oct 1, 2026 · The best Stratechery content from the week of September 28, 2026, including Meta’s focus, what OpenAI is doing, and Mao and NBA Media Day.",
+      "url": "https://stratechery.com/author/stratechery/"
+    },
+    {
+      "title": "Update to OpenAI API Rate Limits",
+      "text": "2 days ago · This is amazing, this was a huge blocker for startups launching on large scale, from my own experience, it’s always about squeezing within TPM limits. Great news!",
+      "url": "https://community.openai.com/t/update-to-openai-api-rate-limits/1403852"
+    },
+    {
+      "title": "Admin Console Intermittently Inaccessible - OpenAI Status",
+      "text": "3 days ago · All impacted services have now fully recovered.",
+      "url": "https://status.openai.com/incidents/01M46C47WYYD9NMZVGH83X3ZR1"
+    },
+    {
+      "title": "Elevated Work Mode errors - OpenAI Status",
+      "text": "3 days ago · All impacted services have now fully recovered. We are continuing to observe elevated Work Mode errors. Scheduled tasks may also be impacted.",
+      "url": "https://status.openai.com/incidents/01M45E0JFFJZ6EQ3BWYPW74R2Z"
+    },
+    {
+      "title": "Anthropic's coordinated vulnerability disclosure dashboard",
+      "text": "6 days ago · Anthropic's coordinated vulnerability disclosure dashboard Overview · Ledger · Archive · About Light Dark System Last updated 2026-10-02 19:47 UTC. Anthropic uses Claude models, including an early snapshot of Claude Mythos Preview, to find security vulnerabilities in open-source software. We partner with external security research firms to triage findings, validate them, and report human ...",
+      "url": "https://red.anthropic.com/2026/cvd/"
+    },
+    {
+      "title": "A quote from Ben Affleck",
+      "text": "1 day ago · I've always been kind of into computers since I was young. And then when film started to move from analog film to digital, I became more interested in that aspect of it. And the visual effects workflow for many years has included machine learning. So I can write like pretty shitty Python scripts and stuff like that because with convolutional neural networks, which were the sort of precursors ...",
+      "url": "https://simonwillison.net/2026/Oct/7/ben-affleck/"
+    },
+    {
+      "title": "Product News and Updates | OpenAI",
+      "text": "1 day ago · Read the latest OpenAI product news, including releases, announcements, and updates across ChatGPT, Codex, AI models, developer tools, and more",
+      "url": "https://openai.com/news/product-releases/"
+    },
+    {
+      "title": "ChatGPT Work mode intermittently failing across devices ...",
+      "text": "1 day ago · Chrome Developer Tools shows HTTP 500 on /backend-api/f/conversation .The response body contains only the same generic error message. I have already tested: PC browser, PC desktop app and phone. Different Wi-Fi networks and models. Existing conversations and brand-new Work chats. Retrying and waiting before trying again.",
+      "url": "https://community.openai.com/t/chatgpt-work-mode-intermittently-failing-across-devices-http-500/1404134"
+    },
+    {
+      "title": "Am I the unlucky one or is anyone else having the same issues?",
+      "text": "1 day ago · I’m starting to wonder whether I’ve somehow won the ChatGPT error-message lottery, or whether other people are experiencing this whole collection of problems together. 😅 Since 27 September, I’ve been having intermittent problems with ChatGPT web and Work. They sometimes improve for a while, but they never completely disappear and eventually come back again. So far, my collection ...",
+      "url": "https://community.openai.com/t/am-i-the-unlucky-one-or-is-anyone-else-having-the-same-issues/1404071"
+    },
+    {
+      "title": "[Retracted] Codex Windows app: model picker vs. what the ...",
+      "text": "3 days ago · {\"type\":\"additional_tools\",\"role\":\"developer\",\"tools\": [...]}, with no user message. That is the prewarm. “Frame B” (76,270 B) is the title-generation call. So both “contradictions” I reported were the same mistake: The x-codex-routing-hint: model=gpt-6-astra header belongs to my turn’s request, not to the frames I quoted.",
+      "url": "https://community.openai.com/t/retracted-codex-windows-app-model-picker-vs-what-the-client-actually-sends/1403393"
+    },
+    {
+      "title": "ChatGPT UX Feedback: Better Project Organization, Clearer ...",
+      "text": "3 days ago · Hi everyone, I use ChatGPT pretty extensively as an ongoing workspace, and I wanted to share a few UX and product-design issues that have been creating unnecessary friction for me. These aren’t catastrophic problems individually, but they add up quickly when ChatGPT becomes something you use every day for long-running projects, research, creative work, planning, and personal organization ...",
+      "url": "https://community.openai.com/t/chatgpt-ux-feedback-better-project-organization-clearer-reasoning-controls-and-in-chat-product-feedback/1403406"
+    },
+    {
+      "title": "Accessibility and Equality of Opportunity: Voice Usage Limits ...",
+      "text": "3 days ago · OpenAI itself describes Voice as supporting accessibility and hands-free use, so I think this is worth considering as a product-design question rather than simply a usage-limit question.",
+      "url": "https://community.openai.com/t/accessibility-and-equality-of-opportunity-voice-usage-limits-for-users-who-rely-on-voice/1403485"
     }
   ]
 }
