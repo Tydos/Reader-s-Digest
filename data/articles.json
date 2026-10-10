@@ -6,13 +6,8 @@
       "url": "https://breakingthenews.net/Article/Trump:-Anyone-using-term-%27Artificial-Intelligence%27-is-the-%27ENEMY%27/67261230"
     },
     {
-      "title": "Understanding Frontier Artificial Intelligence",
-      "text": "50 points on Hacker News",
-      "url": "https://casp.ac/reports/intelligence-explosion"
-    },
-    {
       "title": "Anthropic bans 'abusive or cruel behavior' towards Claude",
-      "text": "75 points on Hacker News",
+      "text": "88 points on Hacker News",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude"
     },
     {
@@ -22,7 +17,7 @@
     },
     {
       "title": "A Terminal Protocol for Program Status (OSC 7501)",
-      "text": "168 points on Hacker News",
+      "text": "183 points on Hacker News",
       "url": "https://mitchellh.com/writing/program-status-osc7501"
     },
     {
@@ -31,19 +26,179 @@
       "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/"
     },
     {
-      "title": "Mathematics of Geothermal Energy",
-      "text": "74 points on Hacker News",
-      "url": "https://www.ebsco.com/research-starters/power-and-energy/mathematics-geothermal-energy/"
-    },
-    {
       "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
-      "text": "434 points on Hacker News",
+      "text": "435 points on Hacker News",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/"
     },
     {
       "title": "OTel-Native by Design – Building Products That Export to Any Observability Stack",
-      "text": "59 points on Hacker News",
+      "text": "61 points on Hacker News",
       "url": "https://opentelemetry.io/blog/2026/otel-native-by-design/"
+    },
+    {
+      "title": "Simon Willison on ai",
+      "text": "Sep 21, 2026 · 2,274 posts tagged ‘ai’. \"AI is whatever hasn't been done yet\"—Larry Tesler",
+      "url": "https://simonwillison.net/tags/ai/"
+    },
+    {
+      "title": "Apple and a Hacker’s Future – Stratechery by Ben Thompson",
+      "text": "5 days ago · The products also serve as a showcase for Apple’s new Siri AI assistant, technology that the company spent years developing. The revamped Siri suffered numerous delays, and the smart-home devices should help spotlight Apple’s efforts to finally catch up in artificial intelligence.",
+      "url": "https://stratechery.com/2026/apple-and-a-hackers-future/"
+    },
+    {
+      "title": "OpenAI Research | Publication",
+      "text": "4 days ago · OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+      "url": "https://openai.com/research/index/publication/"
+    },
+    {
+      "title": "From answering AI to proactive knowledge intelligence",
+      "text": "6 days ago · Dear OpenAI team and members of the AI community, I would like to propose an idea that I believe could contribute to the future development of artificial intelligence. Today, AI is remarkably capable of answering questions and providing information.",
+      "url": "https://community.openai.com/t/from-answering-ai-to-proactive-knowledge-intelligence/1403307"
+    },
+    {
+      "title": "ChatGPT for nonprofits - Anchorage - Resource | OpenAI Academy",
+      "text": "4 days ago · Unlock the new opportunities of the AI era by equipping yourself with the knowledge and skills to harness artificial intelligence effectively.",
+      "url": "https://academy.openai.com/public/resources/chatgpt-for-nonprofits-anchorage-2026-10-06"
+    },
+    {
+      "title": "Exploring Cognitive Flow Intelligence for more efficient ...",
+      "text": "14 hours ago · Cognitive Flow Intelligence (CFI) — Improving Human–AI Interaction Efficiency Hi everyone, My name is Timothy Anderson, founder of OC Labs in Australia. I’ve been exploring a concept called Cognitive Flow Intelligence (CFI), which aims to improve how humans and artificial intelligence communicate, interpret information and work together. I’m not claiming to have invented anything new ...",
+      "url": "https://community.openai.com/t/exploring-cognitive-flow-intelligence-for-more-efficient-human-ai-interaction/1405054"
+    },
+    {
+      "title": "Topics tagged codex - OpenAI API Community Forum",
+      "text": "14 hours ago · Topics tagged codex",
+      "url": "https://community.openai.com/tag/codex/6"
+    },
+    {
+      "title": "OpenAI Newsroom | Research",
+      "text": "3 days ago · Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity.",
+      "url": "https://openai.com/news/research/"
+    },
+    {
+      "title": "OpenAI Haberleri | OpenAI",
+      "text": "3 days ago · Yapay zeka teknolojisindeki hızlı gelişmeleri ve bu teknolojinin insanlığa sunduğu faydaları yakından takip edin.",
+      "url": "https://openai.com/tr-TR/news/"
+    },
+    {
+      "title": "OpenAI-onderzoek | OpenAI",
+      "text": "4 days ago · We zijn ervan overtuigd dat ons onderzoek uiteindelijk zal leiden tot kunstmatige algemene intelligentie (AGI), een systeem dat even goed is in het oplossen van problemen als mensen. Het is onze missie om veilige en waardevolle AGI te bouwen die de mensheid ten goede komt.",
+      "url": "https://openai.com/nl-NL/research/index/"
+    },
+    {
+      "title": "TILs - simonwillison.net",
+      "text": "4 days ago · I saw Parseable in a Show HN today - it's a new observability platform with both an open source (AGPL) Rust implementation (a single ~180MB binary), an \"Enterprise\" version with extra features and a cloud hosted option. Since Datasette 1.0a41 added OpenTelemetry support (thanks, Alex Garcia), I decided to fire up Codex and have it figure out how to run Parseable and feed it traces from ...",
+      "url": "https://simonwillison.net/elsewhere/til/"
+    },
+    {
+      "title": "2026 – Stratechery by Ben Thompson",
+      "text": "3 days ago · The best Stratechery content from the week of October 5, 2026, including drifting apart from Apple, Facebook complications, and the delightful absurdity of U.S.-China dynamics.",
+      "url": "https://stratechery.com/2026/"
+    },
+    {
+      "title": "Game Decompilation, Is This Legal?, A Well-Trodden Path",
+      "text": "4 days ago · Games are being decompiled, but the real risk to gaming is new games and increased personalization.",
+      "url": "https://stratechery.com/2026/game-decompilation-is-this-legal-a-well-trodden-path/"
+    },
+    {
+      "title": "AI – Stratechery by Ben Thompson",
+      "text": "5 days ago · I was happy for years in Apple’s walled garden; with AI, however, their protections feel like limitations.",
+      "url": "https://stratechery.com/concept/ai/"
+    },
+    {
+      "title": "An Interview with Katie Harbath About Disrupting Politics at ...",
+      "text": "2 days ago · An interview with former Facebook Head of Global Elections Katie Harbath about her new book Disrupting Politics, and how things change for the company in the 2010s.",
+      "url": "https://stratechery.com/2026/an-interview-with-katie-harbath-about-disrupting-politics-at-facebook/"
+    },
+    {
+      "title": "Apple and LG, The House For Everyone Else, Agent Standards ...",
+      "text": "3 days ago · Apple is taking a smarter approach to the home than I expected, leaning into integration (with partners); then, what Amazon should do about agents.",
+      "url": "https://stratechery.com/2026/apple-and-lg-the-house-for-everyone-else-agent-standards-and-amazon/"
+    },
+    {
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "text": "2 days ago · With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+      "url": "https://openai.com/index/pollo-ai/"
+    },
+    {
+      "title": "28 days of Shipping at OpenAI - Codex - OpenAI Developer ...",
+      "text": "4 days ago · Tibo announced 28 days of shipping: This post keeps track of them all! Day Ship Announcement Details Source 1 1 Default GPT-6 Astra and GPT-6.1 Sol speeds increased by approximately 50%, reaching 50 rather than 30 tokens per second across subscription products and partners using Sign in With ChatGPT, with no user changes required. Details X post 2 2.1 Auto-review is free for users signed in ...",
+      "url": "https://community.openai.com/t/28-days-of-shipping-at-openai/1403897"
+    },
+    {
+      "title": "Dot in Codex may fail to create new threads - OpenAI Status",
+      "text": "3 days ago · All impacted services have now fully recovered.",
+      "url": "https://status.openai.com/incidents/01M4BK9J2M83R4SSC71D9FXW45"
+    },
+    {
+      "title": "GPT‑6 and Intelligent UI for everyone: Day 3 of 28 days of ...",
+      "text": "5 days ago · It looks like the OpenAI team decided that the flood of DevDay announcements was not enough. 😄 Starting today, there will be one clear improvement each day for most of all Codex or Work users. On days without one, everyone gets a full reset instead. We’ll keep this topic updated each day. Click on any announcement to jump straight to the relevant post. Day 1: GPT-6-Astra and GPT-6.1-Sol ...",
+      "url": "https://community.openai.com/t/gpt-6-and-intelligent-ui-for-everyone-day-3-of-28-days-of-quality-of-life-improvements-and-or-a-full-reset/1403525"
+    },
+    {
+      "title": "LegalOn halves Codex costs while maintaining development ...",
+      "text": "2 days ago · LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+      "url": "https://openai.com/index/legalon-halves-codex-costs/"
+    },
+    {
+      "title": "Expanding the Cyber Verification Program \\ Anthropic",
+      "text": "4 days ago · We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
+      "url": "https://www.anthropic.com/news/cyber-verification-program"
+    },
+    {
+      "title": "A quote from Ben Affleck",
+      "text": "3 days ago · I've always been kind of into computers since I was young. And then when film started to move from analog film to digital, I became more interested in that aspect of it. And the visual effects workflow for many years has included machine learning.",
+      "url": "https://simonwillison.net/2026/Oct/7/ben-affleck/"
+    },
+    {
+      "title": "Simon Willison on generative-ai",
+      "text": "14 hours ago · Random 2,016 posts tagged “generative-ai” Machine learning systems that can generate new content: text, images, audio, video and more.",
+      "url": "https://simonwillison.net/tags/generative-ai/"
+    },
+    {
+      "title": "Sharing AI progress in mathematics | OpenAI",
+      "text": "4 days ago · OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/"
+    },
+    {
+      "title": "Product News and Updates | OpenAI",
+      "text": "3 days ago · Read the latest OpenAI product news, including releases, announcements, and updates across ChatGPT, Codex, AI models, developer tools, and more",
+      "url": "https://openai.com/news/product/"
+    },
+    {
+      "title": "Using Claude Science to produce the first complete map of the ...",
+      "text": "2 days ago · Here, Brice Ménard, an astrophysicist at Johns Hopkins University and a researcher at Anthropic, explains how he worked with Claude Science to produce the first complete map of the sky in UV light. The map will be a valuable educational tool, allowing students to see in detail the rich structure of ...",
+      "url": "https://www.anthropic.com/research/the-missing-map-of-the-sky"
+    },
+    {
+      "title": "Product News and Updates | OpenAI",
+      "text": "3 days ago · Read the latest OpenAI product news, including releases, announcements, and updates across ChatGPT, Codex, AI models, developer tools, and more",
+      "url": "https://openai.com/news/product-releases/"
+    },
+    {
+      "title": "Release Notes - OpenAI",
+      "text": "2 days ago · OpenAI release notes for ChatGPT, API Platform, and Codex. Explore the latest features, updates, and improvements across OpenAI products.",
+      "url": "https://openai.com/products/release-notes/"
+    },
+    {
+      "title": "Handle Multiple Requests in the Same ChatGPT Conversation",
+      "text": "2 days ago · OpenAI’s developer tools already provide ways to run multiple processes in parallel. Other software also offers related features that run separate tasks and return results within the same chat.",
+      "url": "https://community.openai.com/t/handle-multiple-requests-in-the-same-chatgpt-conversation/1404375"
+    },
+    {
+      "title": "Topics tagged chatgpt-feedback - OpenAI API Community Forum",
+      "text": "14 hours ago · Topics tagged chatgpt-feedback",
+      "url": "https://community.openai.com/tag/chatgpt-feedback/302"
+    },
+    {
+      "title": "Accessibility and Equality of Opportunity: Voice Usage Limits ...",
+      "text": "5 days ago · OpenAI itself describes Voice as supporting accessibility and hands-free use, so I think this is worth considering as a product-design question rather than simply a usage-limit question.",
+      "url": "https://community.openai.com/t/accessibility-and-equality-of-opportunity-voice-usage-limits-for-users-who-rely-on-voice/1403485"
+    },
+    {
+      "title": "Feature Request: A Stronger Reasoning Experience in ChatGPT ...",
+      "text": "1 day ago · Subject: Please consider a reasoning-focused ChatGPT plan for users who primarily want deep conversations, not coding or task execution. Hello OpenAI team, I’d like to share a product suggestion based on my everyday experience with ChatGPT. I believe there is a group of users whose primary need is neither casual chatting nor coding and agent-based task execution. Instead, they want to use ...",
+      "url": "https://community.openai.com/t/feature-request-a-stronger-reasoning-experience-in-chatgpt-go-without-requiring-codex/1404642"
     }
   ]
 }
