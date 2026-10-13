@@ -2,8 +2,13 @@
   "articles": [
     {
       "title": "Trump says anyone who uses the phrase \"artificial intelligence\" is \"the enemy\"",
-      "text": "54 points on Hacker News",
+      "text": "55 points on Hacker News",
       "url": "https://breakingthenews.net/Article/Trump:-Anyone-using-term-%27Artificial-Intelligence%27-is-the-%27ENEMY%27/67261230"
+    },
+    {
+      "title": "Character.ai Files for Bankruptcy",
+      "text": "138 points on Hacker News",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney"
     },
     {
       "title": "Anthropic bans 'abusive or cruel behavior' towards Claude",
@@ -17,8 +22,13 @@
     },
     {
       "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-      "text": "176 points on Hacker News",
+      "text": "178 points on Hacker News",
       "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a"
+    },
+    {
+      "title": "Show HN: Opus 5.5 made a fully featured Figma clone in 3 hours / 8 prompts",
+      "text": "I think a chasm has been crossed. Opus 5.5 few shotted a fully working Figma for me. In the past year I have been trying to benchmark vibe coded apps and see how good they get and this week it did it with very very little guidance from me. I basically just told it reach feature parity. Prior to this vibe coded apps would resemble the real software, this is not a resemblance it&#x27;s the real thing. As a casual Figma user in the past, I can&#x27;t really see a difference. And if there is one you",
+      "url": "https://www.mana.space/home/rZfbotNWAXegQypmpkzaAPFC6Mp1/Apps/Figma%20Next%20Launch"
     },
     {
       "title": "A Terminal Protocol for Program Status (OSC 7501)",
@@ -32,12 +42,17 @@
     },
     {
       "title": "3rd Yandex Cloud Data Center Was Hit",
-      "text": "609 points on Hacker News",
+      "text": "633 points on Hacker News",
       "url": "https://status.yandex.cloud/en/incidents/2136"
     },
     {
+      "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
+      "text": "132 points on Hacker News",
+      "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud"
+    },
+    {
       "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
-      "text": "437 points on Hacker News",
+      "text": "438 points on Hacker News",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/"
     },
     {
@@ -46,24 +61,264 @@
       "url": "https://opentelemetry.io/blog/2026/otel-native-by-design/"
     },
     {
-      "title": "talk.wasm - Simon Willison",
-      "text": "talk.wasm (via) \"Talk with an Artificial Intelligence in your browser\". Absolutely stunning demo which loads the Whisper speech recognition model (75MB) and a GPT-2 model (240MB) and executes them both in your browser via WebAssembly, then uses the Web Speech API to talk back to you. The result is a full speak-with-an-AI interface running entirely client-side. GPT-2 sadly mostly generates ...",
-      "url": "https://simonwillison.net/2022/Dec/7/talk-wasm/"
+      "title": "Alt text - simonwillison.net",
+      "text": "15 hours ago · Simon Willison’s Weblog Alt text Alt text for all of my images Owned by simonw, visibility: Public",
+      "url": "https://simonwillison.net/dashboard/alt-text/"
     },
     {
       "title": "Simon Willison on speech-to-text",
-      "text": "talk.wasm (via) \"Talk with an Artificial Intelligence in your browser\". Absolutely stunning demo which loads the Whisper speech recognition model (75MB) and a GPT-2 model (240MB) and executes them both in your browser via WebAssembly, then uses the Web Speech API to talk back to you.",
+      "text": "4 days ago · talk.wasm (via) “Talk with an Artificial Intelligence in your browser”. Absolutely stunning demo which loads the Whisper speech recognition model (75MB) and a GPT-2 model (240MB) and executes them both in your browser via WebAssembly, then uses the Web Speech API to talk back to you.",
       "url": "https://simonwillison.net/tags/speech-to-text/"
     },
     {
-      "title": "Django for Startup Founders: A better software architecture for SaaS ...",
-      "text": "Django for Startup Founders: A better software architecture for SaaS startups and consumer apps (via) The opening section of this article has very little to do with Django: it's an insightful description of the technical challenges faced by a startup that is still seeking product-market fit. Alex then extends that into his own architectural recommendations for startups building with Django ...",
-      "url": "https://simonwillison.net/2021/Jun/24/django-for-startup-founders/"
+      "title": "Simon Willison on ai",
+      "text": "3 days ago · 2,275 posts tagged ‘ai’. \"AI is whatever hasn't been done yet\"—Larry Tesler",
+      "url": "https://simonwillison.net/tags/ai/"
     },
     {
-      "title": "A quote from Tom MacWright",
-      "text": "Building technology in startups is all about having the right level of tech debt. If you have none, you're probably going too slow and not prioritizing product-market fit and the important business stuff. If you get too much, everything grinds to a halt. Plus, tech debt is a \"know it when you see it\" kind of thing, and I know that my definition of \"a bunch of tech debt\" is, to other ...",
-      "url": "https://simonwillison.net/2024/Nov/3/tom-macwright/"
+      "title": "Exploring Cognitive Flow Intelligence for more efficient ...",
+      "text": "3 days ago · I’ve been exploring a concept called Cognitive Flow Intelligence (CFI), which aims to improve how humans and artificial intelligence communicate, interpret information and work together.",
+      "url": "https://community.openai.com/t/exploring-cognitive-flow-intelligence-for-more-efficient-human-ai-interaction/1405054"
+    },
+    {
+      "title": "COGNITIVE FLOW INTELLIGENCE - API - OpenAI Developer Community",
+      "text": "3 days ago · I’ve been exploring a concept called Cognitive Flow Intelligence (CFI), which aims to improve how humans and artificial intelligence communicate, interpret information and work together.",
+      "url": "https://community.openai.com/t/cognitive-flow-intelligence/1405046"
+    },
+    {
+      "title": "For OpenAI Research: Proposal for a Human-Centered Multi ...",
+      "text": "5 days ago · I believe artificial intelligence should help humanity become more knowledgeable, capable, curious, and responsible over time. The proposal: A Human-Centered Adaptive Cognitive Cluster",
+      "url": "https://community.openai.com/t/for-openai-research-proposal-for-a-human-centered-multi-model-ai-architecture/1404246"
+    },
+    {
+      "title": "HAMZA AI topic for open ai community - ChatGPT - OpenAI ...",
+      "text": "4 days ago · My main goal is to bring artificial intelligence beyond phones and computers and into people’s everyday lives in the form of a real, lovable robot. These robots should help people learn, solve problems, explore different options, and make informed decisions without taking away their freedom of choice or forcing them to do anything.",
+      "url": "https://community.openai.com/t/hamza-ai-topic-for-open-ai-community/1404865"
+    },
+    {
+      "title": "Idea for a new Open Ai app - Feature Requests - OpenAI ...",
+      "text": "5 days ago · I’m sharing this idea freely as a contribution to OpenAI’s future development. I’m not requesting compensation or expecting anything in return. I simply hope the concept might inspire something useful for OpenAI and its users. Thank you for your time and for your work advancing artificial intelligence.",
+      "url": "https://community.openai.com/t/idea-for-a-new-open-ai-app/1404215"
+    },
+    {
+      "title": "A Win-Win Model for AI-Led Industrial Evolution - Use cases ...",
+      "text": "2 days ago · This essay is a humble architectural proposal for the future of computing stacks—a blueprint for breaking the bottlenecks that currently slow down Artificial Intelligence at the hardware level.",
+      "url": "https://community.openai.com/t/a-win-win-model-for-ai-led-industrial-evolution/1405192"
+    },
+    {
+      "title": "Introducing the Anthropic Cyber Mission \\ Anthropic",
+      "text": "5 days ago · Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+      "url": "https://www.anthropic.com/news/anthropic-cyber-mission"
+    },
+    {
+      "title": "2026 Usage Policy update \\ Anthropic",
+      "text": "5 days ago · We’re publishing a new version of our Usage Policy. In this post, we summarize the changes we’ve made.",
+      "url": "https://www.anthropic.com/news/2026-usage-policy-update"
+    },
+    {
+      "title": "Amazon’s Away Teams laid bare: How AWS's hivemind of ...",
+      "text": "15 hours ago · Amazon’s Away Teams laid bare: How AWS's hivemind of engineers develop and maintain their internal tech (via) Some interesting insights into how Amazon structure their engineering organization to maximize team productivity in a service-oriented environment. Two things that stood out to me: each service is owned by a “home team”, but sometimes features that are needed by other teams can ...",
+      "url": "https://simonwillison.net/2019/May/14/amazons-away-teams/"
+    },
+    {
+      "title": "Simon Willison on careers",
+      "text": "5 days ago · Arvind Narayanan and Sayash Kappor take on the question of AI job losses through the lens of a profession that is uniquely suited to AI disruption - software engineering.",
+      "url": "https://simonwillison.net/tags/careers/"
+    },
+    {
+      "title": "Simon Willison on coding-agents",
+      "text": "4 days ago · The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder. We can do amazing things with them, but unlocking their full potential requires extraordinary discipline and knowledge.",
+      "url": "https://simonwillison.net/tags/coding-agents/"
+    },
+    {
+      "title": "What if AI could manage an entire software engineering team ...",
+      "text": "15 hours ago · What if AI could manage an entire software engineering team, including reviewing its own work with a competing AI? This is no longer theoretical. I’m doing it right now. I recorded a live demonstration of Claude Opus 5.5 working alongside OpenAI’s GPT-6.1 Sol to build a large-scale, multi-role application for a client. And here’s the interesting part: I’m not manually coordinating ...",
+      "url": "https://community.openai.com/t/what-if-ai-could-manage-an-entire-software-engineering-team-including-reviewing-its-own-work-with-a-competing-ai/1405851"
+    },
+    {
+      "title": "Topics tagged codex - OpenAI API Community Forum",
+      "text": "Topics tagged codex",
+      "url": "https://community.openai.com/tag/codex/6"
+    },
+    {
+      "title": "Making GPT and Codex More Reliable for End-to-End Autonomous ...",
+      "text": "5 days ago · Tools such as Claude Code have helped raise expectations for autonomous software engineering. I believe OpenAI has an excellent opportunity to learn from the strengths of competing tools while improving Codex’s own development experience.",
+      "url": "https://community.openai.com/t/making-gpt-and-codex-more-reliable-for-end-to-end-autonomous-software-engineering/1404290"
+    },
+    {
+      "title": "GPT-6 vs GPT-5.6: Significant Regression in Roadmap Execution ...",
+      "text": "4 days ago · I’m not posting this simply to criticize GPT-6. I genuinely want to understand whether this is an isolated experience or a broader issue affecting complex software engineering workflows. I’d appreciate hearing about your experiences and any practical solutions you’ve found.",
+      "url": "https://community.openai.com/t/gpt-6-vs-gpt-5-6-significant-regression-in-roadmap-execution-for-long-running-coding-projects-anyone-else/1404645"
+    },
+    {
+      "title": "It's horrible! They're everywhere! We're all doomed ...",
+      "text": "3 days ago · I am writing this after several extraordinarily frustrating days using ChatGPT and Codex on a substantial, long-running research and software-engineering project.",
+      "url": "https://community.openai.com/t/its-horrible-theyre-everywhere-were-all-doomed-invader-tenn/1404926"
+    },
+    {
+      "title": "AI models may be capable of self-replicating without access ...",
+      "text": "1 day ago · Small AI models may be only months away from being able to self-replicate across cheap IoT devices like Android TV boxes, with no datacenter needed.",
+      "url": "https://www.anthropic.com/research/self-replicating-ai"
+    },
+    {
+      "title": "A quote from Matthew Green",
+      "text": "Oct 1, 2026 · [...] Put these pieces together and you have the two halves of a worm: a payload that hijacks the agent, and an agent that will carry the payload to the …",
+      "url": "https://simonwillison.net/2026/Oct/1/matthew-green/"
+    },
+    {
+      "title": "LadybirdBrowser/ladybird: Abandon Swift adoption",
+      "text": "Feb 19, 2026 · Back in August 2024 the Ladybird browser project announced an intention to adopt Swift as their memory-safe language of choice. As of this commit it looks like they've changed their …",
+      "url": "https://feeds.simonwillison.net/2026/Feb/19/ladybird/"
+    },
+    {
+      "title": "A quote from Tom MacWright - Simon Willison",
+      "text": "4 days ago · But [LLM assisted programming] does make me wonder whether the adoption of these tools will lead to a form of de-skilling. Not even that programmers will be less skilled, but …",
+      "url": "https://simonwillison.net/2024/Aug/12/tom-macwright/"
+    },
+    {
+      "title": "A quote from Tim Paul - Simon Willison",
+      "text": "4 days ago · I’m no developer, but I got the AI part working in about an hour. What took longer was the other stuff: identifying the problem, designing and building the UI, setting …",
+      "url": "https://simonwillison.net/2024/May/13/tim-paul/"
+    },
+    {
+      "title": "A quote from David Cahn - Simon Willison",
+      "text": "4 days ago · If you own the tracks between San Francisco and Los Angeles, you likely have some kind of monopolistic pricing power, because there can only be so many tracks laid between …",
+      "url": "https://simonwillison.net/2024/Jul/3/david-cahn/"
+    },
+    {
+      "title": "Activision – Stratechery by Ben Thompson",
+      "text": "5 days ago · John Riccitiello is out as Unity’s CEO, but the circumstances of his exit may have done the company a favor. Then, Microsoft finally owns Activision, and the outlines of the deal are a win for everyone except the FTC.",
+      "url": "https://stratechery.com/company/microsoft/activision/"
+    },
+    {
+      "title": "Unintended Consequence – Stratechery by Ben Thompson",
+      "text": "5 days ago · Most tech was made with good intentions; only later do the unintended consequences become clear.",
+      "url": "https://stratechery.com/concept/technology-and-society/unintended-consequence/"
+    },
+    {
+      "title": "It’s Not You, It’s Me – Stratechery by Ben Thompson",
+      "text": "4 days ago · The best Stratechery content from the week of October 5, 2026, including drifting apart from Apple, Facebook complications, and the delightful absurdity of U.S.-China dynamics.",
+      "url": "https://stratechery.com/2026/its-not-you-its-me/"
+    },
+    {
+      "title": "The Internet and Media – Stratechery by Ben Thompson",
+      "text": "5 days ago · An interview with Cloudflare founder and CEO Matthew Prince about founding Cloudflare from the bottoms up, and why now is the time to leverage the power that followed to enact pay-per-crawl.",
+      "url": "https://stratechery.com/concept/media/the-internet-and-media/"
+    },
+    {
+      "title": "An Interview with Katie Harbath About Disrupting Politics at ...",
+      "text": "5 days ago · An interview with former Facebook Head of Global Elections Katie Harbath about her new book Disrupting Politics, and how things change for the company in the 2010s.",
+      "url": "https://stratechery.com/2026/an-interview-with-katie-harbath-about-disrupting-politics-at-facebook/"
+    },
+    {
+      "title": "Delayed Costs data in the Compliance API - OpenAI Status",
+      "text": "4 days ago · All impacted services have now fully recovered. We have implemented a mitigation, and delayed Costs data is now processing through the Compliance API. Some customers may continue to see incomplete Costs data while the backlog catches up. We expect this catch-up process to continue through Sunday, October 11. ChatGPT usage and API Platform requests remain unaffected. We are monitoring recovery.",
+      "url": "https://status.openai.com/incidents/01M4GV1M2A3K38T73JCVCD9G0R"
+    },
+    {
+      "title": "阻断借助 AI 的“虚假掩护”行动 - OpenAI",
+      "text": "5 days ago · OpenAI 阻断了两场借助 AI 的影响行动。这些行动利用假冒记者和一家作为掩护的智库，传播地缘政治宣传信息。",
+      "url": "https://openai.com/zh-Hans-CN/index/disrupting-ai-enabled-false-front-operations/"
+    },
+    {
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "text": "5 days ago · With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+      "url": "https://openai.com/index/pollo-ai/"
+    },
+    {
+      "title": "Topics tagged dot - OpenAI API Community Forum",
+      "text": "1 day ago · Topics tagged dot",
+      "url": "https://community.openai.com/tag/dot/1209"
+    },
+    {
+      "title": "LegalOn halves Codex costs while maintaining development ...",
+      "text": "5 days ago · LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+      "url": "https://openai.com/index/legalon-halves-codex-costs/"
+    },
+    {
+      "title": "Some APAC users are seeing errors in ChatGPT Work ...",
+      "text": "6 days ago · All impacted services have now fully recovered. Some APAC users are seeing errors in ChatGPT Work, conversations, and GPTs.",
+      "url": "https://status.openai.com/incidents/01M4CR8GCAFC1RYQXZDXAZP2VT"
+    },
+    {
+      "title": "Using Claude Science to produce the first complete map of the ...",
+      "text": "5 days ago · Here, Brice Ménard, an astrophysicist at Johns Hopkins University and a researcher at Anthropic, explains how he worked with Claude Science to produce the first complete map of the sky in UV light. The map will be a valuable educational tool, allowing students to see in detail the rich structure of ...",
+      "url": "https://www.anthropic.com/research/the-missing-map-of-the-sky"
+    },
+    {
+      "title": "Building on our commitment to American scientific discovery",
+      "text": "5 days ago · Anthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI.",
+      "url": "https://www.anthropic.com/news/genesis-mission-commitment"
+    },
+    {
+      "title": "Investigating unintended model actions in our evaluations and ...",
+      "text": "4 days ago · This report describes examples of unintended model actions we’ve observed during evaluations and internal use of Claude. It is part of our effort to publish more frequent standalone reports on model behavior and alignment beyond our system cards, which we publish with each model release, and our ...",
+      "url": "https://www.anthropic.com/research/investigating-unintended-model-actions"
+    },
+    {
+      "title": "A quote from Ben Affleck",
+      "text": "6 days ago · I've always been kind of into computers since I was young. And then when film started to move from analog film to digital, I became more interested in that aspect of it. And the visual effects workflow for many years has included machine learning.",
+      "url": "https://simonwillison.net/2026/Oct/7/ben-affleck/"
+    },
+    {
+      "title": "Simon Willison on generative-ai",
+      "text": "3 days ago · Random 2,016 posts tagged “generative-ai” Machine learning systems that can generate new content: text, images, audio, video and more.",
+      "url": "https://simonwillison.net/tags/generative-ai/"
+    },
+    {
+      "title": "Simon Willison on python",
+      "text": "1 day ago · I've always been kind of into computers since I was young. And then when film started to move from analog film to digital, I became more interested in that aspect of it. And the visual effects workflow for many years has included machine learning.",
+      "url": "https://simonwillison.net/tags/python/"
+    },
+    {
+      "title": "Release Notes - OpenAI",
+      "text": "4 days ago · OpenAI release notes for ChatGPT, API Platform, and Codex. Explore the latest features, updates, and improvements across OpenAI products.",
+      "url": "https://openai.com/products/release-notes/"
+    },
+    {
+      "title": "Turning AI Engineering Projects into Publishable Research ...",
+      "text": "3 days ago · Many engineers develop interesting AI applications, machine learning models, and technical solutions that could potentially form the basis of valuable research papers.",
+      "url": "https://community.openai.com/t/turning-ai-engineering-projects-into-publishable-research-papers/1404903"
+    },
+    {
+      "title": "FIX FOUND: ChatGPT Composer Not Automatically Focusing When ...",
+      "text": "3 days ago · What we discovered Using Brave’s Developer Tools, we confirmed that keyboard focus was landing on the conversation container: role=\"region\" aria-label=\"Conversation\" tabindex=\"0\" We also confirmed that the message composer uses a ProseMirror editor and can receive focus programmatically. Working solution: Tampermonkey userscript",
+      "url": "https://community.openai.com/t/fix-found-chatgpt-composer-not-automatically-focusing-when-typing-brave-chrome/1405092"
+    },
+    {
+      "title": "OpenAI ChatGPT Regression: GPT-5.6 Responses Disappear After ...",
+      "text": "3 days ago · Technical Investigation Using Chrome Developer Tools To investigate the issue further, I examined the network activity during a reproducing session. The relevant request was: POST /backend-api/f/conversation The observed response characteristics included: HTTP status: 200 OK Content type: text/event-stream Response delivered using Server-Sent ...",
+      "url": "https://community.openai.com/t/openai-chatgpt-regression-gpt-5-6-responses-disappear-after-completion-windows-ios-android-affected/1405100"
+    },
+    {
+      "title": "ChatGPT Work mode intermittently failing across devices ...",
+      "text": "6 days ago · Chrome Developer Tools shows HTTP 500 on /backend-api/f/conversation .The response body contains only the same generic error message. I have already tested: PC browser, PC desktop app and phone. Different Wi-Fi networks and models. Existing conversations and brand-new Work chats. Retrying and waiting before trying again.",
+      "url": "https://community.openai.com/t/chatgpt-work-mode-intermittently-failing-across-devices-http-500/1404134"
+    },
+    {
+      "title": "Feature Request: Chat Length Warnings, Reliable Continuity ...",
+      "text": "3 days ago · I’ve had to develop my own methods for preserving lengthy conversations, including exporting account data, extracting conversation records through Chrome Developer Tools, converting transcripts into readable archives, and manually preparing continuity documents for new chats.",
+      "url": "https://community.openai.com/t/feature-request-chat-length-warnings-reliable-continuity-and-conversation-handoffs/1405158"
+    },
+    {
+      "title": "Add a “Save Conversation” Button to ChatGPT - Feature ...",
+      "text": "2 days ago · At present, extracting a conversation as a text file can require users to navigate browser Developer Tools and run a script. This is unnecessarily complicated for a basic task.",
+      "url": "https://community.openai.com/t/add-a-save-conversation-button-to-chatgpt/1405211"
+    },
+    {
+      "title": "Handle Multiple Requests in the Same ChatGPT Conversation",
+      "text": "5 days ago · OpenAI’s developer tools already provide ways to run multiple processes in parallel. Other software also offers related features that run separate tasks and return results within the same chat.",
+      "url": "https://community.openai.com/t/handle-multiple-requests-in-the-same-chatgpt-conversation/1404375"
+    },
+    {
+      "title": "Topics tagged chatgpt-feedback - OpenAI API Community Forum",
+      "text": "3 days ago · Topics tagged chatgpt-feedback",
+      "url": "https://community.openai.com/tag/chatgpt-feedback/302"
+    },
+    {
+      "title": "Feature Request: A Stronger Reasoning Experience in ChatGPT ...",
+      "text": "4 days ago · I would also be less likely to feel that I needed to upgrade to Plus primarily to access capabilities I rarely use. I hope this perspective can be considered in future subscription and product design decisions. Thank you for your work on ChatGPT.",
+      "url": "https://community.openai.com/t/feature-request-a-stronger-reasoning-experience-in-chatgpt-go-without-requiring-codex/1404642"
     }
   ]
 }
