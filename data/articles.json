@@ -1,19 +1,9 @@
 {
   "articles": [
     {
-      "title": "Trump says anyone who uses the phrase \"artificial intelligence\" is \"the enemy\"",
-      "text": "55 points on Hacker News",
-      "url": "https://breakingthenews.net/Article/Trump:-Anyone-using-term-%27Artificial-Intelligence%27-is-the-%27ENEMY%27/67261230"
-    },
-    {
       "title": "Character.ai Files for Bankruptcy",
       "text": "145 points on Hacker News",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney"
-    },
-    {
-      "title": "Anthropic bans 'abusive or cruel behavior' towards Claude",
-      "text": "91 points on Hacker News",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude"
     },
     {
       "title": "Satya Nadella says we should assume all AI models are 'compromised'",
@@ -47,223 +37,193 @@
     },
     {
       "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
-      "text": "246 points on Hacker News",
+      "text": "247 points on Hacker News",
       "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud"
     },
     {
-      "title": "OTel-Native by Design – Building Products That Export to Any Observability Stack",
-      "text": "63 points on Hacker News",
-      "url": "https://opentelemetry.io/blog/2026/otel-native-by-design/"
-    },
-    {
-      "title": "Simon Willison on ai",
-      "text": "12 hours ago · AI is mass decompiling games. That’s both awesome and scary. (via) Indie game developer Popcar talks about the recent wave of AI-powered decompilation of existing games, enabling weird mashups between existing games, and producing a boom in game preservation projects to get old games working on new hardware (often in a browser using WebAssembly). I like how this piece captures both the ...",
-      "url": "https://simonwillison.net/tags/ai/"
-    },
-    {
-      "title": "Simon Willison on llms",
-      "text": "1,987 posts tagged ‘llms’. Large Language Models (LLMs) are the class of technology behind generative text AI systems like OpenAI's ChatGPT, Google's Gemini and Anthropic's Claude.",
-      "url": "https://feeds.simonwillison.net/tags/llms/"
-    },
-    {
       "title": "Companion Guide for Learn and Create with ChatGPT",
-      "text": "2 days ago · Unlock the new opportunities of the AI era by equipping yourself with the knowledge and skills to harness artificial intelligence effectively.",
+      "text": "3 days ago · Unlock the new opportunities of the AI era by equipping yourself with the knowledge and skills to harness artificial intelligence effectively.",
       "url": "https://academy.openai.com/public/clubs/higher-education-05x4z/resources/companion-guide-for-learn-and-create-with-chatgpt-2026-10-13"
     },
     {
       "title": "Companion Guide for Plan College, Careers and Life with ...",
-      "text": "2 days ago · Unlock the new opportunities of the AI era by equipping yourself with the knowledge and skills to harness artificial intelligence effectively.",
+      "text": "3 days ago · Unlock the new opportunities of the AI era by equipping yourself with the knowledge and skills to harness artificial intelligence effectively.",
       "url": "https://academy.openai.com/public/clubs/higher-education-05x4z/resources/companion-guide-for-plan-college-careers-and-life-with-chatgpt-2026-10-13"
     },
     {
-      "title": "AI That Ages With Us: Whose History Is Teaching Artificial ...",
-      "text": "1 day ago · I recently remembered reading about an AI company purchasing physical books, cutting away their bindings, and scanning their pages to help train artificial intelligence. Got me to thinking. Whose books were they scanning? Were books by Black authors included? What about the stories that never became bestsellers? The histories preserved in small community libraries, family collections, and ...",
-      "url": "https://community.openai.com/t/ai-that-ages-with-us-whose-history-is-teaching-artificial-intelligence/1406252"
+      "title": "Prsonal minds for every one - Feature requests - OpenAI ...",
+      "text": "2 days ago · Personal AI Minds is a proposal for a new generation of artificial intelligence systems that adapt to the unique thinking patterns of individual users. Each person would have a private AI environment containing their own research, ideas, knowledge, experiences, and intellectual work.",
+      "url": "https://community.openai.com/t/prsonal-minds-for-every-one/1406180"
     },
     {
-      "title": "Exploring Cognitive Flow Intelligence for more efficient ...",
-      "text": "5 days ago · I’ve been exploring a concept called Cognitive Flow Intelligence (CFI), which aims to improve how humans and artificial intelligence communicate, interpret information and work together.",
-      "url": "https://community.openai.com/t/exploring-cognitive-flow-intelligence-for-more-efficient-human-ai-interaction/1405054"
-    },
-    {
-      "title": "Modern architecture in a ternary system - Use cases and ...",
-      "text": "Modern computing is predominantly based on binary systems, which represent information through two states: 0 and 1. My proposal is to explore the possibility of developing an artificial intelligence architecture designed from the outset to use a ternary system, with three distinct states, rather ...",
-      "url": "https://community.openai.com/t/modern-architecture-in-a-ternary-system/1404900"
+      "title": "Simon Willison on coding-agents",
+      "text": "12 hours ago · The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder. We can do amazing things with them, but unlocking their full potential requires extraordinary discipline and knowledge.",
+      "url": "https://simonwillison.net/tags/coding-agents/"
     },
     {
       "title": "Simon Willison on ai and llms",
-      "text": "3 days ago · The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder. We can do amazing things with them, but unlocking their full potential requires extraordinary discipline and knowledge.",
+      "text": "4 days ago · The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder. We can do amazing things with them, but unlocking their full potential requires extraordinary discipline and knowledge.",
       "url": "https://simonwillison.net/tags/llms+ai/"
     },
     {
       "title": "What if AI could manage an entire software engineering team ...",
-      "text": "2 days ago · The next leap in AI-assisted software engineering isn’t simply better code generation. It’s AI systems that can plan, delegate, collaborate, challenge each other and know when human judgment is necessary.",
+      "text": "3 days ago · The next leap in AI-assisted software engineering isn’t simply better code generation. It’s AI systems that can plan, delegate, collaborate, challenge each other and know when human judgment is necessary.",
       "url": "https://community.openai.com/t/what-if-ai-could-manage-an-entire-software-engineering-team-including-reviewing-its-own-work-with-a-competing-ai/1405851"
     },
     {
       "title": "Maintaining software with the GPT-6 family | OpenAI Developers",
-      "text": "1 day ago · Removing unused code Before agentic coding, many software engineering teams relied on complex static analysis systems integrated with runtime logging to detect and remove unused code. Even with these systems and careful code reviews, mistakes happen. I recall several incidents due to mistaken code removal.",
+      "text": "2 days ago · Removing unused code Before agentic coding, many software engineering teams relied on complex static analysis systems integrated with runtime logging to detect and remove unused code. Even with these systems and careful code reviews, mistakes happen. I recall several incidents due to mistaken code removal.",
       "url": "https://developers.openai.com/blog/maintaining-software-with-the-gpt-6-family"
     },
     {
-      "title": "Topics tagged codex - OpenAI API Community Forum",
-      "text": "Topics tagged codex",
-      "url": "https://community.openai.com/tag/codex/6"
-    },
-    {
       "title": "Feature Request: User-Controlled Persistent Memory and ...",
-      "text": "1 day ago · A user-controlled, versioned instruction repository with defined access permissions is a conventional software engineering problem. Likewise, mandatory instruction retrieval, precedence management, and procedural validation can be implemented as deterministic steps in the response-generation workflow.",
+      "text": "2 days ago · A user-controlled, versioned instruction repository with defined access permissions is a conventional software engineering problem. Likewise, mandatory instruction retrieval, precedence management, and procedural validation can be implemented as deterministic steps in the response-generation workflow.",
       "url": "https://community.openai.com/t/feature-request-user-controlled-persistent-memory-and-mandatory-instruction-compliance/1406312"
     },
     {
-      "title": "It's horrible! They're everywhere! We're all doomed ...",
-      "text": "5 days ago · I am writing this after several extraordinarily frustrating days using ChatGPT and Codex on a substantial, long-running research and software-engineering project.",
-      "url": "https://community.openai.com/t/its-horrible-theyre-everywhere-were-all-doomed-invader-tenn/1404926"
-    },
-    {
-      "title": "A Win-Win Model for AI-Led Industrial Evolution - Use cases ...",
-      "text": "4 days ago · From Mass Production to Personal Manufacturing A Vision for AI-Led Industrial Evolution A Win-Win Model for AI Companies, Traditional Industries, Workers, and Consumers Executive Summary What if AI companies could help existing industries evolve rather than simply replace them? Imagine a future in which anyone can create shoes that fit their feet precisely, clothes tailored to their body, and ...",
-      "url": "https://community.openai.com/t/a-win-win-model-for-ai-led-industrial-evolution/1405192"
+      "title": "Feature Request: ChatGPT Plus Discount or Accessibility ...",
+      "text": "1 day ago · I am a university student in Brazil currently pursuing my second undergraduate degree in Software Engineering, having previously graduated in Information Security Technology. As a person with disabilities, I believe that AI tools can play an important role in education, digital accessibility, independent learning, and professional development.",
+      "url": "https://community.openai.com/t/feature-request-chatgpt-plus-discount-or-accessibility-program-for-students-with-disabilities-in-brazil/1406699"
     },
     {
       "title": "AI models may be capable of self-replicating without access ...",
-      "text": "3 days ago · Access to an advisor, whether offered as a tool call or given to the model automatically when stuck, gives no significant improvement. The two RL groups were trained with advisor access on software engineering tasks, and the rightmost group also rewards calling the advisor when stuck.",
+      "text": "4 days ago · Access to an advisor, whether offered as a tool call or given to the model automatically when stuck, gives no significant improvement. The two RL groups were trained with advisor access on software engineering tasks, and the rightmost group also rewards calling the advisor when stuck.",
       "url": "https://www.anthropic.com/research/self-replicating-ai"
     },
     {
       "title": "Dwarf Fortress uses version control now - simonwillison.net",
-      "text": "4 days ago · I remember hearing a while ago that Dwarf Fortress didn't use version control. That fact has been lodged in my head, because given its inherent complexity I have trouble imagining …",
+      "text": "5 days ago · I remember hearing a while ago that Dwarf Fortress didn't use version control. That fact has been lodged in my head, because given its inherent complexity I have trouble imagining …",
       "url": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/"
     },
     {
+      "title": "Simon Willison on projects",
+      "text": "3 days ago · 558 posts tagged ‘projects’. Posts about projects I have worked on.",
+      "url": "https://simonwillison.net/tags/projects/"
+    },
+    {
       "title": "Python 3.15.0 added to actions/python-versions",
-      "text": "5 days ago · Bit of a niche link, but I've been waiting for this for a couple of days - I even told ChatGPT to check for it: Clone https://github.com/actions/python-versions and ...",
+      "text": "6 days ago · Bit of a niche link, but I've been waiting for this for a couple of days - I even told ChatGPT to check for it: Clone https://github.com/actions/python-versions and ...",
       "url": "https://simonwillison.net/2026/Oct/10/python-actions/"
     },
     {
-      "title": "A quote from Matthew Green",
-      "text": "6 days ago · Everyone is very concerned about being respectable, so I’m going to be the goofball who raises worst-case possibilities. I think there is a 1% chance we live in Minicrypt, and …",
-      "url": "https://simonwillison.net/2026/Oct/9/matthew-green/"
+      "title": "Simon Willison on uv",
+      "text": "4 days ago · 101 posts tagged ‘uv’. uv is an \"extremely fast Python package and project manager, written in Rust\".",
+      "url": "https://simonwillison.net/tags/uv/"
     },
     {
       "title": "Personal Day – Stratechery by Ben Thompson",
-      "text": "3 days ago · With Stratechery Plus you get access to the subscriber-only Stratechery Update and Stratechery Interviews, and the Sharp Tech, Sharp China, Dithering, Greatest of All Talk, and Asianometry podcasts. How do I subscribe to the Stratechery Podcast? Once you are subscribed, please visit your Delivery ...",
+      "text": "4 days ago · With Stratechery Plus you get access to the subscriber-only Stratechery Update and Stratechery Interviews, and the Sharp Tech, Sharp China, Dithering, Greatest of All Talk, and Asianometry podcasts. How do I subscribe to the Stratechery Podcast? Once you are subscribed, please visit your Delivery ...",
       "url": "https://stratechery.com/2026/personal-day-4/"
     },
     {
+      "title": "Ben Thompson – Stratechery by Ben Thompson",
+      "text": "3 days ago · A conversation with Hollywood super-agent Ari Emanuel about his memoir, the impact of AI on Hollywood, and the power of a phone call. The Apple Homeview is official, and the question is how big is the addressable market for expensive devices based on subpar AI ...",
+      "url": "https://stratechery.com/author/stratechery/"
+    },
+    {
       "title": "A Conversation With Ari Emanuel About Entertainment and AI",
-      "text": "12 hours ago · A conversation with Hollywood super-agent Ari Emanuel about his memoir, the impact of AI on Hollywood, and the power of a phone call.",
+      "text": "1 day ago · A conversation with Hollywood super-agent Ari Emanuel about his memoir, the impact of AI on Hollywood, and the power of a phone call.",
       "url": "https://stratechery.com/2026/a-conversation-with-ari-emanuel-about-entertainment-and-ai/"
     },
     {
       "title": "Amp puts AI agents to work beyond code with OpenAI models",
-      "text": "1 day ago · See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "text": "2 days ago · See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
       "url": "https://openai.com/index/amp-beyond-coding/"
     },
     {
-      "title": "Topics tagged dot - OpenAI API Community Forum",
-      "text": "2 days ago · Topics tagged dot",
-      "url": "https://community.openai.com/tag/dot/1209"
+      "title": "Higgsfield takes AI video from 1 minute to over 10 - OpenAI",
+      "text": "3 days ago · Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice/"
     },
     {
-      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "text": "1 day ago · Third Moment gives each agent the tools, information, and environment it needs for a specific job. For quantitative research, the team runs the default Codex harness inside a Dockerized environment. Agents receive a terabyte of data, documentation, and a research repository with modules for feature engineering, GPU-supported model training, trading strategies, and simulation.",
-      "url": "https://openai.com/index/third-moment-research/"
-    },
-    {
-      "title": "Degraded performance in GPT-6.1 Sol Codex and Work mode ...",
-      "text": "2 days ago · We have resolved the issue causing degraded performance with GPT-6.1 Sol in Codex and ChatGPT Work.",
+      "title": "Degraded performance in GPT-6.1 Sol Codex and Work mode",
+      "text": "3 days ago · We have resolved the issue causing degraded performance with GPT-6.1 Sol in Codex and ChatGPT Work.",
       "url": "https://status.openai.com/incidents/01M4T4ZCM54D3ZPTQXRSWFG0XS"
     },
     {
-      "title": "Workspace admins may be unable to manage plugins",
-      "text": "6 days ago · We are investigating an issue affecting some ChatGPT workspace administrators’ ability to view and manage plugin availability and settings. Some users may also see plugins as unavailable. We will provide another update as soon as we have more information.",
-      "url": "https://status.openai.com/incidents/01M4HA7BCCXVHTR5DCYMSBQF2H"
-    },
-    {
       "title": "Topics tagged assistants-api",
-      "text": "1 day ago · Topics tagged assistants-api",
+      "text": "2 days ago · Topics tagged assistants-api",
       "url": "https://community.openai.com/tag/assistants-api/355"
     },
     {
+      "title": "Web ChatGPT High reasoning selected but replies instantly ...",
+      "text": "5 days ago · Platform: Web (Chrome / Edge) Plan: Plus Model selected: GPT-6 Sol / GPT-5.6 Sol + High reasoning effort Symptom: Even when High is explicitly selected, the model starts replying almost immediately with shallow answers. No visible extended thinking process. Started around: Oct 10 Tried: New chat Retry button Different browsers Desktop app / mobile app Cleared cache Evidence: Payload correctly ...",
+      "url": "https://community.openai.com/t/web-chatgpt-high-reasoning-selected-but-replies-instantly-with-no-thinking-plus-oct-2026/1405245"
+    },
+    {
       "title": "Singapore office and government MOU | Anthropic",
-      "text": "1 day ago · Anthropic opens its fifth Asia-Pacific office in Singapore and signs an MOU with the government on AI safety, evaluation, and responsible adoption.",
+      "text": "2 days ago · Singapore’s largest technology companies and startups are building with Claude too. Grab powers BriX, its sales assistant, with Claude. The assistant saves Grab’s sales teams approximately 40,000 hours every quarter and surfaces new sales opportunities.",
       "url": "https://www.anthropic.com/news/singapore-office-opening"
     },
     {
       "title": "Strengthening our defenses against distillation attacks",
-      "text": "3 days ago · Illicit distillation allows model developers to copy frontier AI capabilities without creating proportionally robust safeguards. Here, we describe how we’ve reduced the rate of distillation by more than 90%.",
+      "text": "4 days ago · Illicit distillation allows model developers to copy frontier AI capabilities without creating proportionally robust safeguards. Here, we describe how we’ve reduced the rate of distillation by more than 90%.",
       "url": "https://www.anthropic.com/research/distillation-defenses"
     },
     {
       "title": "Simon Willison on python",
-      "text": "3 days ago · I've always been kind of into computers since I was young. And then when film started to move from analog film to digital, I became more interested in that aspect of it. And the visual effects workflow for many years has included machine learning.",
+      "text": "4 days ago · I've always been kind of into computers since I was young. And then when film started to move from analog film to digital, I became more interested in that aspect of it. And the visual effects workflow for many years has included machine learning.",
       "url": "https://simonwillison.net/tags/python/"
     },
     {
-      "title": "Turning AI Engineering Projects into Publishable Research ...",
-      "text": "5 days ago · Many engineers develop interesting AI applications, machine learning models, and technical solutions that could potentially form the basis of valuable research papers.",
-      "url": "https://community.openai.com/t/turning-ai-engineering-projects-into-publishable-research-papers/1404903"
+      "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
+      "text": "4 days ago · Hello Python 3.15, goodbye 3.10, and now I can use 3.11 Python 3.15 is here! Here’s the essential What’s new in Python 3.15 guide, this year curated by 3.14 and 3.15 release manager Hugo van Kemenade. As someone who builds open source software that works in every supported Python version, I get to say goodbye to Python 3.10 and start embracing features from Python 3.11. First, some ...",
+      "url": "https://simonwillison.net/2026/Oct/12/python-3-15/"
+    },
+    {
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "text": "2 days ago · Third Moment evaluates models across optimization, machine learning systems, and quantitative research. It tests frontier releases at their highest reasoning settings, assessing their ability to navigate repositories, write efficient code, and sustain an investigation.",
+      "url": "https://openai.com/index/third-moment-research/"
+    },
+    {
+      "title": "Feature Request: Make Structured Website Interfaces a First ...",
+      "text": "12 hours ago · The opportunity ChatGPT should automatically discover and use structured website interfaces such as WebMCP, llms.txt, documented APIs and machine-readable indexes whenever they offer a more precise and verifiable way to answer a research question than conventional web search. I tested this approach with my website footnoted(.net) a historical archive that exposes several ways to access its ...",
+      "url": "https://community.openai.com/t/feature-request-make-structured-website-interfaces-a-first-class-research-capability-in-chatgpt/1406865"
     },
     {
       "title": "FIX FOUND: ChatGPT Composer Not Automatically Focusing When ...",
-      "text": "5 days ago · What we discovered Using Brave’s Developer Tools, we confirmed that keyboard focus was landing on the conversation container: role=\"region\" aria-label=\"Conversation\" tabindex=\"0\" We also confirmed that the message composer uses a ProseMirror editor and can receive focus programmatically. Working solution: Tampermonkey userscript",
+      "text": "6 days ago · What we discovered Using Brave’s Developer Tools, we confirmed that keyboard focus was landing on the conversation container: role=\"region\" aria-label=\"Conversation\" tabindex=\"0\" We also confirmed that the message composer uses a ProseMirror editor and can receive focus programmatically. Working solution: Tampermonkey userscript",
       "url": "https://community.openai.com/t/fix-found-chatgpt-composer-not-automatically-focusing-when-typing-brave-chrome/1405092"
     },
     {
       "title": "OpenAI ChatGPT Regression: GPT-5.6 Responses Disappear After ...",
-      "text": "5 days ago · Technical Investigation Using Chrome Developer Tools To investigate the issue further, I examined the network activity during a reproducing session. The relevant request was: POST /backend-api/f/conversation The observed response characteristics included: HTTP status: 200 OK Content type: text/event-stream Response delivered using Server-Sent ...",
+      "text": "6 days ago · Technical Investigation Using Chrome Developer Tools To investigate the issue further, I examined the network activity during a reproducing session. The relevant request was: POST /backend-api/f/conversation The observed response characteristics included: HTTP status: 200 OK Content type: text/event-stream Response delivered using Server-Sent ...",
       "url": "https://community.openai.com/t/openai-chatgpt-regression-gpt-5-6-responses-disappear-after-completion-windows-ios-android-affected/1405100"
     },
     {
       "title": "Product Proposal: Make ChatGPT the AI Layer for Microsoft ...",
-      "text": "3 days ago · Instead, it could pursue a combination of supported integrations, developer tools, and strategic partnerships. The goal would be to make ChatGPT’s capabilities available in the applications where users already work, subject to Microsoft’s platform capabilities and permissions.",
+      "text": "4 days ago · Instead, it could pursue a combination of supported integrations, developer tools, and strategic partnerships. The goal would be to make ChatGPT’s capabilities available in the applications where users already work, subject to Microsoft’s platform capabilities and permissions.",
       "url": "https://community.openai.com/t/product-proposal-make-chatgpt-the-ai-layer-for-microsoft-office/1405752"
     },
     {
-      "title": "Add a “Save Conversation” Button to ChatGPT - Feature ...",
-      "text": "4 days ago · At present, extracting a conversation as a text file can require users to navigate browser Developer Tools and run a script. This is unnecessarily complicated for a basic task.",
-      "url": "https://community.openai.com/t/add-a-save-conversation-button-to-chatgpt/1405211"
-    },
-    {
-      "title": "Feature Request: Chat Length Warnings, Reliable Continuity ...",
-      "text": "5 days ago · I’ve had to develop my own methods for preserving lengthy conversations, including exporting account data, extracting conversation records through Chrome Developer Tools, converting transcripts into readable archives, and manually preparing continuity documents for new chats. These methods work, but they require significant time and effort.",
-      "url": "https://community.openai.com/t/feature-request-chat-length-warnings-reliable-continuity-and-conversation-handoffs/1405158"
-    },
-    {
       "title": "Read Aloud consistently fails in Firefox — /backend-api ...",
-      "text": "3 days ago · Confirmed that Read Aloud works correctly in Microsoft Edge on the same computer. I also investigated the issue using Firefox Developer Tools and found that the audio synthesis request fails: Endpoint: /backend-api/synthesize Request method: GET Audio format: webm Voice: maple HTTP status: 500 Server response: {\"detail\":\"Internal Server Error\"}",
+      "text": "4 days ago · Confirmed that Read Aloud works correctly in Microsoft Edge on the same computer. I also investigated the issue using Firefox Developer Tools and found that the audio synthesis request fails: Endpoint: /backend-api/synthesize Request method: GET Audio format: webm Voice: maple HTTP status: 500 Server response: {\"detail\":\"Internal Server Error\"}",
       "url": "https://community.openai.com/t/read-aloud-consistently-fails-in-firefox-backend-api-synthesize-returns-http-500/1405563"
     },
     {
-      "title": "Topics tagged chatgpt-feedback - OpenAI API Community Forum",
-      "text": "5 days ago · Topics tagged chatgpt-feedback",
-      "url": "https://community.openai.com/tag/chatgpt-feedback/302"
+      "title": "Add a “Save Conversation” Button to ChatGPT - Feature ...",
+      "text": "5 days ago · At present, extracting a conversation as a text file can require users to navigate browser Developer Tools and run a script. This is unnecessarily complicated for a basic task.",
+      "url": "https://community.openai.com/t/add-a-save-conversation-button-to-chatgpt/1405211"
     },
     {
       "title": "Alphabetical sorting and collapsible Projects dropdowns",
-      "text": "1 day ago · These two relatively straightforward interface improvements would make ChatGPT much more practical for users managing extensive creative, professional, academic, or research work. I’d greatly appreciate having these suggestions considered by the ChatGPT Product Design and Engineering teams. Thank you!",
+      "text": "2 days ago · These two relatively straightforward interface improvements would make ChatGPT much more practical for users managing extensive creative, professional, academic, or research work. I’d greatly appreciate having these suggestions considered by the ChatGPT Product Design and Engineering teams. Thank you!",
       "url": "https://community.openai.com/t/alphabetical-sorting-and-collapsible-projects-dropdowns/1406220"
+    },
+    {
+      "title": "Feature Request: Unleash My ChatGPT Assistant — The Scutwork ...",
+      "text": "2 days ago · My request to OpenAI’s Product Design and Engineering teams is simple: Please continue expanding ChatGPT’s ability to carry out real-world, authorized administrative tasks directly from the conversation, across both OpenAI’s own services and supported external applications.",
+      "url": "https://community.openai.com/t/feature-request-unleash-my-chatgpt-assistant-the-scutwork-guru-extraordinaire/1406221"
+    },
+    {
+      "title": "Feature Request — Allow ChatGPT to Submit Support Tickets and ...",
+      "text": "2 days ago · I’d like to propose a feature that would allow users to ask their ChatGPT assistant to submit support tickets, bug reports, and feature requests directly to OpenAI’s Engineering and Product Design teams through the existing support system at help.openai.com.",
+      "url": "https://community.openai.com/t/feature-request-allow-chatgpt-to-submit-support-tickets-and-feature-requests-directly/1406222"
     },
     {
       "title": "A Proposal for More Human-Centered AI: Reducing Sycophancy ...",
       "text": "However, several concerns remain, particularly excessive agreement with users and limitations in contextual memory. This proposal is not simply a complaint about individual responses. It is an attempt to present a broader vision for improving AI behavior, product design, and accountability.",
       "url": "https://community.openai.com/t/a-proposal-for-more-human-centered-ai-reducing-sycophancy-improving-memory-strengthening-safety-and-measuring-real-world-benefits/1406469"
-    },
-    {
-      "title": "Feature Request — Allow ChatGPT to Submit Support Tickets and ...",
-      "text": "1 day ago · I’d like to propose a feature that would allow users to ask their ChatGPT assistant to submit support tickets, bug reports, and feature requests directly to OpenAI’s Engineering and Product Design teams through the existing support system at help.openai.com. I regularly work with my ChatGPT assistant, whom I call SAL, on a large and growing collection of creative projects. When I encounter ...",
-      "url": "https://community.openai.com/t/feature-request-allow-chatgpt-to-submit-support-tickets-and-feature-requests-directly/1406222"
-    },
-    {
-      "title": "Feature Request: Unleash My ChatGPT Assistant — The Scutwork ...",
-      "text": "My request to OpenAI’s Product Design and Engineering teams is simple: Please continue expanding ChatGPT’s ability to carry out real-world, authorized administrative tasks directly from the conversation, across both OpenAI’s own services and supported external applications.",
-      "url": "https://community.openai.com/t/feature-request-unleash-my-chatgpt-assistant-the-scutwork-guru-extraordinaire/1406221"
-    },
-    {
-      "title": "Feature Request: A 7-Day Grace Period for Account Deletion ...",
-      "text": "1 day ago · Feature Request — A Recovery Period, Stronger Authentication and Local Backups for Account Deletion Dear OpenAI Product Team, I would like to suggest three improvements to ChatGPT account management, particularly concerning the permanent deletion of user accounts. 1. The problem I recently came across a Reddit post in which a user reported accidentally deleting their ChatGPT account through ...",
-      "url": "https://community.openai.com/t/feature-request-a-7-day-grace-period-for-account-deletion-stronger-security-and-local-backups/1406439"
     }
   ]
 }
