@@ -2,23 +2,13 @@
   "articles": [
     {
       "title": "Artificial intelligence is capitalism's final destination",
-      "text": "114 points on Hacker News",
+      "text": "123 points on Hacker News",
       "url": "https://www.equator.org/articles/arundhati-roy-artificial-intelligence"
     },
     {
       "title": "Character.ai Files for Bankruptcy",
       "text": "145 points on Hacker News",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney"
-    },
-    {
-      "title": "Satya Nadella says we should assume all AI models are 'compromised'",
-      "text": "42 points on Hacker News",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised"
-    },
-    {
-      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-      "text": "179 points on Hacker News",
-      "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a"
     },
     {
       "title": "Show HN: Opus 5.5 made a fully featured Figma clone in 3 hours / 8 prompts",
@@ -31,19 +21,24 @@
       "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/"
     },
     {
-      "title": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
-      "text": "About 11 months ago i revived the amazing but unfortunately unmaintained spotify-tui. Since then I have been working on it almost non stop, finding a lot of problems on the way. One of the main issues I ran into were the Spotify web API rate limits. Third party clients like spotatui are dependent on a developer app made in the Spotify developer dashboard, which get rate limited a lot and Spotify has slowly been deprecating endpoints from it. The workaround for this used to be using a shared clie",
-      "url": "https://github.com/LargeModGames/spotatui"
+      "title": "You could have invented transformers from memory",
+      "text": "https:&#x2F;&#x2F;twitter.com&#x2F;heyyalexwang&#x2F;status&#x2F;2111158818730397932",
+      "url": "https://alexwang.ai/posts/associative-memory/"
     },
     {
       "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
-      "text": "326 points on Hacker News",
+      "text": "363 points on Hacker News",
       "url": "https://machinelearning.apple.com/research/mlx-distributed-inference"
     },
     {
       "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
       "text": "247 points on Hacker News",
       "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud"
+    },
+    {
+      "title": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
+      "text": "About 11 months ago i revived the amazing but unfortunately unmaintained spotify-tui. Since then I have been working on it almost non stop, finding a lot of problems on the way. One of the main issues I ran into were the Spotify web API rate limits. Third party clients like spotatui are dependent on a developer app made in the Spotify developer dashboard, which get rate limited a lot and Spotify has slowly been deprecating endpoints from it. The workaround for this used to be using a shared clie",
+      "url": "https://github.com/LargeModGames/spotatui"
     }
   ]
 }
