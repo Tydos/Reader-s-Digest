@@ -2,28 +2,33 @@
   "articles": [
     {
       "title": "Artificial intelligence is capitalism's final destination",
-      "text": "126 points on Hacker News",
+      "text": "127 points on Hacker News",
       "url": "https://www.equator.org/articles/arundhati-roy-artificial-intelligence"
     },
     {
       "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-      "text": "166 points on Hacker News",
+      "text": "171 points on Hacker News",
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model"
     },
     {
       "title": "Websites are closing their doors to AI agents",
-      "text": "152 points on Hacker News",
+      "text": "154 points on Hacker News",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
     },
     {
-      "title": "Character.ai Files for Bankruptcy",
-      "text": "145 points on Hacker News",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney"
+      "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+      "text": "59 points on Hacker News",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins"
     },
     {
-      "title": "Show HN: Opus 5.5 made a fully featured Figma clone in 3 hours / 8 prompts",
-      "text": "I think a chasm has been crossed. Opus 5.5 few shotted a fully working Figma for me. In the past year I have been trying to benchmark vibe coded apps and see how good they get and this week it did it with very very little guidance from me. I basically just told it reach feature parity. Prior to this vibe coded apps would resemble the real software, this is not a resemblance it&#x27;s the real thing. As a casual Figma user in the past, I can&#x27;t really see a difference. And if there is one you",
-      "url": "https://www.mana.space/home/rZfbotNWAXegQypmpkzaAPFC6Mp1/Apps/Figma%20Next%20Launch"
+      "title": "AI lab offers free plumbing and HVAC repairs across three cities to train robots",
+      "text": "33 points on Hacker News",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning"
+    },
+    {
+      "title": "UK Defence Startups Are Being Denied Banking Services Under ESG Rules",
+      "text": "65 points on Hacker News",
+      "url": "https://foxandlion.pub/analysis/uk-defence-start-ups-are-being-denied-banking-services-under-esg-rules"
     },
     {
       "title": "OpenAI engineer arrested in bugging of executive conference room",
@@ -46,204 +51,9 @@
       "url": "https://machinelearning.apple.com/research/mlx-distributed-inference"
     },
     {
-      "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
-      "text": "247 points on Hacker News",
-      "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud"
-    },
-    {
-      "title": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
-      "text": "About 11 months ago i revived the amazing but unfortunately unmaintained spotify-tui. Since then I have been working on it almost non stop, finding a lot of problems on the way. One of the main issues I ran into were the Spotify web API rate limits. Third party clients like spotatui are dependent on a developer app made in the Spotify developer dashboard, which get rate limited a lot and Spotify has slowly been deprecating endpoints from it. The workaround for this used to be using a shared clie",
-      "url": "https://github.com/LargeModGames/spotatui"
-    },
-    {
-      "title": "Project Oracle for future - API - OpenAI Developer Community",
-      "text": "1 day ago · Project Oracle: A Vision for the Future of Personalized AI Companions Created by Tyreece Elbert | October 2026 Hello, OpenAI Community! My name is Tyreece Elbert, and I’m a ChatGPT user with a vision I’d love to share with the community. I’ve been exploring how artificial intelligence could become more personal, accessible, and integrated into everyday life. Over time, I customized my ...",
-      "url": "https://community.openai.com/t/project-oracle-for-future/1407509"
-    },
-    {
-      "title": "“AI for Nature: A Proposal to Use Artificial Intelligence to ...",
-      "text": "1 day ago · I, Onesmo Paul, propose an initiative exploring how artificial intelligence, particularly conversational AI such as ChatGPT, can help humanity protect the natural environment. My idea comes from a simple belief: technology is important for human development, but nature is the source of life ...",
-      "url": "https://community.openai.com/t/ai-for-nature-a-proposal-to-use-artificial-intelligence-to-protect-the-source-of-life/1407439"
-    },
-    {
-      "title": "Customer stories | OpenAI",
-      "text": "5 days ago · How leading companies are putting intelligence to work Contact sales",
-      "url": "https://openai.com/business/customer-stories/"
-    },
-    {
-      "title": "OpenAI Supplier Code of Conduct",
-      "text": "4 days ago · OpenAI's mission is to ensure that artificial general intelligence benefits all of humanity. We seek to advance that mission by operating our business responsibly, ethically, and with respect for people and the environment. This Supplier Code of Conduct (“Code”) establishes the minimum standards that guide our relationships with suppliers, partners, and staffing agencies, and their ...",
-      "url": "https://openai.com/policies/supplier-code/"
-    },
-    {
-      "title": "Singapore office and government MOU | Anthropic",
-      "text": "5 days ago · Anthropic opens its fifth Asia-Pacific office in Singapore and signs an MOU with the government on AI safety, evaluation, and responsible adoption.",
-      "url": "https://www.anthropic.com/news/singapore-office-opening"
-    },
-    {
-      "title": "Preparing for the 2026 US midterms \\ Anthropic",
-      "text": "5 days ago · Earlier this year, we shared an update on our election safeguards. Here, we outline how we’ve continued to strengthen these safeguards ahead of this year’s US midterms.",
-      "url": "https://www.anthropic.com/news/2026-us-midterms"
-    },
-    {
-      "title": "Maintaining software with the GPT-6 family | OpenAI Developers",
-      "text": "5 days ago · Before agentic coding, many software engineering teams relied on complex static analysis systems integrated with runtime logging to detect and remove unused code.",
-      "url": "https://developers.openai.com/blog/maintaining-software-with-the-gpt-6-family"
-    },
-    {
-      "title": "OpenAI のニュース | OpenAI",
-      "text": "4 days ago · 急速に進化する AI 技術と、それが人類にもたらす恩恵について、最新情報をご覧ください。",
-      "url": "https://openai.com/ja-JP/news/"
-    },
-    {
-      "title": "Notícias da OpenAI | OpenAI",
-      "text": "4 days ago · Fique por dentro dos rápidos avanços da tecnologia de IA e dos benefícios que ela oferece à humanidade.",
-      "url": "https://openai.com/pt-BR/news/"
-    },
-    {
-      "title": "How employment is changing at Anthropic \\ Anthropic",
-      "text": "3 days ago · Part of this is fleets of agents conducting industrial-scale software engineering, filling in myriad routine tests and checks, conducting maintenance on a growing mass of infrastructure code, and driving concerted campaigns to translate massive codebases.",
-      "url": "https://www.anthropic.com/research/employment-at-anthropic"
-    },
-    {
-      "title": "tools.simonwillison.net",
-      "text": "4 days ago · Miscellaneous HTML+JavaScript tools built mostly with the help of LLMs. See also /python/ for tools written using Python. This collection is an experiment in prompt-driven development with very low stakes. The colophon lists commit messages and transcripts for every tool. The code lives in simonw/tools and many tools used the Claude custom instructions described here.",
-      "url": "https://tools.simonwillison.net/index.html"
-    },
-    {
-      "title": "Release: llm-gemini 0.35",
-      "text": "6 days ago · LLM plugin to access Google's Gemini family of models",
-      "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/"
-    },
-    {
-      "title": "Archive for Wednesday, 14th October 2026",
-      "text": "5 days ago · AI is mass decompiling games. That’s both awesome and scary. (via) Indie game developer Popcar talks about the recent wave of AI-powered decompilation of existing games, enabling weird mashups between existing games, and producing a boom in game preservation projects to get old games working on new hardware (often in a browser using WebAssembly). I like how this piece captures both the ...",
-      "url": "https://feeds.simonwillison.net/2026/Oct/14/"
-    },
-    {
-      "title": "AI is mass decompiling games. That's both awesome and scary.",
-      "text": "5 days ago · AI is mass decompiling games. That's both awesome and scary. (via) Indie game developer Popcar talks about the recent wave of AI-powered decompilation of existing games, enabling weird mashups between existing games, and producing a boom in game preservation projects to get old games working on new hardware (often in a browser using WebAssembly). I like how this piece captures both the ...",
-      "url": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/"
-    },
-    {
-      "title": "Home At Last – Stratechery by Ben Thompson",
-      "text": "3 days ago · The best Stratechery content from the week of October 12, 2026, including what Apple is doing, SpaceX’s appetite, and the title, takes, and the Washington Wizards.",
-      "url": "https://stratechery.com/2026/home-at-last/"
-    },
-    {
-      "title": "UFC – Stratechery by Ben Thompson",
-      "text": "4 days ago · A conversation with Hollywood super-agent Ari Emanuel about his memoir, the impact of AI on Hollywood, and the power of a phone call.",
-      "url": "https://stratechery.com/company/tko/ufc/"
-    },
-    {
-      "title": "Sports – Stratechery by Ben Thompson",
-      "text": "4 days ago · Amazon’s earnings suggest that the shift away from training towards inference and agents means their bet on Trainium is paying off. Plus, additional notes on ads, agents, and sports rights.",
-      "url": "https://stratechery.com/topic/sports/"
-    },
-    {
-      "title": "A Conversation With Ari Emanuel About Entertainment and AI",
-      "text": "4 days ago · I think from startups, I think Box is one of them that was very early. Poor Aaron Levie, he just got killed on his — he had such a vision for SaaS, but it was so early, it was so hard for him to raise money, that by the time he finally got that company to market, he barely owns a tiny slice of it even though he sort of helped write—",
-      "url": "https://stratechery.com/2026/a-conversation-with-ari-emanuel-about-entertainment-and-ai/"
-    },
-    {
-      "title": "Apple HomeView, The New Apple TV, The App Story",
-      "text": "5 days ago · The Apple Homeview is official, and the question is how big is the addressable market for expensive devices based on subpar AI.",
-      "url": "https://stratechery.com/2026/apple-homeview-the-new-apple-tv-the-app-story/"
-    },
-    {
-      "title": "Delayed Costs data in the Compliance API - OpenAI Status",
-      "text": "5 days ago · All impacted services have now fully recovered. We have deployed a fix and are monitoring recovery. Costs data in the Compliance API remains delayed while we process the backlog. We will provide further updates as processing catches up.",
-      "url": "https://status.openai.com/incidents/01M4XNQX7C6RCBNGX9H711WFSG"
-    },
-    {
-      "title": "Amp puts AI agents to work beyond code with OpenAI models",
-      "text": "5 days ago · See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-      "url": "https://openai.com/index/amp-beyond-coding/"
-    },
-    {
-      "title": "Topics tagged dot - OpenAI API Community Forum",
-      "text": "Topics tagged dot",
-      "url": "https://community.openai.com/tag/dot/1209"
-    },
-    {
-      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "text": "5 days ago · Third Moment gives each agent the tools, information, and environment it needs for a specific job. For quantitative research, the team runs the default Codex harness inside a Dockerized environment. Agents receive a terabyte of data, documentation, and a research repository with modules for feature engineering, GPU-supported model training, trading strategies, and simulation.",
-      "url": "https://openai.com/index/third-moment-research/"
-    },
-    {
-      "title": "Limited availability on gpt-image-2.5-flare and gpt-image-2.5 ...",
-      "text": "5 days ago · All impacted services have now fully recovered.",
-      "url": "https://status.openai.com/incidents/01M4WYPP5QA0CJ3JV76KH285K8"
-    },
-    {
-      "title": "Anthropic update on independent evaluators",
-      "text": "4 days ago · Last month, we committed to stronger independent, third-party assessment of our models and safety practices. We also signed the White House Accord on Super Intelligence, in which companies pledged to partner with independent external auditors or evaluators. Today, we’re announcing that we’ve ...",
-      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators"
-    },
-    {
-      "title": "The AI expectations gap \\ Anthropic",
-      "text": "3 days ago · How will AI reshape the economy in the years ahead? What is the core source of disagreement about AI's future impact on the economy? This note presents new survey evidence on these questions.",
-      "url": "https://www.anthropic.com/research/ai-expectations-gap"
-    },
-    {
-      "title": "Designing more efficient quantum circuits with Claude",
-      "text": "3 days ago · Working largely on its own, Claude designed quantum circuits that improve on the best published versions, in some cases by an order of magnitude or more.",
-      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits"
-    },
-    {
-      "title": "Simon Willison on generative-ai",
-      "text": "Oct 10, 2022 · Random 2,027 posts tagged “generative-ai” Machine learning systems that can generate new content: text, images, audio, video and more.",
-      "url": "https://simonwillison.net/tags/generative-ai/"
-    },
-    {
-      "title": "ChatGPT Business release notes - OpenAI Help Center",
-      "text": "Oct 7, 2026 · ChatGPT Business release notes Review the latest features and updates for the ChatGPT Business plan.",
-      "url": "https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes"
-    },
-    {
-      "title": "Claude Haiku 5.5 System Card - anthropic.com",
-      "text": "2 days ago · This system card describes Claude Haiku 5.5, the latest Haiku-class large language model from Anthropic. We present results from a wide variety of pre-deployment evaluations, which show Claude Haiku 5.5 signiﬁcantly outperforming its predecessor, Claude Haiku 4.5, across many domains. In a few areas, it rivaled or exceeded Claude Sonnet 5.5. b We have condensed the content of this system ...",
-      "url": "https://www.anthropic.com/document/claude-haiku-5-5-system-card?pubDate=20261017"
-    },
-    {
-      "title": "Feature Request: Make Structured Website Interfaces a First ...",
-      "text": "3 days ago · Three practical tests: Discover, retrieve and verify The following examples illustrate how structured website interfaces can improve research. Anyone comfortable with Chrome Developer Tools can try them.",
-      "url": "https://community.openai.com/t/feature-request-make-structured-website-interfaces-a-first-class-research-capability-in-chatgpt/1406865"
-    },
-    {
-      "title": "Simon Willison on addy-osmani",
-      "text": "3 days ago · Compatibility is product. Design your deprecations as migrations with time, tooling, and empathy. Most “API design” is actually “API retirement.” — Addy Osmani, 21 lessons from 14 years at Google # 4th January 2026, 4:40 pm / api-design, google, migrations, careers, addy-osmani",
-      "url": "https://simonwillison.net/tags/addy-osmani/"
-    },
-    {
-      "title": "Trying to contact someone on the ChatGPT product design team",
-      "text": "1 day ago · Hi, I’m not sure if this is quite the right place to ask, but I’m hoping to get in touch with someone involved in designing the ChatGPT user interface. I’ve been using ChatGPT extensively and have come up with an idea which I think could make interacting with it considerably more natural and human-like. It concerns the way ChatGPT delivers its often lengthy answers, and how users could ...",
-      "url": "https://community.openai.com/t/trying-to-contact-someone-on-the-chatgpt-product-design-team/1407599"
-    },
-    {
-      "title": "A Proposal for More Human-Centered AI: Reducing Sycophancy ...",
-      "text": "4 days ago · It is an attempt to present a broader vision for improving AI behavior, product design, and accountability. My starting question is straightforward: Why should someone pay for an AI product when free alternatives can perform many of the same tasks?",
-      "url": "https://community.openai.com/t/a-proposal-for-more-human-centered-ai-reducing-sycophancy-improving-memory-strengthening-safety-and-measuring-real-world-benefits/1406469"
-    },
-    {
-      "title": "Feature Request: Unleash My ChatGPT Assistant — The Scutwork ...",
-      "text": "5 days ago · My request to OpenAI’s Product Design and Engineering teams is simple: Please continue expanding ChatGPT’s ability to carry out real-world, authorized administrative tasks directly from the conversation, across both OpenAI’s own services and supported external applications.",
-      "url": "https://community.openai.com/t/feature-request-unleash-my-chatgpt-assistant-the-scutwork-guru-extraordinaire/1406221"
-    },
-    {
-      "title": "Feature Request — Allow ChatGPT to Submit Support Tickets and ...",
-      "text": "5 days ago · I’d like to propose a feature that would allow users to ask their ChatGPT assistant to submit support tickets, bug reports, and feature requests directly to OpenAI’s Engineering and Product Design teams through the existing support system at help.openai.com.",
-      "url": "https://community.openai.com/t/feature-request-allow-chatgpt-to-submit-support-tickets-and-feature-requests-directly/1406222"
-    },
-    {
-      "title": "Alphabetical sorting and collapsible Projects dropdowns",
-      "text": "5 days ago · These two relatively straightforward interface improvements would make ChatGPT much more practical for users managing extensive creative, professional, academic, or research work. I’d greatly appreciate having these suggestions considered by the ChatGPT Product Design and Engineering teams. Thank you!",
-      "url": "https://community.openai.com/t/alphabetical-sorting-and-collapsible-projects-dropdowns/1406220"
-    },
-    {
-      "title": "Feature Request: Nested Folders, Subfolders, and Improved ...",
-      "text": "5 days ago · This is not a request for some futuristic feature. It is a request for basic usability. OpenAI, please treat this as a serious product design issue, not merely another feature suggestion to acknowledge and forget.",
-      "url": "https://community.openai.com/t/feature-request-nested-folders-subfolders-and-improved-organization-for-chatgpt-projects/1406391"
+      "title": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",
+      "text": "Hi all, So I have been working on this project KiviDB from February 2026. It started as a project for me to understand rust, having a product with no GC pauses, memory blow up after snapshots and getting OOM on running pods, and that was actually an issue I faced with Dragonfly. I wanted to have something picking the best of Rust, but also picking the best parts of other alternatives like Garnet and Dragonfly. I used AI a lot, but I was the one making the design decisions based on the tests that",
+      "url": "https://github.com/kividbio/kividb"
     }
   ]
 }
