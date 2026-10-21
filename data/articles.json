@@ -2,17 +2,22 @@
   "articles": [
     {
       "title": "Artificial intelligence is capitalism's final destination",
-      "text": "127 points on Hacker News",
+      "text": "129 points on Hacker News",
       "url": "https://www.equator.org/articles/arundhati-roy-artificial-intelligence"
     },
     {
+      "title": "Cairn: Open windows into AI-driven cyber operations",
+      "text": "https:&#x2F;&#x2F;www.reuters.com&#x2F;legal&#x2F;government&#x2F;how-one-hacker-used... https:&#x2F;&#x2F;www.theverge.com&#x2F;ai-artificial-intelligence&#x2F;1013643&#x2F;...",
+      "url": "https://norforge.com/blog/inside_cairn"
+    },
+    {
       "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-      "text": "171 points on Hacker News",
+      "text": "172 points on Hacker News",
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model"
     },
     {
       "title": "Websites are closing their doors to AI agents",
-      "text": "154 points on Hacker News",
+      "text": "157 points on Hacker News",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
     },
     {
@@ -22,18 +27,18 @@
     },
     {
       "title": "AI lab offers free plumbing and HVAC repairs across three cities to train robots",
-      "text": "33 points on Hacker News",
+      "text": "34 points on Hacker News",
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning"
     },
     {
-      "title": "UK Defence Startups Are Being Denied Banking Services Under ESG Rules",
-      "text": "65 points on Hacker News",
-      "url": "https://foxandlion.pub/analysis/uk-defence-start-ups-are-being-denied-banking-services-under-esg-rules"
+      "title": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
+      "text": "Quick update here since a lot of folks asked about what slopcodebench is &#x2F; where it fits in Slop code bench is unique among benchmarks in that it makes a model work against a progressively disclosed list of features (checkpoints) that it doesn’t know it advance, inheriting the same codebase through the lifecycle of a single multi-checkpoint challenge I like this because it much more mirrors how real software dev happens, rather than most benchmarks with one off tasks where slop code doesn’t",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md"
     },
     {
-      "title": "OpenAI engineer arrested in bugging of executive conference room",
-      "text": "https:&#x2F;&#x2F;x.com&#x2F;OpenAINewsroom&#x2F;status&#x2F;2110095403198849132",
-      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/"
+      "title": "UK Defence Startups Are Being Denied Banking Services Under ESG Rules",
+      "text": "68 points on Hacker News",
+      "url": "https://foxandlion.pub/analysis/uk-defence-start-ups-are-being-denied-banking-services-under-esg-rules"
     },
     {
       "title": "You could have invented transformers from memory",
