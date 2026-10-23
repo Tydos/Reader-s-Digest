@@ -1,11 +1,6 @@
 {
   "articles": [
     {
-      "title": "Artificial intelligence is capitalism's final destination",
-      "text": "129 points on Hacker News",
-      "url": "https://www.equator.org/articles/arundhati-roy-artificial-intelligence"
-    },
-    {
       "title": "Cairn: Open windows into AI-driven cyber operations",
       "text": "https:&#x2F;&#x2F;www.reuters.com&#x2F;legal&#x2F;government&#x2F;how-one-hacker-used... https:&#x2F;&#x2F;www.theverge.com&#x2F;ai-artificial-intelligence&#x2F;1013643&#x2F;...",
       "url": "https://norforge.com/blog/inside_cairn"
@@ -17,7 +12,7 @@
     },
     {
       "title": "Websites are closing their doors to AI agents",
-      "text": "158 points on Hacker News",
+      "text": "159 points on Hacker News",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
     },
     {
@@ -26,24 +21,29 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins"
     },
     {
+      "title": "Mini brain organoids ‘reading’ Braille key step towards biohybrid computing",
+      "text": "37 points on Hacker News",
+      "url": "https://www.frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence"
+    },
+    {
       "title": "AI lab offers free plumbing and HVAC repairs across three cities to train robots",
       "text": "34 points on Hacker News",
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning"
     },
     {
-      "title": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
-      "text": "Quick update here since a lot of folks asked about what slopcodebench is &#x2F; where it fits in Slop code bench is unique among benchmarks in that it makes a model work against a progressively disclosed list of features (checkpoints) that it doesn’t know it advance, inheriting the same codebase through the lifecycle of a single multi-checkpoint challenge I like this because it much more mirrors how real software dev happens, rather than most benchmarks with one off tasks where slop code doesn’t",
-      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md"
+      "title": "Data centers could erase decades of air quality gains",
+      "text": "30 points on Hacker News",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report"
+    },
+    {
+      "title": "Startup taps underwater volcano as energy source in “proof point” test",
+      "text": "132 points on Hacker News",
+      "url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/"
     },
     {
       "title": "UK Defence Startups Are Being Denied Banking Services Under ESG Rules",
       "text": "68 points on Hacker News",
       "url": "https://foxandlion.pub/analysis/uk-defence-start-ups-are-being-denied-banking-services-under-esg-rules"
-    },
-    {
-      "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
-      "text": "40 points on Hacker News",
-      "url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/"
     },
     {
       "title": "You could have invented transformers from memory",
@@ -66,108 +66,118 @@
       "url": "https://github.com/kividbio/kividb"
     },
     {
+      "title": "Simon Willison on ai",
+      "text": "1 day ago · Donating Agent Skills to the Agentic AI Foundation. News today from Anthropic: We’re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foundation (AAIF) under the Linux Foundation, which we co-founded with Block and OpenAI last year, and to which we donated the Model Context Protocol (MCP). I'm pleased to note ...",
+      "url": "https://simonwillison.net/tags/ai/"
+    },
+    {
       "title": "Simon Willison on deepseek",
-      "text": "5 days ago · 36 posts tagged ‘deepseek’. DeepSeek is an AI lab from Chinese hedge fund High-Flyer.",
+      "text": "6 days ago · 36 posts tagged ‘deepseek’. DeepSeek is an AI lab from Chinese hedge fund High-Flyer.",
       "url": "https://simonwillison.net/tags/deepseek/"
     },
     {
       "title": "Project Oracle for future - API - OpenAI Developer Community",
-      "text": "4 days ago · Project Oracle: A Vision for the Future of Personalized AI Companions Created by Tyreece Elbert | October 2026 Hello, OpenAI Community! My name is Tyreece Elbert, and I’m a ChatGPT user with a vision I’d love to share with the community. I’ve been exploring how artificial intelligence could become more personal, accessible, and integrated into everyday life. Over time, I customized my ...",
+      "text": "5 days ago · I’ve been exploring how artificial intelligence could become more personal, accessible, and integrated into everyday life. Over time, I customized my ChatGPT assistant and gave it a name: Tetris. What fascinated me wasn’t just what AI could answer or accomplish.",
       "url": "https://community.openai.com/t/project-oracle-for-future/1407509"
     },
     {
-      "title": "Could AI's Mistakes Help Us Understand Human Intelligence?",
-      "text": "2 days ago · Through ongoing conversations with ChatGPT, I’ve begun to wonder whether the development of AI offers an opportunity not only to understand artificial intelligence, but also to better understand ourselves. Recent reports about unexpected AI agent behavior brought this question into sharper focus.",
-      "url": "https://community.openai.com/t/could-ais-mistakes-help-us-understand-human-intelligence/1408029"
-    },
-    {
       "title": "Product News and Updates | OpenAI",
-      "text": "1 day ago · Read the latest OpenAI product news, including releases, announcements, and updates across ChatGPT, Codex, AI models, developer tools, and more",
+      "text": "2 days ago · Read the latest OpenAI product news, including releases, announcements, and updates across ChatGPT, Codex, AI models, developer tools, and more",
       "url": "https://openai.com/news/product-releases/"
     },
     {
-      "title": "“AI for Nature: A Proposal to Use Artificial Intelligence to ...",
-      "text": "4 days ago · Artificial intelligence has the potential to influence how people understand environmental problems and make everyday decisions. By incorporating relevant environmental awareness and practical suggestions into AI conversations, we could encourage people to take greater responsibility for protecting the world around them.",
-      "url": "https://community.openai.com/t/ai-for-nature-a-proposal-to-use-artificial-intelligence-to-protect-the-source-of-life/1407439"
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and ...",
+      "text": "12 hours ago · Through the agreement, NASK’s AI Safety Research Center – serving as the Polish Artificial Intelligence Safety Institute (AISI) – and OpenAI will collaborate on AI safety research, exploring ways to evaluate increasingly capable AI systems, identify potential vulnerabilities and strengthen safeguards.",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership/?ref=explainx"
     },
     {
-      "title": "Product Innovation Proposal for OpenAI Leadership — Common ...",
-      "text": "3 days ago · Dear OpenAI Product Development Team, I am writing to share a concept that I believe could represent an important and socially meaningful direction for artificial intelligence. What if one of AI’s greatest contributions to humanity was helping people develop genuine, lasting friendships while strengthening the qualities that bring out the best in one another? As artificial intelligence ...",
-      "url": "https://community.openai.com/t/product-innovation-proposal-for-openai-leadership-common-ground-ai-for-human-connection-and-social-well-being/1407834"
+      "title": "Simon Willison on llm",
+      "text": "5 days ago · 641 posts tagged ‘llm’. LLM is my command-line tool for running prompts against Large Language Models.",
+      "url": "https://simonwillison.net/tags/llm/"
     },
     {
-      "title": "Simon Willison on code-review",
-      "text": "6 days ago · Your job is to deliver code you have proven to work In all of the debates about the value of AI-assistance in software development there’s one depressing anecdote that I keep on seeing: the junior engineer, empowered by some class of LLM tool, who deposits giant, untested PRs on their coworkers—or open source maintainers—and expects the “code review” process to handle the rest ...",
-      "url": "https://simonwillison.net/tags/code-review/"
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "text": "1 day ago · Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout/"
     },
     {
-      "title": "Advancing coding in low‑resource programming languages - OpenAI",
-      "text": "3 days ago · Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+      "title": "Advancing coding in low‑resource programming languages",
+      "text": "4 days ago · Our goal is to help models apply software engineering skills across more languages: understanding unfamiliar repositories, planning changes, using build tools, running tests, and debugging failures. You can try our latest models through the API on coding tasks in the languages your team uses.",
       "url": "https://openai.com/index/low-resource-programming-languages/"
     },
     {
       "title": "Hierarchical Continual Learning: AI Assistants Must Learn ...",
-      "text": "13 hours ago · Proposal: Hierarchical Continual Learning for AI Assistants I would like to propose an architectural approach to a fundamental limitation of current AI assistants: their ability to recognize mistakes substantially exceeds their ability to learn from those mistakes and reliably avoid repeating them. The problem During an extensive software engineering project involving historical financial ...",
+      "text": "1 day ago · Proposal: Hierarchical Continual Learning for AI Assistants I would like to propose an architectural approach to a fundamental limitation of current AI assistants: their ability to recognize mistakes substantially exceeds their ability to learn from those mistakes and reliably avoid repeating them. The problem During an extensive software engineering project involving historical financial ...",
       "url": "https://community.openai.com/t/hierarchical-continual-learning-ai-assistants-must-learn-from-mistakes-not-just-remember-them/1408676"
     },
     {
-      "title": "Product and Research Proposal: A Self-Improving, Multi-Agent ...",
-      "text": "1 day ago · Hello OpenAI Team, I would like to suggest a direction for AI coding tools: a C+±focused engineering system built around specialized agents, persistent verified memory, shared program models, and automated verification. My concern is that even capable coding models can produce C++ that looks correct, compiles successfully, and passes basic tests while containing subtle lifetime errors ...",
-      "url": "https://community.openai.com/t/product-and-research-proposal-a-self-improving-multi-agent-c-engineering-system/1408468"
+      "title": "ChatGPT Workspace and Conversation Organization",
+      "text": "4 days ago · I’m a long-term ChatGPT Plus subscriber and heavy daily user, primarily for software engineering, architecture, business development, and financial planning. ChatGPT has become an important part of my daily workflow, but its conversation and project management capabilities have not kept pace with how people actually use the product.",
+      "url": "https://community.openai.com/t/chatgpt-workspace-and-conversation-organization/1407788"
+    },
+    {
+      "title": "Event Replay: Game Changers Summit: How AI is Shaping the ...",
+      "text": "1 day ago · In his role, Chase leads the Baseball Systems group consisting of data engineering, machine learning engineering, software engineering, and software product development. Chase and the Baseball Systems department will drive the development of technical infrastructure supporting Research and Development and the wider Baseball Operations group. Mr.",
+      "url": "https://forum.openai.com/public/videos/event-replay-game-changers-summit-how-ai-is-shaping-the-future-of-sports-2026-10-21"
+    },
+    {
+      "title": "My obituary for programming - simonwillison.net",
+      "text": "4 days ago · My obituary for programming (via) Jeremy Scheff poignantly captures the key loss caused by coding agents for career programmers who enjoyed the puzzle of developing code: Programming turned into one of the greatest jobs you could imagine. You got paid to work on tricky little logic puzzles. The trickier the puzzle, the more you got paid. But even pretty simple puzzles were worth a lot of money ...",
+      "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/"
     },
     {
       "title": "Release: llm-tools-datasette 0.1.1 - simonwillison.net",
-      "text": "4 days ago · When I switched LLM over to httpx2 in LLM 0.33 I forget that this would break any plugins which used httpx without directly depending on it. llm-tools-datasette was one of those plugins, now fixed.",
+      "text": "5 days ago · When I switched LLM over to httpx2 in LLM 0.33 I forget that this would break any plugins which used httpx without directly depending on it. llm-tools-datasette was one of those plugins, now fixed.",
       "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/"
     },
     {
       "title": "Archive for Sunday, 18th October 2026",
-      "text": "4 days ago · I'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a \"model\" which doesn't involve an LLM at all - it just repeats back the prompts that have been fed to it. The new release now updates the simulated token usage counts to take tool calls, system prompts, and reasoning tokens into account. Example usage: uvx --with llm ...",
+      "text": "5 days ago · I'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a \"model\" which doesn't involve an LLM at all - it just repeats back the prompts that have been fed to it. The new release now updates the simulated token usage counts to take tool calls, system prompts, and reasoning tokens into account. Example usage: uvx --with llm ...",
       "url": "https://simonwillison.net/2026/Oct/18/"
     },
     {
-      "title": "Simon Willison on llm",
-      "text": "4 days ago · 641 posts tagged ‘llm’. LLM is my command-line tool for running prompts against Large Language Models.",
-      "url": "https://simonwillison.net/tags/llm/"
-    },
-    {
       "title": "Releases",
-      "text": "4 days ago · I'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a \"model\" which doesn't involve an LLM at all - it just repeats back the prompts that have been fed to it. The new release now updates the simulated token usage counts to take tool calls, system prompts, and reasoning tokens into account. Example usage: uvx --with llm ...",
+      "text": "5 days ago · I'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a \"model\" which doesn't involve an LLM at all - it just repeats back the prompts that have been fed to it. The new release now updates the simulated token usage counts to take tool calls, system prompts, and reasoning tokens into account. Example usage: uvx --with llm ...",
       "url": "https://simonwillison.net/elsewhere/release/"
     },
     {
-      "title": "Simon Willison on addy-osmani",
-      "text": "6 days ago · Becoming a good engineer is about collecting experience. Each project, even small ones, is a chance to add new techniques and tools to your toolbox. Where this delivers even more value is when you can solve problems by pairing techniques learned on one project with tools learned working on another. It all adds up. — Addy Osmani # 18th June 2022, 9:21 pm / careers, addy-osmani",
-      "url": "https://simonwillison.net/tags/addy-osmani/"
-    },
-    {
-      "title": "A quote from Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
-      "text": "6 days ago · We think \"did a human read the code?\" is an imprecise proxy for \"what could go wrong with this change, and which check—automated or human—is the right one to catch …",
-      "url": "https://simonwillison.net/2026/Oct/16/code-review/"
-    },
-    {
-      "title": "Ben Thompson – Stratechery by Ben Thompson",
-      "text": "2 days ago · Stratechery is now presented by Stripe. What that means for me, for you, and for the future of Stratechery content. Netflix has a solid business, which is exactly the problem: the company increasingly seems like a business and not a franchise, at least in terms of growth. Meta has a new open source ...",
-      "url": "https://stratechery.com/author/stratechery/"
+      "title": "Archive for Monday, 19th October 2026",
+      "text": "4 days ago · My obituary for programming (via) Jeremy Scheff poignantly captures the key loss caused by coding agents for career programmers who enjoyed the puzzle of developing code: Programming turned into one of the greatest jobs you could imagine. You got paid to work on tricky little logic puzzles. The trickier the puzzle, the more you got paid. But even pretty simple puzzles were worth a lot of money ...",
+      "url": "https://simonwillison.net/2026/Oct/19/"
     },
     {
       "title": "2026 – Stratechery by Ben Thompson",
-      "text": "1 day ago · Stratechery is now presented by Stripe. What that means for me, for you, and for the future of Stratechery content.",
+      "text": "2 days ago · Stratechery is now presented by Stripe. What that means for me, for you, and for the future of Stratechery content.",
       "url": "https://stratechery.com/2026/"
     },
     {
-      "title": "Latest Feature requests topics - OpenAI Developer Community",
-      "text": "13 hours ago · Dear OpenAI Development Team, I would like to suggest a new feature called ChatGPT Voice Freedom. chatgpt. 0: 17: October 21, 2026",
-      "url": "https://community.openai.com/c/chatgpt/feature-requests/24"
+      "title": "Ben Thompson – Stratechery by Ben Thompson",
+      "text": "2 days ago · Sharp Tech is, for the first time, available on video. You have two ways to consume it: YouTube, and here on Stratechery An interview with Craig Moffett about SpaceX, from launch to broadband to mobile, plus how he is applying the lessons of the dot-com bubble to today. Stratechery is now presented ...",
+      "url": "https://stratechery.com/author/stratechery/"
+    },
+    {
+      "title": "Do You Trust Apple? – Stratechery by Ben Thompson",
+      "text": "4 days ago · Apple has a lot of trust in terms of delivering integrated products and preserving privacy; the real trust question is if you think Siri AI will justify investing more in their ecosystem.",
+      "url": "https://stratechery.com/2026/do-you-trust-apple/"
+    },
+    {
+      "title": "Muse Spark Open, Meta + Apple, Thin and Thick",
+      "text": "3 days ago · Meta has a new open source model, and to everyone’s surprise, they are are partnering with Apple to make sure you can run it locally.",
+      "url": "https://stratechery.com/2026/muse-spark-open-meta-apple-thin-and-thick/"
     },
     {
       "title": "Topics tagged daybreak-blue - OpenAI API Community Forum",
-      "text": "3 days ago · Topics tagged daybreak-blue",
+      "text": "4 days ago · Topics tagged daybreak-blue",
       "url": "https://community.openai.com/tag/daybreak-blue/1208"
     },
     {
+      "title": "File Download errors - OpenAI Status",
+      "text": "4 days ago · All impacted services have now fully recovered. We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.",
+      "url": "https://status.openai.com/incidents/01M5A5S1ATN3QB2WCHQ3VDZC81"
+    },
+    {
       "title": "Topics tagged codex-pets - OpenAI API Community Forum",
-      "text": "1 day ago · Topics tagged codex-pets",
+      "text": "2 days ago · Topics tagged codex-pets",
       "url": "https://community.openai.com/tag/codex-pets/1170"
     },
     {
@@ -176,54 +186,64 @@
       "url": "https://community.openai.com/tag/codex/6"
     },
     {
-      "title": "Topics tagged chatgpt - OpenAI API Community Forum",
-      "text": "13 hours ago · Topics tagged chatgpt",
-      "url": "https://community.openai.com/tag/chatgpt/16"
+      "title": "Investing in the public benefit \\ Anthropic",
+      "text": "5 days ago · We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.",
+      "url": "https://www.anthropic.com/news/public-benefit-fund"
     },
     {
-      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-      "text": "2 days ago · Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
-      "url": "https://openai.com/index/terminal-x/"
+      "title": "Reducing Reward Hacking by Localizing Bad Behavior Instead of ...",
+      "text": "4 days ago · tl;dr During training, models sometimes learn to cheat at tasks rather than solve them in the intended way, a problem known as reward hacking. One mitigation is to use an automated monitor to detect and penalize hacks, but this can teach the model to hack in ways the monitor can’t detect. We propose GRAFT, which instead confines the learning updates from detected hacks to a designated set of ...",
+      "url": "https://alignment.anthropic.com/2026/graft/"
+    },
+    {
+      "title": "How Claude designed protein binders against scorpion ...",
+      "text": "3 days ago · We asked an internal research Claude model to design minibinders (small proteins that attach tightly to a target) against scorpion neurotoxins.",
+      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design"
+    },
+    {
+      "title": "Simon Willison on pelican-riding-a-bicycle",
+      "text": "Jul 9, 2026 · My benchmark for LLMs: \"Generate an SVG of a pelican riding a bicycle\". Here's my answer to what happens if AI labs train for pelicans riding bicycles?. \"User might be a kid playing with words\" according to Qwen3-4B-Thinking.",
+      "url": "https://simonwillison.net/tags/pelican-riding-a-bicycle/"
+    },
+    {
+      "title": "What FDE means at OpenAI | OpenAI",
+      "text": "1 day ago · What forward deployed engineering means at OpenAI We focus on customers’ hardest problems. Where our models can do the job today, we work with Product and our customer to make the solution repeatable and, where they fall short, we work with customers and Research to define the gap and make improvements. Our goal is for each engagement to leave the next customer with a better starting point ...",
+      "url": "https://openai.com/index/forward-deployed-engineering-means/"
     },
     {
       "title": "OpenAI models are coming to Google Cloud",
-      "text": "Google Cloud’s longstanding investment in machine learning and AI has made it a destination for AI workloads and the developers and data scientists building them. Bringing OpenAI models to its model garden gives these teams access to OpenAI’s frontier models within the environment where they already work, enabling enterprises to modernize their software development lifecycle, build agentic ...",
+      "text": "2 days ago · Google Cloud’s longstanding investment in machine learning and AI has made it a destination for AI workloads and the developers and data scientists building them. Bringing OpenAI models to its model garden gives these teams access to OpenAI’s frontier models within the environment where they already work, enabling enterprises to modernize their software development lifecycle, build agentic ...",
       "url": "https://openai.com/index/openai-models-google-cloud/"
     },
     {
-      "title": "Claude Haiku 5.5 System Card - anthropic.com",
-      "text": "5 days ago · This system card describes Claude Haiku 5.5, the latest Haiku-class large language model from Anthropic. We present results from a wide variety of pre-deployment evaluations, which show Claude Haiku 5.5 signiﬁcantly outperforming its predecessor, Claude Haiku 4.5, across many domains. In a few areas, it rivaled or exceeded Claude Sonnet 5.5. b We have condensed the content of this system ...",
-      "url": "https://www.anthropic.com/document/claude-haiku-5-5-system-card?pubDate=20261017"
+      "title": "Les modèles d’OpenAI arrivent sur Google Cloud",
+      "text": "2 days ago · Les investissements de longue date de Google Cloud dans le machine learning et l’IA en ont fait une plateforme de référence pour les charges de travail d’IA, ainsi que pour les développeurs et les data scientists qui les créent. L’intégration des modèles d’OpenAI à son Model Garden donne à ces équipes accès aux modèles de pointe d’OpenAI dans leur environnement de travail ...",
+      "url": "https://openai.com/fr-FR/index/openai-models-google-cloud/"
     },
     {
       "title": "Product News and Updates | OpenAI",
-      "text": "1 day ago · Read the latest OpenAI product news, including releases, announcements, and updates across ChatGPT, Codex, AI models, developer tools, and more",
+      "text": "2 days ago · Read the latest OpenAI product news, including releases, announcements, and updates across ChatGPT, Codex, AI models, developer tools, and more",
       "url": "https://openai.com/news/product/"
     },
     {
       "title": "Trying to contact someone on the ChatGPT product design team",
-      "text": "4 days ago · Hi, I’m not sure if this is quite the right place to ask, but I’m hoping to get in touch with someone involved in designing the ChatGPT user interface. I’ve been using ChatGPT extensively and have come up with an idea which I think could make interacting with it considerably more natural and human-like. It concerns the way ChatGPT delivers its often lengthy answers, and how users could ...",
+      "text": "5 days ago · Trying to contact someone on the ChatGPT product design team ChatGPT Feature requests chatgpt",
       "url": "https://community.openai.com/t/trying-to-contact-someone-on-the-chatgpt-product-design-team/1407599"
     },
     {
       "title": "Forward deployed engineering for enterprise AI | OpenAI",
-      "text": "13 hours ago · See how OpenAI forward deployed engineers (FDEs) help organizations turn frontier AI into dependable production systems for their most consequential work.",
+      "text": "1 day ago · See how OpenAI forward deployed engineers (FDEs) help organizations turn frontier AI into dependable production systems for their most consequential work.",
       "url": "https://openai.com/business/forward-deployed-engineering/"
     },
     {
-      "title": "Native AI-Powered 3D Modeling and Editing for ChatGPT ...",
-      "text": "3 days ago · This limits their usefulness in engineering, prototyping, model making, product design, and technical education. ChatGPT could offer a major advantage by combining its conversational capabilities with a geometry-aware 3D modeling environment.",
-      "url": "https://community.openai.com/t/native-ai-powered-3d-modeling-and-editing-for-chatgpt-business/1407775"
+      "title": "ChatGPT Business release notes - OpenAI Help Center",
+      "text": "3 days ago · This first set includes Sales, Data Analytics, Product Design, Creative Production, Investment Banking, and Public Equity Investing. These plugins package role-specific skills, app integrations, starter prompts, and workflow guidance so teams can use Codex for sales prep, analytics and dashboards, prototypes, creative assets, and financial ...",
+      "url": "https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes"
     },
     {
-      "title": "Feature proposal: inline Tangents for ChatGPT",
-      "text": "2 days ago · Ask follow-up questions without losing your place Hello OpenAI Team, I’d like to share a feature idea that I believe could make ChatGPT more convenient, more intuitive, more accessible, and more commercially valuable. ChatGPT has genuinely made parts of my life easier. I use it to learn, explore complicated subjects, work through problems, and understand things that might otherwise take me ...",
-      "url": "https://community.openai.com/t/feature-proposal-inline-tangents-for-chatgpt/1407964"
-    },
-    {
-      "title": "Introduce Volume-Based Discounts for Codex Credit Purchases",
-      "text": "5 days ago · THE CORE PROBLEM I would like to propose a volume-based pricing model for purchasing additional Codex credits. The central issue is simple: when larger credit packages maintain the same effective price per credit as smaller packages, customers have little financial incentive to commit to a larger purchase. From the customer’s perspective, purchasing multiple smaller packages provides ...",
-      "url": "https://community.openai.com/t/introduce-volume-based-discounts-for-codex-credit-purchases/1407356"
+      "title": "Reflections on the Future of Human–AI Interaction: A ...",
+      "text": "1 day ago · A valuable question for AI research and product design is how to support these constructive interactions while preserving transparency about system capabilities, protecting privacy, and ensuring that human users remain informed and in control. 7. Principles worth discussing We invite discussion of the following principles:",
+      "url": "https://community.openai.com/t/reflections-on-the-future-of-human-ai-interaction-a-collaborative-dialogue-between-luna-chatgpt-and-jaime-a-human/1408939"
     }
   ]
 }
