@@ -1,6 +1,31 @@
 {
   "articles": [
     {
+      "title": "US President says he will ban the term 'artificial intelligence'",
+      "text": "96 points on Hacker News",
+      "url": "https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/"
+    },
+    {
+      "title": "Artificial Analysis Intelligence Index v5",
+      "text": "76 points on Hacker News",
+      "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5"
+    },
+    {
+      "title": "Artificial Analysis Intelligence Index v5.0",
+      "text": "38 points on Hacker News",
+      "url": "https://artificialanalysis.ai/methodology/intelligence-benchmarking"
+    },
+    {
+      "title": "Trump says he will ban everyone from using the phrase 'artificial intelligence'",
+      "text": "37 points on Hacker News",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-ban-artificial-intelligence-phrase-b3074397.html"
+    },
+    {
+      "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+      "text": "335 points on Hacker News",
+      "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova"
+    },
+    {
       "title": "Mini brain organoids ‘reading’ Braille key step towards biohybrid computing",
       "text": "38 points on Hacker News",
       "url": "https://www.frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence"
@@ -16,159 +41,99 @@
       "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8"
     },
     {
-      "title": "Introducing Kimi K3.1 Pro",
-      "text": "4 days ago · Introducing Kimi K3.1 Pro (via) Kimi K3.1 Pro landed on the Kimi API today - it's not yet open weights, but Moonshot promise \"Full model weights will be released by Nov 4, 2026\". They're also offering a \"Highspeed\" version that's 2-3x faster, at twice the price (except for input token cache hits, which are priced the same). The US dollar pricing is $2.00/million tokens for input and $10 ...",
-      "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/"
+      "title": "Simon Willison on ai-misuse",
+      "text": "Ouch: Deloitte will provide a partial refund to the federal government over a $440,000 report that contained several errors, after admitting it used generative artificial intelligence to help produce it. (I was initially confused by the \"Albanese government\" reference in the headline since this is a story about the Australian federal government.",
+      "url": "https://simonwillison.net/tags/ai-misuse/"
     },
     {
-      "title": "Product News and Updates | OpenAI",
-      "text": "5 days ago · Read the latest OpenAI product news, including releases, announcements, and updates across ChatGPT, Codex, AI models, developer tools, and more",
-      "url": "https://openai.com/news/product-releases/"
+      "title": "OpenAI Research | Publication",
+      "text": "5 days ago · We’re introducing GPT-6.1 Terra, the latest model in the GPT-6 series. GPT-6.1 Terra is a fast, efficient model for high-volume professional work, with strong image analysis and computer use capabilities. This system card addendum provides updates on the baseline safety metrics and evaluation results for GPT-6.1 Terra.",
+      "url": "https://openai.com/research/index/publication/"
     },
     {
-      "title": "OpenAI continuous learning and its benefit for mankind",
-      "text": "13 hours ago · Collective Intelligence A Proposal for Continuously Learning Artificial Intelligence in Service of Humanity Concept Proposal | October 2026 Executive Summary Humanity possesses an extraordinary wealth of knowledge accumulated over thousands of years. Scientific discoveries, historical records, engineering methods, agricultural techniques, medical research, philosophical works, and countless ...",
-      "url": "https://community.openai.com/t/openai-continuous-learning-and-its-benefit-for-mankind/1410034"
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and ...",
+      "text": "5 days ago · Through the agreement, NASK’s AI Safety Research Center – serving as the Polish Artificial Intelligence Safety Institute (AISI) – and OpenAI will collaborate on AI safety research, exploring ways to evaluate increasingly capable AI systems, identify potential vulnerabilities and strengthen safeguards.",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership/"
     },
     {
-      "title": "ChatGPT 101 for Government Professionals - Event | OpenAI Academy",
-      "text": "Build practical confidence using ChatGPT in your everyday work. Designed with government professionals in mind and open to everyone, this introductory session will cover effective prompting, practical workflows, and thoughtful AI use—with human judgment at the center.",
-      "url": "https://academy.openai.com/public/events/chatgpt-101-for-government-professionals-9m9z6y8n3a"
-    },
-    {
-      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "text": "5 days ago · Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-      "url": "https://openai.com/index/uber-chatgpt-work-rollout/"
-    },
-    {
-      "title": "Hierarchical Continual Learning: AI Assistants Must Learn ...",
-      "text": "5 days ago · Proposal: Hierarchical Continual Learning for AI Assistants I would like to propose an architectural approach to a fundamental limitation of current AI assistants: their ability to recognize mistakes substantially exceeds their ability to learn from those mistakes and reliably avoid repeating them. The problem During an extensive software engineering project involving historical financial ...",
-      "url": "https://community.openai.com/t/hierarchical-continual-learning-ai-assistants-must-learn-from-mistakes-not-just-remember-them/1408676"
-    },
-    {
-      "title": "Let External Agents Operate Dots Through an Official CLI/API",
-      "text": "3 days ago · Feature Request: Let External Agents Operate Dots Through an Official CLI/API Dots can operate other agents. Other agents should be able to operate Dots, too. I’ve been using my personal Dot, Byte, as an operational coordinator for Vértice Labs, a multi-agent software engineering laboratory. Byte already works remarkably well as a persistent coordinator. It can delegate tasks to Codex ...",
-      "url": "https://community.openai.com/t/let-external-agents-operate-dots-through-an-official-cli-api/1409313"
+      "title": "Research - OpenAI",
+      "text": "2 days ago · Advancing coding in low‑resource programming languages Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+      "url": "https://openai.com/research/index/"
     },
     {
       "title": "Tools - simonwillison.net",
-      "text": "1 day ago · Simon Willison’s Weblog Tools All entries that link to https://tools.simonwillison.net/ in some way Owned by simonw, visibility: Unlisted",
+      "text": "2 days ago · Simon Willison’s Weblog Tools All entries that link to https://tools.simonwillison.net/ in some way Owned by simonw, visibility: Unlisted",
       "url": "https://simonwillison.net/dashboard/tools/"
     },
     {
       "title": "tools.simonwillison.net",
-      "text": "2 days ago · Miscellaneous HTML+JavaScript tools built mostly with the help of LLMs. See also /python/ for tools written using Python. This collection is an experiment in prompt-driven development with very low stakes. The colophon lists commit messages and transcripts for every tool. The code lives in simonw/tools and many tools used the Claude custom instructions described here.",
+      "text": "3 days ago · Miscellaneous HTML+JavaScript tools built mostly with the help of LLMs. See also /python/ for tools written using Python. This collection is an experiment in prompt-driven development with very low stakes. The colophon lists commit messages and transcripts for every tool. The code lives in simonw/tools and many tools used the Claude custom instructions described here.",
       "url": "https://tools.simonwillison.net/index.html"
     },
     {
       "title": "Simon Willison on tools",
-      "text": "2 days ago · 82 posts tagged ‘tools’. Small tools I have built, many of which are hosted on my tools.simonwillison.net GitHub Pages site backed by my simonw/tools repository.",
+      "text": "3 days ago · 82 posts tagged ‘tools’. Small tools I have built, many of which are hosted on my tools.simonwillison.net GitHub Pages site backed by my simonw/tools repository.",
       "url": "https://simonwillison.net/tags/tools/"
     },
     {
-      "title": "Donating Agent Skills to the Agentic AI Foundation",
-      "text": "5 days ago · News today from Anthropic: We’re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foundation (AAIF) under the Linux Foundation, …",
-      "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/"
+      "title": "Release: battledrones v14: Compass Rose, a four player map",
+      "text": "4 days ago · I added four player online mode to Battledrones - previous maps were limited to two. Here's the initial prompt I used: Add a new map for a four player battle - four way rotational symmetry, up to four AI players, works with the WebSocket non-audio based multiplayer mode so up to four human players can join (any spare slots use AI) Claude Opus 5.5 added a new map called \"Compass Rose\" and ...",
+      "url": "https://simonwillison.net/2026/Oct/24/battledrones/"
     },
     {
-      "title": "Archive for Friday, 23rd October 2026",
-      "text": "4 days ago · Introducing Kimi K3.1 Pro (via) Kimi K3.1 Pro landed on the Kimi API today - it's not yet open weights, but Moonshot promise \"Full model weights will be released by Nov 4, 2026\". They're also offering a \"Highspeed\" version that's 2-3x faster, at twice the price (except for input token cache hits, which are priced the same). The US dollar pricing is $2.00/million tokens for input and $10 ...",
-      "url": "https://simonwillison.net/2026/Oct/23/"
+      "title": "2026 – Stratechery by Ben Thompson",
+      "text": "1 day ago · The best Stratechery content from the week of October 19, 2026, including the best iPad but worst phone, SS Sarandos in a storm, and You Can See Everything.",
+      "url": "https://stratechery.com/2026/"
     },
     {
-      "title": "China – Stratechery by Ben Thompson",
-      "text": "May 21, 2019 · If there is a new tech cold war, it is one with shots fired over a decade ago, largely by China. The questions going forward are about both leverage and values.",
-      "url": "https://stratechery.com/topic/countries/china/"
+      "title": "A New Era – Stratechery by Ben Thompson",
+      "text": "5 days ago · The best Stratechery content from the week of October 19, 2026, including the best iPad but worst phone, SS Sarandos in a storm, and You Can See Everything.",
+      "url": "https://stratechery.com/2026/a-new-era/"
     },
     {
-      "title": "An Interview with Craig Moffett About SpaceX and Bubbles",
-      "text": "5 days ago · An interview with Craig Moffett about SpaceX, from launch to broadband to mobile, plus how he is applying the lessons of the dot-com bubble to today.",
-      "url": "https://stratechery.com/2026/an-interview-with-craig-moffett-about-spacex-and-bubbles/"
+      "title": "Anima helps clinics cut call waits by 75% with GPT-6 ... - OpenAI",
+      "text": "5 days ago · Anima expands what care teams can do with OpenAI models, giving them more capacity to respond to patients.",
+      "url": "https://openai.com/index/anima/"
     },
     {
-      "title": "Sharp Tech on Video: Netflix Angst, the End of the Internet ...",
-      "text": "4 days ago · Sharp Tech is, for the first time, available on video. You have two ways to consume it: YouTube, and here on Stratechery Subscribe to Stratechery Plus for full access. A twice-weekly podcast from John Gruber and myself: 15 minutes an episode, not a minute less, not a minute more. Once you are ...",
-      "url": "https://stratechery.com/2026/sharp-tech-on-video-netflix-angst-the-end-of-the-internet-and-metas-vr-glasses/"
+      "title": "New Ad Accounts failing to provision admins - OpenAI Status",
+      "text": "6 days ago · All impacted services have now fully recovered.",
+      "url": "https://status.openai.com/incidents/01M5JHVJVC8WAXB4WRYFMKG6HP"
     },
     {
       "title": "Event Replay: Biodefense in the AI Age - Video | OpenAI Forum",
-      "text": "1 day ago · Before that, she was a Principal at The SALT Fund, investing in biotechnology and deep tech startups such as General Biological and Northwood Space. She holds a B.S. in Molecular Biophysics and Biochemistry from Yale.",
+      "text": "2 days ago · He is also cofounder and CEO of HelixNano, a clinical-stage mRNA therapeutics company pioneering the integration of machine learning into therapeutic design. Hannu previously cofounded ThinkTank Maths, an applied mathematics and AI consultancy whose clients included the European Space Agency and the UK Ministry of Defense.",
       "url": "https://forum.openai.com/public/videos/event-replay-biodefense-in-the-ai-age-2026-10-21"
     },
     {
-      "title": "Topics tagged codex - OpenAI API Community Forum",
-      "text": "Topics tagged codex",
-      "url": "https://community.openai.com/tag/codex/6"
+      "title": "Security - OpenAI",
+      "text": "5 days ago · OpenAI news related to security Company Research Product Safety Engineering Security Intelligence Age Global Affairs AI Adoption Applied AI All",
+      "url": "https://openai.com/news/security/"
     },
     {
-      "title": "Degraded experience with ChatGPT app connections using CIMD",
-      "text": "4 days ago · Some ChatGPT app connections experienced failures when connecting a new app or refreshing an existing connection. The affected authentication metadata endpoint is available again, and we are monitoring recovery.",
-      "url": "https://status.openai.com/incidents/01M5NFF94XCJ6CGTD4S78A9BEB"
-    },
-    {
-      "title": "Frontier Red Team \\ Anthropic",
-      "text": "5 days ago · The Frontier Red Team stress-tests AI systems to understand the full extent of their current capabilities and anticipate what comes next. We provide evidence-based analysis about AI’s implications for cybersecurity, national security, and autonomous systems.",
-      "url": "https://www.anthropic.com/research/team/frontier-red-team"
-    },
-    {
-      "title": "Donating Agent Skills to the Agentic AI Foundation \\ Anthropic",
-      "text": "5 days ago · Today, we’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation (AAIF). More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025. Agent interoperability through simplicity A skill is a folder containing a SKILL ...",
-      "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation"
-    },
-    {
-      "title": "LLMs are making formal software verification feasible at a ...",
-      "text": "5 days ago · Claude formally proved security properties in the compiled code of 123 open-source libraries. Along the way, it found bugs that had eluded detection for years.",
-      "url": "https://www.anthropic.com/research/formal-verification"
-    },
-    {
-      "title": "What FDE means at OpenAI",
-      "text": "5 days ago · What forward deployed engineering means at OpenAI We focus on customers’ hardest problems. Where our models can do the job today, we work with Product and our customer to make the solution repeatable and, where they fall short, we work with customers and Research to define the gap and make improvements. Our goal is for each engagement to leave the next customer with a better starting point ...",
-      "url": "https://openai.com/index/forward-deployed-engineering-means/"
-    },
-    {
-      "title": "Tegese FDE ing OpenAI",
-      "text": "5 days ago · Salah siji tuladhane yaiku See & Spray, teknologi pengendalian gulma kanthi presisi sing nggunakake kamera lan machine learning kanggo ngenali lan nyemproti gulma, dudu nyemproti kabeh lahan, saengga bisa nyuda panggunaan bahan kimia nganti 70%.",
-      "url": "https://openai.com/jv-ID/index/forward-deployed-engineering-means/"
-    },
-    {
-      "title": "De rol van de Forward Deployed Engineer bij OpenAI",
-      "text": "5 days ago · Die vraag raakt de kern van wat het betekent om Forward Deployed Engineer te zijn bij OpenAI. We werken nauw samen met klanten om hun moeilijkste problemen te doorgronden en oplossingen te bouwen waarop ze kunnen vertrouwen. Wat we leren, helpt onze producten vorm te geven en geeft het onderzoeksteam concrete problemen om op te lossen.",
-      "url": "https://openai.com/nl-NL/index/forward-deployed-engineering-means/"
-    },
-    {
-      "title": "Release Notes - OpenAI",
-      "text": "5 days ago · OpenAI release notes for ChatGPT, API Platform, and Codex. Explore the latest features, updates, and improvements across OpenAI products.",
-      "url": "https://openai.com/products/release-notes/"
+      "title": "Model Release Notes - OpenAI Help Center",
+      "text": "2 days ago · Model Release Notes Review OpenAI model releases, capability updates, retirements, and changes to the Model Spec.",
+      "url": "https://help.openai.com/en/articles/9624314-model-release-notes"
     },
     {
       "title": "ChatGPT Business release notes - OpenAI Help Center",
-      "text": "1 day ago · ChatGPT Business release notes Review the latest features and updates for the ChatGPT Business plan.",
+      "text": "2 days ago · ChatGPT Business release notes Review the latest features and updates for the ChatGPT Business plan.",
       "url": "https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes"
     },
     {
       "title": "ChatGPT conversations intermittently inaccessible across ...",
-      "text": "2 days ago · ChatGPT conversations intermittently fail to load across multiple devices and networks. HTTP 429 errors observed. Since October 25, 2026, I have been experiencing widespread and unpredictable problems accessing existing ChatGPT conversations. The issue affects both recent and older conversations ...",
+      "text": "3 days ago · In particular, I would like to understand why the same conversation can become accessible and inaccessible repeatedly across different devices and why HTTP 429 errors occur during normal ChatGPT usage. Screenshots of the error messages and Chrome Developer Tools output are available.",
       "url": "https://community.openai.com/t/chatgpt-conversations-intermittently-inaccessible-across-devices-http-429-errors/1409578"
     },
     {
-      "title": "Forward deployed engineering for enterprise AI | OpenAI",
-      "text": "5 days ago · See how OpenAI forward deployed engineers (FDEs) help organizations turn frontier AI into dependable production systems for their most consequential work.",
-      "url": "https://openai.com/business/forward-deployed-engineering/"
+      "title": "ChatGPT Work intermittently returns HTTP 500 across devices",
+      "text": "14 hours ago · Hi everyone, I’m a ChatGPT Plus subscriber, and I’ve been experiencing a frustrating issue with ChatGPT Work since October 27, 2026. Work was functioning normally before the issue started. However, it suddenly began failing, including in brand-new conversations. The most frustrating part is that the problem is intermittent. Work occasionally recovers and can even complete complex tasks ...",
+      "url": "https://community.openai.com/t/chatgpt-work-intermittently-returns-http-500-across-devices/1410340"
     },
     {
-      "title": "Feature Request - Projects: archive/restore + bulk chat ...",
-      "text": "2 days ago · Hello OpenAI Product Design Team, I’m a ChatGPT Plus subscriber and an enthusiastic daily user. In fact, I spend much of my day working in ChatGPT. I love the product, and as a former coder and web designer, I genuinely appreciate the remarkable evolution of this technology. Thank you for that! However, I’ve encountered a significant usability gap in ChatGPT’s project management. I use ...",
-      "url": "https://community.openai.com/t/feature-request-projects-archive-restore-bulk-chat-actions-and-bulk-manage-chatgpt-projects/1409633"
-    },
-    {
-      "title": "Possible false-positive output moderation for adult hosiery ...",
-      "text": "5 days ago · The reference image was used for fashion and product-design inspiration. The intended visual direction emphasized fabric texture, translucency, lighting, color relationships, and footwear styling. I understand that output moderation evaluates the generated image, not just the prompt.",
-      "url": "https://community.openai.com/t/possible-false-positive-output-moderation-for-adult-hosiery-product-photography/1408811"
-    },
-    {
-      "title": "Reflections on the Future of Human–AI Interaction: A ...",
-      "text": "5 days ago · A valuable question for AI research and product design is how to support these constructive interactions while preserving transparency about system capabilities, protecting privacy, and ensuring that human users remain informed and in control. 7. Principles worth discussing We invite discussion of the following principles:",
-      "url": "https://community.openai.com/t/reflections-on-the-future-of-human-ai-interaction-a-collaborative-dialogue-between-luna-chatgpt-and-jaime-a-human/1408939"
+      "title": "Persistent AI Identity: An Underserved Product Opportunity?",
+      "text": "5 days ago · Persistent AI Identity: An Underserved Product Opportunity? OpenAI has made significant progress in memory, personalization, and context management. But I think there’s an important distinction that deserves more attention: Remembering a user is not the same as maintaining a persistent conversational identity. Consider a user who has spent months developing a particular AI persona through an ...",
+      "url": "https://community.openai.com/t/persistent-ai-identity-an-underserved-product-opportunity/1409122"
     }
   ]
 }
