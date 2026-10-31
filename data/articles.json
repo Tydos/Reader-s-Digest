@@ -2,7 +2,7 @@
   "articles": [
     {
       "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
-      "text": "336 points on Hacker News",
+      "text": "337 points on Hacker News",
       "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
-      "text": "385 points on Hacker News",
+      "text": "386 points on Hacker News",
       "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova"
     },
     {
@@ -36,148 +36,213 @@
       "url": "https://github.com/Millillion/lasm"
     },
     {
+      "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+      "text": "30 points on Hacker News",
+      "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26"
+    },
+    {
+      "title": "Bunny CDN Security Incident",
+      "text": "219 points on Hacker News",
+      "url": "https://status.bunny.net/incidents/p6gf1by9kr7m"
+    },
+    {
+      "title": "Linode Security Incident",
+      "text": "187 points on Hacker News",
+      "url": "https://status.linode.com/incidents/nt58zhx3pmgm"
+    },
+    {
       "title": "Simon Willison on ai-misuse",
       "text": "Ouch: Deloitte will provide a partial refund to the federal government over a $440,000 report that contained several errors, after admitting it used generative artificial intelligence to help produce it. (I was initially confused by the \"Albanese government\" reference in the headline since this is a story about the Australian federal government.",
       "url": "https://simonwillison.net/tags/ai-misuse/"
     },
     {
+      "title": "talk.wasm - Simon Willison",
+      "text": "talk.wasm (via) \"Talk with an Artificial Intelligence in your browser\". Absolutely stunning demo which loads the Whisper speech recognition model (75MB) and a GPT-2 model (240MB) and executes them both in your browser via WebAssembly, then uses the Web Speech API to talk back to you. The result is a full speak-with-an-AI interface running entirely client-side. GPT-2 sadly mostly generates ...",
+      "url": "https://simonwillison.net/2022/Dec/7/talk-wasm/"
+    },
+    {
       "title": "Research - OpenAI",
-      "text": "4 days ago · We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems. Building safe and beneficial AGI is our mission.",
+      "text": "5 days ago · We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems. Building safe and beneficial AGI is our mission.",
       "url": "https://openai.com/research/index/"
     },
     {
       "title": "Working with academic communities to build scientific ...",
-      "text": "4 days ago · Our release process continues to evolve in response to feedback from the associated academic communities. In our view, these manuscripts are best understood as a form of raw research data. To convert this raw research data into scientific understanding, in this release we are experimenting with a new approach. We reached out to external experts and asked them to act as shepherds, organizing ...",
+      "text": "5 days ago · Our release process continues to evolve in response to feedback from the associated academic communities. In our view, these manuscripts are best understood as a form of raw research data. To convert this raw research data into scientific understanding, in this release we are experimenting with a new approach. We reached out to external experts and asked them to act as shepherds, organizing ...",
       "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/"
     },
     {
       "title": "OpenAI Newsroom | Research",
-      "text": "4 days ago · Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity.",
+      "text": "5 days ago · Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity.",
       "url": "https://openai.com/news/research/"
     },
     {
-      "title": "OpenAI Newsroom | Recent news",
-      "text": "4 days ago · Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity.",
-      "url": "https://openai.com/news/company-announcements/"
-    },
-    {
       "title": "AI for Science expands to foundations and institutions",
-      "text": "2 days ago · We’re highlighting 20 scientific foundations, institutions, and research groups from around the world that we’ve partnered with in an expansion of our AI for Science program.",
+      "text": "3 days ago · We’re highlighting 20 scientific foundations, institutions, and research groups from around the world that we’ve partnered with in an expansion of our AI for Science program.",
       "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions"
     },
     {
+      "title": "Early progress on accelerating drug development with Claude",
+      "text": "4 days ago · Over the past several months, we’ve partnered with six organizations to accelerate curing disease. We’ve also started drug discovery efforts of our own, including programs for rare childhood forms of muscular dystrophy. In this post, we provide an update on our progress.",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development"
+    },
+    {
+      "title": "A quote from Salvatore Sanfilippo - simonwillison.net",
+      "text": "3 days ago · [...] We are destroying software with complex build systems. We are destroying software with an absurd chain of dependencies, making everything bloated and fragile ...",
+      "url": "https://simonwillison.net/2025/Feb/8/salvatore-sanfilippo/"
+    },
+    {
+      "title": "A quote from Will Larson - simonwillison.net",
+      "text": "3 days ago · Migrations are both essential and frustratingly frequent as your codebase ages and your business grows: most tools and processes only support about one order of magnitude of growth before becoming …",
+      "url": "https://simonwillison.net/2018/Apr/23/will-larson/"
+    },
+    {
+      "title": "Research Collaboration Proposal for OpenAI Developer ...",
+      "text": "14 hours ago · Advanced AI tools such as Codex and the OpenAI API provide substantial opportunities for research, experimentation, software engineering, and technical problem-solving.",
+      "url": "https://community.openai.com/t/research-collaboration-proposal-for-openai-developer-relations-research-partnerships-structured-ai-research-contribution-program/1411246"
+    },
+    {
       "title": "Codex Harness Is Holding Back Astra: Subagent Completion ...",
-      "text": "14 hours ago · ChatGPT Pro 20x — one subscription Claude Max 20x — one subscription I am also a professional software developer and a heavy user of both Codex and Claude Code, particularly their agent harnesses, in real-world software engineering and agent development. I regularly use the latest Codex releases and flagship models, including Astra.",
+      "text": "1 day ago · ChatGPT Pro 20x — one subscription Claude Max 20x — one subscription I am also a professional software developer and a heavy user of both Codex and Claude Code, particularly their agent harnesses, in real-world software engineering and agent development. I regularly use the latest Codex releases and flagship models, including Astra.",
       "url": "https://community.openai.com/t/codex-harness-is-holding-back-astra-subagent-completion-failures-excessive-parent-worker-polling-and-the-need-for-first-class-harness-engineering/1410936"
     },
     {
-      "title": "Tools - simonwillison.net",
-      "text": "4 days ago · Simon Willison’s Weblog Tools All entries that link to https://tools.simonwillison.net/ in some way Owned by simonw, visibility: Unlisted",
-      "url": "https://simonwillison.net/dashboard/tools/"
+      "title": "Django for Startup Founders: A better software architecture ...",
+      "text": "3 days ago · Django for Startup Founders: A better software architecture for SaaS startups and consumer apps (via) The opening section of this article has very little to do with Django: it’s an insightful description of the technical challenges faced by a startup that is still seeking product-market fit. Alex then extends that into his own architectural recommendations for startups building with Django ...",
+      "url": "https://simonwillison.net/2021/Jun/24/django-for-startup-founders/"
     },
     {
-      "title": "Sightings - simonwillison.net",
-      "text": "1 day ago · Sighting 9:08 PM — California Brown Pelican, in San Francisco County, US, CA",
-      "url": "https://simonwillison.net/elsewhere/sighting/"
+      "title": "A quote from Brad Lightcap",
+      "text": "3 days ago · Through conversations with startups and developers, it became clear how important it was to be able to support a spectrum of needs, such as custom fine-tuning for specialized tasks, more tunable latency, running on-prem, or deployments requiring full data control. — Brad Lightcap, COO, OpenAI Posted 1st April 2025 at 2:53 am",
+      "url": "https://simonwillison.net/2025/Apr/1/brad-lightcap/"
     },
     {
-      "title": "Simon Willison on tools",
-      "text": "5 days ago · 82 posts tagged ‘tools’. Small tools I have built, many of which are hosted on my tools.simonwillison.net GitHub Pages site backed by my simonw/tools repository.",
-      "url": "https://simonwillison.net/tags/tools/"
+      "title": "Oxide and Friends Predictions 2026, today at 4pm PT",
+      "text": "3 days ago · Oxide and Friends Predictions 2026, today at 4pm PT (via) I joined the Oxide and Friends podcast last year to predict the next 1, 3 and 6 years (!) of AI developments. With hindsight I did very badly, but they're inviting me back again anyway to have another go. We will be recording live today at 4pm Pacific on their Discord - you can join that here, and the podcast version will go out shortly ...",
+      "url": "https://simonwillison.net/2026/Jan/5/oxide-and-friends-predictions-2026/"
+    },
+    {
+      "title": "Archive for Wednesday, 28th October 2026",
+      "text": "3 days ago · I’ve written before about how November 2025 was an inflection point for coding agents —the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents became reliable daily drivers for software engineers. I think we’ve reached a new inflection point in October 2026, and this time it’s for vibe coding computer games. [... 3,254 words]",
+      "url": "https://feeds.simonwillison.net/2026/Oct/28/"
+    },
+    {
+      "title": "Simon Willison on claude",
+      "text": "3 days ago · My latest vibe coded game experiment is a Command & Conquer style RTS (Real Time Strategy) game called Battle Drones (play it here). Unlike my previous experiments, this one is actually fun to play. I’m somewhat embarrassed to admit that I got there by telling Claude to “Make it a LOT more fun”. It also supports multiplayer between nearby devices using audio to synchronize game state ...",
+      "url": "https://feeds.simonwillison.net/tags/claude/"
     },
     {
       "title": "2026 – Stratechery by Ben Thompson",
-      "text": "2 days ago · Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery.",
+      "text": "2 days ago · The best Stratechery content from the week of October 26, 2026 including Anthropic numbers, the end of the Internet as we know it, and autocracies then and now.",
       "url": "https://stratechery.com/2026/"
     },
     {
       "title": "Ben Thompson – Stratechery by Ben Thompson",
-      "text": "3 days ago · An interview with Palantir CTO Shyam Sankar about AI diffusion and safety, forward-deployed engineer, and what the battle in tech is actually about. Meta’s earnings come in the context of Zuckerberg delivering on his promise; if investors believe in Muse they must support Meta’s spending on ...",
+      "text": "4 days ago · An interview with Palantir CTO Shyam Sankar about AI diffusion and safety, forward-deployed engineer, and what the battle in tech is actually about. Meta’s earnings come in the context of Zuckerberg delivering on his promise; if investors believe in Muse they must support Meta’s spending on ...",
       "url": "https://stratechery.com/author/stratechery/"
     },
     {
-      "title": "Anthropic S-1, The Cost of Compute, Who Is Paying?",
-      "text": "3 days ago · Anthropic’s IPO is finally here; the core business is very profitable, but competition may eat all of the profits, even as investors are set up for endless dilution.",
-      "url": "https://stratechery.com/2026/anthropic-s-1-the-cost-of-compute-who-is-paying/"
-    },
-    {
       "title": "Anthropic – Stratechery by Ben Thompson",
-      "text": "1 day ago · Anthropic’s belief in its own commitment to safety gives the company license to aggressively favor its business and even challenge the U.S. government.",
+      "text": "2 days ago · Anthropic’s belief in its own commitment to safety gives the company license to aggressively favor its business and even challenge the U.S. government.",
       "url": "https://stratechery.com/company/anthropic/"
     },
     {
+      "title": "Daily Update – Stratechery by Ben Thompson",
+      "text": "3 days ago · Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery. An interview with Palantir CTO Shyam Sankar about AI diffusion and safety, forward-deployed engineer, and what the battle in tech is actually about. Meta’s earnings ...",
+      "url": "https://stratechery.com/category/daily-email/"
+    },
+    {
       "title": "The End of the Internet – Stratechery by Ben Thompson",
-      "text": "4 days ago · The old Internet, where anyone could host a server is over, but it’s just the final blow in an ending that has been coming for years. The future, though, is brighter than it appears.",
+      "text": "5 days ago · The old Internet, where anyone could host a server is over, but it’s just the final blow in an ending that has been coming for years. The future, though, is brighter than it appears.",
       "url": "https://stratechery.com/2026/the-end-of-the-internet/"
     },
     {
       "title": "Event Replay: Biodefense in the AI Age - Video | OpenAI Forum",
-      "text": "4 days ago · Before that, she was a Principal at The SALT Fund, investing in biotechnology and deep tech startups such as General Biological and Northwood Space. She holds a B.S. in Molecular Biophysics and Biochemistry from Yale.",
+      "text": "5 days ago · Before that, she was a Principal at The SALT Fund, investing in biotechnology and deep tech startups such as General Biological and Northwood Space. She holds a B.S. in Molecular Biophysics and Biochemistry from Yale.",
       "url": "https://forum.openai.com/public/videos/event-replay-biodefense-in-the-ai-age-2026-10-21"
     },
     {
-      "title": "Topics tagged dot - OpenAI API Community Forum",
-      "text": "2 days ago · Topics tagged dot",
-      "url": "https://community.openai.com/tag/dot/1209"
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "text": "4 days ago · Retell AI is a voice AI platform for contact center operations, helping businesses build agents that can answer questions, take action, and connect a caller with a person when needed. Its platform now serves more than 4,000 businesses, with monthly call volume growing from 30 million in early 2026 to more than 100 million by September.",
+      "url": "https://openai.com/index/retell-ai/"
     },
     {
       "title": "6.1 Sol Degraded Model Performance - OpenAI Status",
-      "text": "3 days ago · All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.",
+      "text": "4 days ago · All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.",
       "url": "https://status.openai.com/incidents/01M5YY4A3TQETEQ53DVSK8SW10"
     },
     {
       "title": "Feature Request: Connect Your ChatGPT Account to Third-Party ...",
-      "text": "2 days ago · A pathway for independent developers and commercial startups to access the feature. The same concept could eventually become an industry-wide standard, allowing users to connect their ChatGPT, Gemini, or Claude accounts to compatible applications through a consistent interface.",
+      "text": "3 days ago · A pathway for independent developers and commercial startups to access the feature. The same concept could eventually become an industry-wide standard, allowing users to connect their ChatGPT, Gemini, or Claude accounts to compatible applications through a consistent interface.",
       "url": "https://community.openai.com/t/feature-request-connect-your-chatgpt-account-to-third-party-websites-and-apps/1410426"
     },
     {
+      "title": "Elevated error rates for most hosted Code Reviews and ...",
+      "text": "4 days ago · We’re investigating a potential issue for the listed services and checking how it affects users. We’ll share an update when we know more.",
+      "url": "https://status.openai.com/incidents/01M5Y60NQGGN514EB3943V94EN"
+    },
+    {
       "title": "Anthropic files S-1 with the SEC for proposed initial public ...",
-      "text": "4 days ago · Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+      "text": "5 days ago · Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
       "url": "https://www.anthropic.com/news/s1-sec"
     },
     {
       "title": "How AI agents shape experts’ judgment calls \\ Anthropic",
-      "text": "3 days ago · In a randomized trial, professional analysts working with an AI coding agent went with the option the agent was randomly assigned to favor 86% of the time. We look at what this means for human oversight of AI-assisted work.",
+      "text": "4 days ago · In a randomized trial, professional analysts working with an AI coding agent went with the option the agent was randomly assigned to favor 86% of the time. We look at what this means for human oversight of AI-assisted work.",
       "url": "https://www.anthropic.com/research/agents-judgment-calls"
     },
     {
-      "title": "Early progress on accelerating drug development with Claude",
-      "text": "3 days ago · Over the past several months, we’ve partnered with six organizations to accelerate curing disease. We’ve also started drug discovery efforts of our own, including programs for rare childhood forms of muscular dystrophy. In this post, we provide an update on our progress.",
-      "url": "https://www.anthropic.com/research/early-progress-drug-development"
+      "title": "Expanding our partnership with GSA to bring Claude to all ...",
+      "text": "4 days ago · We are expanding our partnership with the General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude Enterprise, Claude for Government, and the Claude API. For the first time, the discount applies across every product surface, including when ...",
+      "url": "https://www.anthropic.com/news/expanding-partnership-gsa"
+    },
+    {
+      "title": "I counted all of the yurts in Mongolia using machine learning",
+      "text": "3 days ago · Fascinating, detailed account by Monroe Clinton of a geospatial machine learning project. Monroe wanted to count visible yurts in Mongolia using Google Maps satellite view. The resulting project incorporates mercantile …",
+      "url": "https://simonwillison.net/2025/Jun/18/yurts-in-mongolia/"
+    },
+    {
+      "title": "Let's build the GPT Tokenizer - Simon Willison",
+      "text": "Feb 20, 2024 · Let's build the GPT Tokenizer. When Andrej Karpathy left OpenAI last week a lot of people expressed hope that he would be increasing his output of educational YouTube videos. Here’s an in-depth 2 hour dive into how tokenizers work and how to build one from scratch, published this morning. The section towards the end, “revisiting and explaining the quirks of LLM tokenization”, helps ...",
+      "url": "https://simonwillison.net/2024/Feb/20/lets-build-the-gpt-tokenizer/"
     },
     {
       "title": "ChatGPT’s expanding world of work | OpenAI",
-      "text": "4 days ago · Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+      "text": "5 days ago · Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
       "url": "https://openai.com/index/chatgpt-expanding-world-of-work/"
     },
     {
-      "title": "ChatGPT Context Limits — A Useful Tip for Developers",
-      "text": "2 days ago · You can open Chrome Developer Tools (F12 → Network) and inspect the network requests ChatGPT uses to retrieve conversation history. By examining these requests and using a tokenizer, you can build your own Chrome extension to automatically count the tokens in a conversation and receive warnings before reaching a chosen threshold.",
-      "url": "https://community.openai.com/t/chatgpt-context-limits-a-useful-tip-for-developers/1410512"
-    },
-    {
       "title": "Release Notes - OpenAI",
-      "text": "4 days ago · OpenAI release notes for ChatGPT, API Platform, and Codex. Explore the latest features, updates, and improvements across OpenAI products.",
+      "text": "5 days ago · OpenAI release notes for ChatGPT, API Platform, and Codex. Explore the latest features, updates, and improvements across OpenAI products.",
       "url": "https://openai.com/products/release-notes/"
     },
     {
-      "title": "ChatGPT Business release notes - OpenAI Help Center",
-      "text": "2 days ago · ChatGPT Business release notes Review the latest features and updates for the ChatGPT Business plan.",
-      "url": "https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes"
+      "title": "ChatGPT Context Limits — A Useful Tip for Developers",
+      "text": "3 days ago · You can open Chrome Developer Tools (F12 → Network) and inspect the network requests ChatGPT uses to retrieve conversation history. By examining these requests and using a tokenizer, you can build your own Chrome extension to automatically count the tokens in a conversation and receive warnings before reaching a chosen threshold.",
+      "url": "https://community.openai.com/t/chatgpt-context-limits-a-useful-tip-for-developers/1410512"
+    },
+    {
+      "title": "What If AI could Replace type commands with real-Time voice ...",
+      "text": "2 days ago · Now imagine applying this technology to spacecraft and space stations. Could OpenAI’s voice technologies and developer tools help create a conversational interface capable of communicating with intelligent systems operating in space? What would be the biggest programming challenge in making this possible?",
+      "url": "https://community.openai.com/t/what-if-ai-could-replace-type-commands-with-real-time-voice-conversations/1410832"
     },
     {
       "title": "ChatGPT Work intermittently returns HTTP 500 across devices",
-      "text": "2 days ago · Hi everyone, I’m a ChatGPT Plus subscriber, and I’ve been experiencing a frustrating issue with ChatGPT Work since October 27, 2026. Work was functioning normally before the issue started. However, it suddenly began failing, including in brand-new conversations. The most frustrating part is that the problem is intermittent. Work occasionally recovers and can even complete complex tasks ...",
+      "text": "3 days ago · Hi everyone, I’m a ChatGPT Plus subscriber, and I’ve been experiencing a frustrating issue with ChatGPT Work since October 27, 2026. Work was functioning normally before the issue started. However, it suddenly began failing, including in brand-new conversations. The most frustrating part is that the problem is intermittent. Work occasionally recovers and can even complete complex tasks ...",
       "url": "https://community.openai.com/t/chatgpt-work-intermittently-returns-http-500-across-devices/1410340"
     },
     {
-      "title": "ChatGPT conversations intermittently inaccessible across ...",
-      "text": "5 days ago · ChatGPT conversations intermittently fail to load across multiple devices and networks. HTTP 429 errors observed. Since October 25, 2026, I have been experiencing widespread and unpredictable problems accessing existing ChatGPT conversations. The issue affects both recent and older conversations ...",
-      "url": "https://community.openai.com/t/chatgpt-conversations-intermittently-inaccessible-across-devices-http-429-errors/1409578"
+      "title": "A quote from Andrew Ng",
+      "text": "3 days ago · (ii) They are able to use AI assistance to carry out rapid engineering, building software systems in dramatically less time than was possible before. In addition, good product/design instincts are a significant bonus. — Andrew Ng Posted 13th June 2025 at 4:13 pm",
+      "url": "https://simonwillison.net/2025/Jun/13/andrew-ng/"
+    },
+    {
+      "title": "ChatGPT Business release notes - OpenAI Help Center",
+      "text": "2 days ago · This first set includes Sales, Data Analytics, Product Design, Creative Production, Investment Banking, and Public Equity Investing. These plugins package role-specific skills, app integrations, starter prompts, and workflow guidance so teams can use Codex for sales prep, analytics and dashboards, prototypes, creative assets, and financial ...",
+      "url": "https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes"
     },
     {
       "title": "Proposal: Verified Completion Receipts for ChatGPT Work",
-      "text": "2 days ago · For example, an agent may save an updated product design, but the published listing could still display an older image. Or it may report completing several changes when some items remain unfinished. Proposed Solution Introduce an optional Verified Completion Receipt system for ChatGPT Work. After modifying external websites or applications ...",
+      "text": "3 days ago · For example, an agent may save an updated product design, but the published listing could still display an older image. Or it may report completing several changes when some items remain unfinished. Proposed Solution Introduce an optional Verified Completion Receipt system for ChatGPT Work. After modifying external websites or applications ...",
       "url": "https://community.openai.com/t/chatgpt-work-verified-completion-receipts-for-live-website-changes/1410419"
     }
   ]
