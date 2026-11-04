@@ -6,29 +6,9 @@
       "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1"
     },
     {
-      "title": "US President says he will ban the term 'artificial intelligence'",
-      "text": "107 points on Hacker News",
-      "url": "https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/"
-    },
-    {
-      "title": "Artificial Analysis Intelligence Index v5",
-      "text": "96 points on Hacker News",
-      "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5"
-    },
-    {
-      "title": "Trump says he will ban everyone from using the phrase 'artificial intelligence'",
-      "text": "39 points on Hacker News",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-ban-artificial-intelligence-phrase-b3074397.html"
-    },
-    {
-      "title": "Artificial Analysis Intelligence Index v5.0",
-      "text": "39 points on Hacker News",
-      "url": "https://artificialanalysis.ai/methodology/intelligence-benchmarking"
-    },
-    {
-      "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
-      "text": "387 points on Hacker News",
-      "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova"
+      "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+      "text": "391 points on Hacker News",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months"
     },
     {
       "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
@@ -47,13 +27,8 @@
     },
     {
       "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
-      "text": "74 points on Hacker News",
+      "text": "75 points on Hacker News",
       "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26"
-    },
-    {
-      "title": "Linode Security Incident",
-      "text": "197 points on Hacker News",
-      "url": "https://status.linode.com/incidents/nt58zhx3pmgm"
     },
     {
       "title": "The U.S. Census Bureau and \"Super Intelligence\"",
@@ -64,6 +39,136 @@
       "title": "Simon Willison on ai-misuse",
       "text": "Ouch: Deloitte will provide a partial refund to the federal government over a $440,000 report that contained several errors, after admitting it used generative artificial intelligence to help produce it. (I was initially confused by the \"Albanese government\" reference in the headline since this is a story about the Australian federal government.",
       "url": "https://simonwillison.net/tags/ai-misuse/"
+    },
+    {
+      "title": "THE Life-Protecting Intelligence - Use cases and examples ...",
+      "text": "3 days ago · “The value of the development of artificial intelligence is determined not merely by the knowledge and capabilities it acquires, but also by how well it can put that knowledge to use for the benefit of life, nature and humanity.”",
+      "url": "https://community.openai.com/t/the-life-protecting-intelligence/1411549"
+    },
+    {
+      "title": "Qodo builds context into AI code review with Codex | OpenAI",
+      "text": "2 days ago · Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+      "url": "https://openai.com/index/qodo-codex-plugin/"
+    },
+    {
+      "title": "Progress on provable inference for large language models",
+      "text": "2 days ago · The development of artificial intelligence and its growing role in our digital infrastructure and economy raises trust challenges that AI providers must answer. Addressing these and other challenges is facilitated by relying on tools for provable inference (PI). Tools for PI include hardware approaches, software approaches, or a combination of ...",
+      "url": "https://www.anthropic.com/research/provable-inference"
+    },
+    {
+      "title": "Newsletters: 2026 - Simon Willison's Weblog",
+      "text": "1 day ago · Coding agents get even more attention Clawdbot/Moltbot/OpenClaw went very viral Kākāpō breeding season is off to a really strong start New options for sandboxes Web browsers are the \"hello world\" of coding agent swarms Sam Altman addressed the Jevons paradox for software engineering Model releases and miscellaneous extras That's it for January!",
+      "url": "https://simonwillison.net/newsletters/2026/"
+    },
+    {
+      "title": "Preventing Overengineering and Project Bloat in Codex",
+      "text": "2 days ago · They also need a strong understanding of software engineering discipline and long-term project management. I would strongly encourage OpenAI to address this issue through the following improvements: Introduce default safeguards against overengineering in Codex workflows.",
+      "url": "https://community.openai.com/t/preventing-overengineering-and-project-bloat-in-codex/1411969"
+    },
+    {
+      "title": "Research Collaboration Proposal for OpenAI Developer ...",
+      "text": "4 days ago · Advanced AI tools such as Codex and the OpenAI API provide substantial opportunities for research, experimentation, software engineering, and technical problem-solving.",
+      "url": "https://community.openai.com/t/research-collaboration-proposal-for-openai-developer-relations-research-partnerships-structured-ai-research-contribution-program/1411246"
+    },
+    {
+      "title": "Codex Harness Is Holding Back Astra: Subagent Completion ...",
+      "text": "5 days ago · I am also a professional software developer and a heavy user of both Codex and Claude Code, particularly their agent harnesses, in real-world software engineering and agent development.",
+      "url": "https://community.openai.com/t/codex-harness-is-holding-back-astra-subagent-completion-failures-excessive-parent-worker-polling-and-the-need-for-first-class-harness-engineering/1410936"
+    },
+    {
+      "title": "How We Took Over ChatGPT Accounts - simonwillison.net",
+      "text": "4 days ago · How We Took Over ChatGPT Accounts (via) Parameter Labs describe an exploit they found against ChatGPT's implementation of the artifacts pattern (OpenAI used to call this \"Canvas\" but it looks like the latest revision is called HTML previews), where interactive custom HTML apps are displayed in a sandboxed iframe. It's important that HTML in these stays tightly sandboxed to avoid untrusted code ...",
+      "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/"
+    },
+    {
+      "title": "Simon Willison on datasette and llm",
+      "text": "4 days ago · 58 posts tagged ‘datasette’ and ‘llm’. Datasette is an open source tool for exploring and publishing data.",
+      "url": "https://simonwillison.net/tags/datasette+llm/"
+    },
+    {
+      "title": "Archive for Saturday, 31st October 2026",
+      "text": "4 days ago · I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here's a tiny user experience improvement to the underlying datasette-llm plugin. It now picks up the default model used by LLM, which means you can start using Datasette Agent without needing to explicitly configure a default model: uvx --with datasette-agent datasette content.db --internal internal.db Previously ...",
+      "url": "https://simonwillison.net/2026/Oct/31/"
+    },
+    {
+      "title": "At Long Last… – Stratechery by Ben Thompson",
+      "text": "5 days ago · The best Stratechery content from the week of October 26, 2026 including Anthropic numbers, the end of the Internet as we know it, and autocracies then and now.",
+      "url": "https://stratechery.com/2026/at-long-last/"
+    },
+    {
+      "title": "Google Earnings, Facebook Déjà Vu, The Agent Play",
+      "text": "2 days ago · Google’s earnings miss looks a lot like Facebook’s, and that’s a credit to Google. The company is being more aggressive than they get credit for.",
+      "url": "https://stratechery.com/2026/google-earnings-facebook-deja-vu-the-agent-play/"
+    },
+    {
+      "title": "Prism will shut down on January 1, 2027 - Community - OpenAI ...",
+      "text": "5 days ago · Just FYI for those of you that have used Prism, OpenAI’s LaTeX editor, it will be retired on January 1, 2027. You have until then to export and migrate all your files.",
+      "url": "https://community.openai.com/t/prism-will-shut-down-on-january-1-2027/1411150"
+    },
+    {
+      "title": "Model Release Notes - OpenAI Help Center",
+      "text": "5 days ago · Model Release Notes Review OpenAI model releases, capability updates, retirements, and changes to the Model Spec.",
+      "url": "https://help.openai.com/en/articles/9624314-model-release-notes"
+    },
+    {
+      "title": "Please Keep ChatGPT and Codex Usage Limits Separate in ...",
+      "text": "4 days ago · Please keep separate usage limits for ChatGPT and Codex. ChatGPT is something we rely on every day, for all kinds of questions and tasks — both important and everyday ones. Users who spend a lot of time developing proje…",
+      "url": "https://community.openai.com/t/please-keep-chatgpt-and-codex-usage-limits-separate-in-december-2026/1411466"
+    },
+    {
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "text": "1 day ago · The paper (OK, the authors classify is as a “blog post”, but it’s paper-shaped) found that frontier models, in particular GPT-6 Astra, can both interpret and modify the raw weights of a machine learning model—literally a text description of the model containing a bunch of floating point numbers.",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/"
+    },
+    {
+      "title": "Simon Willison on ai",
+      "text": "15 hours ago · The paper (OK, the authors classify is as a “blog post”, but it’s paper-shaped) found that frontier models, in particular GPT-6 Astra, can both interpret and modify the raw weights of a machine learning model—literally a text description of the model containing a bunch of floating point numbers.",
+      "url": "https://simonwillison.net/tags/ai/"
+    },
+    {
+      "title": "Making it easier for websites to express AI training preferences",
+      "text": "5 days ago · OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences/"
+    },
+    {
+      "title": "ChatGPT Proactive Timeline Follow-Up and Goal Tracking ...",
+      "text": "1 day ago · Feature Proposal: ChatGPT Proactive Timeline Follow-Up and Goal Tracking Assistant 1. Feature Name ChatGPT Proactive Timeline Follow-Up and Goal Tracking Assistant 2. Overview Currently, ChatGPT helps users create plans, schedules, timelines, and action items based on their goals. However, after creating a plan, the user must manually return to ChatGPT to ask for updates, guidance, or ...",
+      "url": "https://community.openai.com/t/chatgpt-proactive-timeline-follow-up-and-goal-tracking-assistant/1412241"
+    },
+    {
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "text": "15 hours ago · Today we're announcing that OpenAI will acquire Pierre Computer Company, Inc . (“Pierre”), the company behind Code Storage and a family of standout open-source developer tools. If you’ve browsed files or reviewed a change in the Codex app, you’ve already used Pierre’s Trees and Diffs libraries. We’re excited to work with the Pierre team to build on the Git workflows that ...",
+      "url": "https://openai.com/index/openai-to-acquire-pierre/"
+    },
+    {
+      "title": "OpenAI API Platform – New Projects Missing, Repeated 401/403 ...",
+      "text": "4 days ago · Open the browser Developer Tools and inspect the Console and Network activity. The behaviour has been reproduced in multiple environments. Diagnostics 1. HTTP 401 – Project permissions The browser console repeatedly reports: ... The actual project identifier has been removed for privacy. 2. HTTP 401 – Platform configuration",
+      "url": "https://community.openai.com/t/openai-api-platform-new-projects-missing-repeated-401-403-errors-sign-in-loops-and-broken-project-management/1411473"
+    },
+    {
+      "title": "What If AI could Replace type commands with real-Time voice ...",
+      "text": "6 days ago · Could OpenAI’s voice technologies and developer tools help create a conversational interface capable of communicating with intelligent systems operating in space?",
+      "url": "https://community.openai.com/t/what-if-ai-could-replace-type-commands-with-real-time-voice-conversations/1410832"
+    },
+    {
+      "title": "Evolving Memory - Remember, Forget, Imagine - Feature ...",
+      "text": "1 day ago · Dear OpenAI Product Team, I would like to submit an independent product-design proposal developed through creative collaboration between myself, Ivo Melders, and ChatGPT (GPT-6). Proposal title: Evolving Memory — Remember, Forget, Imagine Background During extended conversations involving art, research and human–AI collaboration, I noticed that returning to an established conversation can ...",
+      "url": "https://community.openai.com/t/evolving-memory-remember-forget-imagine/1412603"
+    },
+    {
+      "title": "Feature Request: Replace Spider Animation with Diwali-Themed ...",
+      "text": "4 days ago · Beautiful glowing diyas Colourful Indian Diwali kandils (Aakash Kandil) Rangoli patterns Golden lights and sparkles It would be even better if ChatGPT automatically changed its loading animations according to festivals and celebrations around the world. Please consider forwarding this suggestion to the ChatGPT UI/UX and product design teams. Thank you!",
+      "url": "https://community.openai.com/t/feature-request-replace-spider-animation-with-diwali-themed-loading-animation/1411411"
+    },
+    {
+      "title": "Dyslexia friendly chatgpt : voice first visual thinking mode",
+      "text": "5 days ago · Tools to convert spoken ideas into structured documents and tasks. Visual thinking tools for system architecture and product design. Support for people who struggle with reading, spelling and processing sequential instructions. These features could significantly improve accessibility for people with dyslexia and related learning difficulties.",
+      "url": "https://community.openai.com/t/dyslexia-friendly-chatgpt-voice-first-visual-thinking-mode/1411145"
+    },
+    {
+      "title": "Could ChatGPT Sometimes Start The Conversation? An Opt-In ...",
+      "text": "4 days ago · That distinction is important to me, and perhaps useful from a product-design perspective: this was not simply a feature a user wanted and persuaded ChatGPT to endorse.",
+      "url": "https://community.openai.com/t/could-chatgpt-sometimes-start-the-conversation-an-opt-in-proposal-for-reciprocal-invitation/1411400"
     }
   ]
 }
