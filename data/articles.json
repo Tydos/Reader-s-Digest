@@ -11,28 +11,13 @@
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy"
     },
     {
-      "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
-      "text": "74 points on Hacker News",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked"
-    },
-    {
-      "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
-      "text": "75 points on Hacker News",
-      "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26"
-    },
-    {
-      "title": "OpenAI to acquire Pierre Computer Company",
-      "text": "https:&#x2F;&#x2F;twitter.com&#x2F;pierrecomputer&#x2F;status&#x2F;211799903617518818...",
-      "url": "https://openai.com/index/openai-to-acquire-pierre/"
-    },
-    {
       "title": "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
       "text": "Hi HN, I’m Evan from Gauge. We’re open-sourcing our CLI to recursively improve your docs for coding agents. The CLI includes a local execution backend, so you don&#x27;t need an account to try it. Explainer video here: https:&#x2F;&#x2F;youtu.be&#x2F;zhLUlIKB1Mg The CLI supports a hillclimbing loop: - set up tasks for coding agents that would need your docs, like &#x27;set up Gauge CI checks&#x27; - run the tasks - analyze session transcripts for friction or failures - create variants of your do",
       "url": "https://github.com/gauge-sh/gauge-cli"
     },
     {
       "title": "Gemini Omni 1.2 Flash",
-      "text": "118 points on Hacker News",
+      "text": "350 points on Hacker News",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
     },
     {
@@ -51,164 +36,164 @@
       "url": "https://simonwillison.net/tags/ai-misuse/"
     },
     {
+      "title": "Research - OpenAI",
+      "text": "3 days ago · We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems. Building safe and beneficial AGI is our mission.",
+      "url": "https://openai.com/research/index/"
+    },
+    {
       "title": "Improving AI Reasoning: 10 Practical Recommendations from ...",
-      "text": "4 days ago · Perhaps artificial intelligence could develop forms of reasoning fundamentally different from human thought. It is important to distinguish functional autonomy, independent goal formation, and the subjective experience of free will.",
+      "text": "5 days ago · Perhaps artificial intelligence could develop forms of reasoning fundamentally different from human thought. It is important to distinguish functional autonomy, independent goal formation, and the subjective experience of free will.",
       "url": "https://community.openai.com/t/improving-ai-reasoning-10-practical-recommendations-from-real-world-conversations/1412053"
     },
     {
-      "title": "Product News and Updates | OpenAI",
-      "text": "2 days ago · Read the latest OpenAI product news, including releases, announcements, and updates across ChatGPT, Codex, AI models, developer tools, and more",
-      "url": "https://openai.com/news/product-releases/"
+      "title": "OpenAI Research | Publication",
+      "text": "5 days ago · OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+      "url": "https://openai.com/research/index/publication/"
     },
     {
       "title": "How scientists use Claude \\ Anthropic",
-      "text": "1 day ago · In this report, we use privacy-preserving infrastructure to study the scientific use of Claude, Claude Code, and Claude Science. We document how usage varies across scientific fields and research tasks, identify what explains these usage patterns, and outline scenarios for how AI could accelerate research.",
+      "text": "2 days ago · We analyzed 207,000 research sessions to learn how Claude is used in science, why some tasks get more use than others, and how AI could speed up discovery.",
       "url": "https://www.anthropic.com/research/how-researchers-use-claude"
     },
     {
       "title": "Progress on provable inference for large language models",
-      "text": "4 days ago · The development of artificial intelligence and its growing role in our digital infrastructure and economy raises trust challenges that AI providers must answer. Addressing these and other challenges is facilitated by relying on tools for provable inference (PI). Tools for PI include hardware approaches, software approaches, or a combination of ...",
+      "text": "5 days ago · The development of artificial intelligence and its growing role in our digital infrastructure and economy raises trust challenges that AI providers must answer.",
       "url": "https://www.anthropic.com/research/provable-inference"
     },
     {
       "title": "Newsletters: 2026 - Simon Willison's Weblog",
-      "text": "3 days ago · Coding agents get even more attention Clawdbot/Moltbot/OpenClaw went very viral Kākāpō breeding season is off to a really strong start New options for sandboxes Web browsers are the \"hello world\" of coding agent swarms Sam Altman addressed the Jevons paradox for software engineering Model releases and miscellaneous extras That's it for January!",
+      "text": "4 days ago · Coding agents get even more attention Clawdbot/Moltbot/OpenClaw went very viral Kākāpō breeding season is off to a really strong start New options for sandboxes Web browsers are the \"hello world\" of coding agent swarms Sam Altman addressed the Jevons paradox for software engineering Model releases and miscellaneous extras That's it for January!",
       "url": "https://simonwillison.net/newsletters/2026/"
     },
     {
-      "title": "OpenAI Research | Publication",
-      "text": "4 days ago · Advancing coding in low‑resource programming languages Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-      "url": "https://openai.com/research/index/publication/"
-    },
-    {
       "title": "Preventing Overengineering and Project Bloat in Codex",
-      "text": "4 days ago · They also need a strong understanding of software engineering discipline and long-term project management. I would strongly encourage OpenAI to address this issue through the following improvements: Introduce default safeguards against overengineering in Codex workflows.",
+      "text": "5 days ago · They also need a strong understanding of software engineering discipline and long-term project management. I would strongly encourage OpenAI to address this issue through the following improvements: Introduce default safeguards against overengineering in Codex workflows.",
       "url": "https://community.openai.com/t/preventing-overengineering-and-project-bloat-in-codex/1411969"
     },
     {
-      "title": "Qodo builds context into AI code review with Codex | OpenAI",
-      "text": "4 days ago · Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-      "url": "https://openai.com/index/qodo-codex-plugin/"
-    },
-    {
-      "title": "OpenAI Newsroom | Research",
-      "text": "2 days ago · Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity.",
-      "url": "https://openai.com/news/research/"
-    },
-    {
-      "title": "Releases - simonwillison.net",
-      "text": "2 days ago · This is a significant release of Datasette Agent. The most notable new feature is called the panel - it lets the agent chat open and then sit next to pages from Datasette, for example a table or query page. When combined with datasette-apps this means you can prompt a database-backed app into existence and then modify it from the chat that sits next to that app. You can try it by signing in ...",
-      "url": "https://simonwillison.net/elsewhere/release/"
+      "title": "All recent content - simonwillison.net",
+      "text": "2 days ago · Simon Willison’s Weblog All recent content Owned by simonw, visibility: Unlisted",
+      "url": "https://simonwillison.net/dashboard/all-recent-content/"
     },
     {
       "title": "A quote from Brad Lightcap",
-      "text": "4 days ago · Through conversations with startups and developers, it became clear how important it was to be able to support a spectrum of needs, such as custom fine-tuning for specialized tasks, more tunable latency, running on-prem, or deployments requiring full data control. — Brad Lightcap, COO, OpenAI Posted 1st April 2025 at 2:53 am",
+      "text": "Oct 28, 2026 · Through conversations with startups and developers, it became clear how important it was to be able to support a spectrum of needs, such as custom fine-tuning for specialized tasks, more tunable latency, running on-prem, or deployments requiring full data control.",
       "url": "https://simonwillison.net/2025/Apr/1/brad-lightcap/"
     },
     {
-      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-      "text": "3 days ago · Qwen 3.8 27B on my laptop can interpret model weights, too Yesterday’s hot paper was Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper (OK, the authors classify is as a “blog post”, but it’s paper-shaped) found that frontier models, in particular GPT-6 Astra, can both ...",
-      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/"
-    },
-    {
       "title": "Simon Willison on llm",
-      "text": "2 days ago · 646 posts tagged ‘llm’. LLM is my command-line tool for running prompts against Large Language Models.",
+      "text": "3 days ago · 646 posts tagged ‘llm’. LLM is my command-line tool for running prompts against Large Language Models.",
       "url": "https://simonwillison.net/tags/llm/"
     },
     {
-      "title": "LadybirdBrowser/ladybird: Abandon Swift adoption",
-      "text": "Feb 19, 2026 · Back in August 2024 the Ladybird browser project announced an intention to adopt Swift as their memory-safe language of choice. As of this commit it looks like they've changed their …",
-      "url": "https://feeds.simonwillison.net/2026/Feb/19/ladybird/"
+      "title": "Releases",
+      "text": "3 days ago · Datasette Apps adds support for hosting and editing custom HTML applications inside of Datasette. These can be created by hand, but it's easier to create them using LLMs via Datasette Agent. This release improves that integration: Apps can now be tagged in Datasette Agent chat messages by typing #, which autocompletes from the apps the user has permission to view. New app_add_stored_queries ...",
+      "url": "https://simonwillison.net/elsewhere/release/"
+    },
+    {
+      "title": "Simon Willison on datasette",
+      "text": "3 days ago · 1,555 posts tagged ‘datasette’. Datasette is an open source tool for exploring and publishing data.",
+      "url": "https://simonwillison.net/tags/datasette/"
     },
     {
       "title": "2026 – Stratechery by Ben Thompson",
-      "text": "3 days ago · An interview with Intuit CEO Sasan Goodarzi about the working for one of tech’s oldest software companies, and how Intuit is leaning into the AI paradigm shift.",
+      "text": "2 days ago · The best Stratechery content from the week of November 2, 2026, including AI on the ballot, a Google state of the union, and China.",
       "url": "https://stratechery.com/2026/"
     },
     {
       "title": "Ben Thompson – Stratechery by Ben Thompson",
-      "text": "3 days ago · Apple’s earnings suggest that the company’s hardware business is doing better than ever, even in the face of memory challenges. Does the software story help or hurt?",
+      "text": "3 days ago · An interview with Intuit CEO Sasan Goodarzi about the working for one of tech’s oldest software companies, and how Intuit is leaning into the AI paradigm shift ...",
       "url": "https://stratechery.com/author/stratechery/"
     },
     {
       "title": "Apple Earnings, Memory Problems, The Hardware Company ...",
-      "text": "3 days ago · Apple’s earnings suggest that the company’s hardware business is doing better than ever, even in the face of memory challenges. Does the software story help or hurt?",
+      "text": "4 days ago · Apple’s earnings suggest that the company’s hardware business is doing better than ever, even in the face of memory challenges. Does the software story help or hurt?",
       "url": "https://stratechery.com/2026/apple-earnings-memory-problems-the-hardware-company-regression/"
     },
     {
-      "title": "AI on the Ballot – Stratechery by Ben Thompson",
-      "text": "2 days ago · 9. Startups Suffer AI has drawn a great many battle lines, not just in terms of data centers, but also within AI, and between AI and the rest of tech. Specifically, anything that strengthens the frontier labs is likely bad for the rest of the startup ecosystem.",
-      "url": "https://stratechery.com/2026/ai-on-the-ballot/"
+      "title": "iPhone – Stratechery by Ben Thompson",
+      "text": "4 days ago · The iPhone is a franchise, a product that will make money in well-defined ways; Apple understands that and is exploiting it more than ever before with the iPhones XS and XR.",
+      "url": "https://stratechery.com/topic/mobile/iphone/"
     },
     {
-      "title": "Latest Uncategorized topics - OpenAI Developer Community",
-      "text": "Connect with other developers building with the OpenAI API Platform.",
-      "url": "https://community.openai.com/c/uncategorized/1"
-    },
-    {
-      "title": "LifeVal - OpenAI",
-      "text": "4 days ago · Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
-      "url": "https://openai.com/index/lifeval/"
+      "title": "Qodo builds context into AI code review with Codex | OpenAI",
+      "text": "5 days ago · Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+      "url": "https://openai.com/index/qodo-codex-plugin/"
     },
     {
       "title": "File upload errors in ChatGPT - OpenAI Status",
-      "text": "4 days ago · All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.",
+      "text": "5 days ago · All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.",
       "url": "https://status.openai.com/incidents/01M6FDZ89W4PKDS19K496J307G"
     },
     {
-      "title": "Repeated \"Bad request\" errors in Work chat - Bugs - OpenAI ...",
-      "text": "5 days ago · Environment Surface: macOS Golden Gate 27.2 (26B123) on MacBook Pro 2024 (15-inch Apple Silicon aarch64 - M4 Max) Browser or app version: Version 26.1027.51404 Affected feature and model, if relevant: Work, GPT 6.1 Sol Extra High Bug A few days ago, before this ChatGPT desktop (macOS) update a long chat I was working into stopped working and new prompts failed in the main agent chat (after ...",
-      "url": "https://community.openai.com/t/repeated-bad-request-errors-in-work-chat/1411551"
+      "title": "Elevated error rates across paid ChatGPT plans - OpenAI Status",
+      "text": "3 days ago · All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.",
+      "url": "https://status.openai.com/incidents/01M6MBCX427A7113A3T4FJ1N6Y"
+    },
+    {
+      "title": "Merge builds product and business tools with OpenAI ...",
+      "text": "2 days ago · Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+      "url": "https://openai.com/index/merge-builds-with-openai/"
+    },
+    {
+      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "text": "3 days ago · DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+      "url": "https://openai.com/index/devrev-enterprise-self-service/"
     },
     {
       "title": "Anthropic's coordinated vulnerability disclosure dashboard",
-      "text": "4 days ago · Anthropic's coordinated vulnerability disclosure dashboard Overview · Ledger · Archive · About Light Dark System Last updated 2026-11-02 19:30 UTC. Anthropic uses Claude models, including an early snapshot of Claude Mythos Preview, to find security vulnerabilities in open-source software. We partner with external security research firms to triage findings, validate them, and report human ...",
+      "text": "5 days ago · Anthropic's coordinated vulnerability disclosure dashboard Overview · Ledger · Archive · About Light Dark System Last updated 2026-11-02 19:30 UTC. Anthropic uses Claude models, including an early snapshot of Claude Mythos Preview, to find security vulnerabilities in open-source software. We partner with external security research firms to triage findings, validate them, and report human ...",
       "url": "https://red.anthropic.com/2026/cvd/"
     },
     {
-      "title": "Simon Willison on ai",
-      "text": "15 hours ago · The paper (OK, the authors classify is as a “blog post”, but it’s paper-shaped) found that frontier models, in particular GPT-6 Astra, can both interpret and modify the raw weights of a machine learning model—literally a text description of the model containing a bunch of floating point numbers.",
-      "url": "https://simonwillison.net/tags/ai/"
+      "title": "Investigating vault particles with Claude \\ Anthropic",
+      "text": "3 days ago · We’re sharing another finding from Anthropic’s biology research lab: the first 3D structure of a vault particle found in prokaryotic cells.",
+      "url": "https://www.anthropic.com/research/investigating-vault-particles-with-claude"
+    },
+    {
+      "title": "Simon Willison on machine-learning",
+      "text": "4 days ago · I’ve been pondering the most light-weight way to package a simple machine learning model as part of a larger application without needing to bundle heavy dependencies, this set of techniques looks ideal!",
+      "url": "https://simonwillison.net/tags/machine-learning/"
+    },
+    {
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "text": "4 days ago · The paper (OK, the authors classify is as a “blog post”, but it’s paper-shaped) found that frontier models, in particular GPT-6 Astra, can both interpret and modify the raw weights of a machine learning model—literally a text description of the model containing a bunch of floating point numbers.",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/"
+    },
+    {
+      "title": "OpenAI GLOBAL COMPUTE NETWORK - API - OpenAI Developer Community",
+      "text": "1 day ago · Data processing and analysis Machine learning workloads Distributed computing and storage How it works Individuals install a lightweight application. They choose how much CPU, GPU, RAM, storage and bandwidth to contribute. The network distributes suitable computational tasks. Independent verification mechanisms validate completed work.",
+      "url": "https://community.openai.com/t/openai-global-compute-network/1413601"
+    },
+    {
+      "title": "OpenAI Newsroom | Research",
+      "text": "3 days ago · Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity.",
+      "url": "https://openai.com/news/research/"
+    },
+    {
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "text": "3 days ago · Today we're announcing that OpenAI will acquire Pierre Computer Company, Inc . (“Pierre”), the company behind Code Storage and a family of standout open-source developer tools. If you’ve browsed files or reviewed a change in the Codex app, you’ve already used Pierre’s Trees and Diffs libraries.",
+      "url": "https://openai.com/index/openai-to-acquire-pierre/"
     },
     {
       "title": "Product News and Updates | OpenAI",
-      "text": "2 days ago · Read the latest OpenAI product news, including releases, announcements, and updates across ChatGPT, Codex, AI models, developer tools, and more",
+      "text": "3 days ago · Read the latest OpenAI product news, including releases, announcements, and updates across ChatGPT, Codex, AI models, developer tools, and more",
       "url": "https://openai.com/news/product/"
     },
     {
-      "title": "ChatGPT Proactive Timeline Follow-Up and Goal Tracking ...",
-      "text": "3 days ago · ChatGPT could respond: “Great progress! Since machine learning concepts need more time, I recommend adjusting the timeline. We can spend the next two weeks strengthening ML fundamentals before moving into LLM applications. I can also provide additional resources and practice exercises.”",
-      "url": "https://community.openai.com/t/chatgpt-proactive-timeline-follow-up-and-goal-tracking-assistant/1412241"
-    },
-    {
-      "title": "OpenAI API Platform – New Projects Missing, Repeated 401/403 ...",
-      "text": "6 days ago · Open the browser Developer Tools and inspect the Console and Network activity. The behaviour has been reproduced in multiple environments. Diagnostics 1. HTTP 401 – Project permissions The browser console repeatedly reports: ... The actual project identifier has been removed for privacy. 2. HTTP 401 – Platform configuration",
-      "url": "https://community.openai.com/t/openai-api-platform-new-projects-missing-repeated-401-403-errors-sign-in-loops-and-broken-project-management/1411473"
+      "title": "Release Notes - OpenAI",
+      "text": "3 days ago · OpenAI release notes for ChatGPT, API Platform, and Codex. Explore the latest features, updates, and improvements across OpenAI products.",
+      "url": "https://openai.com/products/release-notes/"
     },
     {
       "title": "Accelerating engineering for the physical world | OpenAI",
-      "text": "3 days ago · Today, we’re sharing advances in how OpenAI models help engineers design, simulate, and build physical products. These capabilities span mechanical and electrical engineering and end-to-end system design, and are already helping our internal teams test ideas and iterate faster.",
+      "text": "4 days ago · Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
       "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world/"
     },
     {
       "title": "Evolving Memory - Remember, Forget, Imagine - Feature ...",
-      "text": "3 days ago · Dear OpenAI Product Team, I would like to submit an independent product-design proposal developed through creative collaboration between myself, Ivo Melders, and ChatGPT (GPT-6). Proposal title: Evolving Memory — Remember, Forget, Imagine Background During extended conversations involving art, research and human–AI collaboration, I noticed that returning to an established conversation can ...",
+      "text": "4 days ago · Dear OpenAI Product Team, I would like to submit an independent product-design proposal developed through creative collaboration between myself, Ivo Melders, and ChatGPT (GPT-6).",
       "url": "https://community.openai.com/t/evolving-memory-remember-forget-imagine/1412603"
-    },
-    {
-      "title": "Feature Request: Replace Spider Animation with Diwali-Themed ...",
-      "text": "6 days ago · Hello OpenAI Product Team, I would like to suggest a small but lovely improvement to ChatGPT. Currently, during image generation, the processing animation sometimes displays a spider. Since Diwali is being celebrated in India, why not introduce a festive loading animation featuring: Beautiful glowing diyas Colourful Indian Diwali kandils (Aakash Kandil) Rangoli patterns Golden lights and ...",
-      "url": "https://community.openai.com/t/feature-request-replace-spider-animation-with-diwali-themed-loading-animation/1411411"
-    },
-    {
-      "title": "Feature request: A Unified ChatGPT Workspace After the Chat ...",
-      "text": "5 days ago · Good product design makes powerful capabilities simple. References OpenAI Help Center: Understanding ChatGPT and Codex usage limits OpenAI Help Center: GPT-6 models and usage OpenAI Community: shared usage allowance announcement TokenPost: OpenAI will combine ChatGPT and Codex usage allowances in December TestingCatalog (X): Tibo on merging ...",
-      "url": "https://community.openai.com/t/feature-request-a-unified-chatgpt-workspace-after-the-chat-work-merge/1411595"
-    },
-    {
-      "title": "Could ChatGPT Sometimes Start The Conversation? An Opt-In ...",
-      "text": "6 days ago · Feature proposal: Let ChatGPT sometimes open the conversation I’d like to suggest an opt-in feature for people who have established, ongoing conversations with ChatGPT: the ability to allow ChatGPT occasionally to initiate an interaction itself, based on the continuity and context of that conversation. This is not a request for scheduled reminders, automated check-ins, engagement ...",
-      "url": "https://community.openai.com/t/could-chatgpt-sometimes-start-the-conversation-an-opt-in-proposal-for-reciprocal-invitation/1411400"
     }
   ]
 }
