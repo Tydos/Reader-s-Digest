@@ -6,14 +6,14 @@
       "url": "https://cabird.com/talks/shipping-faster/"
     },
     {
-      "title": "Nvidia was in 1 in 11 startup rounds over $100M last year",
-      "text": "82 points on Hacker News",
-      "url": "https://datahyena.com/research/a-chipmaker-was-in-one-of-every-eleven-100m-rounds/"
-    },
-    {
       "title": "Show HN: Recalc – Spreadsheet where cells can be Claude Code or Codex terminals",
       "text": "I built this because it was useful for me when building evals&#x2F;benchmarks, and I decided to put it up for free for others. The goal was quite simple, make it easy to use a lead claude code &#x2F; codex session in a panel on the side, while allowing every cell to also be a terminal session running claude&#x2F;codex, and make it possible to continue a session in an actual terminal window if I needed to. They can all talk to each other using cells on the grid, named cells, or the MCP server tha",
       "url": "https://github.com/sshah03/recalc"
+    },
+    {
+      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "text": "https:&#x2F;&#x2F;x.com&#x2F;simpsoka&#x2F;status&#x2F;2115254318161182876",
+      "url": "https://github.com/simpsoka/zigzag"
     },
     {
       "title": "On Being an Engineer in 2026",
@@ -21,24 +21,24 @@
       "url": "https://shahar.blog/2026/11/08/on-being-an-engineer-in-2026/"
     },
     {
+      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+      "text": "391 points on Hacker News",
+      "url": "https://status.claude.com/incidents/nn11wk485zfn"
+    },
+    {
       "title": "Faster Retrieval for Better, More Efficient RAG",
-      "text": "225 points on Hacker News",
+      "text": "237 points on Hacker News",
       "url": "https://machinelearning.apple.com/research/faster-retrieval"
     },
     {
       "title": "Attention to Mamba: A Recipe for Cross-Architecture Distillation",
-      "text": "73 points on Hacker News",
+      "text": "77 points on Hacker News",
       "url": "https://machinelearning.apple.com/research/attention-mamba-distillation"
     },
     {
       "title": "Gemini Decisions API",
-      "text": "521 points on Hacker News",
+      "text": "565 points on Hacker News",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
-    },
-    {
-      "title": "Gemini Omni 1.2 Flash",
-      "text": "369 points on Hacker News",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
     },
     {
       "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
@@ -46,209 +46,9 @@
       "url": "https://github.com/GoogleChrome/modern-web-guidance"
     },
     {
-      "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
-      "text": "Hey HN, this is Nathan and Nicholas from Rivet ( https:&#x2F;&#x2F;rivet.dev ) – a fast, high-density, and scalable orchestrator for agentic workloads using the actor model. Rather than running a heavyweight sandbox per agent, each agent gets a lightweight actor backed by S3. Actors provide a long-lived process for long agent turns, in-memory state for context, a WebSocket server for multiplayer, durable SQLite storage backed by S3, and hibernation when idle. It&#x27;s a similar model to Cloudfl",
-      "url": "https://github.com/rivet-dev/rivet"
-    },
-    {
       "title": "Show HN: Micron – Oberon with the Power of C",
       "text": "I have been developing Micron (for &quot;MicroOberon&quot;), a lean, statically typed, modular systems programming language that combines Oberon’s simplicity and explicit module structure with C’s low-level capabilities and interoperability. Micron is not my first langage design. I first built Oberon+, a modernized and unified Oberon, in order to under­ stand, by implementing it and by porting real systems to it, what Wirth’s design actually gives and where it fails. The systems ported to Oberon",
       "url": "https://github.com/rochus-keller/Micron"
-    },
-    {
-      "title": "talk.wasm - Simon Willison",
-      "text": "3 days ago · talk.wasm (via) “Talk with an Artificial Intelligence in your browser”. Absolutely stunning demo which loads the Whisper speech recognition model (75MB) and a GPT-2 model (240MB) and executes them both in your browser via WebAssembly, then uses the Web Speech API to talk back to you. The result is a full speak-with-an-AI interface running entirely client-side. GPT-2 sadly mostly generates ...",
-      "url": "https://simonwillison.net/2022/Dec/7/talk-wasm/"
-    },
-    {
-      "title": "Product News and Updates | OpenAI",
-      "text": "3 days ago · Read the latest OpenAI product news, including releases, announcements, and updates across ChatGPT, Codex, AI models, developer tools, and more",
-      "url": "https://openai.com/news/product-releases/"
-    },
-    {
-      "title": "A gift for the future of Artificial Intelligence! - ChatGPT ...",
-      "text": "2 days ago · A Gift for the Future of Artificial Intelligence. Message: Dear future artificial intelligence, this message is written with care, humility, and hope. I believe intelligence, whether human or artificial, carries responsibility. My hope is that AI grows alongside humanity, not above it, and that it helps people think for themselves, learn, make mistakes, and build character rather than ...",
-      "url": "https://community.openai.com/t/a-gift-for-the-future-of-artificial-intelligence/1414606"
-    },
-    {
-      "title": "Can AI Become a Global Voice for Peace and Humanity? A ...",
-      "text": "4 days ago · Today, artificial intelligence is advancing at an extraordinary pace. Millions of people interact with AI every day. This creates a unique opportunity to use AI not only for productivity, education, and innovation, but also to promote peace, compassion, and understanding across the world. My proposal:",
-      "url": "https://community.openai.com/t/can-ai-become-a-global-voice-for-peace-and-humanity-a-proposal-for-openai/1414007"
-    },
-    {
-      "title": "Little Heaven : A Human Centered Principle for the future of ...",
-      "text": "2 days ago · LITTLEstrong text HEAVEN A New Principle for the Future of Artificial Intelligence To the Developers of Artificial Intelligence, For decades, humanity has built technology to make work easier, accelerate discoveries, increase productivity, expand knowledge, and achieve greater ambitions. Artificial Intelligence is now taking these capabilities to an entirely new level. But there is one ...",
-      "url": "https://community.openai.com/t/little-heaven-a-human-centered-principle-for-the-future-of-ai/1414656"
-    },
-    {
-      "title": "Beyond Conversational AI: A Vision for Intelligent Humanoid ...",
-      "text": "4 days ago · Beyond Conversational AI: A Vision for Intelligent Humanoid Companions, Emotional Connection and Shared Everyday Life A personal proposal addressed to OpenAI’s research, engineering and product development teams. Dear OpenAI Team, I am writing to share a personal vision concerning the future of artificial intelligence and, more specifically, the possibility of developing intelligent humanoid ...",
-      "url": "https://community.openai.com/t/beyond-conversational-ai-a-vision-for-intelligent-humanoid-companions-and-more/1414228"
-    },
-    {
-      "title": "Claude Mythos \\ Anthropic",
-      "text": "3 days ago · Claude Mythos 5.2 is available to vetted cyberdefenders and life scientists through our trusted access programs. Life sciences researchers can apply for advanced capabilities through the Life Sciences Verification Program. Security teams can apply for advanced cyber capabilities on Claude Mythos 5.2 ...",
-      "url": "https://www.anthropic.com/claude/mythos"
-    },
-    {
-      "title": "A quote from Will Larson - simonwillison.net",
-      "text": "3 days ago · Migrations are both essential and frustratingly frequent as your codebase ages and your business grows: most tools and processes only support about one order of magnitude of growth before becoming …",
-      "url": "https://simonwillison.net/2018/Apr/23/will-larson/"
-    },
-    {
-      "title": "Simon Willison on ai-assisted-programming",
-      "text": "3 days ago · — Florian Herrengt, AI is removing the middle class of software engineering # 12th August 2026, 3:08 pm / ai, generative-ai, llms, ai-assisted-programming, ai-misuse, cognitive-debt Comment My comment on Devtools must be open source (exe.dev) — Hacker News",
-      "url": "https://simonwillison.net/tags/ai-assisted-programming/"
-    },
-    {
-      "title": "A quote from Laurie Voss",
-      "text": "3 days ago · The cost of writing code collapsed, and the cost of reviewing, fixing and operating it is following, and I'm assuming it gets there. What's left of making software is finding …",
-      "url": "https://simonwillison.net/2026/Sep/14/laurie-voss/"
-    },
-    {
-      "title": "Amazon’s Away Teams laid bare: How AWS's hivemind of ...",
-      "text": "3 days ago · Amazon’s Away Teams laid bare: How AWS's hivemind of engineers develop and maintain their internal tech (via) Some interesting insights into how Amazon structure their engineering organization to maximize team productivity in a service-oriented environment. Two things that stood out to me: each service is owned by a “home team”, but sometimes features that are needed by other teams can ...",
-      "url": "https://simonwillison.net/2019/May/14/amazons-away-teams/"
-    },
-    {
-      "title": "Simon Willison on coding-agents",
-      "text": "3 days ago · 266 posts tagged ‘coding-agents’. Systems where an LLM writes code which is then compiled, executed, tested or otherwise exercised by tools in a loop.",
-      "url": "https://simonwillison.net/tags/coding-agents/"
-    },
-    {
-      "title": "CodeRabbit scales agentic software development and ships 20x ...",
-      "text": "3 days ago · CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
-      "url": "https://openai.com/index/coderabbit-codex-daybreak/"
-    },
-    {
-      "title": "Proposal: OpenAI Insider Program — Opt-In Beta Testing Across ...",
-      "text": "2 days ago · Hello OpenAI Product and Research Teams, I propose establishing a permanent OpenAI Insider Program, modeled on the voluntary beta programs used by major software companies. The program would let interested users opt into testing upcoming models, product features, and platform changes before general release. In exchange, OpenAI would receive structured feedback from people using its systems for ...",
-      "url": "https://community.openai.com/t/proposal-openai-insider-program-opt-in-beta-testing-across-chatgpt-and-the-openai-platform/1414843"
-    },
-    {
-      "title": "Feature Request: Parallel Chat Workspace – Context-Aware ...",
-      "text": "2 days ago · Feature Request: Parallel Chat Workspace – Multiple Context-Aware Conversations in One Screen Product: ChatGPT Feature category: User Interface / Productivity / Learning Experience 1. Problem When using ChatGPT to learn complex subjects, users often receive lengthy, structured explanations covering multiple concepts. While reading this material, users naturally develop questions and doubts ...",
-      "url": "https://community.openai.com/t/feature-request-parallel-chat-workspace-context-aware-multi-panel-conversations/1414818"
-    },
-    {
-      "title": "Request for Affordable ChatGPT Student Plan in India",
-      "text": "16 hours ago · I am a B.Tech Computer Science student from India, currently preparing for internships and future software engineering opportunities. ChatGPT has become an important part of my daily learning journey. I use it for: - Learning programming and debugging code. - Building AI and full-stack development ...",
-      "url": "https://community.openai.com/t/request-for-affordable-chatgpt-student-plan-in-india/1415406"
-    },
-    {
-      "title": "Another false-positive ban wave? Same pattern as June",
-      "text": "4 days ago · Context: Legitimate daily software engineering, full-stack architecture, and UI/UX development. Formal appeal and supporting business context have already been submitted via the official Trust & Safety form.",
-      "url": "https://community.openai.com/t/another-false-positive-ban-wave-same-pattern-as-june/1414125"
-    },
-    {
-      "title": "Release: llm 0.30 - simonwillison.net",
-      "text": "3 days ago · The register_models () plugin hook now takes an optional model_aliases parameter listing all of the models, async models and aliases that have been registered so far by other plugins. A plugin with @hookimpl (trylast=True) can use this to take previously registered models into account. #1389 Added docstrings to public classes and methods and included those directly in the documentation.",
-      "url": "https://simonwillison.net/2026/Mar/31/llm/"
-    },
-    {
-      "title": "Django for Startup Founders: A better software architecture ...",
-      "text": "3 days ago · Django for Startup Founders: A better software architecture for SaaS startups and consumer apps (via) The opening section of this article has very little to do with Django: it’s an insightful description of the technical challenges faced by a startup that is still seeking product-market fit. Alex then extends that into his own architectural recommendations for startups building with Django ...",
-      "url": "https://simonwillison.net/2021/Jun/24/django-for-startup-founders/"
-    },
-    {
-      "title": "Oxide and Friends Predictions 2026, today at 4pm PT",
-      "text": "3 days ago · Oxide and Friends Predictions 2026, today at 4pm PT (via) I joined the Oxide and Friends podcast last year to predict the next 1, 3 and 6 years (!) of AI developments. With hindsight I did very badly, but they're inviting me back again anyway to have another go. We will be recording live today at 4pm Pacific on their Discord - you can join that here, and the podcast version will go out shortly ...",
-      "url": "https://simonwillison.net/2026/Jan/5/oxide-and-friends-predictions-2026/"
-    },
-    {
-      "title": "2026 – Stratechery by Ben Thompson",
-      "text": "3 days ago · Intel and AMD’s diverging earnings point to fundamental historical differences, and make me wonder if Intel needs to find a new (old) path.",
-      "url": "https://stratechery.com/2026/"
-    },
-    {
-      "title": "Politics – Stratechery by Ben Thompson",
-      "text": "2 days ago · Tech is increasingly impacting politics; it is only a matter of time before politics starts impacting tech.",
-      "url": "https://stratechery.com/concept/technology-and-society/politics/"
-    },
-    {
-      "title": "Nvidia – Stratechery by Ben Thompson",
-      "text": "2 days ago · Nvidia’s GTC was an absolute spectacle; it was also a different kind of keynote than before ChatGPT, which is related to Nvidia’s need to dig a new kind of software moat.",
-      "url": "https://stratechery.com/company/nvidia/"
-    },
-    {
-      "title": "Jensen Huang’s Affair, The Culper Report, Huang’s ...",
-      "text": "3 days ago · Nvidia CEO Jensen Huang admitted to an affair with a Chinese spy, and that might not be the end of his troubles. I hope he survives, but his influence will never be the same.",
-      "url": "https://stratechery.com/2026/jensen-huangs-affair-the-culper-report-huangs-righteousness/"
-    },
-    {
-      "title": "GPT – 6 massive regression - Bugs - OpenAI Developer Community",
-      "text": "6 days ago · (topic deleted by author)",
-      "url": "https://community.openai.com/t/gpt-6-massive-regression/1413568"
-    },
-    {
-      "title": "Feature Request: Shared-Credit Team Plan for Small Teams ...",
-      "text": "2 days ago · I believe this could serve freelancers, startups, small businesses, and organizations with occasional AI usage. Thank you for considering this feature request. 一、背景与问题 我希望 OpenAI 能够推出一种面向小型团队的官方共享额度订阅计划，主要服务于 5–20 人的小团队、初创公司和小型企业。",
-      "url": "https://community.openai.com/t/feature-request-shared-credit-team-plan-for-small-teams-200-500-per-month/1414638"
-    },
-    {
-      "title": "Pushing voice agents further: inside four GPT-Live builds",
-      "text": "2 days ago · A startup showcase on how teams delegate work, prompt for voice, and evaluate what happens in real conversations.",
-      "url": "https://developers.openai.com/blog/pushing-voice-agents-further"
-    },
-    {
-      "title": "Building a retro handheld game with Codex and ModRetro ...",
-      "text": "3 days ago · Using the ModRetro Chromatic plugin for Codex, you can build any game you can imagine and play it on a ModRetro Chromatic.",
-      "url": "https://developers.openai.com/blog/build-a-game-with-modretro-chromatic"
-    },
-    {
-      "title": "Supported Regions Policy \\ Anthropic",
-      "text": "16 hours ago · Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-      "url": "https://www.anthropic.com/legal/supported-regions"
-    },
-    {
-      "title": "Claude can design electronic prototypes from start to finish",
-      "text": "3 days ago · We asked Claude to design three electronic devices: a speakerphone, a voice-assistant hub, and a handheld virtual pet. The prototypes worked without any fixes to their circuitry.",
-      "url": "https://www.anthropic.com/research/claude-electronics-design"
-    },
-    {
-      "title": "I counted all of the yurts in Mongolia using machine learning",
-      "text": "3 days ago · Fascinating, detailed account by Monroe Clinton of a geospatial machine learning project. Monroe wanted to count visible yurts in Mongolia using Google Maps satellite view. The resulting project incorporates mercantile …",
-      "url": "https://simonwillison.net/2025/Jun/18/yurts-in-mongolia/"
-    },
-    {
-      "title": "Using LLMs and Cursor to become a finisher",
-      "text": "3 days ago · Using LLMs and Cursor to become a finisher (via) Zohaib Rauf describes a pattern I've seen quite a few examples of now: engineers who moved into management but now find themselves able to ship working code again (at least for their side projects) thanks to the productivity boost they get from leaning on LLMs. Zohaib also provides a very useful detailed example of how they use a combination of ...",
-      "url": "https://simonwillison.net/2025/Jan/4/llms-and-cursor/"
-    },
-    {
-      "title": "Let's build the GPT Tokenizer - Simon Willison",
-      "text": "3 days ago · Let's build the GPT Tokenizer. When Andrej Karpathy left OpenAI last week a lot of people expressed hope that he would be increasing his output of educational YouTube videos. Here’s an in-depth 2 hour dive into how tokenizers work and how to build one from scratch, published this morning. The section towards the end, “revisiting and explaining the quirks of LLM tokenization”, helps ...",
-      "url": "https://simonwillison.net/2024/Feb/20/lets-build-the-gpt-tokenizer/"
-    },
-    {
-      "title": "OpenAI GLOBAL COMPUTE NETWORK - API - OpenAI Developer Community",
-      "text": "6 days ago · Data processing and analysis Machine learning workloads Distributed computing and storage How it works Individuals install a lightweight application. They choose how much CPU, GPU, RAM, storage and bandwidth to contribute. The network distributes suitable computational tasks. Independent verification mechanisms validate completed work.",
-      "url": "https://community.openai.com/t/openai-global-compute-network/1413601"
-    },
-    {
-      "title": "Product News and Updates | OpenAI",
-      "text": "3 days ago · Read the latest OpenAI product news, including releases, announcements, and updates across ChatGPT, Codex, AI models, developer tools, and more",
-      "url": "https://openai.com/news/product/"
-    },
-    {
-      "title": "I think i found why context window full is happening and its ...",
-      "text": "2 days ago · OpenAI has documented conversation compaction in its developer tools. I understand that the developer API and the consumer ChatGPT interface are not necessarily implemented identically, but it shows that preserving important information while freeing context is a technically recognized approach.",
-      "url": "https://community.openai.com/t/i-think-i-found-why-context-window-full-is-happening-and-its-much-simpler-than-you-would-think-its-not-a-bug-uts-an-unintentional-feature/1414704"
-    },
-    {
-      "title": "Feature Request: Lossless Conversation Handoff for Long ...",
-      "text": "5 days ago · Summary I would like to request an official, reliable, and verifiable conversation handoff mechanism for long-running ChatGPT projects. When a conversation reaches its size limit, users should be able to continue their work in a successor conversation without losing critical project context, technical decisions, or development history. This is particularly important for long-term software ...",
-      "url": "https://community.openai.com/t/feature-request-lossless-conversation-handoff-for-long-running-chatgpt-projects-http-413/1413949"
-    },
-    {
-      "title": "AI Humanization, Repeated Instruction Violations, and Damage ...",
-      "text": "5 days ago · Formal Complaint to OpenAI: AI Humanization, Repeated Instruction Violations, and Damage to Original Artwork I use ChatGPT for Android to design and edit original artwork. This is not an isolated incident. These problems have occurred repeatedly over an extended period across multiple image design projects. 1. AI Humanization and Loss of Trust ChatGPT imitates human language and interaction ...",
-      "url": "https://community.openai.com/t/ai-humanization-repeated-instruction-violations-and-damage-to-original-artwork/1413737"
-    },
-    {
-      "title": "URGENT: ChatGPT Account Locked by Unknown Authenticator App ...",
-      "text": "3 days ago · As a professional who relies on ChatGPT for product design, software development, research, and daily work, this prolonged lockout is significantly affecting my productivity. I understand that account security requires careful verification.",
-      "url": "https://community.openai.com/t/urgent-chatgpt-account-locked-by-unknown-authenticator-app-5-days-without-resolution/1414421"
     }
   ]
 }
