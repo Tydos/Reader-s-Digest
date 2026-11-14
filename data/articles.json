@@ -6,6 +6,11 @@
       "url": "https://cabird.com/talks/shipping-faster/"
     },
     {
+      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "text": "810 points on Hacker News",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
+    },
+    {
       "title": "Show HN: Recalc – Spreadsheet where cells can be Claude Code or Codex terminals",
       "text": "I built this because it was useful for me when building evals&#x2F;benchmarks, and I decided to put it up for free for others. The goal was quite simple, make it easy to use a lead claude code &#x2F; codex session in a panel on the side, while allowing every cell to also be a terminal session running claude&#x2F;codex, and make it possible to continue a session in an actual terminal window if I needed to. They can all talk to each other using cells on the grid, named cells, or the MCP server tha",
       "url": "https://github.com/sshah03/recalc"
@@ -16,18 +21,18 @@
       "url": "https://github.com/simpsoka/zigzag"
     },
     {
-      "title": "On Being an Engineer in 2026",
-      "text": "https:&#x2F;&#x2F;twitter.com&#x2F;shaharglazner&#x2F;status&#x2F;2119796029256032278 , https:&#x2F;&#x2F;nitter.cf&#x2F;shaharglazner&#x2F;article&#x2F;2119796029256032278",
-      "url": "https://shahar.blog/2026/11/08/on-being-an-engineer-in-2026/"
-    },
-    {
       "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-      "text": "391 points on Hacker News",
+      "text": "489 points on Hacker News",
       "url": "https://status.claude.com/incidents/nn11wk485zfn"
     },
     {
+      "title": "Apify Security Incident",
+      "text": "96 points on Hacker News",
+      "url": "https://status.apify.com/incidents/sxd1dj5j6749"
+    },
+    {
       "title": "Faster Retrieval for Better, More Efficient RAG",
-      "text": "237 points on Hacker News",
+      "text": "239 points on Hacker News",
       "url": "https://machinelearning.apple.com/research/faster-retrieval"
     },
     {
@@ -37,7 +42,7 @@
     },
     {
       "title": "Gemini Decisions API",
-      "text": "565 points on Hacker News",
+      "text": "568 points on Hacker News",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
     },
     {
