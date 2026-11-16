@@ -1,13 +1,18 @@
 {
   "articles": [
     {
+      "title": "Artificial Intelligence for the Z80",
+      "text": "72 points on Hacker News",
+      "url": "https://www.dfsantos.com/en/libro-ia-z80"
+    },
+    {
       "title": "Smuggling of 1.5M AI GPUs could be the cause of Huang's departure",
-      "text": "59 points on Hacker News",
+      "text": "61 points on Hacker News",
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls"
     },
     {
       "title": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
-      "text": "49 points on Hacker News",
+      "text": "51 points on Hacker News",
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits"
     },
     {
@@ -17,18 +22,18 @@
     },
     {
       "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-      "text": "1083 points on Hacker News",
+      "text": "1107 points on Hacker News",
       "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
     },
     {
-      "title": "Show HN: Recalc – Spreadsheet where cells can be Claude Code or Codex terminals",
-      "text": "I built this because it was useful for me when building evals&#x2F;benchmarks, and I decided to put it up for free for others. The goal was quite simple, make it easy to use a lead claude code &#x2F; codex session in a panel on the side, while allowing every cell to also be a terminal session running claude&#x2F;codex, and make it possible to continue a session in an actual terminal window if I needed to. They can all talk to each other using cells on the grid, named cells, or the MCP server tha",
-      "url": "https://github.com/sshah03/recalc"
+      "title": "Eric Trump-backed robot soldier startup can't pay staff; founder embezzled $4.6M",
+      "text": "33 points on Hacker News",
+      "url": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html"
     },
     {
-      "title": "Brazil's Serra Verde starts shipping heavy rare earths to US under 15-year deal",
-      "text": "30 points on Hacker News",
-      "url": "https://investors.usare.com/news-releases/news-release-details/usa-rare-earth-announces-start-commercial-scale-shipments-and"
+      "title": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
+      "text": "75 points on Hacker News",
+      "url": "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/"
     },
     {
       "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
@@ -36,9 +41,9 @@
       "url": "https://github.com/simpsoka/zigzag"
     },
     {
-      "title": "On Being an Engineer in 2026",
-      "text": "https:&#x2F;&#x2F;twitter.com&#x2F;shaharglazner&#x2F;status&#x2F;2119796029256032278 , https:&#x2F;&#x2F;nitter.cf&#x2F;shaharglazner&#x2F;article&#x2F;2119796029256032278",
-      "url": "https://shahar.blog/2026/11/08/on-being-an-engineer-in-2026/"
+      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+      "text": "493 points on Hacker News",
+      "url": "https://status.claude.com/incidents/nn11wk485zfn"
     },
     {
       "title": "Faster Retrieval for Better, More Efficient RAG",
@@ -47,7 +52,7 @@
     },
     {
       "title": "Attention to Mamba: A Recipe for Cross-Architecture Distillation",
-      "text": "77 points on Hacker News",
+      "text": "78 points on Hacker News",
       "url": "https://machinelearning.apple.com/research/attention-mamba-distillation"
     },
     {
@@ -64,176 +69,6 @@
       "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
       "text": "Browsers natively handle a lot of what used to take 50 lines of JS (or a dependency): `CSS.highlights` for text range highlighting without &lt;span&gt;s everywhere, `&lt;dialog&gt;` and showModal() give you backdrops and ideal focus management, `field-sizing` to auto-grow textareas as the user types.. (Something yesterday&#x27;s ftrain post touched on [0]) Models know about some of these by name, but consistently won&#x27;t default to using the platform-native solution and instead prefer the inc",
       "url": "https://github.com/GoogleChrome/modern-web-guidance"
-    },
-    {
-      "title": "Product News and Updates | OpenAI",
-      "text": "5 days ago · Read the latest OpenAI product news, including releases, announcements, and updates across ChatGPT, Codex, AI models, developer tools, and more",
-      "url": "https://openai.com/news/product-releases/"
-    },
-    {
-      "title": "OpenAI Academy Cork - Resource | OpenAI Academy",
-      "text": "5 days ago · Unlock the new opportunities of the AI era by equipping yourself with the knowledge and skills to harness artificial intelligence effectively.",
-      "url": "https://academy.openai.com/public/resources/openai-academy-cork-2026"
-    },
-    {
-      "title": "Work at the Frontier: AI’s effect on freelance work | OpenAI",
-      "text": "5 days ago · New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-      "url": "https://openai.com/index/ai-effect-on-freelance-work/"
-    },
-    {
-      "title": "OpenAI Newsroom | Global Affairs",
-      "text": "3 days ago · Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity.",
-      "url": "https://openai.com/news/global-affairs/"
-    },
-    {
-      "title": "Simon Willison on vibe-coding",
-      "text": "4 days ago · I’ve written before about how November 2025 was an inflection point for coding agents —the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents became reliable daily drivers for software engineers. I think we’ve reached a new inflection point in October 2026, and this time it’s for vibe coding computer games. [... 3,254 words]",
-      "url": "https://simonwillison.net/tags/vibe-coding/"
-    },
-    {
-      "title": "Proposal: OpenAI Insider Program — Opt-In Beta Testing Across ...",
-      "text": "5 days ago · Hello OpenAI Product and Research Teams, I propose establishing a permanent OpenAI Insider Program, modeled on the voluntary beta programs used by major software companies. The program would let interested users opt into testing upcoming models, product features, and platform changes before general release. In exchange, OpenAI would receive structured feedback from people using its systems for ...",
-      "url": "https://community.openai.com/t/proposal-openai-insider-program-opt-in-beta-testing-across-chatgpt-and-the-openai-platform/1414843"
-    },
-    {
-      "title": "Add features for young developers for free - Feature requests ...",
-      "text": "3 days ago · Many young people are learning programming, cybersecurity, artificial intelligence, software engineering and other technical disciplines. They may not have the money to purchase expensive subscriptions or organizational plans.",
-      "url": "https://community.openai.com/t/add-features-for-young-developers-for-free/1415648"
-    },
-    {
-      "title": "Browse tools.simonwillison.net by tag",
-      "text": "4 days ago · Browse tools.simonwillison.net by tag. I've been wanting a better way to browse my collection of vibe-coded tools (244 and counting) for a while. I had a few Fable 5.2 credits left over before my weekly reset so I set it to work using tree-sitter to analyze the code for JavaScript APIs, libraries, and web API hosts used by each tool. The homepage now features tag clouds for browsing by each of ...",
-      "url": "https://simonwillison.net/2026/Nov/11/tools-tags/"
-    },
-    {
-      "title": "Archive for Tuesday, 10th November 2026",
-      "text": "5 days ago · Claude Fable 5.2 pays close attention to who owns the code it works on. In Anthropic’s testing on small coding tasks, the model tended to add to the existing structure when the prompt said nothing about ownership or presented the code base as someone else’s, even when that duplicated existing code. When the prompt said the code base was the model’s own, it often consolidated duplicated ...",
-      "url": "https://simonwillison.net/2026/Nov/10/"
-    },
-    {
-      "title": "Release: llm-gemini 0.36",
-      "text": "5 days ago · LLM plugin to access Google's Gemini family of models",
-      "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/"
-    },
-    {
-      "title": "Simon Willison on llms",
-      "text": "Oct 20, 2026 · 2,024 posts tagged ‘llms’. Large Language Models (LLMs) are the class of technology behind generative text AI systems like OpenAI's ChatGPT, Google's Gemini and Anthropic's Claude.",
-      "url": "https://feeds.simonwillison.net/tags/llms/"
-    },
-    {
-      "title": "aws-emulator",
-      "text": "4 days ago · aws-emulator. Finally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so. It's written in Rust by a huge swarm of agents - 29,684 commits in the first three weeks of the project. Swaminathan (Swami) Sivasubramanian wrote about how it came to be in a guest post on Werner Vogels' blog. It ...",
-      "url": "https://simonwillison.net/2026/Nov/11/aws-emulator/"
-    },
-    {
-      "title": "2026 – Stratechery by Ben Thompson",
-      "text": "3 days ago · The best Stratechery content from the week of November 9, 2026, including the shocking demise of Jensen Huang; enterprise, consumer and Intel; and professional basketbal.",
-      "url": "https://stratechery.com/2026/"
-    },
-    {
-      "title": "Daman Rangoola – Stratechery by Ben Thompson",
-      "text": "4 days ago · Jensen Huang Likely Out at Nvidia; The Megaspeed Maelstrom in D.C.; APEC in Seven Days; Legislation That May Come Next",
-      "url": "https://stratechery.com/author/damanpreet149153/"
-    },
-    {
-      "title": "Politics – Stratechery by Ben Thompson",
-      "text": "5 days ago · Tech is increasingly impacting politics; it is only a matter of time before politics starts impacting tech.",
-      "url": "https://stratechery.com/concept/technology-and-society/politics/"
-    },
-    {
-      "title": "Nvidia – Stratechery by Ben Thompson",
-      "text": "5 days ago · Nvidia’s GTC was an absolute spectacle; it was also a different kind of keynote than before ChatGPT, which is related to Nvidia’s need to dig a new kind of software moat.",
-      "url": "https://stratechery.com/company/nvidia/"
-    },
-    {
-      "title": "An Interview With Roblox CEO David Baszucki About Aggregating ...",
-      "text": "3 days ago · An interview with Roblox CEO David Baszucki about how AI is transforming game creation, and why that opens up huge opportunities to both enable developers and make Roblox both an Aggregator and a p…",
-      "url": "https://stratechery.com/2026/an-interview-with-roblox-ceo-david-baszucki-about-aggregating-play/"
-    },
-    {
-      "title": "Unable to start new Workspace Agent runs - OpenAI Status",
-      "text": "4 days ago · We are investigating an issue preventing users from starting new Workspace Agent runs. We will share another update as more information becomes available.",
-      "url": "https://status.openai.com/incidents/01M76CW2D7FM7K7F8NJ4W0G08N"
-    },
-    {
-      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
-      "text": "5 days ago · Cogent builds Cyber Defense Factories for enterprises to autonomously find and eliminate those risks. The factories are designed to help defenders move at machine speed, in response to the acceleration in vulnerability discovery and exploitation.",
-      "url": "https://openai.com/index/cogent-security/"
-    },
-    {
-      "title": "Incorrect cost data in Costs API exports - OpenAI Status",
-      "text": "6 days ago · We have identified an issue causing incorrect cost data in Costs API exports published between November 6 and 9. We are working to correct the affected records and will provide an update once recovery is confirmed.",
-      "url": "https://status.openai.com/incidents/01M71W79MAGEXEX93QTVTBYJ4K"
-    },
-    {
-      "title": "Topics tagged rate-limit - OpenAI API Community Forum",
-      "text": "5 days ago · Topics tagged rate-limit",
-      "url": "https://community.openai.com/tag/rate-limit/129"
-    },
-    {
-      "title": "Feature Request: Shared-Credit Team Plan for Small Teams ...",
-      "text": "5 days ago · I believe this could serve freelancers, startups, small businesses, and organizations with occasional AI usage. Thank you for considering this feature request. 一、背景与问题 我希望 OpenAI 能够推出一种面向小型团队的官方共享额度订阅计划，主要服务于 5–20 人的小团队、初创公司和小型企业。",
-      "url": "https://community.openai.com/t/feature-request-shared-credit-team-plan-for-small-teams-200-500-per-month/1414638"
-    },
-    {
-      "title": "Anthropic launches roadshow for proposed initial public ...",
-      "text": "5 days ago · Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.",
-      "url": "https://www.anthropic.com/news/roadshow-launch"
-    },
-    {
-      "title": "Supported Regions Policy \\ Anthropic",
-      "text": "3 days ago · Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-      "url": "https://www.anthropic.com/legal/supported-regions"
-    },
-    {
-      "title": "Worse Together: How Performance Breaks Down in Multi-User ...",
-      "text": "4 days ago · Anthropic Fellows Blog: When several users each delegate to their own agent and those agents share a resource, group outcomes are worse than when one agent serves everyone, and the agents show problematic behaviors that vary by model and environment.",
-      "url": "https://alignment.anthropic.com/2026/worse-together/"
-    },
-    {
-      "title": "Diluting Poisoned Fine-Tuning Data Can Strengthen Its Effect",
-      "text": "5 days ago · tl;dr We find that poisoned training data with little effect on its own can create a hidden backdoor once clean, contrasting data is added. We demonstrate this effect in small models fine-tuned on datasets we constructed.",
-      "url": "https://alignment.anthropic.com/2026/homeopathic-learning/"
-    },
-    {
-      "title": "Simon Willison on rust",
-      "text": "4 days ago · It would be arrogant to port Python's scikit-learn — the gold standard of data science and machine learning libraries — to Rust with all the features that implies. But that's unironically a good idea so I decided to try and do it anyways.",
-      "url": "https://simonwillison.net/tags/rust/"
-    },
-    {
-      "title": "Feature Request: Let ChatGPT Work Use Credits for GPU Compute ...",
-      "text": "1 day ago · I’m a computer science student currently doing research in deep learning, and I’ve been thinking about something that could make ChatGPT Work significantly more useful for researchers. What if we could convert ChatGPT usage credits into GPU compute time? ChatGPT Work is already moving toward something really interesting: an AI agent that can research topics, write code, work with files ...",
-      "url": "https://community.openai.com/t/feature-request-let-chatgpt-work-use-credits-for-gpu-compute-and-deep-learning-experiments/1416268"
-    },
-    {
-      "title": "Release Notes - OpenAI",
-      "text": "2 days ago · OpenAI release notes for ChatGPT, API Platform, and Codex. Explore the latest features, updates, and improvements across OpenAI products.",
-      "url": "https://openai.com/products/release-notes/"
-    },
-    {
-      "title": "Product News and Updates | OpenAI",
-      "text": "5 days ago · Read the latest OpenAI product news, including releases, announcements, and updates across ChatGPT, Codex, AI models, developer tools, and more",
-      "url": "https://openai.com/news/product/"
-    },
-    {
-      "title": "Why is ChatGPT showing “Chat memory full” and/or \"Context ...",
-      "text": "5 days ago · OpenAI has documented conversation compaction in its developer tools. I understand that the developer API and the consumer ChatGPT interface are not necessarily implemented identically, but it shows that preserving important information while freeing context is a technically recognized approach.",
-      "url": "https://community.openai.com/t/why-is-chatgpt-showing-chat-memory-full-and-or-context-memory-full-after-just-a-few-messages/1403842?page=47"
-    },
-    {
-      "title": "Please Keep OpenAI’s Visual Identity Clean, Minimalist, and ...",
-      "text": "3 days ago · I would like to make a strong and direct request to OpenAI’s design, branding, and product teams: Please do not adopt cyberpunk neon as the visual identity or overarching design direction of OpenAI, ChatGPT, or its product ecosystem. I strongly believe OpenAI should preserve and continue developing its clean, minimalist, recognizable, and human-centered visual language. In particular, I ask ...",
-      "url": "https://community.openai.com/t/please-keep-openai-s-visual-identity-clean-minimalist-and-human-centered-no-cyberpunk-neon-aesthetic/1415666"
-    },
-    {
-      "title": "ChatGPT Business release notes - OpenAI Help Center",
-      "text": "3 days ago · This first set includes Sales, Data Analytics, Product Design, Creative Production, Investment Banking, and Public Equity Investing. These plugins package role-specific skills, app integrations, starter prompts, and workflow guidance so teams can use Codex for sales prep, analytics and dashboards, prototypes, creative assets, and financial ...",
-      "url": "https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes"
-    },
-    {
-      "title": "ChatGPT Needs Native Case Management for Autonomous AI Agents",
-      "text": "15 hours ago · From Task Execution to Outcome Ownership: Native Case Management for ChatGPT Agents The problem I’ve built a working personal AI workflow using ChatGPT, scheduled tasks, Gmail, iCloud Mail, and Asana. The agent reviews correspondence, identifies actionable issues, consolidates related messages, performs authorized actions, follows up with third parties, and verifies whether issues have ...",
-      "url": "https://community.openai.com/t/chatgpt-needs-native-case-management-for-autonomous-ai-agents/1416493"
     }
   ]
 }
