@@ -2,7 +2,7 @@
   "articles": [
     {
       "title": "Artificial Intelligence for the Z80",
-      "text": "84 points on Hacker News",
+      "text": "88 points on Hacker News",
       "url": "https://www.dfsantos.com/en/libro-ia-z80"
     },
     {
@@ -11,19 +11,14 @@
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls"
     },
     {
-      "title": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
-      "text": "51 points on Hacker News",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits"
-    },
-    {
       "title": "Claude Mythos slashed software work to onboard AMD GPUs to around three days",
-      "text": "50 points on Hacker News",
+      "text": "55 points on Hacker News",
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat"
     },
     {
-      "title": "AI, activity, and outcomes in software engineering",
-      "text": "https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=0wumMeZsNsI",
-      "url": "https://cabird.com/talks/shipping-faster/"
+      "title": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
+      "text": "51 points on Hacker News",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits"
     },
     {
       "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
@@ -36,9 +31,9 @@
       "url": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html"
     },
     {
-      "title": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
-      "text": "76 points on Hacker News",
-      "url": "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/"
+      "title": "U.S. Loses Its Measles Elimination Status",
+      "text": "51 points on Hacker News",
+      "url": "https://www.nytimes.com/2026/11/17/well/us-measles-elimination-status.html"
     },
     {
       "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
@@ -46,39 +41,19 @@
       "url": "https://github.com/simpsoka/zigzag"
     },
     {
-      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-      "text": "494 points on Hacker News",
-      "url": "https://status.claude.com/incidents/nn11wk485zfn"
-    },
-    {
       "title": "Faster Retrieval for Better, More Efficient RAG",
-      "text": "241 points on Hacker News",
+      "text": "242 points on Hacker News",
       "url": "https://machinelearning.apple.com/research/faster-retrieval"
     },
     {
-      "title": "Attention to Mamba: A Recipe for Cross-Architecture Distillation",
-      "text": "78 points on Hacker News",
-      "url": "https://machinelearning.apple.com/research/attention-mamba-distillation"
-    },
-    {
       "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
-      "text": "686 points on Hacker News",
+      "text": "725 points on Hacker News",
       "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/"
     },
     {
       "title": "Gemini Decisions API",
-      "text": "569 points on Hacker News",
+      "text": "570 points on Hacker News",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
-    },
-    {
-      "title": "Extending LLDB to Debug Applications That Span CPUs and GPUs",
-      "text": "34 points on Hacker News",
-      "url": "https://engineering.fb.com/2026/11/09/developer-tools/extending-lldb-to-debug-applications-that-span-cpus-and-gpus/"
-    },
-    {
-      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-      "text": "Browsers natively handle a lot of what used to take 50 lines of JS (or a dependency): `CSS.highlights` for text range highlighting without &lt;span&gt;s everywhere, `&lt;dialog&gt;` and showModal() give you backdrops and ideal focus management, `field-sizing` to auto-grow textareas as the user types.. (Something yesterday&#x27;s ftrain post touched on [0]) Models know about some of these by name, but consistently won&#x27;t default to using the platform-native solution and instead prefer the inc",
-      "url": "https://github.com/GoogleChrome/modern-web-guidance"
     }
   ]
 }
