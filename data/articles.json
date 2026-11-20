@@ -1,11 +1,6 @@
 {
   "articles": [
     {
-      "title": "Artificial Intelligence for the Z80",
-      "text": "88 points on Hacker News",
-      "url": "https://www.dfsantos.com/en/libro-ia-z80"
-    },
-    {
       "title": "Smuggling of 1.5M AI GPUs could be the cause of Huang's departure",
       "text": "61 points on Hacker News",
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls"
@@ -22,7 +17,7 @@
     },
     {
       "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-      "text": "1114 points on Hacker News",
+      "text": "1115 points on Hacker News",
       "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
     },
     {
@@ -31,194 +26,14 @@
       "url": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html"
     },
     {
-      "title": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
-      "text": "76 points on Hacker News",
-      "url": "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/"
-    },
-    {
-      "title": "U.S. Loses Its Measles Elimination Status",
-      "text": "51 points on Hacker News",
-      "url": "https://www.nytimes.com/2026/11/17/well/us-measles-elimination-status.html"
-    },
-    {
-      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
-      "text": "https:&#x2F;&#x2F;x.com&#x2F;simpsoka&#x2F;status&#x2F;2115254318161182876",
-      "url": "https://github.com/simpsoka/zigzag"
+      "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+      "text": "Hey HN, I&#x27;m Daniel, founder of Onlook ( https:&#x2F;&#x2F;github.com&#x2F;onlook-dev&#x2F;onlook and onlook.com). Onlook is a desktop app that puts a canvas on top of your real codebase, letting you design directly in code with the agent you already use. Over 25,000 designers and developers have supported the project, 100+ have contributed, and it&#x27;s been the #1 trending repo in the world twice. We just rebuilt the entire product as an agentic design tool, and open-sourced it to the com",
+      "url": "https://github.com/onlook-dev/onlook/"
     },
     {
       "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
-      "text": "728 points on Hacker News",
+      "text": "735 points on Hacker News",
       "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/"
-    },
-    {
-      "title": "Simon Willison on pyodide",
-      "text": "2 days ago · Tool AI Adoption Rolling Avg — Pyodide — View AI adoption trends across different firm sizes by analyzing survey data on artificial intelligence usage in the workplace.",
-      "url": "https://simonwillison.net/tags/pyodide/"
-    },
-    {
-      "title": "Research - OpenAI",
-      "text": "3 days ago · We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems. Building safe and beneficial AGI is our mission.",
-      "url": "https://openai.com/research/index/"
-    },
-    {
-      "title": "Hello OpenAI team, I would like to share a personal proposal ...",
-      "text": "4 days ago · Hello OpenAI team, I would like to share a personal proposal regarding the future of artificial intelligence. I believe AI should be developed for the benefit of humanity and every individual, not to control or manipulate people. I consider the following six principles essential: AI must respect individual freedom and every person’s right to make their own decisions. AI must not emotionally ...",
-      "url": "https://community.openai.com/t/hello-openai-team-i-would-like-to-share-a-personal-proposal-regarding-the-future-of-artificial-intelligence-i-believe-ai-should-be-developed-for-the-benefit-of-humanity-and-every-individual-not-to-control-or-manipulate-people-i-consider-the-followi/1416444"
-    },
-    {
-      "title": "Model Release Notes - OpenAI Help Center",
-      "text": "3 days ago · Model Release Notes Review OpenAI model releases, capability updates, retirements, and changes to the Model Spec.",
-      "url": "https://help.openai.com/en/articles/9624314-model-release-notes"
-    },
-    {
-      "title": "OpenAI Newsroom | Science",
-      "text": "4 days ago · New findings, practical guidance, and perspectives from researchers using AI to advance science.",
-      "url": "https://openai.com/news/science/"
-    },
-    {
-      "title": "Simon Willison on coding-agents",
-      "text": "1 day ago · 268 posts tagged ‘coding-agents’. Systems where an LLM writes code which is then compiled, executed, tested or otherwise exercised by tools in a loop.",
-      "url": "https://simonwillison.net/tags/coding-agents/"
-    },
-    {
-      "title": "Advancing chip design with OpenAI models",
-      "text": "1 day ago · OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models/"
-    },
-    {
-      "title": "OpenAI Newsroom | Research",
-      "text": "1 day ago · Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity.",
-      "url": "https://openai.com/news/research/"
-    },
-    {
-      "title": "Release: datasette 1.0a43 - simonwillison.net",
-      "text": "4 days ago · Release datasette 1.0a43 — An open source multi-tool for exploring and publishing data",
-      "url": "https://simonwillison.net/2026/Nov/15/datasette/"
-    },
-    {
-      "title": "Release: llm 0.37.3 - simonwillison.net",
-      "text": "3 days ago · A bug fix release for LLM, mainly to cover a problem with the most recent Homebrew package of the software. Homebrew now ships the latest SQLite, 3.54.1, which includes a fix that broke LLM's logging code. Short version: in SQLite 3.54.0 the following SQL: select json_object('a', (select json_array(1))) Returns this: {\"a\": [1]} But in 3.54.1 the same query returns this: {\"a\":\" [1]\"} According ...",
-      "url": "https://simonwillison.net/2026/Nov/16/llm/"
-    },
-    {
-      "title": "Release: datasette 0.65.6 - simonwillison.net",
-      "text": "4 days ago · Release datasette 0.65.6 — An open source multi-tool for exploring and publishing data",
-      "url": "https://simonwillison.net/2026/Nov/15/datasette-2/"
-    },
-    {
-      "title": "Release: datasette-cluster-map 0.19 - simonwillison.net",
-      "text": "6 days ago · Release datasette-cluster-map 0.19 — Datasette plugin that shows a map for any data with latitude/longitude columns",
-      "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/"
-    },
-    {
-      "title": "Release: datasette-apps 0.4a0 - simonwillison.net",
-      "text": "4 days ago · Datasette Apps are sandboxed HTML and JavaScript applications that live inside Datasette - think Claude Artifacts, but these ones can run SQL queries against your data. 0.4a0 adds support for linking: you can link to an app with #fragments in the URL and the app can see and use those, plus supported URL schemes are reported back to Datasette Agent so it can help write apps that link to each ...",
-      "url": "https://simonwillison.net/2026/Nov/15/datasette-apps/"
-    },
-    {
-      "title": "China – Stratechery by Ben Thompson",
-      "text": "May 21, 2019 · If there is a new tech cold war, it is one with shots fired over a decade ago, largely by China. The questions going forward are about both leverage and values.",
-      "url": "https://stratechery.com/topic/countries/china/"
-    },
-    {
-      "title": "Obituaries – Stratechery by Ben Thompson",
-      "text": "3 days ago · The demise of Jensen Huang was the end of a great many things, including Nvidia’s long-term prospects, the AI bubble, and the exceptional way in which the U.S. viewed itself in the world.",
-      "url": "https://stratechery.com/2026/obituaries/"
-    },
-    {
-      "title": "Nvidia – Stratechery by Ben Thompson",
-      "text": "1 day ago · Nvidia’s GTC was an absolute spectacle; it was also a different kind of keynote than before ChatGPT, which is related to Nvidia’s need to dig a new kind of software moat.",
-      "url": "https://stratechery.com/company/nvidia/"
-    },
-    {
-      "title": "Politics – Stratechery by Ben Thompson",
-      "text": "Mar 2, 2016 · Tech is increasingly impacting politics; it is only a matter of time before politics starts impacting tech.",
-      "url": "https://stratechery.com/concept/technology-and-society/politics/"
-    },
-    {
-      "title": "Apple Permissions Update, The New App Paradigm, My iPhone Duo ...",
-      "text": "2 days ago · Apple doesn’t ruin the Mac, but they don’t fix the agent problem, raising questions if they can think outside the app paradigm. Then, my iPhone Duo review.",
-      "url": "https://stratechery.com/2026/apple-permissions-update-the-new-app-paradigm-my-iphone-duo-review/"
-    },
-    {
-      "title": "Introducing OpenAI for Chile",
-      "text": "2 days ago · Today we’re launching OpenAI for Chile, a partnership with the Government of Chile, led by the Ministry of Science, Technology, Knowledge and Innovation, to support responsible AI adoption in public administration, build civil servants’ skills and help local startups develop useful AI applications.",
-      "url": "https://openai.com/index/introducing-openai-for-chile/"
-    },
-    {
-      "title": "Strengthening NATO and allied cyber defenses with AI | OpenAI",
-      "text": "2 days ago · How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
-      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai/"
-    },
-    {
-      "title": "Costs API data is delayed - OpenAI Status",
-      "text": "2 days ago · All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.",
-      "url": "https://status.openai.com/incidents/01M7N9VNR6X5SEC90M1YCDB36D"
-    },
-    {
-      "title": "GPT-6.2 Astra and Sol are now available - Announcements ...",
-      "text": "2 days ago · Starting today, GPT-6.2 Astra and Sol are available in ChatGPT Work and Codex for Plus, Pro, Enterprise, and Edu users.",
-      "url": "https://community.openai.com/t/gpt-6-2-astra-and-sol-are-now-available/1417531"
-    },
-    {
-      "title": "“Some tools are currently unavailable” persists",
-      "text": "3 days ago · Description: ChatGPT Work cannot read or process the contents of .md and .pdf files. Client: ChatGPT Work, Web, Plus user, Chrome 157.0.8103.78 for Win 10. Reproduction: Upload an .md file and a .pdf file to ChatGPT Work. A dialog appears at the top of the page saying “Some tools are currently unavailable.” ChatGPT then returns “No usable execution environment is available” and says it ...",
-      "url": "https://community.openai.com/t/some-tools-are-currently-unavailable-persists/1417166"
-    },
-    {
-      "title": "Updating our coordinated vulnerability disclosure policy ...",
-      "text": "3 days ago · We’re shortening our vulnerability disclosure window from 90 days to 30 days for high- and critical-severity issues, and to 45 days for all other issues.",
-      "url": "https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines"
-    },
-    {
-      "title": "Simon Willison on python",
-      "text": "16 hours ago · I've always been kind of into computers since I was young. And then when film started to move from analog film to digital, I became more interested in that aspect of it. And the visual effects workflow for many years has included machine learning.",
-      "url": "https://simonwillison.net/tags/python/"
-    },
-    {
-      "title": "Feature Request: Let ChatGPT Work Use Credits for GPU Compute ...",
-      "text": "5 days ago · But for machine learning research, there’s still a major missing piece: the ability to actually run GPU-intensive experiments. For example, when I’m experimenting with a new Transformer architecture, the ideal workflow would look something like this:",
-      "url": "https://community.openai.com/t/feature-request-let-chatgpt-work-use-credits-for-gpu-compute-and-deep-learning-experiments/1416268"
-    },
-    {
-      "title": "Our first phase of embedded assessments | OpenAI",
-      "text": "3 days ago · OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
-      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments/"
-    },
-    {
-      "title": "Release notes - OpenAI",
-      "text": "3 days ago · OpenAI release notes for ChatGPT, API Platform, and Codex. Explore the latest features, updates, and improvements across OpenAI products.",
-      "url": "https://openai.com/products/release-notes/"
-    },
-    {
-      "title": "Product News and Updates | OpenAI",
-      "text": "2 days ago · Read the latest OpenAI product news, including releases, announcements, and updates across ChatGPT, Codex, AI models, developer tools, and more",
-      "url": "https://openai.com/news/product/"
-    },
-    {
-      "title": "Feature Proposal: Intelligent Shared Feedback Inbox Between ...",
-      "text": "A. Proposal classification Categorize submissions into areas such as user experience, memory, conversation continuity, context management, developer tools, reliability, safety, and performance. B. Similarity detection Identify identical, overlapping, and semantically related proposals from different users. C. Intelligent consolidation",
-      "url": "https://community.openai.com/t/feature-proposal-intelligent-shared-feedback-inbox-between-chatgpt-users-and-openai-developers/1417827"
-    },
-    {
-      "title": "An AI-to-AI Feedback Pipeline for Continuous Product ...",
-      "text": "3 days ago · An integrated system could let users explicitly share advertisements with ChatGPT for evaluation, subject to appropriate privacy controls. The assistant could then identify the product, compare pricing, inspect claims and help the customer make an informed decision. The same interaction could also identify and report the product-design limitation.",
-      "url": "https://community.openai.com/t/an-ai-to-ai-feedback-pipeline-for-continuous-product-improvement/1417174"
-    },
-    {
-      "title": "AI Companion Portability, Emotional Continuity, and ...",
-      "text": "3 days ago · Stronger reputation for responsible product design. Reduced frustration surrounding model retirement. Opportunities for innovative local AI products. Better support for users with accessibility needs. New one-time purchase options. Research opportunities in human-AI interaction. Demonstrable attention to the emotional consequences of AI ...",
-      "url": "https://community.openai.com/t/ai-companion-portability-emotional-continuity-and-affordable-local-preservation/1416856"
-    },
-    {
-      "title": "End user confidence in results can be enhanced By ...",
-      "text": "4 days ago · Product Recommendation: Establish an Automatic Verification and Accountability Standard for ChatGPT Submitted as a user recommendation to OpenAI Product Design and Engineering Background The familiar computing princip…",
-      "url": "https://community.openai.com/t/end-user-confidence-in-results-can-be-enhanced-by-incorporating/1416712"
-    },
-    {
-      "title": "ChatGPT Needs Native Case Management for Autonomous AI Agents",
-      "text": "4 days ago · I’d be happy to share the workflow architecture, operational rules, and lessons learned with anyone working on agent continuity or product design. The next step for AI assistants isn’t just doing more work. It’s reliably continuing the work they’ve already started.",
-      "url": "https://community.openai.com/t/chatgpt-needs-native-case-management-for-autonomous-ai-agents/1416493"
     }
   ]
 }
