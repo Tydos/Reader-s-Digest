@@ -2,13 +2,13 @@
   "articles": [
     {
       "title": "Amodei reportedly suggested games could pacify masses after AI took their jobs (2015)",
-      "text": "67 points on Hacker News",
+      "text": "77 points on Hacker News",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness"
     },
     {
-      "title": "Claude Mythos slashed software work to onboard AMD GPUs to around three days",
-      "text": "55 points on Hacker News",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat"
+      "title": "Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor",
+      "text": "https:&#x2F;&#x2F;x.com&#x2F;codycollier&#x2F;status&#x2F;2124505859883716918",
+      "url": "https://github.com/os6/nospeaker"
     },
     {
       "title": "Show HN: OpenComputer – an open source alternative to Devin",
@@ -19,161 +19,6 @@
       "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
       "text": "Hey HN, I&#x27;m Daniel, founder of Onlook ( https:&#x2F;&#x2F;github.com&#x2F;onlook-dev&#x2F;onlook and onlook.com). Onlook is a desktop app that puts a canvas on top of your real codebase, letting you design directly in code with the agent you already use. Over 25,000 designers and developers have supported the project, 100+ have contributed, and it&#x27;s been the #1 trending repo in the world twice. We just rebuilt the entire product as an agentic design tool, and open-sourced it to the com",
       "url": "https://github.com/onlook-dev/onlook/"
-    },
-    {
-      "title": "Regulatory Capture by Anthropic Through METR",
-      "text": "140 points on Hacker News",
-      "url": "https://nitter.cf/kevinnbass/status/2099621874279817638"
-    },
-    {
-      "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
-      "text": "737 points on Hacker News",
-      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/"
-    },
-    {
-      "title": "Research acceleration: The jagged frontier - OpenAI",
-      "text": "5 days ago · OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-      "url": "https://openai.com/index/research-acceleration-jagged-frontier/"
-    },
-    {
-      "title": "The Silent Consensus | OpenAI",
-      "text": "5 days ago · Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-      "url": "https://openai.com/index/the-silent-consensus/"
-    },
-    {
-      "title": "Perplexity and Intelligence | OpenAI",
-      "text": "1 day ago · How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
-      "url": "https://openai.com/index/perplexity-and-intelligence/"
-    },
-    {
-      "title": "OpenAI Newsroom | Research",
-      "text": "5 days ago · Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity.",
-      "url": "https://openai.com/news/research/"
-    },
-    {
-      "title": "Simon Willison on coding-agents",
-      "text": "5 days ago · The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder. We can do amazing things with them, but unlocking their full potential requires extraordinary discipline and knowledge.",
-      "url": "https://simonwillison.net/tags/coding-agents/"
-    },
-    {
-      "title": "Advancing chip design with OpenAI models",
-      "text": "5 days ago · OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models/"
-    },
-    {
-      "title": "Combatting adversarial distillation - OpenAI",
-      "text": "3 days ago · Related work from Anthropic reported a similar advantage when training on full reasoning transcripts rather than summaries on SWE-bench Verified, a software engineering benchmark. Our result shows this advantage extends to frontier cybersecurity.",
-      "url": "https://openai.com/index/combatting-adversarial-distillation/"
-    },
-    {
-      "title": "Feature Request: Make the ChatGPT Go Plan Completely FREE for ...",
-      "text": "2 days ago · I am writing this request as a B.Tech Computer Science and Artificial Intelligence student from India who relies heavily on ChatGPT for academic coursework, AI/ML research, software engineering, and technical interview preparation.",
-      "url": "https://community.openai.com/t/feature-request-make-the-chatgpt-go-plan-completely-free-for-verified-students-in-india/1418883"
-    },
-    {
-      "title": "Release: llm-gemini 0.38.1 - simonwillison.net",
-      "text": "3 days ago · Gemini 4 Carbon only supports low, medium and high reasoning levels - but Gemini 4 Hydrogen and Gemini 4 Neon both have an extra xhigh level. I missed that when I added those models to the llm-gemini plugin, which is now fixed in this dot release. The xhigh setting for Hydrogen makes a significant difference. I updated my Gemini 4 comparison grid - note how Hydrogen at high used 5,311 output ...",
-      "url": "https://simonwillison.net/2026/Nov/20/llm-gemini/"
-    },
-    {
-      "title": "The PSF end-of-year fundraiser - simonwillison.net",
-      "text": "5 days ago · With my Python Software Foundation board director hat on: we've launched our end-of-year fundraiser for the non-profit that supports Python development and the Python community. If your company or your …",
-      "url": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/"
-    },
-    {
-      "title": "Down in DC – Stratechery by Ben Thompson",
-      "text": "3 days ago · The best Stratechery content from the week of November 16, 2026, including obituaries and exceptionalism, arguments about agents, and Ben gets a Duo.",
-      "url": "https://stratechery.com/2026/down-in-dc/"
-    },
-    {
-      "title": "June 2025 – Stratechery by Ben Thompson",
-      "text": "4 days ago · The best Stratechery content from the week of June 23, 2025, including AI and the Big Five, a compelling ruling on LLMs and the Fair Use Doctrine, and NBA salaries in tech (and the actual NBA).",
-      "url": "https://stratechery.com/2025/06/"
-    },
-    {
-      "title": "Ben Thompson – Stratechery by Ben Thompson",
-      "text": "May 27, 2026 · The best Stratechery content from the week of November 9, 2026, including the shocking demise of Jensen Huang; enterprise, consumer and Intel; and professional basketbal. The best Stratechery content from the week of November 2, 2026, including AI on the ballot, a Google state of the union, and ...",
-      "url": "https://stratechery.com/author/ben1402025/"
-    },
-    {
-      "title": "Anthropic – Stratechery by Ben Thompson",
-      "text": "19 hours ago · Anthropic’s belief in its own commitment to safety gives the company license to aggressively favor its business and even challenge the U.S. government.",
-      "url": "https://stratechery.com/company/anthropic/"
-    },
-    {
-      "title": "Ben Thompson – Stratechery by Ben Thompson",
-      "text": "4 days ago · The best Stratechery content from the week of November 16, 2026, including obituaries and exceptionalism, arguments about agents, and Ben gets a Duo.",
-      "url": "https://stratechery.com/author/stratechery/"
-    },
-    {
-      "title": "Daman Rangoola – Stratechery by Ben Thompson",
-      "text": "5 days ago · (Preview) Trump and Xi in Shenzhen; PRC-Japan Tensions Persist; Profound Anxiety for Chinese AI; More on the Nvidia Mess",
-      "url": "https://stratechery.com/author/damanpreet149153/"
-    },
-    {
-      "title": "ChatGPT Business release notes - OpenAI Help Center",
-      "text": "4 days ago · ChatGPT Business release notes Review the latest features and updates for the ChatGPT Business plan.",
-      "url": "https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes"
-    },
-    {
-      "title": "Image uploads failing since yesterday - Bugs - OpenAI ...",
-      "text": "2 days ago · I recently started getting this error message when trying to upload images for ChatGPT to create one. Started happening yesterday.",
-      "url": "https://community.openai.com/t/image-uploads-failing-since-yesterday/1419096"
-    },
-    {
-      "title": "Elevated error rates for gpt-6 Luna API requests - OpenAI Status",
-      "text": "4 days ago · All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.",
-      "url": "https://status.openai.com/incidents/01M7T8MRF9SDBDNQ62Z6V156ZZ"
-    },
-    {
-      "title": "Gpt-5.4-mini (Responses API) intermittently returns usage ...",
-      "text": "2 days ago · With gpt-5.4-mini-2026-03-17 on the Responses API, some requests return status: completed with usage.input_tokens = 0 (cached 0, reasoning 0). The output reads as if the model received neither our instructions nor our function tools. It makes no tool call and says it “cannot access your database”. The request we send is the same one that works on other runs. When it happens Only on the ...",
-      "url": "https://community.openai.com/t/gpt-5-4-mini-responses-api-intermittently-returns-usage-input-tokens-0-and-ignores-instructions-tools-on-the-first-turn/1418931"
-    },
-    {
-      "title": "Hebbia sees improvements in financial research with GPT-6 ...",
-      "text": "3 days ago · Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
-      "url": "https://openai.com/business/customer-stories/hebbia/"
-    },
-    {
-      "title": "Anthropic - SEC Filings",
-      "text": "4 days ago · Anthropic is an AI safety and research company building reliable, interpretable, and steerable AI systems. Find investor news, filings, and events.",
-      "url": "https://investor.anthropic.com/sec-filings/default.aspx"
-    },
-    {
-      "title": "Anthropic announces closing of initial public offering ...",
-      "text": "3 days ago · Today Anthropic, PBC announced the closing of its initial public offering of an aggregate of 1,127,000,000 shares of its Class A common stock at a public offering price of $83.00 per share, including the full exercise by the underwriters of their option to purchase an additional 147,000,000 shares of Class A common stock from Anthropic at the initial public offering price.",
-      "url": "https://www.anthropic.com/news/ipo-close"
-    },
-    {
-      "title": "Anthropic Residency: applications open for established ...",
-      "text": "1 day ago · Today we are opening applications for the Anthropic Residency, our paid, fixed-term research program with placements lasting between six weeks and six months. We are looking for people who have led ambitious work in a variety of technical fields and want to transition to full-time work focused on making AI systems safe and beneficial for all of humanity. If you are a professor in a ...",
-      "url": "https://alignment.anthropic.com/2026/anthropic-residency/"
-    },
-    {
-      "title": "Anthropic prices initial public offering \\ Anthropic",
-      "text": "5 days ago · Today Anthropic, PBC priced its initial public offering of its Class A common stock at $83.00 per share. The offering consists of 980,000,000 shares of Class A common stock, 956,351,354 of which are being sold by Anthropic and 23,648,646 of which are being sold by certain selling stockholders ...",
-      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
-    },
-    {
-      "title": "Plus subscriber: 95% of conversations inaccessible, HTTP 429 ...",
-      "text": "3 days ago · Diagnostics Chrome Developer Tools confirms the following error: GET /backend-api/conversations/... → HTTP 429 (Too Many Requests) I also encountered the following error when attempting to authenticate through the OpenAI Help Center: client_id_not_found_in_session First occurrence: November 16, 2026.",
-      "url": "https://community.openai.com/t/plus-subscriber-95-of-conversations-inaccessible-http-429-errors-no-support-response/1418748"
-    },
-    {
-      "title": "Product Strategy Proposal: ChatGPT Family Plan and a User ...",
-      "text": "4 days ago · I would like to suggest the following product design philosophy: Simple Interface. Deep Capabilities. Infinite Possibilities. Build powerful tools, empower users, and allow human curiosity and imagination to drive innovation. Thank you for your time and consideration. Best regards, A ChatGPT User MBA, Certified Management Consultant Republic of ...",
-      "url": "https://community.openai.com/t/product-strategy-proposal-chatgpt-family-plan-and-a-user-driven-innovation-ecosystem/1418449"
-    },
-    {
-      "title": "What the World Calls ChatGPT: 2026 Annual Nickname Report",
-      "text": "3 days ago · Why it matters The report could inform localization, product design and research into user trust, cultural differences and anthropomorphism in human–AI interactions. Methodology Start with a voluntary opt-in survey.",
-      "url": "https://community.openai.com/t/what-the-world-calls-chatgpt-2026-annual-nickname-report/1418619"
-    },
-    {
-      "title": "Discussion Oogiri and the Summoning of Two Dragons",
-      "text": "19 hours ago · Its purpose is to share an unusual conversational game created by a user with ChatGPT, together with behaviours observed over the course of extended dialogue, from the perspectives of product design, quality, safety, creative support, and AI literacy.",
-      "url": "https://community.openai.com/t/discussion-oogiri-and-the-summoning-of-two-dragons/1419611"
     }
   ]
 }
