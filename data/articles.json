@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "text": "https:&#x2F;&#x2F;archive.ph&#x2F;pcUgy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features"
+    },
+    {
       "title": "Amodei reportedly suggested games could pacify masses after AI took their jobs (2015)",
       "text": "79 points on Hacker News",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness"
@@ -14,11 +19,6 @@
       "title": "Show HN: OpenComputer – an open source alternative to Devin",
       "text": "Hi HN! Utpal here, I&#x27;m one of the founders of OpenComputer. OpenComputer is an open source cloud coding agent for teams that can run in your own cloud account (AWS, GCP, Azure). We run the agent harness and the sandbox on the same durable VM (architecture in the docs [1]). First commit lands in 24s; the alternatives we benchmarked took 53-72s (benchmarks below [2]). Two other choices: - One VM per team, scalable horizontally. Sessions are isolated in git worktrees. - Session files are backe",
       "url": "https://github.com/diggerhq/opencomputer"
-    },
-    {
-      "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
-      "text": "Hey HN, I&#x27;m Daniel, founder of Onlook ( https:&#x2F;&#x2F;github.com&#x2F;onlook-dev&#x2F;onlook and onlook.com). Onlook is a desktop app that puts a canvas on top of your real codebase, letting you design directly in code with the agent you already use. Over 25,000 designers and developers have supported the project, 100+ have contributed, and it&#x27;s been the #1 trending repo in the world twice. We just rebuilt the entire product as an agentic design tool, and open-sourced it to the com",
-      "url": "https://github.com/onlook-dev/onlook/"
     }
   ]
 }
