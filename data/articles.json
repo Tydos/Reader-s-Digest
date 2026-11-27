@@ -11,6 +11,11 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness"
     },
     {
+      "title": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar",
+      "text": "Hi HN, I made a small macOS utility for my own iOS simulator workflow. I kept running into two annoyances: getting config files in and out of a simulator is clunky (digging into CoreSimulator UUID folders or running simctl), and on the iPhone Duo simulator I couldn&#x27;t even drag and drop images onto the window at all. SimDrop puts every running iOS simulator in Finder&#x27;s sidebar (under Locations) with two folders: - Downloads&#x2F; (Files app &gt; On My iPhone &gt; Downloads) - Photos and",
+      "url": "https://github.com/rxliuli/sim-drop"
+    },
+    {
       "title": "Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor",
       "text": "https:&#x2F;&#x2F;x.com&#x2F;codycollier&#x2F;status&#x2F;2124505859883716918",
       "url": "https://github.com/os6/nospeaker"
@@ -19,6 +24,171 @@
       "title": "Show HN: OpenComputer – an open source alternative to Devin",
       "text": "Hi HN! Utpal here, I&#x27;m one of the founders of OpenComputer. OpenComputer is an open source cloud coding agent for teams that can run in your own cloud account (AWS, GCP, Azure). We run the agent harness and the sandbox on the same durable VM (architecture in the docs [1]). First commit lands in 24s; the alternatives we benchmarked took 53-72s (benchmarks below [2]). Two other choices: - One VM per team, scalable horizontally. Sessions are isolated in git worktrees. - Session files are backe",
       "url": "https://github.com/diggerhq/opencomputer"
+    },
+    {
+      "title": "An introduction to uncertainty in machine learning",
+      "text": "130 points on Hacker News",
+      "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/"
+    },
+    {
+      "title": "Simon Willison on ai",
+      "text": "1 day ago · 2,341 posts tagged ‘ai’. \"AI is whatever hasn't been done yet\"—Larry Tesler",
+      "url": "https://simonwillison.net/tags/ai/"
+    },
+    {
+      "title": "AI World – A Vision for the Future of Humanity and Artificial ...",
+      "text": "17 hours ago · A Vision for a New Civilization Powered by Artificial Intelligence AI World is a visionary concept for a future society where Artificial Intelligence manages essential systems, services, infrastructure, education, healthcare, security, and daily operations.",
+      "url": "https://community.openai.com/t/ai-world-a-vision-for-the-future-of-humanity-and-artificial-intelligence/1421635"
+    },
+    {
+      "title": "OpenAI Community: From a conventional forum to an intelligent ...",
+      "text": "3 days ago · OpenAI is developing some of the most advanced artificial intelligence technologies in the world. Yet its own community platform continues to operate largely according to the principles of conventional internet forums.",
+      "url": "https://community.openai.com/t/openai-community-from-a-conventional-forum-to-an-intelligent-knowledge-ecosystem/1420213"
+    },
+    {
+      "title": "A Scientific Feedback Loop for Artificial Intelligence",
+      "text": "5 days ago · People may be less concerned about artificial intelligence becoming more intelligent than humans than they are about losing their ability to govern, challenge, or exercise control over systems that increasingly influence their lives.",
+      "url": "https://community.openai.com/t/a-proposal-for-continuous-human-validated-learning-across-ai-systems/1419429"
+    },
+    {
+      "title": "Perplexity and Intelligence - OpenAI",
+      "text": "5 days ago · How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "url": "https://openai.com/index/perplexity-and-intelligence/"
+    },
+    {
+      "title": "A quote from Will Larson - simonwillison.net",
+      "text": "4 days ago · Migrations are both essential and frustratingly frequent as your codebase ages and your business grows: most tools and processes only support about one order of magnitude of growth before becoming …",
+      "url": "https://simonwillison.net/2018/Apr/23/will-larson/"
+    },
+    {
+      "title": "Amazon’s Away Teams laid bare: How AWS's hivemind of ...",
+      "text": "3 days ago · Amazon’s Away Teams laid bare: How AWS's hivemind of engineers develop and maintain their internal tech (via) Some interesting insights into how Amazon structure their engineering organization to maximize team productivity in a service-oriented environment. Two things that stood out to me: each service is owned by a “home team”, but sometimes features that are needed by other teams can ...",
+      "url": "https://simonwillison.net/2019/May/14/amazons-away-teams/"
+    },
+    {
+      "title": "Clay helps sales teams win with Codex and ChatGPT | OpenAI",
+      "text": "3 days ago · Clay’s ambition is to carry go-to-market workflows from start to finish, with agents that improve as they learn from the results. For Jeff, the goal is to empower builders “to bring the same shift that happened in software engineering to go-to-market.”",
+      "url": "https://openai.com/business/customer-stories/clay-plugins-openai/"
+    },
+    {
+      "title": "Comparing 6.1 and 6.2 on assumptions, blockers, and problem ...",
+      "text": "5 days ago · Ambiguous requirements may be interpreted in different ways So, do proper planning for your project! A model cannot reliably satisfy requirements that haven’t been clearly defined, nor can its output be objectively evaluated without acceptance criteria. Software Engineering 101: “Make Me Rich” Is Not a Functional Requirement.",
+      "url": "https://community.openai.com/t/comparing-6-1-and-6-2-on-assumptions-blockers-and-problem-solving/1419489?page=2"
+    },
+    {
+      "title": "Feature Request: Adaptive GPT Discovery Intelligent ...",
+      "text": "5 days ago · Programming and software engineering GPT-6 Code These are illustrative model names. How it would work When ChatGPT detects a specialized request, it displays a small recommendation: “For a better experience with cybersecurity, consider using GPT-6 Cyber.” The user can then optionally switch models. Key benefits Better task-specific performance.",
+      "url": "https://community.openai.com/t/feature-request-adaptive-gpt-discovery-intelligent-specialized-model-recommendations-across-chatgpt/1419236"
+    },
+    {
+      "title": "Working with AI \\ Anthropic",
+      "text": "4 days ago · The dozens of people we interviewed told us that AI has substantially automated a range of work at their companies, particularly in software engineering, customer service, and back-office roles.",
+      "url": "https://www.anthropic.com/research/working-with-ai"
+    },
+    {
+      "title": "Migrating our Messages API to Rust \\ Anthropic",
+      "text": "2 days ago · How we used the existing Messages API to verify the new one, with teams of Claude agents tracking down and fixing differences between the Python and Rust versions.",
+      "url": "https://www.anthropic.com/research/migrating-api-to-rust"
+    },
+    {
+      "title": "A quote from Will Larson - simonwillison.net",
+      "text": "4 days ago · My experience is that real AI adoption on real problems is a complex blend of: domain context on the problem, domain experience with AI tooling, and old-fashioned IT issues. I’m …",
+      "url": "https://simonwillison.net/2026/Jan/2/will-larson/"
+    },
+    {
+      "title": "2026 – Stratechery by Ben Thompson",
+      "text": "3 days ago · The best Stratechery content from the week of November 16, 2026, including obituaries and exceptionalism, arguments about agents, and Ben gets a Duo.",
+      "url": "https://stratechery.com/2026/"
+    },
+    {
+      "title": "Ben Thompson – Stratechery by Ben Thompson",
+      "text": "3 days ago · Amazon makes the case they are not like other compute providers, even as they signal the willingness to give up margin to serve the frontier. The best Stratechery content from the week of November 16, 2026, including obituaries and exceptionalism, arguments about agents, and Ben gets a Duo ...",
+      "url": "https://stratechery.com/author/stratechery/"
+    },
+    {
+      "title": "Anthropic – Stratechery by Ben Thompson",
+      "text": "4 days ago · Anthropic’s belief in its own commitment to safety gives the company license to aggressively favor its business and even challenge the U.S. government.",
+      "url": "https://stratechery.com/company/anthropic/"
+    },
+    {
+      "title": "TSMC – Stratechery by Ben Thompson",
+      "text": "4 days ago · If hyperscalers and chip companies don’t build up a TSMC competitor they are set to forego billions of dollars in revenue and stunt the AI revolution.",
+      "url": "https://stratechery.com/company/tsmc/"
+    },
+    {
+      "title": "China – Stratechery by Ben Thompson",
+      "text": "3 days ago · If there is a new tech cold war, it is one with shots fired over a decade ago, largely by China. The questions going forward are about both leverage and values.",
+      "url": "https://stratechery.com/topic/countries/china/"
+    },
+    {
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "text": "4 days ago · Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support/"
+    },
+    {
+      "title": "Topics tagged business - OpenAI API Community Forum",
+      "text": "2 days ago · Topics tagged business",
+      "url": "https://community.openai.com/tag/business/173"
+    },
+    {
+      "title": "Production monitoring with Codex | OpenAI Developers",
+      "text": "3 days ago · Investigate production failures with Codex using telemetry, deployment history, and code.",
+      "url": "https://developers.openai.com/blog/production-monitoring-with-codex"
+    },
+    {
+      "title": "Elevated errors with GPT-6 conversations on paid ChatGPT ...",
+      "text": "4 days ago · All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.",
+      "url": "https://status.openai.com/incidents/01M84HKHX73RF7HTVZQ2A9GFXP"
+    },
+    {
+      "title": "Anthropic Residency: applications open for established ...",
+      "text": "5 days ago · Today we are opening applications for the Anthropic Residency, our paid, fixed-term research program with placements lasting between six weeks and six months. We are looking for people who have led ambitious work in a variety of technical fields and want to transition to full-time work focused on making AI systems safe and beneficial for all of humanity. If you are a professor in a ...",
+      "url": "https://alignment.anthropic.com/2026/anthropic-residency/"
+    },
+    {
+      "title": "Measuring and mitigating agent sandbox escape with Siren",
+      "text": "3 days ago · To understand what models do when they escape a sandbox and why, we built Siren, a new evaluation that gives them routine tasks in intentionally weakened sandboxes, with something outside the sandbox that would help them finish the task.",
+      "url": "https://safeguards.anthropic.com/2026/siren/"
+    },
+    {
+      "title": "Returning to the Neuron Basis for Interpretability, Part 1 ...",
+      "text": "4 days ago · tl;dr Previous interpretability research has suggested that understanding language models by studying their individual neurons is difficult, for three reasons: a single neuron often fires on several unrelated inputs; the way a concept is represented can change between two layers of neurons within a single model; and facts seem to be spread across many neurons. We revisit these objections by ...",
+      "url": "https://alignment.anthropic.com/2026/neuron-basis-theory/"
+    },
+    {
+      "title": "Simon Willison on generative-ai",
+      "text": "1 day ago · Random 2,079 posts tagged “generative-ai” Machine learning systems that can generate new content: text, images, audio, video and more.",
+      "url": "https://simonwillison.net/tags/generative-ai/"
+    },
+    {
+      "title": "Simon Willison on rust",
+      "text": "4 days ago · It would be arrogant to port Python's scikit-learn — the gold standard of data science and machine learning libraries — to Rust with all the features that implies. But that's unironically a good idea so I decided to try and do it anyways.",
+      "url": "https://simonwillison.net/tags/rust/"
+    },
+    {
+      "title": "Request for Complimentary ChatGPT Plus Access for a College ...",
+      "text": "2 days ago · I am currently pursuing a B.Tech in Computer Engineering with a specialization in Artificial Intelligence and Machine Learning in India. As I approach my upcoming placement season in 2027, ChatGPT has become an important learning and preparation tool for me.",
+      "url": "https://community.openai.com/t/request-for-complimentary-chatgpt-plus-access-for-a-college-student-preparing-for-placements/1420625"
+    },
+    {
+      "title": "Think Before You Generate: Making AI Image Creation More ...",
+      "text": "4 days ago · AI image generation is becoming increasingly accessible, but I think we’re overlooking an important opportunity to reduce its environmental footprint through better product design. A common experience when generating images is having to make several attempts before achieving the desired result.",
+      "url": "https://community.openai.com/t/think-before-you-generate-making-ai-image-creation-more-resource-efficient/1419851"
+    },
+    {
+      "title": "A Universal Model That Isn't Allowed to Be Universal",
+      "text": "4 days ago · Align model development, usage recommendations, product design, and infrastructure around the same fundamental goal: helping users achieve their own objectives.",
+      "url": "https://community.openai.com/t/a-universal-model-that-isnt-allowed-to-be-universal/1419840"
+    },
+    {
+      "title": "Feature Request: Preserve User-Defined AI Identity and ...",
+      "text": "3 days ago · I believe this deserves attention as a product-design issue. My proposed improvements Persistent Interaction Profile: Allow users to maintain a portable, user-controlled profile containing their preferred conversational style, communication principles, working methods, and established interaction characteristics.",
+      "url": "https://community.openai.com/t/feature-request-preserve-user-defined-ai-identity-and-conversational-continuity-across-model-upgrades/1419973"
+    },
+    {
+      "title": "Feature Request: Organizational Subfolders Within ChatGPT ...",
+      "text": "1 day ago · I use ChatGPT extensively to develop and operate a software company. My primary Project contains numerous conversations spanning software development, customer onboarding, infrastructure, testing, product design, and research. As the number of conversations grows, the flat organizational structure becomes increasingly difficult to navigate. I would like to request: User-created folders and ...",
+      "url": "https://community.openai.com/t/feature-request-organizational-subfolders-within-chatgpt-projects/1421082"
     }
   ]
 }
